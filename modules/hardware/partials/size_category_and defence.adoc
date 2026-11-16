@@ -1,9 +1,9 @@
-.*Defence Rating and Target Size Table*
+.*Defence and Target Size Table*
 [width="75%",cols="2*^",frame="all", stripes="even"]
 |===
 2+<|The bigger the target the easier to hit. 
 s|Size Category
-s|Defence Rating (DEF)
+s|Defence (DEF)
 
 |Minute
 |800
@@ -27,5 +27,5 @@ s|Defence Rating (DEF)
 |300
 
 s|Size Category
-s|Defence Rating
+s|Defence
 |===

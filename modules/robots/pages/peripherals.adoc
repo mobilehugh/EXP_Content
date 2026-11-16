@@ -44,7 +44,7 @@ Offensive peripherals are divided into four tables of increasingly dangerous off
 == Defensive
 Defensive peripherals improve the robot’s ability to avoid getting damaged.
 These peripherals may be combat oriented, or environmentally oriented.
-For example, increasing the Defence Rating may reflect protection from bullets, or dangerous machinery.
+For example, increasing Defence may reflect protection from bullets, or dangerous machinery.
 
 
 

@@ -96,8 +96,8 @@ include::hardware:partial$spacecraft_hull_composition.adoc[]
 === Strength 
 Hull strength determines the hull’s ability to prevent damage to the ship’s interior components.
 It is a mix of composition strength, shape and redundancy.
-The hull strength is also the hull Defence Rating (DEF). 
-The hull cannot be damaged before depleting the hull’s Defence Rating.
+The hull strength is also the hull Defence (DEF).
+The hull cannot be damaged before depleting the hull’s Defence.
 This depletion can happen fast in spacecraft combat.
 
 include::hardware:partial$spacecraft_hull_defence.adoc[]
@@ -309,7 +309,7 @@ The referee can change this duration to what works best for the campaign, i.e., 
 Regardless of the special drive type, the vessel travels through xref:appendices:generic_mythos.adoc#_the_spaces[hyperspace,window=_blank, rel="noopener noreferrer"].
 There is no communication within hyperspace or between hyperspace and physical space.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Fuel
@@ -523,7 +523,7 @@ EXP is about personas and has a persona focus.
 Spacecraft are tools to help tell stories by moving personas and cargo from place to place. 
 
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 The crew of a spacecraft can be composed of aliens, anthros, or robots.
@@ -674,8 +674,8 @@ Before anything can damage or impair life support, it must work its way through 
 
 Before damaging life support, the outer layers of the onion must be disabled or destroyed. 
 The outermost layer of the onion is the ship’s shields. 
-If the ship does not have shields, the outermost layer of the onion is the hull Defence Rating. 
-The hull Defence Rating must fail before the hull can be damaged. 
+If the ship does not have shields, the outermost layer of the onion is the hull Defence.
+The hull Defence must fail before the hull can be damaged.
 The hull must fail before gravity control can be damaged. 
 Gravity control must fail before life support can be damaged.
 
@@ -692,7 +692,7 @@ Destroying the life support system exposes all of the hull’s contents to the d
 
 Life support is entirely self-contained and is impossible to tamper with and hard to destroy.
 The life support system functions entirely unknown for the players until something goes wrong.
-Life support, gravity, Defence Rating, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
+Life support, gravity, Defence, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
 
 === Gravity
 Gravity maintains a safe, comfortable and convenient gravitational force throughout the space vessel.
@@ -704,7 +704,7 @@ The ship’s computer controls gravity at a constant attraction of 1g with local
 
 Gravity is entirely self-contained and is difficult to tamper with and hard to destroy.
 The gravity system functions entirely unknown for the players until something goes wrong.
-Life support, gravity, Defence Rating, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
+Life support, gravity, Defence, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
 
 === Hull
 The hull defines the space vessel.
@@ -717,7 +717,7 @@ Most often, the hull is an oblong spheroid that contains the spacecraft’s cont
 A spacecraft that can enter the atmosphere may have a more streamlined appearance. 
 
 The hull is the structure that maintains the ship’s gravity and life support.
-Life support, gravity, Defence Rating, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
+Life support, gravity, Defence, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
 
 === Armour 
 Armour indicates the strength of the spacecraft’s hull.
@@ -725,15 +725,15 @@ Armour is in addition to the shape and structure that the hull offers.
 The hull and Armour have an intimate relationship.
 The Armour protects the hull and makes its appearance as the hull strength during hull creation.
 
-NOTE: Armour is hull strength is defence rating. 
+NOTE: Armour is hull strength is defence.
 
 The Armour of the hull determines the structural resilience of the hull during combat. 
 Attack rolls must be higher than the hull’s Armour to damage the vessel.
-Damage reduces Defence Rating.
+Damage reduces Defence.
 Once the Armour drops to 420, it no longer protects the hull.
 
 The Armour is a component of the life support system.
-Life support, gravity, Defence Rating, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
+Life support, gravity, Defence, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
 
 === ECM
 Electronic countermeasures (ECM) manipulate the electromagnetic spectrum to defend the ship.
@@ -751,14 +751,14 @@ For example, a mechanic with ECM 2 working with a level 3 computer creates a tot
 Electronic countermeasures are not part of the life support onion.
 
 === Shields
-The shields protect the hull Defence Rating from energy and kinetic attacks.
+The shields protect the hull Defence from energy and kinetic attacks.
 These are the classic Sciency Fiction shields that handsome captains raise just before combat.
 The defensive shield can be a force field or a structural mechanism. 
 Both mechanisms work by distributing the destructive force across the entire hull.
 This faux scientific diffusion effectively dampers the damage.
 The shields have an active mode that the players turn on to thwart intentional damage.
 Shields also have a passive mode, and when present, they are part of the life support onion.
-Life support, gravity, Defence Rating, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
+Life support, gravity, Defence, hull and shield (if present) are all part of the <<_life_support_onion,Life Support Onion>>.
 
 === Guns
 A gun is a defensive tool in spacecraft combat.
@@ -1189,7 +1189,7 @@ include::hardware:partial$spacecraft_value.adoc[]
 
 ==== Example Value Calculation
 The following is an example value using the space bus from above.
-The spacecruiser has 100 tonnes displacement, Defence Rating of 700, exatmo drive 10, fuel level 5, computer level 4, etc.
+The spacecruiser has 100 tonnes displacement, Defence of 700, exatmo drive 10, fuel level 5, computer level 4, etc.
 
 include::hardware:partial$spacecraft_value_example.adoc[]
 

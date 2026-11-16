@@ -11,7 +11,7 @@ Hite and wate are genderless in EXP.
 The player can choose a descriptor to influence their hite and wate.
 The player is also welcome to choose a hite and wate that suits their persona.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Hite

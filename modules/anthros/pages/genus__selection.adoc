@@ -17,7 +17,7 @@ Today limiting the player choice of anthro genus seems miserly.
 However, balance in the Roll-Playing system is based on these kinds of limitations.
 One can find a <<_alternate_selection,compromise>> below.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 The player and referee compare the persona’s list of attributes to the attribute minimums one the Anthro Type Table.

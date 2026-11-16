@@ -1,20 +1,20 @@
-.*Movement Rate and Defence Rating Table*
-[width="75%",cols="2*^",frame="all", stripes="even"]
+.*Movement Rate and Defence Table*
+[width="75%",cols="<,^",frame="all", stripes="even"]
 |===
-2+<|Delta speed. The difference in movement rate between the persona and the inanimate target. 
+2+<|Delta speed. Attack roll penalty.
 
-s|attack roll Penalty 
 s|Speed Difference
+s|Penalty
 
-|-10
 |per hex per unit
+|-10
 
-|-100
 |per ten hexes per unit
+|-100
 
-|-3
 | per kilometer per hour
+|-3
 
-s|attack roll Penalty 
 s|Speed Difference
+s|Penalty
 |===

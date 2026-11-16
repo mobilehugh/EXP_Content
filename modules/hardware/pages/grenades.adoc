@@ -423,9 +423,9 @@ Value:: 1000
 Mini grenades are so small and light that they don’t throw very far.
 The player must win an attack roll to damage a target using a mini grenade.
 A miss with a mini grenade explodes loudly and harmlessly.
-The target’s size determines its Defence Rating, and bigger targets are easier to hit.
-The target does not use its regular combat Defence Rating and must use the target size DEF.
-The target’s Defence Rating should decrease, which follows the spirit of grenades being Zone Attacks.
+The target’s size determines its Defence, and bigger targets are easier to hit.
+The target does not use its regular combat Defence and must use the target size DEF.
+The target’s Defence should decrease, which follows the spirit of grenades being Zone Attacks.
 
 include::hardware:partial$size_category_and defence.adoc[]
 

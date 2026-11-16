@@ -98,7 +98,7 @@ s|Difficulty
 * *Falling*: Do any lesser difficult task while falling.
 * *Flanking*: Achieve flanking bonuses.
 * *Proficiency*: Use a personal weapon as skilled.
-* *Running Cover*: Run and maintain full Defence rating.
+* *Running Cover*: Run and maintain full Defence.
 * *Safe Shot, Aerosol*: Maneuver an aerosol to avoid one target.
 * *Safe Shot, Grenade*: Fling a grenade to avoid one target.
 * *Salute*: Gesticulate deference to superior.

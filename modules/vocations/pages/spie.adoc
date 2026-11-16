@@ -145,9 +145,9 @@ The player does not use the Force bonus when using martial arts.
 
 [discrete]
 === Defence Bonus::
-A spie’s Defence Rating (DEF) increases through dodges, parries, blocks, and rolls.
+A spie’s Defence (DEF) increases through dodges, parries, blocks, and rolls.
 This martial arts DEF is for an *unarmoured* dress such as a tuxedo or bathing suit.
-This Defence Rating bonus does not improve the defence of worn armour.
+This Defence bonus does not improve worn armour’s Defence.
 
 
 == Experience

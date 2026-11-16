@@ -18,7 +18,7 @@
 :toy_exps: 300
 :toy_value: 2000000
 :tech_level: 10
-:toy_info: temp phenomic - Dermatofortia; 2d100 hours; black thatched skin +80 Defence rating.
+:toy_info: temp phenomic - Dermatofortia; 2d100 hours; black thatched skin +80 Defence.
 :hardware_xref: pharma.adoc#_transgenic
 :toy_xref: toy_pharma_.adoc#_transgenic_skin
 

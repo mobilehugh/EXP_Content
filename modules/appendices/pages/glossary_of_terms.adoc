@@ -44,12 +44,12 @@ Typically a grenade or an aerosol.
 Zone Attacks fall under Fling or Shoot Attack Types.
 
 Armour Rating::
-Legacy term replaced by Defence Rating.
+Legacy term replaced by Defence.
 
 Attack roll::
 The dice roll that is used to see if a target was successfully attacked.
 The higher the to hit roll the better.
-Usually the to attack roll generated must be higher than an Defence Rating to indicate success.
+Usually the to attack roll generated must be higher than a Defence to indicate success.
 A successful attack roll indicates the target has been has been hit.
 A win on the attack roll does not always indicate damage will be inflicted on the target
 
@@ -116,9 +116,9 @@ Damage Bonus (DB)::
 This value is added to the damage roll for certain weapon types.
 The stronger the persona is, the more damage she will inflict.
 
-Defence Rating (DEF)::
+Defence (DEF)::
 The amour rating of the persona indicates how well she is protected from damage in combat.
-The higher the Defence Rating value the less likely she is to be damaged.
+The higher the Defence value the less likely she is to be damaged.
 
 Decidie::
 See Percentile Dice.

@@ -1,7 +1,7 @@
-.*Hull Defence Rating Table*
+.*Hull Defence Table*
 [width="75%",cols="^1,^2",frame="all", stripes="even"]
 |===
-2+<|Hull strength = Defence Rating (DEF)
+2+<|Hull strength = Defence (DEF)
 
 s|Roll 1d100
 s|Hull DEF

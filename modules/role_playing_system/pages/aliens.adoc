@@ -193,7 +193,7 @@ The crab can move on land and in water, and the moth can move in the air.
 * w - water borne alien has swimming ability
 * s - sessile, non-moving but indigenous
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Evolutations

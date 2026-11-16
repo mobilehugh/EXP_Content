@@ -1,11 +1,11 @@
-.*Target Toughness and Defence Rating Table*
-[width="75%",cols="^1,^2,^2",frame="all", stripes="even"]
+.*Target Toughness and Defence Table*
+[width="75%",cols="^1,<2,<2",frame="all", stripes="even"]
 |===
-3+<|Because player personas often want to shoot inanimate objects here is a table to quickly determine how difficult it would be to damage.
+3+<|Tougher? Harder to damage.
 
 s|Roll 1d6
 s|Toughness
-s|Defence Rating Adjustment
+s|Defence
 
 |1
 |Very Weak
@@ -29,5 +29,5 @@ s|Defence Rating Adjustment
 
 s|Roll 1d6
 s|Toughness
-s|Defence Rating Adjustment
+s|Defence
 |===

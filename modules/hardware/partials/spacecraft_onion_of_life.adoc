@@ -13,7 +13,7 @@ s|Destroyed
 |<10% function
 
 |2
-|Defence Rating
+|Defence
 |<420
 
 |3

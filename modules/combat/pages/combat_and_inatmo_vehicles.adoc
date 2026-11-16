@@ -73,7 +73,7 @@ The main challenge for the attacker is that their target is moving at high speed
 The persona launching the attack is relatively motionless, and only the movement rate of the vehicle applies.
 The speed of the vehicle makes a successful attack roll more difficult.
 The greater the speed differential, the harder it is to hit the target.
-The speed of the vehicle adjusts its Defence Rating. 
+The speed of the vehicle adjusts its Defence.
 
 [discrete]
 === Speed Attack Penalty
@@ -88,7 +88,7 @@ The main challenge for the attacker is that they are moving at high speed.
 The target is relatively motionless, and only the movement rate of the vehicle applies.
 The speed of the vehicle makes a successful attack roll more difficult.
 The greater the speed differential, the harder it is to hit the target.
-The speed of the vehicle improves the Defence Rating of the stationary target. 
+The speed of the vehicle improves the stationary target’s Defence.
 
 [discrete]
 === Speeder Attack Penalty
@@ -128,17 +128,18 @@ Bee’s attack penalty is worse at -450.
 
 It is much harder for attackers from the higher speed vehicle (-450) to attack the slower speed vehicle (-150).
 
-== Defence Rating
-*Vehicle Defence Rating is 500*
+[[_defence_rating]]
+== Defence
+*Vehicle Defence is 500*
 
 Vehicles do not have armour unless otherwise specified.
 Most vehicles are easy to hit, but hard to damage.
-The defence rating represents the attack roll needed to damage a target.
+Defence represents the attack roll needed to damage a target.
 That roll is difference from actually hitting a target. 
 
-The Defence Rating of a target inside a vehicle is different yet again.
-A target inside a vehicle has it’s own defence rating.
-This defence rating is likely improved by partial cover and concealment from their ride. 
+A target inside a vehicle has a different Defence yet again.
+A target inside a vehicle has it’s own defence.
+This defence is likely improved by partial cover and concealment from their ride.
 
 === Flanking
 We do not bother with flanking in vehicle combat. 
@@ -224,7 +225,7 @@ This would allow the player to make an attack roll on a random passenger in the 
 However with the right weapon (grenade or aerosol) every target in the crew space may be damaged.
 
 To directly target a specific passenger in a moving vehicle during combat is incredibly difficult.
-The player would first have to score a hit on the Cargo Crew area and then target that persona’s defence rating applying xref:combat:attack_adjustments.adoc#_cover[cover penalties].
+The player would first have to score a hit on the Cargo Crew area and then target that persona’s defence applying xref:combat:attack_adjustments.adoc#_cover[cover penalties].
 Only an attacker with Combat driving, weapon skills, high level and special scope support will find this possible. 
 
 :art: lady_lazer.png
@@ -240,7 +241,7 @@ include::ROOT:partial$articulate.adoc[]
 Driving skill is not combat driving skill.
 Driving skill and handling class will keep the vehicle from crashing during combat. 
 Driving skill may allow the expedition to make zany maneuvers without crashing their vehicle.
-Mundane driving skill does not improve attack rolls or defence ratings.
+Mundane driving skill does not improve attack rolls or defence values.
 
 Combat driving skill can be used to improve a player’s attack roll, or protect a vehicle from attack.
 The driver can transfer her combat driving skill to any other persona doing combat in the vehicle.
@@ -275,7 +276,7 @@ For example, a lazer or energy weapon is much less affected by air turbulence th
 Zone Attack weapons are grenades and aerosols.
 Zone Attacks must score a hit on the vehicle to inflict damage.
 Typically Zone Attack weapons need only target a specific hex.
-In vehicle combat the Zone Attack Roll must beat the vehicle’s Defence Rating.
+In vehicle combat the Zone Attack Roll must beat the vehicle’s Defence.
 
 === Vehicle Weapons
 These are bespoke combat accessories baked into the inatmo vehicle.

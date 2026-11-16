@@ -29,7 +29,7 @@ Kind of like lethal snow flakes.
 == Core Suit
 
 [horizontal]
-Defence Rating:: 750
+Defence:: 750
 Restrictiveness:: 15
 Wate:: 300% (210kg)
 EXPS:: 1000
@@ -102,7 +102,7 @@ Wearer CHA =  1d4 + 12 = 12 + 2 = 14
 
 Armour Hardened::
 Hardening is simply an improvement of the toughness of the suit’s alloy-ceramic hull.
-Each armour hardening increases the suit’s Defence Rating by 1d100.
+Each armour hardening increases the suit’s Defence by 1d100.
 Armour hardenings are cumulative.
 
 Hover::

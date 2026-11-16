@@ -19,7 +19,7 @@ For example, an alien with a wate of 10kg and a tiger torso would have a proport
 
 include::ROOT:partial$articulate.adoc[]
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 The alien is *not* a 542 kg pink amoeba.

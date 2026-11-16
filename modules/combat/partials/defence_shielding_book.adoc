@@ -1,0 +1,29 @@
+See xref:hardware:mundane_equipment.adoc#_shielding[Shielding] for more details.
+
+.*Mundane Shielding*
+[width="100%",cols="<,^",frame="all", stripes="even"]
+|===
+2+<|All the shielding that money can buy.
+
+s|Type
+s|DEF Bonus
+
+|Chain
+|+25
+
+|Net, cloak
+|+25
+
+|Shield, Small
+|+35
+
+|Shield, Med.
+|+45
+
+|Shield, Large
+|+50
+
+s|Type
+s|DEF Bonus
+
+|===

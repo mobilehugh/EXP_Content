@@ -45,10 +45,10 @@ Self-explanatory.
 Wate::
 Self-explanatory.
 
-Defence Rating Bonus::
+Defence Bonus::
 If the persona has proficiency with the weapon, she can add a DEF bonus.
-The Defence Rating bonus only applies when the persona is using the weapon in combat.
-The player multiplies the DEF Bonus by the persona’s Dexterity score and adds it to her Defence Rating.
+The Defence bonus only applies when the persona is using the weapon in combat.
+The player multiplies the DEF Bonus by the persona’s Dexterity score and adds it to her Defence.
 
 Damage::
 Damage indicates how many hit points the weapon removes from the target’s hit points.

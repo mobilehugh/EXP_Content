@@ -14,7 +14,7 @@ Besides the ceaseless battering of personas, inorganic equipment is also subject
 In EXP, nothing is indestructible, everything wears out, and what can go wrong will.
 Equipment damage is reserved for unique circumstances and is not part of regular gameplay.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 Equipment does not have hit points like personas.
@@ -59,7 +59,7 @@ Nothing happens to the equipment if the damage amount is less than it’s HPS.
 At zero HPS, the toy does not go unconscious or die, but it suffers damage.
 Obviously delicate artifacts can be instantly destroyed.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 The extent of damage roll shows what percentage of previous function the toy presently has.

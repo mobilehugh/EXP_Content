@@ -3,7 +3,7 @@
 There are many different robot series to choose from. 
 From a heavy offensive combot capable of annihilating entire cities to a delicate hobbyist robot.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 .List of Robot Series (Types)

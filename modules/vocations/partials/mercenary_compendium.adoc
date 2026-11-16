@@ -71,7 +71,7 @@ s|Description
 
 |Running Cover
 |64
-|Run, and maintain, full Defence rating.
+|Run, and maintain, full Defence.
 
 3+s|Hard
 

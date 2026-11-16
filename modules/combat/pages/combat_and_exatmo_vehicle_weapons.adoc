@@ -188,9 +188,9 @@ Once the spacecraft is inatmo, the players can use the artillery as usual.
 
 === Attack Roll
 Artillery requires a successful attack roll to inflict damage.
-The player must win an attack roll against the target spaceship’s Defence Rating.
-The attacker must make a kilodie roll higher than her target’s Defence Rating.
-The target ship’s Defence Rating, including hull strength and ECM, may prove impenetrable to many artillery attacks.
+The player must win an attack roll against the target spaceship’s Defence.
+The attacker must make a kilodie roll higher than her target’s Defence.
+The target ship’s Defence, including hull strength and ECM, may prove impenetrable to many artillery attacks.
 
 The attacking ship’s computer level adjusts the artillery’s attack roll.
 A gunnery program will fire the artillery automatically, with a bonus of +50 per level of ship’s computer.
@@ -259,7 +259,7 @@ The main difference is that these grenades travel by mini-missile or mini-mines,
 Inatmo personas throw grenades and only need to get close to damage a target.
 
 The grenade is a spacecraft vs a spacecraft weapon.
-A successful attack roll must be made against the spacecraft’s Defence Rating to inflict damage.
+A successful attack roll must be made against the spacecraft’s Defence to inflict damage.
 If the attack roll is unsuccessful, the grenade detonates ineffectively and silently in space.
 
 Grenade delivery systems have diminutive titles because they only deliver grenades. 
@@ -465,11 +465,11 @@ The hull is the containment and physical defence system of the ship.
 The hull also defends against both hostile environments and attacks.
 The star cruiser’s hull is the last line of defence.
 
-The hull supplies the spacecraft’s Defence Rating used in combat.
-The hull and Defence Rating have an intimate relationship.
-In combat, the hull absorbs damage decreasing Defence Rating.
+The hull supplies the spacecraft’s Defence used in combat.
+The hull and Defence have an intimate relationship.
+In combat, the hull absorbs damage decreasing Defence.
 
-NOTE: *The Hull Defence Rating (DEF) protects the Hull. Once the Hull DEF is is less than 420, the Hull takes direct damage rolls.*
+NOTE: *The Hull Defence (DEF) protects the Hull. Once the Hull DEF is is less than 420, the Hull takes direct damage rolls.*
 
 Defensive ECM can increase the spacecraft’s DEF against attack rolls.
 The increase in DEF is a transient electronic deception and does not alter the Hull DEF.
@@ -491,7 +491,7 @@ For more info about attack ECM jump to <<_attack_ecm,Attack ECM>>
 === DEF Boost
 Most often, defensive ECM will be used to make the ship harder to attack.
 ECM creates false images of velocity, trajectory, rotation, size, etc.
-All of this electronic tom-foolery results in a +200 bonus to the ship’s Defence Rating per computer level.
+All of this electronic tom-foolery results in a +200 bonus to the ship’s Defence per computer level.
 
 === Break Control
 Defensive ECM is essential when the ship is under attack from control ECM.
@@ -523,7 +523,7 @@ target = 100 - success = 100 - 45 = 55  Player must roll 55 or higher to break c
 
 === Damaged ECM
 Damaged ECM drops its effectiveness by the percentage indicated on the Extent of Damage table.
-For example, ECM at 50% efficiency can only offer +100 per computer level to the ship’s Defence Rating.
+For example, ECM at 50% efficiency can only offer +100 per computer level to the ship’s Defence.
 
 == Shields
 The shields protect the hull DEF and hull from energy and kinetic attacks.

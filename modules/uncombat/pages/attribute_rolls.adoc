@@ -42,7 +42,7 @@ include::uncombat:partial$task_difficulty.adoc[]
 == Attribute Rolls
 Attribute rolls are quick dice rolls to determine success in non-vocational maneuvers.
 Attribute rolls do not replace attack rolls, task rolls or driving rolls.
-Attack rolls are unique to the tactical combat rules and represent a complex balance of combat skills and Defence Rating.
+Attack rolls are unique to the tactical combat rules and represent a complex balance of combat skills and Defence.
 Task Rolls are for the skills carried out by vocations and combine knowledge and training.
 Driving Rolls involves both the vehicle handling class and Dexterity rolls.
 

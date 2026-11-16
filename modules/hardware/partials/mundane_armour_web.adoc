@@ -1,0 +1,191 @@
+// Table 24.2 Mundane Body Armour
+.*Mundane Body Armour Data*
+[width="75%",cols="<,4*^",frame="all", stripes="even"]
+|===
+5+<|Mundane body armour list.
+
+s|Type
+s|DEF Bonus
+s|Restrictiveness
+s|Wate (kgs)
+s|Cost (eps)
+
+|None
+|0
+|0
+|0
+|0
+
+|Furs/Skins
+|+50
+|3
+|2.7
+|3
+
+|Leather
+|+50
+|1
+|3.0
+|5
+
+|Padded
+|+50
+|2
+|2.0
+|4
+
+|Studded
+|+75
+|3
+|3.8
+|15
+
+|Ring
+|+75
+|4
+|5.0
+|30
+
+|Scale
+|+100
+|4
+|8.0
+|60
+
+|Cured Hide
+|+100
+|2
+|2.5
+|90
+
+|Plant Fibre
+|+100
+|1
+|2.2
+|170
+
+|Chain
+|+125
+|4
+|5.9
+|80
+
+|Splint
+|+150
+|5
+|8.0
+|75
+
+|Banded
+|+150
+|3
+|7.0
+|160
+
+|Synthetix
+|+175
+|1
+|1.1
+|600
+
+|Plate
+|+175
+|4
+|9.0
+|375
+
+|Plate Armour
+|+200
+|5
+|10.0
+|450
+
+s|Type
+s|DEF Bonus
+s|Restrictiveness
+s|Wate (kg)
+s|Cost (eps)
+|===
+
+.*Armour Details*
+Defence Bonus::
+The whole purpose of armour is to decrease one’s chance of being damaged in combat.
+The player adds the Defence bonus to her persona’s naked Defence.
+While it seems overly apparent, the persona must be wearing the armour to get the Defence bonus.
+
+Restrictiveness::
+The more restrictive the armour the less the of the persona’s natural Defence can be used.
+The DEF Bonus gives and restrictiveness taketh away.
+
+Wate::
+The armour wate indicates the wate of the suit of armour in kilograms.
+The wate of armour is excluded from the persona’s wate allowance when she is wearing it.
+If the persona is carrying her armour, the armour wate increases the wate she is carrying.
+
+A suit of leather armour would have a wate of 3 kilograms.
+A persona carrying her leather armour increases her wate allowance by 3 kg and does not get a Defence bonus.
+A persona wearing her leather armour gets a Defence bonus of +50, and there is no impact on her wate allowance.
+
+Cost::
+Self explanatory.
+
+.*Amour Descriptions*
+None::
+No armour, civilian dress or daily attire.
+This armour type has no movement or restrictiveness penalties and grants the maximum Dexterity bonus to the persona’s Defence.
+
+Furs/skins::
+Classic Neanderthal wear.
+They are composed of layers of uncured and unpreserved animal hides.
+This armour type is very inexpensive but loses its composition as it rots.
+
+Leather::
+Leather is the preserved hide of some unlucky, thick-skinned animal.
+Leather armour is light and non-restrictive.
+
+Padded::
+Padded armour has two layers of leather sandwiching some form of stuffing.
+The stuffing is often flammable, and the suit is held together with stitching.
+
+Studded::
+Studded armour has two layers of leather sandwiching some form of stuffing.
+The stuffing is often flammable, and the suit is held together with metal studs.
+
+Ring::
+Ring armour has a padded armour base, with large rings covering its exterior.
+Ring mail is NOT chain mail.
+
+Scale::
+Scalemail has a padded armour base with metal strips (or scales) hung loosely on the outer layer of leather.
+
+Cured hide::
+A thick animal hide hardened by curing.
+This armour has low restrictiveness.
+
+Plant Fibre::
+Plant fibre functions like vegan cured hide and is woven from preserved cellulose.
+This armour is light and not very restrictive.
+
+Chain::
+A suit composed of many small interlocked rings.
+Chain mail is different from ring mail, which is composed of much larger loosely fitted metal rings.
+
+Splint::
+Strips of concrete or hardwood affixed to a padded armour base.
+Splint mail can be restrictive.
+
+Banded::
+Overlapping metal strips fastened to cured hide.
+
+Synthetix::
+Any synthetic (Kevlar, fiberglass, plastix) composition arranged in sheet form.
+This armour type has a high Defence bonus and is both light and non-restrictive.
+Synthetix was previously called plastix and now has a new name to decrease confusion with the artifact armour called plastix.
+
+Plate::
+The plate is a solitary metal breastplate covering a suit of padded armour.
+Very, very cumbersome.
+
+Plate Armour::
+Plate armour covers the persona’s torso and limbs with pieces of interconnected metal.
+This armour type is exceptionally cumbersome and highly restrictive.

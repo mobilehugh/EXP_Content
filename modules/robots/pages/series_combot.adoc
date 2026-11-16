@@ -276,7 +276,7 @@ Even this combot’s smaller arms tend to be higher powered.
 The heavy combot has heavy weapons like bombs, artillery and missiles.
 
 Heavy offensive combots are hardened for combat and do not avoid risk.
-The Defence Rating for a heavy combot starts at 775.
+Defence for a heavy combot starts at 775.
 
 :art: combot_heavy_offensive.png
 :width: 250px

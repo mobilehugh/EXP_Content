@@ -33,7 +33,7 @@ s|Attributes
 s|Vocation
 s|Attributes
 
-2+<a|TIP: Rules are for game balance and assist creativity. +
+2+<a|TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 |===

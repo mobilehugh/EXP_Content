@@ -6,7 +6,7 @@ Damage Report!
 == Spacecraft Damage
 When an attack is successful, the ship suffers damage.
 There are many roads to a successful attack.
-The player can win an attack roll by beating the target’s Defence Rating.
+The player can win an attack roll by beating the target’s Defence.
 The player can win a percentage roll by beating the target roll.
 
 Spacecraft do not have hit points.
@@ -73,7 +73,7 @@ When using this damage adjuster, space weapons become way more destructive.
 The players may prefer to adjust the Force Bonus to one percent per 5 hit points of damage.
 Your space milage may vary.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Cumulative Destruction
@@ -114,21 +114,21 @@ Hull, life support and gravity are intimately integrated.
 
 === Hull as Armour
 The hull cannot take damage until the ship’s Armour (Hull DEF) has been disabled.
-The defence ratings of hulls are very high.
-The average Defence Rating of a spacecraft’s hull is 1100.
+The defence values of hulls are very high.
+The average Defence of a spacecraft’s hull is 1100.
 
-The Defence Rating of the hull decreases as it takes damage.
-If a mini-mine explodes against the hull and delivers 75 HPS of damage, the hull Defence Rating decreases by 75.
-The hull Defence Rating can absorb massive amounts of damage, protecting the systems below. 
+The hull’s Defence decreases as it takes damage.
+If a mini-mine explodes against the hull and delivers 75 HPS of damage, the hull Defence decreases by 75.
+The hull Defence can absorb massive amounts of damage, protecting the systems below.
 
-Reducing the Defence Rating to 420 disables the Defence Rating of the hull.
-Disabling the Defence Rating allows damage to pass directly to the hull or the contents below it.
+Reducing Defence to 420 disables the hull’s Defence.
+Disabling Defence allows damage to pass directly to the hull or the contents below it.
 The Hull DEF cannot drop below 420.
 
 include::combat:partial$life_support_onion.adoc[]
 
 === Hull Compromise
-Hull only becomes a damage location once the Hull Defence Rating is exhausted.
+Hull only becomes a damage location once the Hull Defence is exhausted.
 The hull begins to fail like any other system on the spacecraft.
 The hull is disabled once the level of function drops below 10%.
 The hull is destroyed once the level of function drops below 1%.
@@ -147,7 +147,7 @@ The ship can partition off a damaged location using its automated bulkheads.
 Naval architecture does not recommend open-concept spacecraft.
 The personas can repair a disabled hull during combat.
 Life support and gravity systems will replenish repaired hull locations.
-Repairing a hull section does not restore its Defence Rating.
+Repairing a hull section does not restore its Defence.
 The personas cannot repair a destroyed hull during combat.
 
 == Drives Damage
@@ -279,8 +279,8 @@ The defences decrease in effectiveness the same as any other damaged system.
 === Life Support Onion
 Before damaging life support, the outer layers of the onion must be disabled or destroyed.
 The outermost layer of the onion is the ship’s shields.
-If the ship does not have shields, the outermost layer of the onion is the hull Defence Rating.
-The hull Defence Rating must fail before the hull can be damaged.
+If the ship does not have shields, the outermost layer of the onion is the hull Defence.
+The hull Defence must fail before the hull can be damaged.
 The hull must fail before gravity control can be damaged.
 Gravity control must fail before life support can be damaged.
 
@@ -305,29 +305,30 @@ Ineffective gravity control can lead to inconvenient ZOG, space sickness, and di
 If gravity control drops to less than 30%, the ship cannot safely make combat maneuvers.
 Losing gravity is a victory condition.
 
-=== Hull Defence Rating
-The hull Defence Rating represents the hardening of the space ship’s hull to prevent combat damage.
-Hull Defence Rating is part of the life support onion, and unless the spacecraft has shields, hull armour is the outermost layer.
+[[_hull_defence_rating]]
+=== Hull Defence
+The hull Defence represents the hardening of the space ship’s hull to prevent combat damage.
+Hull Defence is part of the life support onion, and unless the spacecraft has shields, hull armour is the outermost layer.
 Until the shields are disabled, the damage location of hull armour moves to the ship’s shields.
 
-NOTE: *Hull DEF, Armour, and Defence Rating are interchangeable and separate from Hull.*
+NOTE: *Hull DEF, Armour, and Defence are interchangeable and separate from Hull.*
 
-Defence Rating is an amalgam of many factors. 
+Defence is an amalgam of many factors.
 Structurally it includes hull strength, combat hardening, and combat alterations.
 Tactically is includes the ship’s computer, ECM and drives.
 
 ==== Calculating Armour Damage
-Sadly there are two ways to calculate the extent of damage to the Defence Rating.
+Sadly there are two ways to calculate the extent of damage to Defence.
 The first simply uses the standard extent of damage drop in effectiveness.
-An 800 Defence Rating that takes major damage (40% damage) drops to 480.
-The lowest a spacecraft’s Defence Rating can get is 420.
-Once the Defence Rating is 420, the hull is vulnerable to attack.
+An 800 Defence that takes major damage (40% damage) drops to 480.
+The lowest a spacecraft’s Defence can get is 420.
+Once Defence is 420, the hull is vulnerable to attack.
 
-The second is more complicated but allows Defence Rating to last a bit longer.
-The drop in efficiency only affects the portion of the Defence Rating that is above 400.
-An 800 Defence Rating would only drop the efficiency of the top 400 points of Defence Rating.
-So a vessel with a Defence Rating of 800 taking major damage would have a new DEF of 640.
-Once the Defence Rating is 420, the hull is vulnerable to attack.
+The second is more complicated but allows Defence to last a bit longer.
+The drop in efficiency only affects the portion of Defence that is above 400.
+An 800 Defence would only drop the efficiency of the top 400 points of Defence.
+So a vessel with a Defence of 800 taking major damage would have a new DEF of 640.
+Once Defence is 420, the hull is vulnerable to attack.
 
 === Defensive ECM
 Defensive ECM becomes reduced by the percentage indicated by the extent of damage.

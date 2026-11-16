@@ -6,7 +6,7 @@ Bonuses and penalties in EXP reflect anthro attributes based on this on the thre
 Small increases in average attribute scores can lead to powerful personas.
 The referee and players should choose the approach that works best for them.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Drop the lowest

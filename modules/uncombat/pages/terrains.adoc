@@ -20,7 +20,7 @@ include::ROOT:partial$articulate.adoc[]
 As always in EXP these are tools to help the table have common ground for uncommon terrain.
 The data here (especially decompression and low gravity) are heavily researched from NASA manuals. 
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 .*Quick Jumps*
@@ -154,7 +154,7 @@ In addition to substantial attack roll penalties, the ranges of these weapons a 
 A weapon range of 100h and -10 decay in 2G would have a range of 50h and decay of -20.
 ****
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 For example, a crossbow has a range of 25 hexes with a penalty of -125 per hex beyond 25 hexes.

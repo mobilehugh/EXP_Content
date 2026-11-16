@@ -303,7 +303,7 @@ Mike Howie +
 ** Type G -> Area
 *** Grenade (Fling no Force Bonus)
 *** Aerosol (Shoot)
-* Armour Rating -> Defence Rating
+* Armour Rating -> Defence
 ** AR -> DEF
 * Hit Points rationalized
 ** HPT -> HPS

@@ -69,7 +69,7 @@ However, the solo dev gotta be realistic.
 
 .*Bucket Oh Stuff*
 * avoid double diminishing goals, as in EXPS
-* defence rating as a target or an adjustment
+* defence as a target or an adjustment
 * the desired story of the ref and players wins
 * less random
 * EXPS for role-playing
@@ -111,7 +111,7 @@ Each iteration used randomly generated attributes.
 The term creator replaced AI for the tool user score of 4.
 Creators are rare indeed.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 :art: alien_society_data_10K.png
@@ -829,7 +829,7 @@ A suite of sweet sayings.
 * technomagical
 * macro, micro, nano, molecular, ethereal bonds
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 * Find the least number of rules necessary and use one less

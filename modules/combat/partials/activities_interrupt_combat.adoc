@@ -1,10 +1,10 @@
-.*Activities that Interrupt Combat Table*
-[width="55%",cols="<,^",frame="all", stripes="even"]
+.*Activity In Combat Table*
+[width="75%",cols="<,<",frame="all", stripes="even"]
 |===
-2+<|Activities require full attention and preclude combat. 
+2+<|Activities stop movement and take time.
 
 s|Activity
-s|Duration (Units)
+s|Duration
 
 |Apply a derm
 |0-2 (1d2 - 1)
@@ -19,7 +19,7 @@ s|Duration (Units)
 |1-4 (d4)
 
 |Armour, apply
-|90 per level restrict.
+|90 per Restrictiveness
 
 |Armour, remove
 |3-30 (3d10)
@@ -29,6 +29,12 @@ s|Duration (Units)
 
 |Change channel
 |1
+
+|Change mind
+|1d10
+
+|Change weapon
+|2
 
 |Count money
 |1 per 10 eps
@@ -41,6 +47,9 @@ s|Duration (Units)
 
 |Key in number
 |2 units
+
+|Push __right__ button
+|1 unit
 
 |Search a drawer
 |10-60 (1d6 times 10)
@@ -55,5 +64,7 @@ s|Duration (Units)
 |0-3 (1d4 - 1)
 
 s|Activity
-s|Duration (Units)
+s|Duration
+
+2+<|Durations are in units.
 |===

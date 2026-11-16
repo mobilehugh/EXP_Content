@@ -156,7 +156,7 @@ The Nameless Nomad is Skilled with the harpoon.
 The player will add the Fling Skilled Bonus (Skilled) to her Attack Roll.
 The kilodie yields a 600.
 THe persona’s Fling Skilled Bonus is +175, and her final Attack Roll is 775.
-If 775 is higher than the target’s Defence Rating (DEF), the player will get to roll damage (harm the target).
+If 775 is higher than the target’s Defence (DEF), the player will get to roll damage (harm the target).
 
 Older versions of EXP used “Proficiency” in the context of weapon skills. It is much easier to spell the word skill.
 
@@ -191,7 +191,7 @@ The Nameless Nomad has skill picking ice but has not ice pick combat skill.
 The player can only add the persona’s Raw Bonus (Raw) to her attack roll.
 The player rolls 500 on the kilodie for her Attack Roll.
 The Strike Raw Bonus (Raw) is +35, and the Attack Roll is 535.
-If 535 is higher than the target’s Defence Rating (DEF), the player will get to roll damage (harm the target).
+If 535 is higher than the target’s Defence (DEF), the player will get to roll damage (harm the target).
 
 === Max Roll
 The Max Roll (MAX) is the highest Attack Roll the player can generate for her persona.
@@ -200,7 +200,7 @@ The player’s attack roll cannot be greater than the Max Roll of the Attack Typ
 The Max Roll increases with experience and skill.
 If the Attack Roll exceeds the Max Roll the player uses the Max Roll value.
 The Max Roll differentiates the neophyte from the skilled combatant.
-When a persona’s Max Roll is less than her target’s Defence Rating (DEF) she can run, use Zone Attacks or hope for a Critical Roll.
+When a persona’s Max Roll is less than her target’s Defence (DEF) she can run, use Zone Attacks or hope for a Critical Roll.
 For more information about lucky shots jump to xref:uncombat:critical_checks.adoc[Critical Checks,window=_blank, rel="noopener noreferrer"].
 
 NOTE:*Minimum Roll is 001*
@@ -218,9 +218,9 @@ This outcome is determined by the persona’s Strike Max Roll on her Attack Tabl
 The player rolls 907 on the kilodie, and adds 35, the Strike Raw Bonus.
 Sadly her Attack Roll is not 942.
 Her Strike Max Roll is 790, and her final Attack Roll becomes 790.
-The target’s Defence Rating is 842, so the Attack Roll is a fail and the persona misses with her attack.
+The target’s Defence is 842, so the Attack Roll is a fail and the persona misses with her attack.
 The referee made a good narrative choice describing the utter failure of the ice pick.
-Instead of stating your Max Roll is less than your target’s Defence Rating of 842, she chose the narrative route.
+Instead of stating your Max Roll is less than your target’s Defence of 842, she chose the narrative route.
 
 TIP: Max Roll can cut down on the amount of maths needed to play. If the player’s kilodie roll is greater than her Max Roll no maths are needed. Efficient players also keep track of their Max Roll less their Raw Bonus. This allows them to identify a no maths roll even faster.
 
@@ -260,12 +260,12 @@ Shoot Attacks are self-powered and have no Force Bonus at all.
 ** 1d10 + 0 (Force) = 1-10 HPS damage
 
 == Defence
-Defence Rating (DEF) represents how difficult it is to damage the target.
-Personas wrap all their defences up into one number called Defence Rating (DEF).
-The Defence Rating is a quantitative value that represents how difficult it is to damage the target.
-The higher the Defence Rating, the better the protected the target is.
-Dexterity, armour, hide, body structure, experience, and luck are rolled into the Defence Rating (DEF).
-For more details about Defence Rating jump to xref:combat:defence_rating.adoc[Defence Rating,window=_blank, rel="noopener noreferrer"].
+Defence (DEF) represents how difficult it is to damage the target.
+Personas wrap all their defences up into one number called Defence (DEF).
+Defence is a quantitative value that represents how difficult it is to damage the target.
+The higher the Defence, the better protected the target is.
+Dexterity, armour, hide, body structure, experience, and luck are rolled into Defence (DEF).
+For more details about Defence jump to xref:combat:defence_rating.adoc[Defence,window=_blank, rel="noopener noreferrer"].
 
 == Combat Time
 Each turn of combat time in the tactical combat rules is called a unit.
@@ -311,7 +311,7 @@ Virtual tabletops (VTTs) are nearly commonplace.
 VTTs allow the players to share the mat and the minis on a computer screen.
 VTTs can have everyone in the same room or in different countries.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Initiative

@@ -132,7 +132,7 @@
 
 :defence_2: Combat Hardened
 :defence_2_xref: peripherals_defensive.adoc#_increase_ar
-:defence_2_desc: already in Defence Rating
+:defence_2_desc: already in Defence
 
 :defence_3: 
 :defence_3_xref: 

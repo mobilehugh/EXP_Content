@@ -5,8 +5,9 @@ Combat adjustments are added or subtracted from the player’s kilodie attack ro
 These adjustments are most often penalties that impair ranged attacks by obscuring targets.  
 Obfuscating impediments include weather, cover, concealment, range, and firing blind.
 
-== Defence Rating
-Attack roll adjustments do not change the target’s Defence Rating.
+[[_defence_rating]]
+== Defence
+Attack roll adjustments do not change the target’s Defence.
 For example, a target may have 90% cover from one direction and no cover from another direction.
 
 == Attack Tables
@@ -20,7 +21,7 @@ So a bonus can allow a persona to exceed her Max Roll (Max).
 
 Thus a rear attack (+90 attack roll) with a club could allow the player to surpass her persona’sMax (Max Roll) and possibly hit a previously impervious target.
 
-A payer with a Max Roll (Max) of 763 is making an attack roll against an Defence Rating (DEF) of 793.
+A payer with a Max Roll (Max) of 763 is making an attack roll against a Defence (DEF) of 793.
 Under normal circumstances, the persona could not hit the target because her Max Roll (Max) is too low.
 However, the rear attack bonus of +90 adjusts the final attack roll upwards by 90.
 The final attack roll could be as high as 883 (Max of 793 plus 90), making a successful attack roll possible.
@@ -80,7 +81,7 @@ include::combat:partial$attack_adjustment_hig.adoc[]
 == Cover and Concealment
 Cover and concealment create attack roll penalties that depend on how the target is hiding.
 Cover and concealment penalties apply to ranged attacks only (Attack types B, C, D, E, and F).
-Cover and concealment attack roll penalties do not change the target’s Defence Rating.
+Cover and concealment attack roll penalties do not change the target’s Defence.
 For example, a target may have 90% cover from one direction and no cover from another direction.
 
 :art: dinner_in_a_tube.png
@@ -227,20 +228,20 @@ The persona cannot earn flanking bonuses by simply maneuvering around her target
 The target must be unable to turn or be occupied by something other than the attacker.
 
 == Penalties vs Defence
-EXP cannot decide whether adjustments should count as penalties on the attack roll or bonuses to the defence rating. 
+EXP cannot decide whether adjustments should count as penalties on the attack roll or bonuses to Defence.
 Consider a penalty of 100 points against hitting a target in a rain storm.
 This is supposed to reflect the difficulty of making a successful to hit roll on a target in the rain.
-One could subtract 100 from the player’s attack roll, or one could add 100 to the target’s defence rating.
+One could subtract 100 from the player’s attack roll, or one could add 100 to the target’s defence.
 Both would make the chance of success 100 point more difficult. 
 
 WARNING: This section is full on RPG rule nerdism. 
 
 When the penalty acts on the attack roll it is possible to get a negative attack roll. 
 Even though the minimal roll in the tactical combat system is 001 this still seems dirty.
-When the penalty is added to the defence rating of the target this feels more elegant.
+When the penalty is added to the target’s Defence, this feels more elegant.
 The attack roll is untainted and the target is harder to hit.
 
-However changing the defence rating of the target may push it beyond the persona’s maximum roll.
+However, changing the target’s Defence may push it beyond the persona’s maximum roll.
 So the chance of a scoring a hit with the attack roll is left to a critical check. 
 
 |===
@@ -279,6 +280,6 @@ Players will find themselves in situations not listed here.
 The referee and players will negotiate a ruling that seems fair.
 If negotiation is not successful, remember the xref:uncombat:sphincter_rolls.adoc[Sphincter Roll,window=_blank, rel="noopener noreferrer"].
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 

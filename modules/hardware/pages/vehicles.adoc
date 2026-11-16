@@ -260,7 +260,7 @@ A combat pogo stick?
 
 Combat vehicles are combat-hardened.
 They are harder to hit and harder to damage.
-Combat use vehicles have an Defence Rating of 700. 
+Combat use vehicles have a Defence of 700.
 Combat use vehicles half all extent of damage rolls.
 So a damage roll of 80 becomes a damage roll of 40.
 The expected major damage becomes minor damage.
@@ -271,7 +271,7 @@ They are not detachable and would require a mechanic to remove them.
 The combat accessories can define the vehicle as a tank or a jeep, or a driving bomb.
 
 .*Combat Accessories*
-* Defence Rating 700
+* Defence 700
 * Extent of Damage Rolls reduced 50%
 * plus 1-3 rolls on the Combat Accessories Table
 

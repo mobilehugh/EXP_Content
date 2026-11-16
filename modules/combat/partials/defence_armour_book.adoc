@@ -1,0 +1,59 @@
+See xref:hardware:mundane_equipment.adoc#_body_armour[Body Armour] for more details.
+
+.*Mundane Body Armour Data*
+[width="100%",cols="<,^",frame="all", stripes="even"]
+|===
+2+<|Mundane body armour list.
+
+s|Type
+s|DEF Bonus
+
+|None
+|0
+
+|Furs/Skins
+|+50
+
+|Leather
+|+50
+
+|Padded
+|+50
+
+|Studded
+|+75
+
+|Ring
+|+75
+
+|Scale
+|+100
+
+|Cured Hide
+|+100
+
+|Plant Fibre
+|+100
+
+|Chain
+|+125
+
+|Splint
+|+150
+
+|Banded
+|+150
+
+|Synthetix
+|+175
+
+|Plate
+|+175
+
+|Plate Armour
+|+200
+
+s|Type
+s|DEF Bonus
+
+|===

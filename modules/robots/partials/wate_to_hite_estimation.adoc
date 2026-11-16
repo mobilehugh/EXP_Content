@@ -3,7 +3,7 @@
 If the entirely random hite and wate does not work for your persona consider the below (now deprecated) table.
 The Persona Wate and Dimensions Table underestimates the hite of the robot or alien. 
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 [discrete]

@@ -3,7 +3,7 @@
 Wate Allowance is the amount of wate that a persona can lift.
 Referees, and players, often ignore the implications of wate allowance.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 Robots are affected by encumbrance similar to other personas.

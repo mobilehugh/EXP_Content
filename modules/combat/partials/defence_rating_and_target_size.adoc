@@ -1,16 +1,15 @@
-.*Target Size and Defence Rating Table*
-[width="75%",cols="3*^",frame="all", stripes="even"]
+.*Target Size and Defence Table*
+[width="75%",cols="<1,^1,<2",frame="all", stripes="even"]
 |===
-3+<|Want to hit an inanimate object? Here are some example defence ratings based on size.
+3+<|Size based naked Defence scores.
 
-s|Target Size
-s|Naked DEF
+s|Size
+s|DEF
 s|Example
 
 |Minute
 |800
-|Marble +
-Button
+|Marble, Button
 
 |Tiny
 |700
@@ -22,8 +21,7 @@ Button
 
 |Medium
 |400
-|Filing Cabinet +
-Mannequin
+|Filing Cabinet, Mannequin
 
 |Large
 |300
@@ -31,15 +29,13 @@ Mannequin
 
 |Gigantic
 |200
-|Barn +
-High Rise
+|Barn, High Rise
 
 |Humongous
 |42
-|Moon +
-Planet
+|Moon, Planet
 
-s|Target Size
-s|Naked DEF
+s|Size
+s|DEF
 s|Example
 |===

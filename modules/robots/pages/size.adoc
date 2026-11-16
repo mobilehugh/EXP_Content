@@ -42,7 +42,7 @@ The player rolls for height, width and length.
 These rolls do not affect the wate of the robot.
 The player can arrange the dimensions in whatever order works best for the persona.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 include::robots:partial$robot_size_cat_to_hite.adoc[]

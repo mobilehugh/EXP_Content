@@ -664,7 +664,7 @@ If the target wins the psionic roll, they are unaffected by the mutation.
 If a target repels the indensification, the mutant may try the next unit again.
 
 Increasing density makes the target’s molecular structure tighter and increases its wate in the same volume.
-Defence Rating increases by 20%.
+Defence increases by 20%.
 Movement rate is decreased by 20%.
 Any force related damage is decreased by 20%.
 Falling damage is doubled.
@@ -673,7 +673,7 @@ Flying creatures fall from the sky.
 Swimming creatures sink.
 
 Decreasing density loosens the target’s molecular structure and decreases its wate in the same volume.
-Defence Rating decreases by 20%.
+Defence decreases by 20%.
 Movement rate is increased by 20%, but the target has an increased chance of falling.
 Any force related damage is increased by 20%.
 Falling damage is decreased by 60%
@@ -2297,7 +2297,7 @@ There is a small chance of a teleport malfunction.
 Teleportation failure rules are up to the players.
 The referee may offer more teleports per day with higher chances of failure.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 include::mutations:partial$psionic_teleportation_fail_web.adoc[]

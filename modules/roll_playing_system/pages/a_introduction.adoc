@@ -47,7 +47,7 @@ The tactical combat rules are the bespoke combat rules for the Roll-Playing Syst
 The kilodie generates a number between 1 and 1000.
 To learn how to use it see xref:combat:kilo_die_mechanic.adoc[Kilodie Mechanic, window=_blank, rel="noopener noreferrer"].
 The tactical combat rules depends on the kilodie roll.
-All combat adjustments from Defence Rating to attack rolls use the kilodie mechanic.
+All combat adjustments from Defence to attack rolls use the kilodie mechanic.
 
 It is conceivable to extend the kilodie mechanic to replace all rolls in EXP.
 However, kilodie rolls do not create a nice curve.
@@ -124,8 +124,8 @@ NOTE: All your rolls are belong to us.
 === Attack Rolls
 Attack rolls are the most common rolls made by players.
 An attack roll is made every time the persona tries to harm another persona.
-The player will roll the kilodie and compare that value to the target’s Defence Rating.
-If the attack roll plus adjustments are greater than the target’s Defence Rating, the player usually inflicts damage on the target.
+The player will roll the kilodie and compare that value to the target’s Defence.
+If the attack roll plus adjustments are greater than the target’s Defence, the player usually inflicts damage on the target.
 A damage roll follows a successful attack roll.
 The higher the number the player rolls, the more likely her persona will be victorious in combat.
 There are more than fifteen sections under the heading of xref:combat:a_introduction.adoc[Tactical Combat, window=_blank, rel="noopener noreferrer"] that cover the finer details.

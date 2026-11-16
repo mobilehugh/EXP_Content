@@ -1,78 +1,75 @@
-.*Movement Allowing Actions Table*
-[width="55%",cols="<,^",frame="all", stripes="even"]
+.*Actions and Movement Table*
+[width="75%",cols="<,^",frame="all", stripes="even"]
 |===
-2+<|Actions have movement costs. Not an exhaustive list.
+2+<|Actions cost movement in h/u
 
 s|Cost
-s|Penalty (hexes)
+s|Penalty
 
 |Attack target
 |None
 
 |Catch object
-|2 hex
-
-|Change weapon
-|Choose
+|2
 
 |Chew gum
-|1 hex
+|1
 
 |Discharge aerosol
 |None
 
 |Door, close
-|1 hex
+|1
 
 |Door, pull open
-|2 hex
+|2
 
 |Door, push open
 |None
 
 |Find spare change
-|2 hex
+|2
 
-|Flip table/couch
-|2 hex
+|Flip table
+|2
 
 |Inhale aerator
-|1 hex
+|1
 
 |Light switch
 |None
 
-|Push any button
+|Push __any__ button
 |None
 
 |Push the right button
-|No movement
+|Activity
 
 |Reload
-|Choose
+|Activity
 
 |Sing Loudly
-|+1 hex
+|+1
 
 |Swallow pill
-|1 hex
+|1
 
 |Swallow jagged pill
-|3 hex
+|3
 
 |Throw rock/grenade
 |None
 
 |Window, break
-|1 hex
+|1
 
 |Window, open
-|2 hex 
+|2
 
 s|Action
-s|Cost (hexes)
+s|Cost
 
-2+<|Subtract the cost from the persona’s movement rate. Or
-2+<|Add the cost to the distance the persona wants to travel.
+2+<|Subtract cost from persona movement.
+
 
 |===

@@ -44,7 +44,7 @@ Just use the steps you need to have fun.
 .. xref:robots:peripherals_offensive.adoc[Offensive, window=_blank, rel="noopener noreferrer"]
 .. xref:robots:peripherals_defensive.adoc[Defensive, window=_blank, rel="noopener noreferrer"]
 
-. xref:robots:defence_rating.adoc[Defence Rating, window=_blank, rel="noopener noreferrer"]
+. xref:robots:defence_rating.adoc[Defence, window=_blank, rel="noopener noreferrer"]
 . xref:robots:movement_rate.adoc[Movement Rate, window=_blank, rel="noopener noreferrer"]
 . xref:robots:wate_allowance.adoc[Wate Allowance, window=_blank, rel="noopener noreferrer"]
 . xref:robots:attack_table.adoc[Attack Table, window=_blank, rel="noopener noreferrer"]

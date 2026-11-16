@@ -277,7 +277,7 @@ Attack Rolls and Success Rolls.
 === Attack Rolls
 The first kind of roll is an attack roll. 
 Attack rolls are the same as attack rolls in tactical combat.
-Exatmo combat attack rolls use a kilodie and the player must roll over a Defence Rating. 
+Exatmo combat attack rolls use a kilodie and the player must roll over a Defence.
 Attack Rolls are used with physical attacks like mini-missiles, mines, artillery etc.
 Win an attack roll and damage the target.
 

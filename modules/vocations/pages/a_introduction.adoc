@@ -228,7 +228,7 @@ Initially, their actions will cost them vocation related experience points.
 Continuing transgressions may make it impossible for the persona to carry out her tasks.
 A murderous veterinarian may find that her tasks don’t work well on those who know the truth.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Multiple Vocations

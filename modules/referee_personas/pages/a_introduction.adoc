@@ -50,7 +50,7 @@ A player could run an adorable alien that begs for scraps of plastic.
 A player should *not* play a Heavy Combot that will annihilate the expedition.
 A player should *not* play a spie feline that has plotful campaign secrets.
 
-TIP: Rules are for game balance and assist creativity. +
+TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Creation

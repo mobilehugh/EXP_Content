@@ -160,7 +160,7 @@ s|Explanation
 |Difficulty (formerly Degree of Difficulty)
 
 |DEF
-|Defence Rating
+|Defence
 
 |DEX
 |Dexterity
