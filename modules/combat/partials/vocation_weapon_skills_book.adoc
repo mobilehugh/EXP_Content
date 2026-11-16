@@ -1,0 +1,49 @@
+.*Vocation Weapon Skills Table*
+[width="85%",cols="<,<",frame="all", stripes="even"]
+|===
+2+<|EXPS Levels and Weapon Skills.
+
+2+<s|Uncombat Vocations:
+
+2+<|Biologist, Mechanic, Veterinarian
+
+s|Type
+s|Levels
+
+|Strike
+|1, 4, 7
+
+|Fling
+|1, 5, 8
+
+|Shoot
+|1, 3, 6
+
+2+<s|Combat Vocations:
+2+<|Knite, Nomad, Spie
+
+s|Type
+s|Levels
+
+|Strike
+|1, 3, 6, 9
+
+|Fling
+|1, 4, 7, 10
+
+|Shoot
+|1, 2, 4, 6, 8
+
+2+<s|Nothing:
+2+<|Single weapon skill only. Choose wisely.
+
+2+<s|Mercenary:
+2+<|Should always take the xref:vocations:mercenary.adoc#_gifts[gift proficiency,window=_blank, rel="noopener noreferrer"].
+
+2+<s|Aliens:
+2+<|None if wildlife. Raw Bonus if tool user. As per vocation.
+
+2+<s|Robots:
+2+<|None. Raw Bonus if has articulation. Skilled Bonus if baked in weapon.
+
+|===

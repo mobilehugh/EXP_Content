@@ -73,8 +73,8 @@ When using this damage adjuster, space weapons become way more destructive.
 The players may prefer to adjust the Force Bonus to one percent per 5 hit points of damage.
 Your space milage may vary.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Cumulative Destruction
 The damaging effects of successful attacks are cumulative.

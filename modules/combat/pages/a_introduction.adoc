@@ -2,7 +2,7 @@
 
 [quote]
 ____
-*Mats, minis, mods and many rolls.*
+*Mats, minis, and many rolls.*
 ____
 
 The tactical combat rules the keystone of the Roll-Playing System.
@@ -28,10 +28,12 @@ The details are a simulation of terrain, movement, skills, weapons, attributes e
 The tactical combat rules are a delicate balance between playability and realism.
 It represents the least worst system that met our pre-computer era needs.
 
-NOTE: The tactical combat rules developed before laptops, computer phones or the internet. +
+The tactical combat rules developed before laptops, computer phones or the internet. +
 Calculations were done in real-time with organic brains.
 
 == Starting Combat
+Any interaction that can harm a persona through violence is a combat situation.
+
 Game violence occurs due to failed negotiations, self-defence, hunger, or bad problem-solving.
 Many players feel that violence is the simplest solution to a problem.
 The consequences of combat are up to the milieu of the table.
@@ -42,7 +44,6 @@ While referee personas come and go losing a player persona is a big deal.
 Combat in EXP is unforgiving, and any battle is dangerous to all personas involved.
 Dead personas stay dead.
 
-TIP: Any interaction that can harm a persona due to violence is a combat situation.
 
 The referee decides when combat rules are engaged.
 The transformation to combat rules transforms the game from role-playing to solo war game.
@@ -57,7 +58,7 @@ Players begin rolling dice to determine who goes first and who hurts who.
 A misplaced token can result in getting squashed by an alien or impaled by a combot.
 Ten seconds of combat time can take 20 minutes of mundane time to play.
 
-NOTE: If prolonged real-time resolution of combat is unappealing, consider the xref:role_playing_system:combat_rules.adoc[Theatrical Combat System,window=_blank, rel="noopener noreferrer"].
+NOTE: If granular tactical combat is unappealing, consider the xref:role_playing_system:combat_rules.adoc[Theatrical Combat System,window=_blank, rel="noopener noreferrer"].
 
 == Attack Roll
 Any attempt a persona makes to harm another persona is an attack.
@@ -101,23 +102,19 @@ The personas can be many hexes apart and still be able to damage each other.
 Shoot attacks are limited to once per combat unit.
 Examples are bullets, laser bolts, energy beams, and crossbow bolts.
 
-=== Grenade
-*Zone Attack*
-Grenade attacks cover multiple hexes, and hence targets, with a distributed attack.
+.*Unique Shoot Types*
+* Sotto - 2 or 3 attacks per unit (semi-automatic)
+* Flotto -5 attacks per unit  (fully-automatic)
+
+=== Zone
+*Area of effect attack*
+Zone attacks cover multiple hexes, and hence targets.
 A Zone Attack supplies its own energy to inflict damage.
-The target is a specific hex on the mat.
-Targets can be hexes apart and be damaged regardless of the their Defence.
+The target is a __specific hex__ on the mat, not a specific target persona.
+Personas can be hexes apart and be damaged by the same attack.
+Zone attacks get around persona defence and envelope the persona in damage.
 Examples are frag grenades, aerosols, and bombs.
-A grenade attack can be thrown (Fling attack), or launched (Shoot attack).
-
-=== Other
-Most of the other attack types are built from the core three attack types above.
-If any of the following attack types don’t sound familiar review them at xref:combat:attack_types.adoc[Attack Types,window=_blank, rel="noopener noreferrer"].
-
-.*Other Attack Types*
-* Sotto - semi-automatic shoot attacks
-* Flotto - full-automatic shoot attacks
-* Psionic - mutation specific and unique
+A zone attack can be thrown (Fling attack), or launched (Shoot attack).
 
 == Attack Table
 The attack table blends skills, attributes, and experience into numbers that are added to the players’s Attack Roll.
@@ -126,13 +123,11 @@ Every persona has a attack table.
 Every attack type has its own attack roll bonus.
 For a detailed explanation of attack tables jump to xref:combat:attack_table_details.adoc[Attack Tables,window=_blank, rel="noopener noreferrer"].
 
-include::combat:partial$attack_table_example.adoc[]
+include::combat:partial$attack_table_example_web.adoc[]
 
 The attack table is a scary-looking matrix of numbers.
 The matrix is a cross of attack types (A, B, C) and attack roll parameters.
 The attack roll parameters are Skilled Bonus (Skilled), Raw Bonus (Raw), Max Roll (Max) and Damage Adjuster (Force).
-
-TIP: Too many numbers? Try the xref:role_playing_system:combat_rules.adoc[Theatrical Combat System,window=_blank, rel="noopener noreferrer"].
 
 === Skilled Bonus
 Skilled Bonus (SKILL) is added to Attack Rolls for weapons the persona knows how to use.
@@ -144,7 +139,7 @@ Anthro weapon skills are dependent on their vocation.
 Aliens are automatically skilled with their natural attacks, but may not even be able to recognize tool weapons.
 Robots are whole separate kettle of bolts.
 
-.Narrative example for SKILL
+.Skilled Bonus Narrative Example
 ====
 A Nameless Nomad finds herself in a chase over a frozen wasteland.
 Occasionally she and her pursuers pause to catch their breath and take a few shots at one another.
@@ -163,7 +158,7 @@ The kilodie yields a 600.
 THe persona’s Fling Skilled Bonus is +175, and her final Attack Roll is 775.
 If 775 is higher than the target’s Defence Rating (DEF), the player will get to roll damage (harm the target).
 
-NOTE: Older versions of EXP used “Proficiency” in the context of weapon skills. It is much easier to spell the word skill.
+Older versions of EXP used “Proficiency” in the context of weapon skills. It is much easier to spell the word skill.
 
 === Raw Bonus
 Raw Bonus (RAW) is added to Attack Rolls for improvised or unfamiliar weapons.
@@ -179,7 +174,7 @@ Anthro weapon skills are dependent on their vocation.
 None combat vocations have less weapon skills and the players will be using the Raw Bonus more often.
 Aliens are automatically skilled with their natural attacks, but may not even be able to recognize tool weapons.
 
-.Narrative example for RAW
+.Raw Bonus Narrative Example
 ====
 The Nameless Nomad slides down an icy incline, looking for some cover.
 Unfortunately, an enemy is already hiding behind the cover.
@@ -210,7 +205,7 @@ For more information about lucky shots jump to xref:uncombat:critical_checks.ado
 
 NOTE:*Minimum Roll is 001*
 
-.Narrative example for MAX
+.Max Roll Narrative Example
 ====
 After watching her ice pick bend futilely on her opponent’s thick parka the Nameless Nomad decides to run.
 Running blindly she trips over a body in the snow.
@@ -232,8 +227,6 @@ TIP: Max Roll can cut down on the amount of maths needed to play. If the player�
 === Force Bonus
 The Force Bonus (FORCE) increases the amount of damage delivered.
 
-.An important point
-====
 To understand the Force Bonus one needs to understand Hit Points and damage.
 Hit Points collectively represent a target’s life force, structural integrity and luck.
 Decreasing your opponent’s hit points to zero is the entire point of combat.
@@ -243,7 +236,6 @@ These reductions are called damage.
 The more hit points the target loses the more damage the target has taken.
 It is a race to the bottom and whoever gets to zero Hit Points first *loses*.
 to get more information about hit points and damage xref:attributes:hit_points.adoc[jump here.,window=_blank, rel="noopener noreferrer"]
-====
 
 Whenever the player wins an Attack Roll, she then makes a Damage Roll that decreases the target’s hit points.
 The player adds the Force Bonus to the damage roll.
@@ -260,11 +252,14 @@ Fling Attacks also depend on the persona’s Strength, but much of th
 Shoot Attacks are self-powered and have no Force Bonus at all.
 
 .Nameless Nomad and Force Bonus
-* Strike: 1d3 (icepick) + 6 (Force) = 6-9 HPS damage
-* Fling: 1d8 (harpoon) + 3 (Force) = 4-11 HPS damage
-* Shoot: 1d10 (crossbow) + 0 (Force) = 1-10 HPS damage
+* Strike with ice pick
+** 1d3 + 6 (Force) = 6-9 HPS damage
+* Fling with harpoon
+** 1d8  + 3 (Force) = 4-11 HPS damage
+* Shoot with crossbow
+** 1d10 + 0 (Force) = 1-10 HPS damage
 
-== Defence Rating
+== Defence
 Defence Rating (DEF) represents how difficult it is to damage the target.
 Personas wrap all their defences up into one number called Defence Rating (DEF).
 The Defence Rating is a quantitative value that represents how difficult it is to damage the target.
@@ -316,8 +311,8 @@ Virtual tabletops (VTTs) are nearly commonplace.
 VTTs allow the players to share the mat and the minis on a computer screen.
 VTTs can have everyone in the same room or in different countries.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Initiative
 The initiative system determines the order in which players act during each combat unit.

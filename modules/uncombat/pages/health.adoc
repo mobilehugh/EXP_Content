@@ -212,8 +212,8 @@ Deterioration does not apply to robot player personas.
 Aliens and anthros are affected by ageing in the same fashion.
 The age category attribute effects are the same for both of the organic families.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 It is unlikely that a persona will pass through any of these age categories.
 Most personas die by other means.

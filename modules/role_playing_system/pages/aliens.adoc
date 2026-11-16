@@ -193,8 +193,8 @@ The crab can move on land and in water, and the moth can move in the air.
 * w - water borne alien has swimming ability
 * s - sessile, non-moving but indigenous
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Evolutations
 Alien mutations are natural abilities that the alien has evolved over time or in a vat.

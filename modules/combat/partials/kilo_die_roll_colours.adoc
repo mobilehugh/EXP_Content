@@ -1,14 +1,12 @@
-.*Example Kilo Die Rolls*
+.*Kilodie Example Rolls*
 [width="75%",cols="7*^", frame="all", stripes="even"]
 |===
 7+<|Use 3 different coloured 1d10s to generate 1 to 1000
-s|Color
+
+s|Die
 s|Unit
-s|Example 1
-s|Example 2
-s|Example 3
-s|Example 4
-s|Example 5
+5+<s|Examples
+
 
 s|{set:cellbgcolor:#00FF00}Green
 s|100s
@@ -43,4 +41,3 @@ s|864
 
 7+<|{set:cellbgcolor:#F2F2F2}000 represents 1000 on a kilodie.
 |===
-

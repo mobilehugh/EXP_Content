@@ -10,7 +10,9 @@ The occasional ursidae may sneak onto the bottom of the large scale.
 Hite and wate are genderless in EXP.
 The player can choose a descriptor to influence their hite and wate.
 The player is also welcome to choose a hite and wate that suits their persona.
-Don’t let rules get in the way of the story or fun.
+
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Hite
 Anthro persona hite is measured in centimeters (cm).

@@ -2297,8 +2297,8 @@ There is a small chance of a teleport malfunction.
 Teleportation failure rules are up to the players.
 The referee may offer more teleports per day with higher chances of failure.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 include::mutations:partial$psionic_teleportation_fail_web.adoc[]
 

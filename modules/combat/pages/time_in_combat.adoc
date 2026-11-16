@@ -34,7 +34,10 @@ The (un)necessary rolls determining success or failure of the boomerang toss cou
 . Consider the actions of other personas 
 
 This meticulous attention to faux detail is the core of the tactical combat rules.
-However, the players only need to employ those rules which make sense and are fun.
+
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
+
 Combat time is slowed down to allow for human, mini, model, map scaling. https://shorturl.at/otFGJ[Like This.]
 
 

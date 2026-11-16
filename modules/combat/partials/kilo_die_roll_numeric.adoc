@@ -1,0 +1,22 @@
+.*Kilodie Example Rolls*
+* *042*
+** First (100s) = 0
+** Second (10s) = 4
+** Third (units) = 2
+* *001*
+** First (100s) = 0
+** Second (10s) = 0
+** Third (units) = 1
+* *426*
+** First (100s) = 4
+** Second (10s) = 2
+** Third (units) = 6
+* *864*
+** First (100s) = 8
+** Second (10s) = 6
+** Third (units) = 4
+
+* *1000*
+** First (100s) = 0
+** Second (10s) = 0
+** Third (units) = 0

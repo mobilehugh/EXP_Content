@@ -273,7 +273,7 @@ The kilodie is composed of three ten sided dice:
 * 1d10 is the 10s
 * 1d10 is the 1s
 
-include::combat:partial$kilo_die_roll_examples.adoc[]
+include::combat:partial$kilo_die_roll_colours.adoc[]
 
 Level::
 A short form of experience level.

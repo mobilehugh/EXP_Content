@@ -16,8 +16,8 @@ The referee should decline using this mini-game for devices that are too importa
 The referee should not use the AID Flowchart to keep personas from using a spatula.
 The players should not use the AID Flowchart to roll themselves through a scenario.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Flowchart
 The flowchart should be fun to use. 

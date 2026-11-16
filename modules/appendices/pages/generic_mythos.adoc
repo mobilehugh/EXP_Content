@@ -349,7 +349,9 @@ It is even simpler to use their familiar names: anthro, alien, and robot.
 The referee is welcome to use whatever naming structure suits their campaign.
 The aliens could all be robots.
 The anthros could be aliens.
-Don’t let the rules get in the way of a good story.
+
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 === Anthro Family (Hominidae)
 

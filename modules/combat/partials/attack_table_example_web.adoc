@@ -1,7 +1,7 @@
 .*Example Attack Table*
 [width="65%",cols="5*^",frame="all", stripes="even", grid="all"]
 |===
-5+<|If don’t understand this table, please read this section.
+5+<|This is a generic example attack table.
 
 s|Type
 s|Skilled
@@ -31,3 +31,5 @@ s|Shoot
 |0
 
 |===
+
+TIP: Too many numbers? Try the xref:role_playing_system:combat_rules.adoc[Theatrical Combat System,window=_blank, rel="noopener noreferrer"].

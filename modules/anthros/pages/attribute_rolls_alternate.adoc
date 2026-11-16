@@ -5,7 +5,9 @@ EXP bases all its rules on a system where 3 and 18 are rare attribute scores.
 Bonuses and penalties in EXP reflect anthro attributes based on this on the three die six curves.
 Small increases in average attribute scores can lead to powerful personas.
 The referee and players should choose the approach that works best for them.
-Don’t let rules get in the way of the story or the fun.
+
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Drop the lowest
 Drop the lowest is a simple enough mechanism for increasing anthro attributes.

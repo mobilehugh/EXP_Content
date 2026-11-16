@@ -26,12 +26,12 @@
 |Levels
 |1, 3, 6, 9
 |1, 4, 7, 10
-|1, 2, 4, 6, 8 
+|1, 2, 4, 6, 8
 
 4+<s|Special Cases: Alien, Mercenary, Nothing, Robot
 
 s|Alien
-3+<|None if Feral. Raw Bonus if tool user. As per vocation.
+3+<|None if wildlife. Raw Bonus if tool user. As per vocation.
 
 s|Mercenary
 3+<|Proficiency Action. Always use Skilled Bonus for personal weapons.

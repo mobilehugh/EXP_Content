@@ -61,8 +61,8 @@ She can shift her 4D2 Outcome by +2 (two attributes).
 The shift of +2 moves her Magnificent Success (+8) to an Immaculate Success (+10).
 The persona earns the accolades of the bar crowd (Outcome = +10) but does not earn a wrestling skill.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Folded Rolls
 A folded 4D2 roll is for when a +/- randomness cannot apply.
@@ -78,7 +78,9 @@ We will avoid any maths here to maintain the spirit of the Role-Playing System.
 
 The obvious immediate problem with the folded rolls is that they tend towards the mundane. 
 The most common outcome is still detente. 
-Remember that these are tools for moving the story forward, not rules that spoil role-playing or fun.
+
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 === Folded Success Outcomes
 

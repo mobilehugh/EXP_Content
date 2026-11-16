@@ -309,8 +309,8 @@ The referee can change this duration to what works best for the campaign, i.e., 
 Regardless of the special drive type, the vessel travels through xref:appendices:generic_mythos.adoc#_the_spaces[hyperspace,window=_blank, rel="noopener noreferrer"].
 There is no communication within hyperspace or between hyperspace and physical space.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 == Fuel
 Fuel seems like a trivial issue for a gallant expedition out to save the universe.
@@ -523,8 +523,8 @@ EXP is about personas and has a persona focus.
 Spacecraft are tools to help tell stories by moving personas and cargo from place to place. 
 
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 The crew of a spacecraft can be composed of aliens, anthros, or robots.
 Every spacecraft has an essential crew.

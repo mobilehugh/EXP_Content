@@ -1,0 +1,33 @@
+.*Example Attack Table*
+[width="65%",cols="4*^",frame="all", stripes="even", grid="all"]
+|===
+4+<|This is a generic example attack table.
+
+s|Type
+s|Strike
+s|Fling
+s|Shoot
+
+s|Skilled
+|100
+|175
+|230
+
+s|Raw
+|35
+|65
+|75
+
+s|Max
+|790
+|825
+|905
+
+s|Force
+|6
+|3
+|0
+
+|===
+
+TIP: Too many numbers? Try the xref:role_playing_system:combat_rules.adoc[Theatrical Combat System,window=_blank, rel="noopener noreferrer"].

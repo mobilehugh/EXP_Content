@@ -1,0 +1,21 @@
+.Deny the Kilodie
+Don’t like kilodie. Scale it down using the factors and caveats provided below.
+
+* *1d100*:
+** divide by 10
+** Defence 700 -> 70
+** Bonus 115 -> +12.
+* *1d20*:
+** divide by 50
+** Defence 700 -> 14
+** Bonus 115 -> +2.
+* *1d12*:
+** divide by 80
+** Defence 700 -> 9
+** Bonus 115 -> +1.
+* *1d10*:
+** divide by 100
+** Defence 700 -> 7
+** Bonus 115 -> +1.
+
+This list is included for historical purposes.

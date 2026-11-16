@@ -3,12 +3,8 @@
 |===
 3+<|Don’t like kilodie. Scale it down using the factors and caveats provided below.
 s|Die Type
-s|Factor
-s|Comments
-
-|1d1000
-|None
-|Use data as is.
+s|Divider
+s|Example
 
 |1d100
 |10
@@ -26,13 +22,9 @@ s|Comments
 |100
 |DEF of 700 -> 7. Bonus of 115 -> +1
 
-|1d6
-|None
-|Try https://4d2.expgame.com[4d2]
-
 s|Die Type
-s|Factor
-s|Comments
+s|Divider
+s|Example
 3+<|This table is included for historical purposes.
 
 |===

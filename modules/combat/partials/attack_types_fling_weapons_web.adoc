@@ -1,0 +1,1 @@
+include::hardware:partial$mundane_fling_weapons.adoc[]

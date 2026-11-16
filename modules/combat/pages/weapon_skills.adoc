@@ -1,9 +1,6 @@
 = Weapon Skills
 
-[quote]
-____
-*To develop the skill to kill takes will.*
-____
+
 
 Weapon skills play an important part in keeping personas alive.
 The weapon skills discussed her are anthrocentric and refer to weapons like swords, bows and guns.
@@ -18,8 +15,7 @@ Players should choose their persona’s weapon skills carefully.
 For example, being skilled with a lazer pistol will be fun until the batteries run out.
 In a leather and dust milieu, a crossbow skill may have been a better choice.
 Players can hold back their weapon skills choices until the right weapon comes along.
-
-NOTE: In the past weapon skills were referred to as proficiencies.
+In the past weapon skills were referred to as proficiencies.
 
 == Initial Weapon Skills
 The initial weapon skills are determined by the persona’s vocation.
@@ -58,7 +54,7 @@ So a persona with pistol-3 would get +84 added to her Attack Roll based on pure 
 At some tables this skill bonus can increase the persona’s Max Roll.
 This allows a master archer the ability to hit above their Max Roll.
 
-include::combat:partial$vocation_weapon_skills.adoc[]
+include::combat:partial$vocation_weapon_skills_web.adoc[]
 
 At 1st level a player with a Nomad persona can choose 1 Strike, 1 Fling, and 1 Shoot weapon skill.
 The player chooses dagger-1, bow-1 and pistol-1 skills.

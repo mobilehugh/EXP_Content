@@ -279,6 +279,6 @@ Players will find themselves in situations not listed here.
 The referee and players will negotiate a ruling that seems fair.
 If negotiation is not successful, remember the xref:uncombat:sphincter_rolls.adoc[Sphincter Roll,window=_blank, rel="noopener noreferrer"].
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 

@@ -96,6 +96,11 @@ However, the solo dev gotta be realistic.
 The den of dead darlings, dumb decisions, and dreary demonstrations.
 
 
+[quote]
+____
+*To develop the skill to kill takes will.*
+____
+
 What are the chances died with changing of the tool score chances.
 
 [discrete]
@@ -106,8 +111,8 @@ Each iteration used randomly generated attributes.
 The term creator replaced AI for the tool user score of 4.
 Creators are rare indeed.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.*
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 :art: alien_society_data_10K.png
 :width: 500px
@@ -823,8 +828,10 @@ A suite of sweet sayings.
 * post factualization
 * technomagical
 * macro, micro, nano, molecular, ethereal bonds
-* Story before dice, and story before rules
-* Choose story and fun over rules and rolls.
+
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
+
 * Find the least number of rules necessary and use one less
 * the EXPedition EXPlores for EXPeriences.
 * EXP is the game of technological chaos, and the dice deliver the chaos.

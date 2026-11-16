@@ -28,7 +28,7 @@ The persona’s Skilled increases as the persona gains EXPS levels.
 
 include::combat:partial$attack_table_anthro_skilled_total.adoc[]
 
-TIP: Breaking the Skilled Bonus into components may be helpful
+*Breaking the Skilled Bonus into components may be helpful.*
 
 === Attribute Component
 The persona’s attributes determine the majority of the persona’s Skilled Bonus.
@@ -69,6 +69,6 @@ Powered weapons like guns and rifles have no Force Bonus.
 include::combat:partial$attack_table_anthro_force.adoc[]
 
 == Anthro Attack Table Example
-A second level spie has the following attributes: AWE 12, CHA 11, CON 12, DEX 10, INT 12, MND 14 and STR 16.
+Spie 2nd level. AWE 12, CHA 11, CON 12, DEX 10, INT 12, MND 14 and STR 16.
 
 include::combat:partial$attack_table_anthro_example.adoc[]

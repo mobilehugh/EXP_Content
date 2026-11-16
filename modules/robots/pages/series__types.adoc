@@ -3,8 +3,8 @@
 There are many different robot series to choose from. 
 From a heavy offensive combot capable of annihilating entire cities to a delicate hobbyist robot.
 
-TIP: Rules maintain game balance and assist creativity. +
-*Do not let rules get in the way of the story or the fun.* 
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 .List of Robot Series (Types)
 * xref:robots:series_android.adoc[A-Android,window=_blank, rel="noopener noreferrer"]

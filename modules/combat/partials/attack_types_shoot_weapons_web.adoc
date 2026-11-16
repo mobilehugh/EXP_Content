@@ -1,0 +1,1 @@
+include::hardware:partial$mundane_shoot_weapons.adoc[]

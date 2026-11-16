@@ -80,7 +80,9 @@ Full wings are majestic and offer a Charisma bonus of plus two.
 
 == Flying
 A flying persona is a significant challenge for the referee.
-If the story works better by having avarians flying around, always choose story and fun over rules.
+
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
 
 For an avarian to be able to fly, she must have functional wings.
 Only full wings can be functional.

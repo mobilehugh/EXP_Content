@@ -19,7 +19,9 @@ For example, an alien with a wate of 10kg and a tiger torso would have a proport
 
 include::ROOT:partial$articulate.adoc[]
 
-Don’t let scientific knowledge get in the way of fun and storytelling.
+TIP: Rules are for game balance and assist creativity. +
+*Don't let rules obstruct the story or fun.*
+
 The alien is *not* a 542 kg pink amoeba.
 The alien has a wate of 542 kg, and it looks like an amoeba.
 

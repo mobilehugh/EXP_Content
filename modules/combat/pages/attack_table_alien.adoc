@@ -70,7 +70,6 @@ There is no Force Bonus for alien attack roll wins.
 include::combat:partial$attack_table_alien_force_bonus.adoc[]
 
 == Alien Attack Table Example
-A second-level gigantic alien has a 22 STR, 15 DEX, and a 3 INT.
-Her attack is spitting sharp blobs of resin which is Attack Fling.
+A gigantic alien level 2 with a fling attack. STR: 22, DEX: 15, and INT: 3.
 
 include::combat:partial$attack_table_alien_example.adoc[]

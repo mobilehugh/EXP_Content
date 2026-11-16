@@ -29,19 +29,6 @@ If you know what you are looking for, jump to the attack table you need.
 Below is a list is of player persona attack tables.
 Referee persona attack tables are detailed in their referee persona sections.
 
-include::combat:partial$attack_table_blank.adoc[]
-
-== Deconstruction of an Attack Table
-The attack table is a matrix of numbers that inject some faux realism into combat.
-It does not need to be memorized, and understanding it does take a few steps.
-Below is a generic attack table.
-The meaning of each number, column and row is explained.
-How the values are calculated depends on the family of the persona.
-
-include::combat:partial$attack_table_example.adoc[]
-
-include::combat:partial$attack_table_deconstruction.adoc[]
-
 == Skilled Bonus
 This number is added to the attack rolls when the persona is using familiar weapons.
 Being familiar and skilled with a weapon indicates that the persona is proficient with that weapon.
@@ -125,3 +112,16 @@ The player adds the Force Bonus when she wins an attack roll.
 The Force Bonus (Force) represents the impact of Strength on persona-powered attacks.
 Strength increases the amount of damage that the persona delivers with a striking weapon.
 Powered attacks (Shoot) do not have a Force Bonus.
+
+== Deconstruction of an Attack Table
+The attack table is a matrix of numbers that inject some faux realism into combat.
+It does not need to be memorized, and understanding it does take a few steps.
+Below is a generic attack table.
+The meaning of each number, column and row is explained.
+How the values are calculated depends on the family of the persona.
+
+include::combat:partial$attack_table_blank.adoc[]
+
+include::combat:partial$attack_table_example_web.adoc[]
+
+include::combat:partial$attack_table_deconstruction.adoc[]
