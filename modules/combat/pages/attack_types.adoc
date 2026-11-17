@@ -89,7 +89,6 @@ These rules are aimed at medium sized personas.
 ** Miss requires entire reorientation of mount. 
 ** Cannot be used on a target in adjacent or next hex. 
 
-
 == Fling Attacks
 *Non-powered projectile attacks*
 
@@ -258,7 +257,7 @@ Typically all targets in the area are affected by the attack regardless of Defen
 Most often a Zone Attack weapon delivers damage via hit point removal, but special effects can also be delivered by Zone Attacks.
 A frag grenade obviously deals damage via an explosion, but a sleeping gas aerosol may make the targets fall asleep
 
-When the player makes an Attack Roll with a Zone Attack weapon she makes an Attack Roll against a location and *not* a target’s Defence.
+When the player makes an Attack Roll with a Zone Attack weapon she makes an Attack Roll against a location and *not* a target.
 The Attack Roll is made against a target hexagon on the combat field and does *not* consider the Defense ratings of any of the personas in the area of effect.
 
 The player targets a specific hex for the Zone Attack.
@@ -268,9 +267,9 @@ The player must win an attack roll versus DEF 542 to have her persona’s Zone A
 Every persona in the area of effect is damaged.
 There is no saving throw.
 For more explosive details on Zone Attacks there is a whole section at:
-xref:combat:area_attacks.adoc[Zone Attacks,window=_blank, rel="noopener noreferrer"].
+xref:combat:zone_combat.adoc[Zone Combat,window=_blank, rel="noopener noreferrer"].
 
-NOTE: a static hexagon has a Defense of 542
+NOTE: a static hexagon has a Defence of 542
 
 === Zone Attack Weapons
 Most Zone Attacks are weapons like xref:hardware:grenades.adoc[Grenades,window=_blank, rel="noopener noreferrer"] or
@@ -312,7 +311,7 @@ If the persona is using a grenade launcher type weapon the player adds the Shoot
 Irregardless of using Fling or Shoot the target is a hexagon with a defence of 542.
 
 To find out what happens if you miss go to:  
-xref:combat:area_attacks.adoc[Zone Attacks,window=_blank, rel="noopener noreferrer"].
+xref:combat:zone_combat.adoc[Zone Combat,window=_blank, rel="noopener noreferrer"].
 
 === Aerosol Attacks
 *Automated Zone Attack*
@@ -327,7 +326,7 @@ The player adds the Shoot Bonus to her Attack Roll if the aerosol requires a tar
 The hexagon has a defence of 542.
 
 To find out what happens if you miss go to:  
-xref:combat:area_attacks.adoc[Zone Attacks,window=_blank, rel="noopener noreferrer"].
+xref:combat:zone_combat.adoc[Zone Combat,window=_blank, rel="noopener noreferrer"].
 
 == Psionic Attacks
 *Mind powered attacks with various effects*

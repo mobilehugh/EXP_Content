@@ -70,7 +70,7 @@ include::ROOT:partial$articulate.adoc[]
 include::hardware:partial$explosive_shapes.adoc[]
 
 === Parameters
-For details on the special elements of grenade combat jump to xref:combat:area_attacks.adoc#_grenades[GrenadeCombat,window=_blank, rel="noopener noreferrer"].
+For details on the special elements of grenade combat jump to xref:combat:zone_combat.adoc#_grenades[GrenadeCombat,window=_blank, rel="noopener noreferrer"].
 
 ==== Range
 The range of a grenade depends entirely on the thrower.

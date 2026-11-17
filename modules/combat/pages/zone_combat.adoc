@@ -1,4 +1,5 @@
-= Zone Attacks
+= Zone Combat
+:page-aliases: area_attacks.adoc
 
 [quote]
 ____

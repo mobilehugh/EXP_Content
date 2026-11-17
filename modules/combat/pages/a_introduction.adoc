@@ -274,14 +274,14 @@ A unit is the smallest measure of time where a persona can get something done.
 Getting something done includes: running, shooting, blasting a mutation, etc.
 Movement rates, mutation durations, and artifact effects are all based on this unit of time.
 A unit of combat time is 2 seconds long.
-You can take the time to learn more by jumping to xref:combat:time_in_combat.adoc[Combat Time,window=_blank, rel="noopener noreferrer"].
+You can take the time to learn more by jumping to xref:combat:time_in_combat.adoc[Time,window=_blank, rel="noopener noreferrer"].
 
 == Combat Movement
 Combat movement determines how far a persona can move each unit (2 seconds) of combat time.
 The measure of combat distance is the hex, and the size of a hex is 2 meters.
 A slow persona with a movement rate of 3 hexes per unit (3 hu) could move three hex spaces per turn.
 A fast persona with a movement rate of 9 hu could move 9 hex spaces each turn.
-To learn more about movement move over to xref:combat:move_in_combat.adoc[Combat Movement,window=_blank, rel="noopener noreferrer"].
+To learn more about movement move over to xref:combat:move_in_combat.adoc[Move,window=_blank, rel="noopener noreferrer"].
 
 == Table Top
 The tactical combat rules are meant to be used on a hex mat using minis or tokens.

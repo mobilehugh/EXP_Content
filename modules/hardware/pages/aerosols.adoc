@@ -45,7 +45,7 @@ To more aggressively modify the toys’ description jump to xref:hardware:appear
 
 
 === Parameters
-For details on the special elements of aerosol combat jump to xref:combat:area_attacks.adoc#_aerosols[Aerosol Combat,window=_blank, rel="noopener noreferrer"].
+For details on the special elements of aerosol combat jump to xref:combat:zone_combat.adoc#_aerosols[Aerosol Combat,window=_blank, rel="noopener noreferrer"].
 
 ==== Range
 The range parameter for an aerosol is either ‘None’ or a hex range.

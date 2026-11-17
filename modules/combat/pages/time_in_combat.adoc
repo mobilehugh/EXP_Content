@@ -1,4 +1,4 @@
-= Combat Time
+= Time
 
 [quote]
 ____
@@ -97,7 +97,7 @@ Pure movement indicates the persona is doing nothing other than moving.
 The persona could be running, crawling or cowering in fear.
 The player moves the mini representing her persona on the hex mat.
 Even pure movement can become complex when including terrain, barriers and movement types.
-For details of tactical combat movement jump to xref:combat:move_in_combat.adoc[Combat Movement,window=_blank, rel="noopener noreferrer"].
+For details of tactical combat movement jump to xref:combat:move_in_combat.adoc[Move,window=_blank, rel="noopener noreferrer"].
 
 === Actions
 Actions can be completed within the combat unit and have a movement rate cost.
