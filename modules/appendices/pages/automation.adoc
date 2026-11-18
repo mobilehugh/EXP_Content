@@ -14,7 +14,7 @@ They are covered by CC 4.0 share and share alike open source license.
 === EXP ruleset
 The ruleset allows players to build a static HTML website with all the rules and silliness on their local machine.
 This will require a build tool called https://docs.antora.org/antora/latest/[Antoradocs, window="_blank", rel="noopener noreferrer"].
-The ruleset lives on Github at https://github.com/mobilehugh/EXP_Documents[EXP Documents, window="_blank", rel="noopener noreferrer"].
+The ruleset lives on Github at https://github.com/mobilehugh/EXP_Content[EXP Content, window="_blank", rel="noopener noreferrer"].
 The details of building your own local copy of EXP are found on Github.
 
 === EXP Tool Set

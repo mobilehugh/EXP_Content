@@ -458,7 +458,7 @@ A ship’s computer is artificially intelligent but not autonomously intelligent
 The computer level determines the effectiveness of the software.
 
 The software will include any hardware and connections it needs to function on the vessel.
-A software package may physically bolt onto the spacecraft or be auto-downloaded from https://github.com/mobilehugh/EXP_Documents[GitHub].
+A software package may physically bolt onto the spacecraft or be auto-downloaded from https://github.com/mobilehugh/EXP_Content[GitHub].
 
 There is no limit to the amount of software a ship’s computer can house, but there is a limit to the number of programmes that it can simultaneously operate.
 A spacecraft is limited to deploying one software title per computer level at once.
