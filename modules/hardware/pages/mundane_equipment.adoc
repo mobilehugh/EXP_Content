@@ -107,19 +107,19 @@ If she wins the attack roll the coat rack will inflict 4d4 hit points in damage 
 
 === Strike Weapons
 
-include::hardware:partial$mundane_weapons_strike.adoc[]
+include::hardware:partial$mundane_weapons_strike_equipment.adoc[]
 
 === Fling Weapons
 
-include::hardware:partial$mundane_weapons_fling.adoc[]
+include::hardware:partial$mundane_weapons_fling_equipment.adoc[]
 
 === Shoot Weapons
 
-include::hardware:partial$mundane_weapons_shoot.adoc[]
+include::hardware:partial$mundane_weapons_shoot_equipment.adoc[]
 
 === Zone Attack Weapons
 
-include::hardware:partial$mundane_weapons_area.adoc[]
+include::hardware:partial$mundane_weapons_zone_equipment.adoc[]
 
 
 === Ammunition

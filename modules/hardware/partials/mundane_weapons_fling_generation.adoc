@@ -38,23 +38,11 @@ s|Cost (eps)
 |1d6
 |120
 
-|36-40
-|Bullwhip
-|0.8
-|1d3 + 1
-|25
-
-|41-50
-|Crossbow, Small (Shoot)
-|1.35
-|1d10
-|120
-
-|51-55
-|Crossbow, large (Shoot)
-|2.85
-|1d12
-|250
+|36-55
+|Shoot weapon
+|See below
+|See below
+|See below
 
 |56-60
 |Mace, throwing
@@ -110,6 +98,6 @@ s|Wate
 s|Damage
 s|Cost
 
-5+<|Crossbows are actually Shoot weapons, but included here because ‘too many tables’
+5+<|For a Shoot weapon result, roll on the Shoot Weapons table below.
 
 |===

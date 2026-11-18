@@ -1,18 +1,12 @@
 = Attack Types
 
-[quote]
-____
-*Sticks and stones may break my bones. A fusion pistol roasts me.*
-____
-
 An attack is any action where a persona attempts to injure another persona.
 This section focuses on attacks where the persona is trying to injure the target persona physically.
-The attack types detailed here include weapons, body parts, and explosions. 
+The attack types detailed here include weapons, body parts, and explosions.
 The section does not detail attack types like psionics, poisons, or bullying.
 
-== Attack Types
-Attack types divide the widely various methods of killing off personas into a few basic groups. 
-Attack types separate based on damage mechanism, frequency of attack, and range. 
+Attack types organizes the various methods of killing off personas into a few basic groups.
+Attack types separate based on damage mechanism, frequency of attack, and range.
 An attack type can include weapons, alien attacks and misused robot peripherals.
 
 Each persona deploys each attack type differently depending on their family and vocation.
@@ -27,7 +21,7 @@ Strike Attacks depend on the persona’s muscle power to inflict damage.
 The persona must be in an adjacent hex to make an attack roll.
 Strike attacks get one attack roll per unit.
 
-An anthro could use a weapon like a sword or an axe. 
+An anthro could use a weapon like a sword or an axe.
 An alien could use a natural attack like a bite or a talon slash.
 A robot could use a malfunctioning peripheral that operates as a club.
 
@@ -39,41 +33,19 @@ They are close combat weapons, and the target must be in the persona’s hex or 
 
 include::combat:partial$attack_types_strike_weapons_web.adoc[]
 
-Length::
-Self-explanatory.
-
-Wate::
-Self-explanatory.
-
-Defence Bonus::
-If the persona has proficiency with the weapon, she can add a DEF bonus.
-The Defence bonus only applies when the persona is using the weapon in combat.
-The player multiplies the DEF Bonus by the persona’s Dexterity score and adds it to her Defence.
-
-Damage::
-Damage indicates how many hit points the weapon removes from the target’s hit points.
-The player adds one half her Strength Attribute as a Force Bonus to her damage roll.
-
-=== Multiple Attacks
-Under certain circumstances a persona can have multiple Strike Attacks per unit.
-An alien may have multiple tentacles with which to slap.
-A robot may have multiple pointy things with which to stab.
-A mercenary can split their Skilled Strike Attack Bonus amongst several attacks per unit.
-A spie may have multiple martial arts attacks per unit. 
-There is no special nomenclature for having multiple Strike Attacks per unit. 
-
-=== Range
-Striking weapons by definition are not ranged weapons like arrows, but there are some range implications.
-Striking weapon range may be easier to describe as reach. 
-A dagger cannot reach over an adjacent hex to attack, but a spear could. 
-Other weapons cannot be used while grappling is in effect. 
-__Target hex__ is the where the target is. 
+[[_range]]
+=== Reach
+Strike weapons use reach to determine how far away a target can be attacked.
+Reach describes close combat distance rather than projectile range.
+A dagger cannot reach over an adjacent hex to attack, but a spear could.
+Other weapons cannot be used while grappling is in effect.
+__Target hex__ is the where the target is.
 __Same hex__ is the hex that the persona is in.
 
-Most of this goes out the window when players are using Large or Gigantic alien personas. 
+Most of this goes out the window when players are using Large or Gigantic alien personas.
 These rules are aimed at medium sized personas.
 
-.Range Descriptions
+.Reach Descriptions
 * Close
 ** Requires target to be in same hex.
 ** Can be used in grappling combat.
@@ -82,21 +54,21 @@ These rules are aimed at medium sized personas.
 ** Cannot be used properly on target in same hex (no Force bonus)
 ** Cannot be used at all in grappling combat.
 * Reach
-** Target may have one hex space between attacker.
-** Cannot be used on target in adjacent, or same hex. 
+** Target may have one empty hex between the attacker and target.
+** Cannot be used on target in adjacent, or same hex.
 * Mounted
 ** Unidirectional attack mounted on a heavy high speed mount.
-** Miss requires entire reorientation of mount. 
-** Cannot be used on a target in adjacent or next hex. 
+** Miss requires entire reorientation of mount.
+** Cannot be used on a target in adjacent or next hex.
 
 == Fling Attacks
 *Non-powered projectile attacks*
 
 Fling attacks depend on the persona’s dexterity to hit a target, and on the persona’s strength to inflict damage.
-The personas may be several hexes apart and still be able to damage each other. 
+The personas may be several hexes apart and still be able to damage each other.
 Fling attacks get one attack roll per unit.
 
-An anthro would use a weapon like a bow or a sling. 
+An anthro would use a weapon like a bow or a sling.
 An alien may have evolved natural attack like spitting rocks or flinging quills.
 A robot could use a malfunctioning peripheral that throw used batteries.
 
@@ -107,27 +79,11 @@ Fling weapons are not close combat weapons, and there must be at least one hex b
 
 include::combat:partial$attack_types_fling_weapons_web.adoc[]
 
-Length::
-Self-explanatory.
-
-Wate::
-Self-explanatory.
-
-Range::
-The range represents how many hexes the weapon can fly true.
-There are no attack roll penalties within the weapon’s range.
-Beyond the range, the weapon becomes much less accurate. 
-Fling attacks cannot be used for target’s in the same hex or when grappling.
-
-Decay::
-When attacking a target beyond the weapon’s range, the attack roll suffers decay penalties.
-The player subtracts the decay from the attack roll for every hex beyond the weapon’s range.
-For example, an axe thrown ten hexes would have no penalties.
-The same axe thrown 16 hexes would have a -600 penalty.
-
-Damage::
-Damage indicates how many hit points the weapon removes from the target’s hit points.
-The player adds one quarter her Strength Attribute as a Force Bonus to her damage roll.
+=== Range
+Regardless of the range of the fling weapon it is powered by the persona.
+Some fling weapon ranges are determined entirely by the persona's strength (STR), while others have specific ranges.
+Those fling weapons with specific ranges are still fully powered by the persona.
+They cannot be launched without physical effort.
 
 :art: cow_moose_antlers_both_front.png
 :width: 350px
@@ -138,22 +94,14 @@ The player adds one quarter her Strength Attribute as a Force Bonus to her damag
 :description: Humanoid moose wearing a rcmp hat and holding two six shooters.
 include::ROOT:partial$articulate.adoc[]
 
-=== Multiple Attacks
-Under certain circumstances a persona can have multiple Fling Attacks per unit.
-An alien may be able spit more than one crystal spore per unit. 
-Multiple alien Fling Attacks arise from evolutionary process and are natural to the being.
-A robot may have multiple levers that allow it to pitch batteries and silicon chunks at their foe.
-A mercenary can split their Skilled Fling Attack Bonus between 2 arrow attacks per unit, but this is rare thing.
-There is no special nomenclature for having multiple Fling Attacks per unit. 
-
 == Shoot Attacks
 *Powered projectile attack*
 
 Shoot Attacks do not require any muscle power from the persona.
-The persona uses her intelligence and dexterity to guide the attack 
+The persona uses her intelligence and dexterity to guide the attack
 The attack supplies its own energy to reach the target and inflict damage.
-The personas can be many hexes apart and still be able to damage each other. 
-Shoot attacks are limited to once per combat unit. 
+The personas can be many hexes apart and still be able to damage each other.
+Shoot attacks are limited to once per combat unit.
 Examples are bullets, laser bolts, energy beams, and crossbow bolts.
 
 An anthro could use a weapon like a gun or a lazer.
@@ -163,113 +111,28 @@ A robot could have an actual baked-in gun or be misusing a construction nail gun
 === Shoot Weapons
 These are powered weapons.
 Shoot weapons are the classic guns and lazer weapons from Sciency Fiction and action movies including lasers, crossbows, rifles, fusion guns, death rays, machine pistols, etc.
-They are typical artifacts from the Hardware section of EXP. 
+They are typical artifacts from the Hardware section of EXP.
 Exotic, dangerous tech weapons are described in xref:hardware:guns.adoc[Guns,window=_blank, rel="noopener noreferrer"].
-Mundane Shoot Type Weapons are listed below. 
+Mundane Shoot Type Weapons are listed below.
 
 include::combat:partial$attack_types_shoot_weapons_web.adoc[]
 
-Length::
-Self-explanatory.
+=== Range
+The range of a shoot weapon is completely determined by the weapon.
+When the trigger is pulled on the crossbow all range energy is already present.
+Any other persona could have done the work priming it.
+The key is the lack of physical effort when the attack is made.
 
-Wate::
-Self-explanatory.
-
-Range::
-The range represents how many hexes the weapon can fly true.
-There are no attack roll penalties within the weapon’s range.
-Beyond the range, the weapon becomes much less accurate. 
-A crossbow can be used on a target in the attackers hex.
-However, a crossbow cannot be reloaded when grappling.
-
-Decay::
-When attacking a target beyond the weapon’s range, the attack roll suffers decay penalties.
-The player subtracts the decay from the attack roll for every hex beyond the weapon’s range.
-For example, a small crossbow at a ten hex range would have no penalties.
-The same small crossbow at 28 hexes would have a -375 attack roll penalty.
-
-Damage::
-Damage indicates how many hit points the weapon removes from the target’s hit points.
-There are no Strength adjustments for Shoot weapons.
-
-=== Multiple Attacks
-Typically Shoot Attacks are limited to one Attack Roll per unit. 
-Due to their powered nature Shoot Attacks commonly have multiple attacks per unit.
-A robot or alien with multiple Shoot Attacks per unit simply enjoys that many attack rolls per unit.
-
-Weapons with multiple attacks allow anthros (or any other persona kind using them) to make multiple Attack Rolls per unit.
-These weapons have special names and rules attached to them.
-A semi-automatic weapon is called a Sotto Type Weapon. 
-A full-automatic weapon is called a Flotto Type Weapon.
-The Sotto and Flotto weapons are both sub types of Shoot Weapons.
-
-=== Sotto Attacks
-*Semi-automatic powered projectile attacks*
-
-Semi-automatic weapons allow the player to make multiple attack rolls per unit using her full Skilled Shoot Bonus. 
-Sotto is a portmanteau of semi and auto. 
-The weapon allows the player to make 2 or 3 attack rolls with the weapon per unit. 
-Weapons that attack twice per unit have names like Sotto-2 or Shoot-2.
-Weapons that attack thrice per unit have names like Sotto-3 or Shoot-3.
-Sotto weapons are usually artifact weapons found in the xref:hardware:guns.adoc[Guns,window=_blank, rel="noopener noreferrer"] section.
-
-=== Flotto Attacks
-*Full-automatic powered projectile attacks.*
-
-Full-automatic weapons allow the player to make hose down her target with bullets or lazer bolts.
-Flotto is a portmanteau of full and auto. 
-Flotto attacks function use the persona’s Skilled Shoot Bonus, and make 5 Attack Rolls per unit.
-A machine gun that releases a hail of bullets with the pull of a trigger is the most iconic Flotto attack.
-Flotto weapons are usually artifact weapons found in the xref:hardware:guns.adoc[Guns,window=_blank, rel="noopener noreferrer"] section.
-
-.*How to Flotto*
-. Player makes 5 attack rolls 
-. Each successful attack roll is considered a “hit”
-. Each hit will deliver 0-3 (1d4 - 1) rounds of damage
-. The player rolls damage for each round of damage
-. Typically the target is destroyed
-
-The player will makes five Attack Rolls each unit when using a Flotto weapon.
-The player adds her persona’s appropriate Shoot Bonus to each attack roll.
-Each attack roll represents a random number of ammo rounds (bullets, lazer bolts, etc.).
-For each successful attack roll anywhere from 0-3 rounds (1d4 - 1) damage the target.
-While extremely unlikely, it is possible to win five attack rolls and land zero rounds on the target. 
-Each attack roll expends 15 rounds of ammunition.
-
-NOTE: Only a mercenary with flotto skill can “spread” the attack rolls between different targets.
-
-.*A detailed example*
-A persona fires her medium-powered full auto lazer pistol at a target. 
-A medium-powered full auto lazer pistol inflicts 2-20 (2d10) hit points of damage per lazer bolt (round).
-The player makes five attack rolls on the target. 
-Since she lacks lazer rifle skill, she adds her Raw Shoot Bonus to each attack roll.
-Three of the attack rolls are successful, two of the attack rolls fail.
-The player will then roll 1d4 - 1 three times to see how many lazer bolts (rounds) damage the target. 
-The player rolls 2, 0, 3 indicating 5 rounds hitting the target.
-The target will suffer 10d10 hit points of damage. 
-The weapon discharges 15 rounds of ammunition regardless.
 
 == Zone Attacks
-*Zone Attacks*
+*Attacks that affect an area*
 
-A Zone Attack covers a predetermined area of combat with effect (usually damage).
-Typically all targets in the area are affected by the attack regardless of Defence. 
-Most often a Zone Attack weapon delivers damage via hit point removal, but special effects can also be delivered by Zone Attacks.
-A frag grenade obviously deals damage via an explosion, but a sleeping gas aerosol may make the targets fall asleep
+A Zone Attack affects every persona in its area of effect, regardless of Defence.
+A frag grenade delivers explosive damage, while a sleeping gas aerosol may make targets fall asleep.
+Grenades and aerosols are common Zone Attack weapons.
+Aliens and robots can also have Zone Attacks.
 
-When the player makes an Attack Roll with a Zone Attack weapon she makes an Attack Roll against a location and *not* a target.
-The Attack Roll is made against a target hexagon on the combat field and does *not* consider the Defense ratings of any of the personas in the area of effect.
-
-The player targets a specific hex for the Zone Attack.
-The Attack Roll determines if she hits to desired hexagon.
-Everything else is determined by the mechanics of the Zone Attack.
-The player must win an attack roll versus DEF 542 to have her persona’s Zone Attack weapon land where she wants.
-Every persona in the area of effect is damaged.
-There is no saving throw.
-For more explosive details on Zone Attacks there is a whole section at:
-xref:combat:zone_combat.adoc[Zone Combat,window=_blank, rel="noopener noreferrer"].
-
-NOTE: a static hexagon has a Defence of 542
+For targeting, attack rolls, areas of effect, and resolving damage or special effects, jump to xref:combat:zone_combat.adoc[Zone Combat,window=_blank, rel="noopener noreferrer"].
 
 === Zone Attack Weapons
 Most Zone Attacks are weapons like xref:hardware:grenades.adoc[Grenades,window=_blank, rel="noopener noreferrer"] or
@@ -280,59 +143,20 @@ Mundane Zone Attacks function as Fling attacks.
 
 include::combat:partial$attack_types_zone_weapons_web.adoc[]
 
-Wate::
-Self-explanatory.
+=== Range
+Zone attack weapons that the persona throws are considered a fling attack.
+They would usually use their Raw Bonus unless skilled with the zone attack.
+The range of this fling attack is equal the persona's STR.
+So a persona with a 9 STR could target a hex up to 9 hexes away.
 
-Range::
-The range of mundane grenades is equal to one hex per point of Strength.
-A persona with a Strength of ten could aim at a target ten hexes away. 
-
-Radius::
-Mundane area of effect weapons are unpredictable.
-The player must roll the radius of effect each time one detonates.
-An radius of zero indicates only the target hex is damaged.
-The other hex values are the radius of the damage.
-
-Roll::
-What dice to use to generate the radius of effect.
-
-Damage::
-Damage indicates how many hit points the weapon removes from the target’s hit points.
-There are no Strength adjustments for Zone Attack weapons.
-
-=== Grenade Attacks
-*Self-powered Zone Attack*
-
-A grenade is a self-contained Zone Attack that is aimed at a target hex.
-The hex where the grenade lands is the epicenter of the Zone Attack.
-The grenade goes off and the mechanics of the grenade determine the effect and the area.
-The player adds the Fling Bonus, excluding the Force Bonus, to the Attack Roll when throwing a Grenade Zone Attack weapon.
-If the persona is using a grenade launcher type weapon the player adds the Shoot Bonus to her Attack Roll. 
-Irregardless of using Fling or Shoot the target is a hexagon with a defence of 542.
-
-To find out what happens if you miss go to:  
-xref:combat:zone_combat.adoc[Zone Combat,window=_blank, rel="noopener noreferrer"].
-
-=== Aerosol Attacks
-*Automated Zone Attack*
-
-An aerosol is a self-contained Zone Attack that instantly occupies a specified area of effect.
-An aerosol does not have an epicenter and can have a very oddly shaped area of effect
-The aerosol is triggered and the mechanics of the aerosol determine the effect and the area.
-The effect is automatic and no Attack Roll needs to be made.
-
-Some aerosols require a target hexagon to establish an epicenter.
-The player adds the Shoot Bonus to her Attack Roll if the aerosol requires a target hex. 
-The hexagon has a defence of 542.
-
-To find out what happens if you miss go to:  
-xref:combat:zone_combat.adoc[Zone Combat,window=_blank, rel="noopener noreferrer"].
+If the zone attack is delivered by weapon (like a grenade launcher) this is considered a shoot attack.
+The range of the shoot attack is determined by the weapon delivering the zone attack (grenade launcher).
 
 == Psionic Attacks
 *Mind powered attacks with various effects*
 
 Psionic attacks are listed here to keep EXP grounded in its Sciency Fiction roots.
 A Psionic Attack Type arises from an anthro mutation, and alien evolutation or a robot malfunctation that gives unique powers to the persona.
-Mutations can be which can be psionic or phenomic. 
+Mutations can be which can be psionic or phenomic.
 Phenomic mutations are physical in nature and use existing attack types like Strike, Fling, Shoot, or Zone.
-Psionic mutations can be used instantly by the persona, travel across imaginary planes of existence, and are only limited by the mutations description.
+Psionic mutations can be used __instantly__ by the persona, travel across imaginary planes of existence, and are only limited by the mutations description.

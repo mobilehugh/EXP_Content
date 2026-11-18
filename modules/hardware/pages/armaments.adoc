@@ -280,7 +280,7 @@ include::ROOT:partial$articulate.adoc[]
 
 The principle of displacement gloves is straightforward.
 A force field projects the damaging force ahead of the incoming fist.
-The displacement gloves alter the range of the striking force after each attack, making it difficult for the target to get familiar with the device.
+The displacement gloves alter the reach of the striking force after each attack, making it difficult for the target to get familiar with the device.
 There is a +150 attack roll bonus for punches offered.
 The bonus is primarily due to the target’s confusion rather than increased combat skill.
 
@@ -1001,8 +1001,12 @@ Located here for your rolling convenience.
 
 === Strike Weapons
 
-include::hardware:partial$mundane_strike_weapons_generation.adoc[]
+include::hardware:partial$mundane_weapons_strike_generation.adoc[]
 
 === Fling Weapons
 
-include::hardware:partial$mundane_fling_weapons_generation.adoc[]
+include::hardware:partial$mundane_weapons_fling_generation.adoc[]
+
+=== Shoot Weapons
+
+include::hardware:partial$mundane_weapons_shoot_generation.adoc[]

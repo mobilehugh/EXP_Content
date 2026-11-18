@@ -1,17 +1,18 @@
 = EXP: The game of technological chaos.
 
-EXP: The Game of Technological Chaos is a paper and dice Sciency Fiction role-playing game. 
-It is *not* a POV shooter video game, movie, or app. 
-You play EXP with dice and people all at the same table. 
+EXP: The Game of Technological Chaos is a paper and dice Sciency Fiction role-playing game.
+It is *not* a POV shooter video game, movie, or app.
+You play EXP with dice and people all at the same table.
 
-These adoc files are converted to a static web site using https://docs.antora.org/antora/latest/[Antoradocs] 
-
-Living example of web site is here -> http://rules.expgame.com[EXP, window="_blank", rel="noopener noreferrer"]
+* Create your own local web site using https://docs.antora.org/antora/latest/[Antoradocs]
+* Living example of web site is here -> http://rules.expgame.com[EXP, window="_blank", rel="noopener noreferrer"]
+* Create an 3 book (800 pages) PDF using Antora -> DocBook -> PanDoc -> Typst toolchain. A true pain call.
 
 The comings and goings of this project are found at http://expgame.com[expgame.com]
 
 == Goal
-*Make the world less worse through people playing games together.* 
+*Make the world less worse through people playing games together.*
 
 == License
-You are free to use EXP for any of your story telling needs. EXP license is protected by Hugh MacLeod using link:https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0] license.
+You are free to use EXP for any of your story telling needs.
+EXP license is protected by Hugh MacLeod using a link:https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0] - share and share-alike with *attribution* license.

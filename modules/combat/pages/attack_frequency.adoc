@@ -1,0 +1,100 @@
+= Attack Frequency
+
+Attack frequency is the number of attack rolls a player can make per combat unit.
+A combat unit represents 2 seconds.
+In most cases the player gets to make one attack roll per unit.
+This is the expectation unless otherwise stated by the attack, weapon, skill, or ability being used.
+
+== Natural Attacks
+Natural attacks and built-in attacks can have an attack frequency greater than one.
+These attacks can be Strike, Fling, or Shoot Attacks.
+There is no special nomenclature for multiple natural attacks per unit.
+
+=== Aliens
+An alien’s attack frequency determines how many natural attacks she can make per unit.
+An alien may have multiple tentacles with which to slap, spit several crystal spores, or have multiple natural Shoot Attacks.
+The player describes these attacks to suit the alien’s biology.
+Aliens automatically use their Skilled Bonus with their natural attacks.
+
+An alien’s natural attack frequency applies only to her natural attacks.
+It does not apply to weapons or mutations.
+An alien with three natural attacks per unit could bite three times, but would only get one attack roll with a lazer pistol that fires once per unit.
+If she uses a Sotto-2 weapon, she gets two attack rolls per unit with that weapon.
+
+The player can use fewer than the alien’s full number of natural attacks.
+She can also direct her natural attacks at different targets.
+An alien with three natural attacks could attack three different targets in a unit.
+
+For generating an alien’s natural attack frequency, jump to xref:aliens:attack_frequency.adoc[Alien Attack Frequency,window=_blank, rel="noopener noreferrer"].
+The referee can limit excessive natural attacks to preserve game balance and fun.
+For an optional way to make multiple attacks more biological, jump to xref:referee_personas:alien_rp.adoc[Alien Referee Personas,window=_blank, rel="noopener noreferrer"].
+
+=== Robots
+A robot may have multiple pointy things with which to stab, multiple levers that pitch batteries, or multiple built-in Shoot Attacks.
+Use the attack frequency specified for the robot’s attack.
+A robot uses her Skilled Bonus for built-in attacks and her Raw Bonus for malfunctioning peripherals.
+
+== Skills and Abilities
+Some skills and abilities allow multiple attacks per unit.
+A mercenary can split her Skilled Strike Attack Bonus amongst several Strike Attacks per unit.
+A mercenary can also split her Skilled Fling Attack Bonus between two arrow attacks per unit, although this is rare.
+A spie can gain multiple martial arts attacks as she advances in EXPS level.
+The xref:vocations:spie.adoc#_martial_arts[Spie Martial Arts,window=_blank, rel="noopener noreferrer"] rules determine the number and order of these attacks.
+
+== Weapon Attacks
+
+=== Single Attacks
+Mundane Strike and Fling weapons normally allow one attack roll per unit.
+Shoot weapons also allow one attack roll per unit unless their description specifies otherwise.
+A skill or ability can change this frequency as described above.
+
+Weapons with multiple Shoot Attacks have special names and rules.
+A semi-automatic weapon is called a Sotto weapon.
+A full-automatic weapon is called a Flotto weapon.
+Sotto and Flotto are both subtypes of Shoot weapons.
+Any persona using such a weapon follows its attack frequency.
+
+=== Sotto Attacks
+*Semi-automatic powered projectile attacks*
+
+Semi-automatic weapons allow the player to make multiple attack rolls per unit using her full Skilled Shoot Bonus.
+Sotto is a portmanteau of semi and auto.
+The weapon allows the player to make 2 or 3 attack rolls with the weapon per unit.
+Weapons that attack twice per unit have names like Sotto-2 or Shoot-2.
+Weapons that attack thrice per unit have names like Sotto-3 or Shoot-3.
+Sotto weapons are usually artifact weapons found in the xref:hardware:guns.adoc[Guns,window=_blank, rel="noopener noreferrer"] section.
+
+=== Flotto Attacks
+*Full-automatic powered projectile attacks.*
+
+Full-automatic weapons allow the player to hose down her target with bullets or lazer bolts.
+Flotto is a portmanteau of full and auto.
+Flotto attacks allow the player to make 5 Attack Rolls per unit using the persona’s appropriate Shoot Bonus.
+A machine gun that releases a hail of bullets with the pull of a trigger is the most iconic Flotto attack.
+Flotto weapons are usually artifact weapons found in the xref:hardware:guns.adoc[Guns,window=_blank, rel="noopener noreferrer"] section.
+
+==== Resolving Flotto Attacks
+. Player makes 5 attack rolls
+. Each successful attack roll is considered a “hit”
+. Each hit will deliver 0-3 (1d4 - 1) rounds of damage
+. The player rolls damage for each round of damage
+
+The player makes five Attack Rolls each unit when using a Flotto weapon.
+The player adds her persona’s appropriate Shoot Bonus to each attack roll.
+Each attack roll represents a random number of ammo rounds (bullets, lazer bolts, etc.).
+For each successful attack roll anywhere from 0-3 rounds (1d4 - 1) damage the target.
+While extremely unlikely, it is possible to win five attack rolls and land zero rounds on the target.
+The weapon expends 15 rounds of ammunition per unit, regardless of how many attacks hit.
+
+NOTE: Only a mercenary with flotto skill can “spread” the attack rolls between different targets.
+
+==== Flotto Example
+A persona fires her medium-powered full auto lazer pistol at a target.
+A medium-powered full auto lazer pistol inflicts 2-20 (2d10) hit points of damage per lazer bolt (round).
+The player makes five attack rolls on the target.
+Since she lacks lazer pistol skill, she adds her Raw Shoot Bonus to each attack roll.
+Three of the attack rolls are successful, two of the attack rolls fail.
+The player will then roll 1d4 - 1 three times to see how many lazer bolts (rounds) damage the target.
+The player rolls 2, 0, 3 indicating 5 rounds hitting the target.
+The target will suffer 10d10 hit points of damage.
+The weapon discharges 15 rounds of ammunition regardless.

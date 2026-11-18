@@ -1,23 +1,21 @@
 .Attack Types
 * *Strike*
-** contact, non-powered; thrusting and striking; once per unit
-** *Attribute*: STR
-** *Examples*: Sword, Punch, Bite, Ram
+** non-powered; thrusting and striking;
+** STR dependent
+** Sword, mace, punch, bite
 * *Fling*
-** ranged, non-powered; hurled objects; once per unit
-** *Attributes*: DEX, INT
-** *Examples*: Arrow, Rock, Spittle, Dagger
+** non-powered; ranged attacks
+** DEX and INT dependent
+** Arrow, rock, spittle, spear
 * *Shoot*
-** ranged, powered; launched objects; once per unit
-** *Attribute*: DEX
-** *Examples*: Bullets, Plasma Bolts, Lazer Eyes, Rocket Spores
-** includes Sotto and Flotto Attack Types
+** powered; ranged attacks
+** DEX dependent
+** Bullets, lazers, rocket spores
 * *Zone*
-** affects everything in area of effect; Fling or Shoot Attack; target a hex; single use only
-** *Attributes*: DEX, INT
-** *Examples*: Grenades, Aerosols, Farts, Explosions
-** includes Grenade and Aerosol Attack Types
+** multiple targets at once
+** DEX and INT dependent
+** Grenades, aerosols, farts, bombs
 * *Psionic*
 ** non-physical; invisible; instantaneous
-** *Attribute*: MND
-** *Examples*: Telepathy, ESP, Empathy
+** MND dependent
+** Telepathy, ESP, telekinesis

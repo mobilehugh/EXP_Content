@@ -1,0 +1,58 @@
+.*Shoot Weapons Table*
+[width="90%",cols="<,4*^",frame="all", stripes="even"]
+|===
+5+<|Projectile weapon data.
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Range (hexes)
+s|Decay (per hex)
+
+|Bullwhip
+|1d3 + 1
+|0.8
+|2
+|---
+
+|Crossbow, small
+|1d10
+|1.35
+|25
+|125
+
+|Crossbow, large
+|1d12
+|2.85
+|35
+|120
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Range (hexes)
+s|Decay (per hex)
+|===
+
+
+
+.*Shoot Weapon Details*
+Damage::
+Damage indicates how many hit points the weapon removes from the target’s hit points.
+There are no Strength adjustments for Shoot weapons.
+
+Wate::
+Self-explanatory.
+
+Range::
+The range represents how many hexes the weapon can fly true.
+There are no attack roll penalties within the weapon’s range.
+Beyond the range, the weapon becomes much less accurate.
+A crossbow can be used on a target in the attackers hex.
+However, a crossbow cannot be reloaded when grappling.
+
+Decay::
+When attacking a target beyond the weapon’s range, the attack roll suffers decay penalties.
+The player subtracts the decay from the attack roll for every hex beyond the weapon’s range.
+For example, a small crossbow at a ten hex range would have no penalties.
+The same small crossbow at 28 hexes would have a -375 attack roll penalty.

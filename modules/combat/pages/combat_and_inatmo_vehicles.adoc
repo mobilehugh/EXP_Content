@@ -256,7 +256,7 @@ The Attack Roll penalty for speed combines all the challenges into one faux real
 === Strike Weapons
 Nope.
 Strike weapons are self-powered thrusting and striking weapons. 
-Attacks with swords, axes, or lances are usually precluded by range in vehicle combat.
+Attacks with swords, axes, or lances are usually precluded by limited reach in vehicle combat.
 Strike weapons used against high speed vehicles will usually result in a pedestrian collision before vehicle damage.
 
 === Fling Weapons

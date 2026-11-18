@@ -10,6 +10,13 @@ s|Alternate
 
 
 
+|Bullwhip
+|0.8
+|1d3 + 1
+|25
+|Chain +
+Towel
+
 |Crossbow, small
 |1.35
 |1d10

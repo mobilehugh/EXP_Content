@@ -1,1 +1,1 @@
-include::hardware:partial$mundane_strike_weapons.adoc[]
+include::hardware:partial$mundane_weapons_strike_combat.adoc[]

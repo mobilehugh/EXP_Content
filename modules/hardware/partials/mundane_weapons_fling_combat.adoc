@@ -1,0 +1,127 @@
+.*Fling Weapons Table*
+[width="90%",cols="<,4*^",frame="all", stripes="even"]
+|===
+5+<|Projectile weapon data.
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Range (hexes)
+s|Decay (per hex)
+
+|Axe
+|1d8
+|1.75
+|14
+|300
+
+|Bolo
+|2d3
+|1.25
+|10
+|125
+
+|Boomerang
+|1d6 + 1
+|0.45
+|20
+|125
+
+|Bow, small
+|1d6
+|0.95
+|24
+|120
+
+|Bow, large
+|1d6
+|1.1
+|30
+|120
+
+|Mace, small
+|1d3
+|1.0
+|15
+|400
+
+|Object (rock)
+|1d3
+|0.75
+|STR
+|---
+
+|Point (dagger)
+|1d3
+|0.25
+|STR
+|---
+
+|Shuriken
+|1d4 + 1
+|0.4
+|20
+|150
+
+|Sling
+|1d4
+|0.15
+|10
+|200
+
+|Spear
+|1d8
+|2.0
+|10
+|145
+
+|Staff, small
+|1d4
+|1.5
+|STR
+|---
+
+|Staff, large
+|1d6
+|2.0
+|5
+|220
+
+|Sword
+|1d4
+|2.0
+|10
+|150
+
+|Wham (discus)
+|1d6
+|1.75
+|15
+|200
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Range (hexes)
+s|Decay (per hex)
+|===
+
+.*Fling Weapon Details*
+Damage::
+Damage indicates how many hit points the weapon removes from the target’s hit points.
+The player adds one quarter her Strength Attribute as a Force Bonus to her damage roll.
+
+Wate::
+Self-explanatory.
+
+Range::
+The range represents how many hexes the weapon can fly true.
+There are no attack roll penalties within the weapon’s range.
+Beyond the range, the weapon becomes much less accurate.
+Fling attacks cannot be used for target’s in the same hex or when grappling.
+
+Decay::
+When attacking a target beyond the weapon’s range, the attack roll suffers decay penalties.
+The player subtracts the decay from the attack roll for every hex beyond the weapon’s range.
+For example, an axe thrown ten hexes would have no penalties.
+The same axe thrown 16 hexes would have a -600 penalty.

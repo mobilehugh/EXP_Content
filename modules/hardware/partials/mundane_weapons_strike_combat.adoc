@@ -1,0 +1,201 @@
+.*Strike Weapons Table*
+[width="95%",cols="<,2*^,<,^",frame="all", stripes="even"]
+|===
+5+<|Non-powered thrusting and striking weapon data.
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Reach (cm)
+s|DEF Bonus
+
+|Axe
+|1d8
+|1.8
+|Normal (70)
+|1
+
+|Brass Knuckles
+|1d2 - 1
+|0.4
+|Close
+|0
+
+|Chain
+|1d6
+|1.8
+|Normal (70)
+|0
+
+|Punch, Fist
+|1d4 - 2
+|--
+|Close
+|--
+
+|Flail, small
+|1d6 + 1
+|1.8
+|Normal (70)
+|0
+
+|Flail, large
+|1d8
+|1.5
+|Reach (120)
+|1.5
+
+|Kick, Foot
+|1d4 - 1
+|--
+|Close
+|--
+
+|Fork
+|2d4+1
+|1.6
+|Reach (175)
+|2
+
+|Hammer
+|1d8
+|3.0
+|Normal (100)
+|0
+
+|Lance, small
+|4d4
+|10.0
+|Mounted (400)
+|0
+
+|Lance, large
+|4d6
+|13.0
+|Mounted (500)
+|0
+
+|Mace, small
+|1d4
+|1.0
+|Normal (40)
+|1
+
+|Mace, large
+|1d6
+|2.5
+|Normal (100)
+|2
+
+|Morning Star
+|1d8
+|1.75
+|Reach (150)
+|0
+
+|Orchid
+|1d4
+|0.9
+|Close (20)
+|1
+
+|Pick, small
+|1d4 - 1
+|1.2
+|Close (40)
+|1
+
+|Pick, large
+|1d8
+|2.5
+|Normal (90)
+|2
+
+|Pike
+|1d8
+|8.0
+|Reach (300)
+|0
+
+|Point (dagger)
+|1d3 - 1
+|0.3
+|Close (35)
+|0
+
+|Scimitar
+|1d8
+|1.2
+|Normal (90)
+|1
+
+|Spear
+|1d8
+|2.5
+|Reach(200)
+|2
+
+|Staff, small
+|1d4
+|1.5
+|Normal (90)
+|1
+
+|Staff, large
+|1d6
+|2.0
+|Reach (180)
+|3
+
+|Sword, short
+|1d4
+|0.4
+|Close (60)
+|0
+
+|Sword, medium
+|1d8
+|1.5
+|Normal (90)
+|1
+
+|Sword, long
+|1d10
+|2.0
+|Normal (120)
+|2
+
+|Sword, combo
+|1d8
+|1.8
+|Normal (150)
+|2.5
+
+|Sword, double
+|1d12
+|3.5
+|Reach (180)
+|3
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Reach (cm)
+s|DEF Bonus
+|===
+
+.*Strike Weapon Details*
+Damage::
+Damage indicates how many hit points the weapon removes from the target’s hit points.
+The player adds one half her Strength Attribute as a Force Bonus to her damage roll.
+
+Wate::
+Self-explanatory.
+
+Reach::
+Self-explanatory.
+
+Defence Bonus::
+If the persona has proficiency with the weapon, she can add a DEF bonus.
+The Defence bonus only applies when the persona is using the weapon in combat.
+The player multiplies the DEF Bonus by the persona’s Dexterity score and adds it to her Defence.

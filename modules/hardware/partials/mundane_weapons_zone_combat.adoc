@@ -1,0 +1,57 @@
+.*Zone Attack Weapons*
+[width="90%",cols="<,4*^",frame="all", stripes="even"]
+|===
+5+<|Zone Attack weapons.
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Radius (hexes)
+s|Miss Roll (hexes)
+
+|Corrosive Flask
+|2d10
+|1
+|0-1
+|1d2 - 1
+
+|https://en.m.wikipedia.org/wiki/Molotov_cocktail[Molotov Cocktail]
+|3d10
+|1
+|0-2
+|1d6 +
+1-2=0, 3-5=1, 6=2
+
+|Pipe Bomb
+|2d12
+|1
+|0-3
+|1d4 - 1
+
+s|Weapon
+s|Damage
+s|Wate (kg)
+s|Radius (hexes)
+s|Miss Roll (hexes)
+|===
+
+.*Zone Weapon Details*
+Damage::
+Damage indicates how many hit points the weapon removes from the target’s hit points.
+There are no Strength adjustments for Zone Attack weapons.
+
+Wate::
+Self-explanatory.
+
+Radius::
+Mundane area of effect weapons are unpredictable.
+The player must roll the radius of effect each time one detonates.
+An radius of zero indicates only the target hex is damaged.
+The other hex values are the radius of the damage.
+
+Miss Roll::
+What dice to use to generate the radius of effect.
+
+Range::
+The range of mundane grenades is equal to one hex per point of Strength.
+A persona with a Strength of ten could aim at a target ten hexes away.

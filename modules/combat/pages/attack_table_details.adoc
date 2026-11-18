@@ -40,7 +40,7 @@ If the persona is using an unfamiliar weapon, she uses her Raw Bonus (Raw).
 
 The Skilled Bonus has two main components: attribute bonuses and level bonuses.
 
-=== Attribute Component
+=== Attributes
 Most of the calculations done on the attack table involve the persona’s attributes.
 Each attack type has its own attribute calculation.
 Strong personas have better attack bonuses with thrusting and striking attacks.
@@ -55,7 +55,7 @@ Dextrous personas excel with powered missile attacks.
 :description: Humanoid feline walking away from destroyed carnival game.
 include::ROOT:partial$articulate.adoc[]
 
-=== Level Component
+=== Level
 The level component refers to the bonuses the persona gets from her vocation and experience level.
 The higher the experience level, the better the persona is at combat.
 In general, the persona with the higher level will be better in combat.
@@ -113,7 +113,7 @@ The Force Bonus (Force) represents the impact of Strength on persona-powered att
 Strength increases the amount of damage that the persona delivers with a striking weapon.
 Powered attacks (Shoot) do not have a Force Bonus.
 
-== Deconstruction of an Attack Table
+== Deconstruction
 The attack table is a matrix of numbers that inject some faux realism into combat.
 It does not need to be memorized, and understanding it does take a few steps.
 Below is a generic attack table.

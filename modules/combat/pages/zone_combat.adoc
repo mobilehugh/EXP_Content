@@ -7,7 +7,8 @@ ____
 ____
 
 Zone Attacks wreak their havoc on a bunch of hexes instead of a specific target.
-Zone Attack weapons target a hex instead of a target persona.
+Grenades target a hex instead of a target persona.
+Aerosols automatically fill their specified area of effect.
 Every target (friend or foe) in that area of effect is automatically affected by the attack.
 Following are the detailed rules for Zone Attacks.
 
@@ -27,7 +28,9 @@ Most alien and robot Zone Attacks function like a grenade or an aerosol, and the
 WARNING: *Zone Attacks damage friend and foe equally.*
 
 == Grenades 
-Grenades are Zone Attacks that personas aim at a target hex.
+Grenades are self-contained Zone Attacks that personas aim at a target hex.
+The hex where the grenade lands is the centre of its area of effect.
+The grenade’s description determines its effect and the area affected.
 Combat with Molotov’s, acid misters, pipe bombs, explosives and artifact grenades is covered here.
 Alien and robot Zone Attacks use the grenade rules as described.
 
@@ -104,8 +107,8 @@ Players use the persona’s attack table to increase their attack roll.
 Unless the persona has grenade proficiency, the player will use the Raw Bonus (Raw) for her attack roll.
 The grenade delivery determines which attack type the player uses for her attack roll.
 
-If the persona throws the grenade, the player makes a Fling Attack.
-If the persona shoots the grenade out of a grenade launcher, the player makes a Shoot Attack.
+If the persona throws the grenade, the player makes a Fling Attack and adds her Fling Bonus, excluding the Force Bonus, to the attack roll.
+If the persona shoots the grenade out of a grenade launcher, the player makes a Shoot Attack and adds her Shoot Bonus to the attack roll.
 A Grenade attack that acts as a Strike Attack would be a suicide vest or a land mine. 
 
 
@@ -225,8 +228,9 @@ include::ROOT:partial$articulate.adoc[]
 
 === Attack Roll
 Aerosols do not require an attack roll and do not malfunction.
-The point and shoot nature of the aerosol leads to limited flexibility.
-When activated, the aerosol instantly ejects either a stream or blob attack.
+When activated, the aerosol instantly fills a stream or radius area of effect.
+A radius aerosol always reaches the desired target hex within its range.
+There is no targeting roll or scatter roll.
 
 === Stream Aerosol
 The stream aerosol attack is the most common.
@@ -235,10 +239,10 @@ An aerosol with a 2 hex by 9 hex stream area of effect cuts a swath 2 hexes wide
 Every target in the jet stream is affected by the aerosol.
 
 === Blob Aerosols
-Blob aerosols instantly launch a blob a fixed range and expand out to a radius area of effect.
-Blob aerosols function very similarly to a powered grenade launcher.
+Blob aerosols instantly launch a blob to a target hex within the weapon’s stated range, where it expands into a radius area of effect.
+The blob automatically reaches the desired hex.
 An aerosol with a 10 hex range, and a 5 hex area of effect, would shoot a blob 10 hexes and then engulf a 10 hex diameter ball of targets (or teammates).
-Every persona in the area of effect will be affected by the aerosol.
+Every persona in the area of effect will be affected by the aerosol, including the user if she is within the radius.
 
 :art: Figure_Aerosols.png
 :width: 450px
@@ -249,9 +253,15 @@ Every persona in the area of effect will be affected by the aerosol.
 :description: Diagram with hexagons demonstrating aerosol area of effect.
 include::ROOT:partial$articulate.adoc[]
 
+=== Aerosol Effects and Saving Rolls
+There is no saving roll to avoid being enveloped by an aerosol.
+Every persona in the area of effect is exposed to its effect.
+If the aerosol inflicts damage or a destructive effect, such as immolation, there is no saving roll to avoid that damage or destruction.
+If the aerosol delivers poison, sleep, or another effect that allows a saving roll, each exposed target makes the saving roll specified by that effect.
+That saving roll determines the effect on the target; it does not prevent exposure to the aerosol.
+
 === Confined Spaces
 Aerosols do not exhibit great forces like exploding grenades. 
 These weapons transform the atmosphere to exert their damage.
 Aerosols do not expand beyond the area of effect in a confined space.
 A stream aerosol aimed into a tiny room will only affect that tiny room.
-This safety feature keeps aerosols from harming their users. 

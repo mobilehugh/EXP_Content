@@ -1,1 +1,1 @@
-See xref:hardware:mundane_equipment.adoc#_shoot_weapons[Shoot Weapons] for the weapon listings.
+*See xref:hardware:mundane_equipment.adoc#_shoot_weapons[Shoot Weapons] for more details.*

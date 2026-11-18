@@ -1,0 +1,34 @@
+.*Mundane Shoot Weapons Table*
+[width="75%",cols="^1,<3,^2,^2,^2",frame="all", stripes="even"]
+|===
+5+<|Roll here for a Shoot weapon result on the Fling Weapons table.
+s|Roll 1d20
+s|Weapon
+s|Wate (kgs)
+s|Damage
+s|Cost (eps)
+
+|01-05
+|Bullwhip
+|0.8
+|1d3 + 1
+|25
+
+|06-15
+|Crossbow, small
+|1.35
+|1d10
+|120
+
+|16-20
+|Crossbow, large
+|2.85
+|1d12
+|250
+
+s|Roll 1d20
+s|Weapon
+s|Wate (kgs)
+s|Damage
+s|Cost (eps)
+|===
