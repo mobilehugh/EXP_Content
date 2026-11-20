@@ -80,7 +80,7 @@ Anthros or aliens that manage to dose themselves with robot pharma have n automa
 
 === Doses
 Doses of pharma is the equivalent of the amount of pharma found. 
-For complicated pharma only one dose is available. 
+For complicated pharma only 1 dose is available.
 One can consider all pharma complicated except for Trauma heals. 
 Trauma heals are complicated but startifact Trauma heals come in script of 1-8 (1d8) 
 
@@ -134,7 +134,7 @@ Imbibing the pharma and correctly deducing the effect can also earn the EXPS.
 ==== Value 
 The value is an indicator of the pharma’s worth in eps.
 The value is for a single dose.
-If a prescription has three doses, then the prescription is worth three times the given value.
+If a prescription has 3 doses, then the prescription is worth 3 times the given value.
 The value of pharma can change according to the market’s needs.
 
 :art: drug_needleless.png

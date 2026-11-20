@@ -109,7 +109,7 @@ s|Decay (per hex)
 .*Fling Weapon Details*
 Damage::
 Damage indicates how many hit points the weapon removes from the target’s hit points.
-The player adds one quarter her Strength Attribute as a Force Bonus to her damage roll.
+The player adds 1/4 her Strength Attribute as a Force Bonus to her damage roll.
 
 Wate::
 Self-explanatory.
@@ -123,5 +123,5 @@ Fling attacks cannot be used for target’s in the same hex or when grappling.
 Decay::
 When attacking a target beyond the weapon’s range, the attack roll suffers decay penalties.
 The player subtracts the decay from the attack roll for every hex beyond the weapon’s range.
-For example, an axe thrown ten hexes would have no penalties.
+For example, an axe thrown 10 hexes would have no penalties.
 The same axe thrown 16 hexes would have a -600 penalty.

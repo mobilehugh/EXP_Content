@@ -19,19 +19,19 @@ Usually, the player will determine how her alien attacks once her description is
 
 The attack frequency only refers to the alien’s natural attacks.
 Alien attack frequency does *NOT* refer to weapon or mutation attack frequency.
-An alien with three attacks per unit can only bite three times per combat turn.
-If the alien were using a lazer pistol to attack a target, the player would not get three attacks per unit.
-The attack frequency would be one attack roll per unit set out for the lazer pistol.
+An alien with 3 attacks per unit can only bite 3 times per combat turn.
+If the alien were using a lazer pistol to attack a target, the player would not get 3 attacks per unit.
+The attack frequency would be 1 attack roll per unit set out for the lazer pistol.
 
 Aliens with high Dexterity scores are more likely to get multiple attack rolls for each unit.
-Players add the alien’s Dexterity score divided by three to the die roll.
+Players add the alien’s Dexterity score divided by 3 to the die roll.
 For example, a persona with a 15 DEX would add 5 to her die roll.
 
 include::aliens:partial$attack_frequency_amounts.adoc[]
 
 The player can attack up the number of attacks per unit.
 She is not required to use all attack rolls in every combat unit.
-The persona with three attacks can attack three different targets.
+The persona with 3 attacks can attack 3 different targets.
 
 If an alien has way too many attacks per unit the referee can limit the amount to preserve game balance and plot fun.
 There is an optional rule for managing of xref:referee_personas:alien_rp.adoc#_alien_attack_rationalization[Multiple Attacks] to make them more biological and fun.

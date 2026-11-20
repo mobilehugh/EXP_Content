@@ -49,7 +49,7 @@ Combat time and movement can activate whenever a persona’s life is on the line
 
 [quote]
 ____
-*Finally, a unit of measure called unit.*
+*A unit of measure named unit.*
 ____
 
 == Combat Unit
@@ -85,12 +85,12 @@ For more information about this crucial element of tactical combat jump to
 xref:combat:initiative.adoc[Initiative,window=_blank, rel="noopener noreferrer"].
 
 == Doing Things
-An active persona can accomplish a lot in two seconds.
+An active persona can accomplish a lot in 2 seconds.
 The persona could be attacking, picking a lock, or cowering in fear.
 The player would be making attack rolls, task rolls or hiding under the game table.
 Players push their personas to the limit of time and space.
-In the end, there is only so much that can get done in two seconds.
-Referees will spend a fair amount of time reminding players of how short two seconds is.
+In the end, there is only so much that can get done in 2 seconds.
+Referees will spend a fair amount of time reminding players of how short 2 seconds is.
 
 === Movement
 Pure movement indicates the persona is doing nothing other than moving.
@@ -99,14 +99,5 @@ The player moves the mini representing her persona on the hex mat.
 Even pure movement can become complex when including terrain, barriers and movement types.
 For details of tactical combat movement jump to xref:combat:move_in_combat.adoc[Move,window=_blank, rel="noopener noreferrer"].
 
-=== Actions
-Actions can be completed within the combat unit and have a movement rate cost.
-If the total hex cost of actions is greater than the persona’s movement rate, then she must stop moving for that unit.
-
-include::combat:partial$action_costs_in_combat.adoc[]
-
-=== Activities
-Activities are more complicated than actions, and they preclude both movement and actions.
-If a persona undertakes such an activity, they cannot participate in combat while doing so.
-
-include::combat:partial$activities_interrupt_combat.adoc[]
+For actions, their movement costs, and activities that interrupt combat, see
+xref:combat:move_in_combat.adoc#_doing_things[Move: Doing Things,window=_blank, rel="noopener noreferrer"].

@@ -254,7 +254,7 @@ It really does require maths and may slow down game play.
 The d20 Task Roll would align better with Saves and Competitions which are already d20 based.
 
 The problem with a d20 task roll is that at higher level tasks the roll becomes irrelevant
-Legacy system used three distinct die roll types.
+Legacy system used 3 distinct die roll types.
 
 .*Legacy d100 task rolls*
 * d20 for attributes rolls
@@ -829,8 +829,8 @@ A Posse of Pithy Aphorisms
 A suite of sweet sayings.
 
 * all are players, including the referee
-* one roll to rule them all and in the story bind them (4D2)
-** one die one roll one sub story
+* 1 roll to rule them all and in the story bind them (4D2)
+** 1 die 1 roll 1 sub story
 * post factualization
 * technomagical
 * macro, micro, nano, molecular, ethereal bonds

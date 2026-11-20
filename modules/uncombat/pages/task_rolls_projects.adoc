@@ -65,7 +65,7 @@ include::ROOT:partial$articulate.adoc[]
 === Team Leader
 Every research team must have a team leader.
 The Level of the team leader determines the size of the research team.
-The team can consist of one persona per level of the team leader in addition to themselves.
+The team can consist of 1 persona per level of the team leader in addition to themselves.
 A team leader cannot lead a persona with a higher Level than herself.
 A 7th level biologist could lead a team of 5 biologists, a mercenary, and a spie.
 
@@ -81,17 +81,17 @@ include::ROOT:partial$articulate.adoc[]
 
 == Bonuses
 The bonuses for a project depend on the competencies of the personas involved. 
-The top two competencies are added together to determine the research team’s bonus.
+The top 2 competencies are added together to determine the research team’s bonus.
 Every player rolls with the same bonus. 
 
 .*Research Team Bonus*
 . Team members limited by team lead
-. *Highest two competencies* are combined
+. *Highest 2 competencies* are combined
 . Each player gets to make a task roll
 
 A team working to make a faster engine for an all terrain vehicle have a research team.
-There is are two mechanics with competencies of 14 and 12, a mercenary with a competency 16, and a nothing with competency 4. 
-All four players get to roll with a project competency of 30 (mechanic’s 14 and mercenary’s 16) to try and beat the difficulty.
+There is are 2 mechanics with competencies of 14 and 12, a mercenary with a competency 16, and a nothing with competency 4.
+All 4 players get to roll with a project competency of 30 (mechanic’s 14 and mercenary’s 16) to try and beat the difficulty.
 It is possible that the mechanics and the merccenary fail their rolls, but the nothing wins the roll.
 This would be a successful project, and a storyful outcome.  
 
@@ -150,7 +150,7 @@ They have put together a research team as follows:
 
 .Research Team 
 * Team Lead Veterinarian 4th level competency 16
-* Two 3rd level vets with competencies 12 and 15
+* 2 3rd level vets with competencies 12 and 15
 * 3rd level biologist with competency 21
 * 2nd level nomad with competency 15
 
@@ -169,7 +169,7 @@ They have put together a research team as follows:
 
 .Research Team 
 * Team Lead Nomad 6th level competency 16
-* Two 3rd level mechanics with competencies 12 and 21
+* 2 3rd level mechanics with competencies 12 and 21
 * 3rd level mercenary with competency 6
 * 5th level nothing with competency 3
 

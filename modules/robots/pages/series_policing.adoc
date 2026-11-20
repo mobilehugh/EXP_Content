@@ -93,8 +93,8 @@ Player personas are unaffected by commanding voice.
 A non-lethal weapon is one that can disable or affect a target without harming it.
 A stun weapon, a sleep beam, or a nausea attack would be considered non-lethal.
 Less lethal weapons do not count.
-The player has three chances to roll a non-lethal weapon for her robot.
-If there is no non-lethal weapon after three rolls, the persona has no weapon.
+The player has 3 chances to roll a non-lethal weapon for her robot.
+If there is no non-lethal weapon after 3 rolls, the persona has no weapon.
 
 === Disarm
 A civil robot can disarm a target with a successful attack roll.
@@ -170,16 +170,16 @@ include::ROOT:partial$articulate.adoc[]
 |===
 
 === Grapple and Detain
-Grapple and detain is a two-step process that the riobot employs to apprehend rioters.
+Grapple and detain is a 2-step process that the riobot employs to apprehend rioters.
 To grapple a target, the player must win an attack roll.e
-The target gets one attempt to break free from the grapple.
+The target gets 1 attempt to break free from the grapple.
 If the target is unsuccessful, she is detained.
 Once detained, it is nearly impossible for a captive to break free.
 Detained protestors are subject to any area of effect weapons that the riobot deploys.
 
-The riobot can grapple one rioter per unit.
+The riobot can grapple 1 rioter per unit.
 The riobot can carry out all other operations while grappling a rioter.
-A riobot can detain one target per point of STR.
+A riobot can detain 1 target per point of STR.
 So a Riobot with a 20 STR can detain 20 targets.
 
 .*Grapple Detain Checklist*
@@ -193,8 +193,8 @@ They are not malfunctioning peripherals.
 They are bespoke riobot peripherals.
 These peripherals are non-lethal immobilization attacks, but accidents happen.
 
-Riot Policing robot Peripheral for every three points of Intelligence.
-A riobot with a 12 Intelligence score would get four rolls on the Crowd Suppression Peripheral Table.
+Riot Policing robot Peripheral for every 3 points of Intelligence.
+A riobot with a 12 Intelligence score would get 4 rolls on the Crowd Suppression Peripheral Table.
 Multiple rolls of the same peripheral are intentional riobot redundancy.
 The riobot can use every peripheral every unit of combat.
 Multi-tasking is a crucial feature of crowd control.
@@ -203,11 +203,11 @@ include::robots:partial$peripherals_riobot_web.adoc[]
 
 Water Cannon::
 A powerful jet of water shoots at a target, and an attack roll win knocks the target down.
-The water cannon’s range is one hex per point of Strength.
+The water cannon’s range is 1 hex per point of Strength.
 
 Tear Gas::
 A noxious gas causes severe tearing of organic eyeballs.
-The area of effect range is one hex per point of Constitution.
+The area of effect range is 1 hex per point of Constitution.
 All targets in the area of effect must win a save vs the riobot’s Constitution or be blind for 1-4 (1d4) units.
 
 Stun Ray::
@@ -216,7 +216,7 @@ The target must win a saving roll versus the riobot’s Constitution or be stunn
 
 Grav Disruptor::
 A wave of gravity disruption causes rioters to fall to the ground.
-The area of effect range is one hex per point of Constitution.
+The area of effect range is 1 hex per point of Constitution.
 All targets in the area of effect must win a save vs the riobot’s Constitution or tumble to the ground.
 
 Force Beam::
@@ -226,12 +226,12 @@ The target will land 1-4 (1d4) hexes backwards and cannot move or act that unit.
 Weapon Malfunction::
 When activated, all weapons within range of the riobot are 50 times more likely to malfunction.
 For some weapons, this is extremely dangerous.
-The range of weapon malfunction is one hex per point of the riobot’s Charisma score.
+The range of weapon malfunction is 1 hex per point of the riobot’s Charisma score.
 
 Battery Drain::
 When activated, all batteries in the area of effect must win a saving roll versus the riobot’s Intelligence score or drain.
 The battery drain defence does not destroy batteries.
-The range of battery drain is one hex for every two points of the riobot’s Intelligence score.
+The range of battery drain is 1 hex for every 2 points of the riobot’s Intelligence score.
 
 Sleep Beam::
 The sleep beam is a not so gentle “nighty night meat bag” attack.

@@ -6,7 +6,7 @@ AI is EXP's acronym for Autonomous Intelligence.
 Autonomous Intelligence is the fourth family of EXP consciousnesses.
 The other distinct consciousnesses are anthro, alien, and robot.
 
-EXP is a role-playing game where each player has one persona.
+EXP is a role-playing game where each player has 1 persona.
 Even several players running an AI would not do service to its abilities.
 Autonomously intelligent (AI) computers simultaneously have numerous conversations, operate businesses, carry out complex calculations, and consume copious data.
 AI are exclusively in the realm of referee personas.
@@ -149,15 +149,15 @@ There is nothing that a MOM AI cannot accomplish.
 The higher the MOM AI’s computation level, the more she can accomplish simultaneously and the faster she can accomplish it.
 
 The number of Gs that precede the MOM model indicates the level of computation.
-The base model has a computation level of zero and is a G zero model or a MOM AI.
-The next model has a computation level of one and is a G one model or a GMOM (occasionally called a grand mom).
+The base model has a computation level of 0 and is a G 0 model or a MOM AI.
+The next model has a computation level of 1 and is a G one model or a GMOM (occasionally called a grand mom).
 Not surprisingly, the G two model is occasionally called a great grand mom.
 The highest computation level is G six model, which is occasionally called a matriarch AI.
 
 include::referee_personas:partial$ai_mom_level.adoc[]
 
 == Attributes
-AI have only one attribute and that is intelligence (INT).
+AI have only 1 attribute and that is intelligence (INT).
 They lack charisma, strength, dexterity and do not have mind.
 Everything they succeed at is determined by their INT.
 The higher the intelligence the better the success.
@@ -260,8 +260,8 @@ For example, an AI may use the moniker Karl when trying to befriend an expeditio
 The same AI may also use the moniker Vengeance when trying to intimidated another expedition.
 
 This does not mean that an AI changes its moniker randomly.
-The important point is that the two expeditions will have no idea that they are interfacing with the same AI.
-This "feature" is part of why it would be very difficult for one player to represent an AI persona.
+The important point is that the 2 expeditions will have no idea that they are interfacing with the same AI.
+This "feature" is part of why it would be very difficult for 1 player to represent an AI persona.
 
 A referee could limit an AI to 1 moniker per computational level if they need to differentiate between multiple AIs.
 
@@ -269,7 +269,7 @@ A referee could limit an AI to 1 moniker per computational level if they need to
 The common name is what the persona is referred to by others.
 For AI it is usually the same as their moniker, because there is only a single instance of themselves.
 However there may be many common names as the AI will name itself to serve its goal.
-So one expedition may refer to AI Karl and another to AI Vengeance not knowing they are the same AI.
+So 1 expedition may refer to AI Karl and another to AI Vengeance not knowing they are the same AI.
 The AI can effortlessly keep track of this.
 
 === Taxonomy

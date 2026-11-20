@@ -1,4 +1,4 @@
-.*Attack Table Four*
+.*Attack Table 4*
 [width="75%",cols="^1,<2"]
 |===
 2+<|Dangerous weapons.
@@ -22,10 +22,10 @@ s|Attack
 |Lethal Jet
 
 |66-75
-|Multiple Level Three Attacks
+|Multiple Level 3 Attacks
 
 |76-85
-|Multiple Level Two Attacks
+|Multiple Level 2 Attacks
 
 |86-95
 |Vibro Fling Attack

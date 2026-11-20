@@ -49,7 +49,7 @@ A cyberpunk metropolis milieu will have start money and startifacts.
 * Start Equipment is all bespoke
 
 == Start Money
-Start money is the persona’s pocket money on day zero of the campaign.
+Start money is the persona’s pocket money on day 0 of the campaign.
 This money usually represents the persona’s total worth.
 Personas may keep their start money in a jingling satchel or a plastic money card.
 What money is depends on the milieu set out by the referee and players.

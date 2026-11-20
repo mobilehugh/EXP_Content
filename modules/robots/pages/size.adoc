@@ -18,7 +18,7 @@ Usually the qualitative size description is enough for players.
 
 include::robots:partial$robot_series_size_category_web.adoc[]
 
-There are two additional robot sizes not available to player personas.
+There are 2 additional robot sizes not available to player personas.
 These are Nano and Colossal.
 They only appear for referee personas.
 
@@ -37,7 +37,7 @@ The hite of the robot is a combination of volume and height.
 The player records her robot hite in centimetres.
 In most cases, the value of hite will determine how high the robot can reach and what may fit on her chassis.
 
-If necessary, the player may roll all three dimensions for her robot, calculating the volume occupied by the persona.
+If necessary, the player may roll all 3 dimensions for her robot, calculating the volume occupied by the persona.
 The player rolls for height, width and length.
 These rolls do not affect the wate of the robot.
 The player can arrange the dimensions in whatever order works best for the persona.
@@ -48,21 +48,26 @@ TIP: Rules assist game balance and creativity. +
 include::robots:partial$robot_size_cat_to_hite.adoc[]
 
 == Reach
-For most persona’s “reach” represents the distance they can grasp an object.
-The reach of an anthro is easily understood by referees and players alike.
-However the reach of a robot with a cow shaped body and octopus arms may not be as clear.
-Once extremes of size are added into the size “reach” can become complicated indeed.
+A robot’s built-in and improvised Strike Attacks use Reach measured in hexes.
+Reach 0 means the same hex, Reach 1 means adjacent, Reach 2 means 2 hexes away, and Reach 3 means 3 hexes away.
+Reach is the maximum striking distance, not a minimum distance.
+For counting hexes and restrictions, see xref:combat:attack_types.adoc#_reach[Reach].
+Fling and Shoot Attacks use Range instead.
+Psionic malfunctations use the distances specified in their descriptions.
 
-Hopefully the robot’s reach will be easily determined by some peripheral or articulation that represent it’s limbs.
-If a robot has no arms reaching may not be part of their existence or they can use their legs.
-Reach only applies to grabbing objects or strike attacks.
-Reach does not apply to fling attacks, shoot attacks or psionic malfunctations.
-
-Small and Tiny robot reach is limited to the hex that they are in.
-Medium and large robots can reach into the adjacent hex.
-Gigantic robots can reach through the adjacent hex and into the next hex over.
+The size category gives the robot’s usual Reach.
+The referee can adjust a particular attack’s Reach to suit the peripheral or articulation used.
+A robot using a weapon does not add her natural Reach to its listed Reach.
+Weapon Reach assumes a Medium anthro; the referee determines weapon Reach for other sizes and chassis arrangements.
 
 include::robots:partial$robot_size_cat_to_reach.adoc[]
+
+Contact indicates that a Nano robot must be in physical contact with her target before attacking it.
+Tiny robots have Reach 0 and attack targets in their own hex, with no additional movement requirement.
+
+Colossal robots have a no-attack space of 1 hex: they can strike only targets 2 or 3 hexes away.
+An adjacent target requires the attacker to back away before striking.
+Colossal robots may have special rules for particular attacks or chassis arrangements, as determined by the referee.
 
 == Space
 How much space does the robot occupy on the hex table?

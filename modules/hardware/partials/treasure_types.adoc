@@ -1,7 +1,7 @@
 .*Treasure Type Table*
 [width="75%",cols="^1,<2",frame="all", stripes="even"]
 |===
-2+<|One persona’s treasure is another persona’s junk.
+2+<|1 persona’s treasure is another persona’s junk.
 
 s|Roll 1d100
 s|Type

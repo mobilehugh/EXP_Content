@@ -28,7 +28,7 @@ There is a strong relationship between Constitution and hit points.
 Hit Points represent the complete package of the persona’s ability to take damage.
 The persona’s Constitution influences hit points for all persona types.
 
-If a persona’s Constitution drops below one, she is irrevocably dead.
+If a persona’s Constitution drops below 1, she is irrevocably dead.
 The persona’s body is unable to extract energy or repair itself in any way.
 
 // brand new table for version 6.0

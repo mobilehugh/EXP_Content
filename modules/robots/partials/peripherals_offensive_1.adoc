@@ -1,5 +1,5 @@
 // Table 5.11 Robotic Attack Table One
-.*Attack Table One*
+.*Attack Table 1*
 [width="75%",cols="^1,<2"]
 |===
 2+<|Basic robotic attacks.

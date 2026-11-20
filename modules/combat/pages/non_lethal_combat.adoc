@@ -58,7 +58,7 @@ Sorry there is no acronym.
 An angry pugilist wins her attack roll and generates 20 HPS of Non-Lethal Damage.
 She is attacking a Level 2 Nothing with a CON of 8 and HPS of 40.
 This unlucky nothing’s name is Socmob.
-Let’s follow that damage bolus through the next three steps.
+Let’s follow that damage bolus through the next 3 steps.
 
 == Stun Check 
 A damage system shock check determines if the persona is stunned by the non-lethal blow.
@@ -80,7 +80,7 @@ If Socmob DSS Check = 8 (1d20) + 20 (HPS - Non-Lethal Damage) + 8 (CON) + 2 (Lev
 
 == Actual Damage
 Every non-lethal damage roll inflicts a smaller amount of actual damage. 
-Ten percent of the non-lethal damage causes actual damage to the target.
+10 percent of the non-lethal damage causes actual damage to the target.
 The target’s hit point total (HPS) loses that amount for every successful attack roll.
 Eventually, non-lethal combat will drop the target.
 

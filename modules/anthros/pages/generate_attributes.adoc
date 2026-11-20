@@ -13,7 +13,7 @@ The Mind attribute of an anthro persona increases with her Intelligence attribut
 This Mind adjustment is only for anthro personas.
 Most referees will not reduce a persona’s Mind during persona creation.
 The intelligence adjustment of Mind can lead to a persona with a negative attribute.
-Attributes less than one is fatal for personas.
+Attributes less than 1 is fatal for personas.
 
 include::anthros:partial$mind_adjust_by_intelligence.adoc[]
 
@@ -30,7 +30,7 @@ For anthros hit points also determines consciousness and ability to recover from
 
 When a player is generating her anthro's hit points for the first time she is creating her personas hit point max.
 The hit points max (HPM) is the full health for the persona.
-The persona gets one hit point per point of constitution (CON) plus 1d8 per two points of constitution.
+The persona gets 1 hit point per point of constitution (CON) plus 1d8 per 2 points of constitution.
 So a persona with a CON of 10 would get 10 plus 5d8 hit points.
 HPM is generated once at anthro generation and is recorded like any other attribute.
 A good HPM is required to become a mercenary.
@@ -45,26 +45,26 @@ A good HPM is required to become a mercenary.
 === Minimum Hit Points
 *aka death*
 
-Hit points is an attribute that can drop below one without killing the persona.
+Hit points is an attribute that can drop below 1 without killing the persona.
 A persona with a negative hit point total is unconscious and dying from physical trauma.
 Having a negative hit point total is often referred to as “being negative.”
 A persona with a negative hit points value is unconscious, and can do nothing other than lay about and bleed.
 
 As an anthro gets damaged in combat her hit points keep going down.
-At zero hit points an anthro goes unconscious and is dying.
+At 0 hit points an anthro goes unconscious and is dying.
 Hit points can be returned by healing, and dying can be stopped by resuscitation.
 These interventions are described in the vocation xref:vocations:veterinarian.adoc[veterinarian].
 
 .*Minimum Hit Points (Death)*
-* *Unconscious = Zero Hit Points*
+* *Unconscious = 0 Hit Points*
 ** Unconscious personas cannot act
-* *Death = Zero - (1/2 HPM)*
+* *Death = 0 - (1/2 HPM)*
 ** HPS immediately start draining once negative
 ** HPM = 22, dead at -11 HPS
 ** HPM = 40, dead at -20 HPS
 
-The persona loses one hit point every five units (10 seconds) her hit point total is negative.
-A persona at -2 hit points will drop to -3 hit points five units later, and then -4 hits points 10 seconds after that.
+The persona loses 1 hit point every 5 units (10 seconds) her hit point total is negative.
+A persona at -2 hit points will drop to -3 hit points 5 units later, and then -4 hits points 10 seconds after that.
 This physiologic collapse continues until the hit point total reaches her hit point minimum, and the persona is dead.
 This rapid decline to death does not stop unless medically treated.
 For more information about healing and death jump to xref:uncombat:health.adoc[Health,window=_blank, rel="noopener noreferrer"].
@@ -73,7 +73,7 @@ For more information about healing and death jump to xref:uncombat:health.adoc[H
 *optional rule for getting stunned in combat*
 
 System shock checks to see if a persona is incapacitated by a bolus of damage.
-Whenever a persona loses more than half her hit point total (HPS) in one attack, she must make a System Shock roll, or fall unconscious.
+Whenever a persona loses more than half her hit point total (HPS) in 1 attack, she must make a System Shock roll, or fall unconscious.
 Unlike the unconsciousness described in hit points minimum the persona is not dying.
 This is like a stun check.
 This rule is optional and hardly ever used.

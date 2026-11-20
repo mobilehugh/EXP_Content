@@ -6,7 +6,7 @@ Following are the details of how to calculate an attack table for an anthro pers
 This section has cursory explanations and no detailed calculations.
 For more info jump to xref:combat:attack_table_anthro.adoc[Anthro Attack Table,window=_blank, rel="noopener noreferrer"]
 
-The attack table is composed of four roll bonuses spread across 3 attack types.
+The attack table is composed of 4 roll bonuses spread across 3 attack types.
 
 .*Attack Roll Bonuses*
 * xref:combat:attack_table_details.adoc#_skilled_bonus[Skilled Bonus,window=_blank, rel="noopener noreferrer"]
@@ -27,6 +27,6 @@ The attack table is composed of four roll bonuses spread across 3 attack types.
 ** guns, lazers, crossbows.
 
 These items create a matrix of arithmetic fun called an attack table.
-If the persona were attacking with her familiar pistol the player would add her Skilled Shoot bonus to her attack roll.
-If the persona were throwing a can of beans the player would add her Raw Fling bonus to her attack roll.
+If the persona were attacking with her familiar pistol the player would add her Skilled Shoot Bonus to her attack roll.
+If the persona were throwing a can of beans the player would add her Raw Fling Bonus to her attack roll.
 These bonuses are based on the persona's attributes, increase with experience levels, and vary with vocation.

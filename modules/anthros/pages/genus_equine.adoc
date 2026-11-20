@@ -22,7 +22,7 @@ The equines are fast.
 All equines are fast.
 Cows, deer, horses, and goats all enjoy the gallop ability.
 All equine get a bonus of +3 h/u on their movement rate.
-So an equine with a move of five h/u would move at eight h/u.
+So an equine with a move of 5 h/u would move at 8 h/u.
 This movement rate is not an equine gallop and represents its natural movement rate.
 
 Example species: Clydesdale, Cow, Donkey, Gazelle, Giraffe, Sheep, Shetland, Zebra.
@@ -67,14 +67,14 @@ s|Abilities
 == Gallop
 Equines have can also gallop.
 A gallop is a full-out clippity cloppity sprint.
-A galloping equine moves at two and ½ times her movement rate.
-If the equine’s movement rate was eight h/u, she could gallop at the fantastic speed of twenty h/u.
+A galloping equine moves at 2.5 times her movement rate.
+If the equine’s movement rate was 8 h/u, she could gallop at the fantastic speed of 20 h/u.
 An equine cannot do anything other than Gallop while galloping.
 For example, the equine cannot attack while galloping but could use a psionic mutation.
 
 == Jump
 Equines are also excellent jumpers.
-Equine can jump horizontally (a leap) two hexes per 8 points of STR.
+Equine can jump horizontally (a leap) 2 hexes per 8 points of STR.
 Equine can jump vertically (a jump) 1.5 times their hite.
 Jumping and leaping are part of an equine’s natural movement rate.
 An equine can jump up or down without any movement penalty.

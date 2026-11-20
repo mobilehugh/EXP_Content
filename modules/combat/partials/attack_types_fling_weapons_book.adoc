@@ -1,1 +1,1 @@
-*See xref:hardware:mundane_equipment.adoc#_fling_weapons[Fling Weapons] more details.*
+*xref:hardware:mundane_equipment.adoc#_fling_weapons[Fling weapon list].*

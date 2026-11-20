@@ -84,7 +84,7 @@ The ref may alter the composition and wate of these armour types according to he
 === Does it Fit?
 Armour bought by the persona will fit.
 However, armour found while adventuring will not necessarily fit.
-Before armour can fit, it must meet two criteria: shape and size.
+Before armour can fit, it must meet 2 criteria: shape and size.
 The previous owner must have the same body shape, and the previous owner’s wate must be within 15%.
 
 An anthro could not wear the bespoke armour of a four-armed avarian tripod alien.
@@ -93,7 +93,8 @@ If a persona’s wate is 70 kgs, the previous owner’s wate must be between 59.
 === Suiting Up
 Suiting up for battle is can be time-consuming.
 The more restrictive the armour type, the longer it takes to put on the armour.
-Without help and under no pressure, combat armour takes 1.5 minutes per point of restrictiveness to adorn.
+Without help and under no pressure, mundane armour takes 1.5 minutes per point of Binding to put on.
+Biomech uses its own xref:hardware:biomech.adoc#_suiting_up[Suiting Up] rules.
 A suit of chain mail would take about 8 minutes to put on.
 
 === Maintenance
@@ -103,9 +104,9 @@ Inhospitable environments will destroy armour as quickly as any other mundane eq
 
 Unattended armour will damage.
 Whatever damage that the persona takes, the armour will take also.
-Armour has one hit point per point of DEF.
+Armour has 1 hit point per point of DEF.
 A suit of unmaintained studded armour could withstand 575 hit points of damage before being wrecked.
-At zero hit points, the armour loses Defence and structural integrity.
+At 0 hit points, the armour loses Defence and structural integrity.
 
 === Mix and Match
 Scavenging personas will often mix up armour types.
@@ -136,61 +137,46 @@ Whichever arm the player is using to manipulate the shielding cannot do anything
 
 include::combat:partial$defence_shielding_web.adoc[]
 
-== Restrictiveness
-Restrictiveness indicates how cumbersome armour is to wear.
-The higher the restrictiveness, the more cumbersome, binding, and claustrophobic the armour is.
-Restrictiveness impacts the persona when the armour is worn, whether in or out of combat.
-Usually, the heavier the armour is, the more restrictive it is.
-
-The more restrictive the armour, the higher the restrictiveness number.
-Wearing no armour has restrictiveness of 0.
-Plate armour has restrictiveness of 5.
-Deactivated powered armour has restrictiveness of 15.
-Negative restrictiveness is possible with specialized artifact armour.
+== Binding
+[[_restrictiveness]]Binding measures how much worn armour limits the persona’s freedom of movement.
+The higher the Binding, the more cumbersome and unyielding the armour is.
+Binding affects the Dexterity contribution to Defence and the armour’s contribution to encumbrance.
+Wearing no armour has Binding 0.
+Plate Armour has Binding 5.
+Binding cannot be less than 0.
+Biomech uses its powered or unpowered state instead of a numerical Binding rating.
 
 === Strength
-Sheer power can overcome the restrictiveness of armour.
-For every 5 points of STR that the persona has, she can reduce the armour restrictiveness by 1.
-The armour still has its restrictiveness, but the persona is strong enough to power through it.
-A persona with an 11 STR wearing plate armour would reduce the restrictiveness from 5 to 3.
-A persona with an 8 STR could wear padded armour as if she were unarmoured.
+Strength helps a persona carry armour through her Wate Allowance.
+Use the armour’s full listed Binding when calculating its encumbrance contribution.
 
-Reducing restrictiveness by Strength only decreases movement and armour bonus penalties.
-The minimum restrictiveness earned from Strength is zero.
+For the optional Dexterity adjustment below only, every 5 points of STR reduce the effective Binding by 1, to a minimum of 0.
+A persona with STR 11 wearing Plate Armour has effective Binding 3 for this Defence calculation, but still uses Binding 5 for encumbrance.
 
 === Dexterity
-The armour bonus improves the persona’s Defence.
-Restrictiveness can reduce the persona’s Defence by removing a persona’s Dexterity bonus.
-Restrictive armour prevents the persona from dodging and twisting to avoid damage.
-So highly restrictive armour decreases the personas naked Defence rating.
+Armour increases Defence, but Binding can reduce the Dexterity contribution to the persona’s naked Defence.
+This adjustment is optional.
+Subtract the Strength-adjusted Binding from the usual Dexterity multiplier of 6, to a minimum multiplier of 0.
+Then add the armour’s Defence bonus as usual.
+Binding does not reduce the Dexterity attribute itself.
 
-If a persona has a DEX of 10 they would have a naked Defence of 560 (500 + 6 x 10).
-However, with a restrictiveness of 3 their naked defence becomes 530 (500 + 3 x 10).
-This is a very particular rule, and is optional.
-Strength can overcome this restrictiveness penalty.
+A persona with DEX 10 and effective Binding 3 has naked Defence 530: 500 + (6 - 3) x 10.
+The armour’s Defence bonus is added to 530.
 
-=== Movement
-The restrictiveness of armour impairs movement rate.
-
-include::combat:partial$restrictiveness_and_movement.adoc[]
-
-A persona wearing studded armour would reduce her movement rate by two h/u because that armour’s restrictiveness is three.
-Personas with low movement rates may be unable to wear restrictive armour types.
-The table uses the Strength adjusted restrictiveness.
-This table does not have negative values, and the minimum restrictiveness is zero.
-A persona with a 16 STR wearing leather armour has a restrictiveness of zero and zero movement penalty.
+=== Encumbrance
+[[_movement]]Worn armour contributes its actual wate multiplied by its full listed Binding to the persona’s encumbrance load.
+This effective load replaces the armour’s actual wate in the load calculation; do not count the armour twice.
+Use the resulting encumbrance category to determine movement and initiative effects.
+There is no separate Binding movement penalty.
+Strong personas can carry a greater effective load, while weaker personas may be unable to move in heavy armour.
+For the formula and examples, see xref:uncombat:encumbrance.adoc#_worn_armour[Worn Armour].
 
 === Task Rolls
-The restrictiveness of armour impairs task rolls.
-Players must pay attention to the restrictiveness of armour types.
-Vocations that require nimble actions, physical contact, or keen senses do not like to wear restrictive armour.
-
-The Difficulty (DD) of the task is increased by 5 DD per restrictiveness.
-Scale mail increases the DD of a task by 20.
-If the persona removed her gauntlets for fine motor task rolls, there would be no penalty.
-
-Strength does not overcome the Task roll penalties of restrictive armour.
-A very strong persona would have to remove her helmet to listen for an ambush.
+Armour affects task rolls through the encumbrance category produced by its effective load.
+Use the xref:uncombat:encumbrance.adoc#_tasks[Encumbrance and Task Rolls] rules.
+Do not add a separate DD penalty per point of Binding.
+Removing the armour changes the load and may improve the persona’s encumbrance category.
+Specific armour descriptions may impose additional limitations, such as an obscuring visor or bulky gauntlets.
 
 == Inanimate Objects
 The first thing that referees will realize is that personas like attacking things that she has not prepared to be attacked.

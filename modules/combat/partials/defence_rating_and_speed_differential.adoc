@@ -9,7 +9,7 @@ s|Penalty
 |per hex per unit
 |-10
 
-|per ten hexes per unit
+|per 10 hexes per unit
 |-100
 
 | per kilometer per hour

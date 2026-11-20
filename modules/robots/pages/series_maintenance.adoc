@@ -64,8 +64,8 @@ include::ROOT:partial$articulate.adoc[]
 
 
 The maintenance robot gets more bonuses and skills than a typical mechanic.
-The player adds two times her INT score to any maintenance task rolls.
+The player adds 2 times her INT score to any maintenance task rolls.
 The maint robot starts with many more skills than a regular mechanic.
-The player gets one roll on the mechanic skill table per two points of Intelligence score.
+The player gets 1 roll on the mechanic skill table per 2 points of Intelligence score.
 
 include::vocations:partial$mechanic_expert.adoc[]

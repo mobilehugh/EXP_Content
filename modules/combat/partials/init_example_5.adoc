@@ -1,4 +1,4 @@
-.*Unit Two. Roll initiative again.*
+.*Unit 2. Roll initiative again.*
 [width="75%",cols="2*^,<",frame="all", stripes="even"]
 |===
 3+<|All players roll initiative for the second unit.

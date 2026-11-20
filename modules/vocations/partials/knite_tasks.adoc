@@ -77,7 +77,7 @@ s|Description
 
 |Multiple Attacks
 |24
-|One attack per gift when using energy sword.
+|1 attack per gift when using energy sword.
 
 |Pressure
 |42 + MND

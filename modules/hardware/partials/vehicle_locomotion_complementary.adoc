@@ -1,7 +1,7 @@
 .*Complementary Vehicle Locomotion Table*
 [width="85%",cols="<,3*^",frame="all", stripes="even"]
 |===
-4+<|Sometimes one type of locomotion is not enough.
+4+<|Sometimes 1 type of locomotion is not enough.
 
 s|
 s|Vehicle Speed

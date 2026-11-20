@@ -22,11 +22,11 @@ NOTE: An ideal description is a short sentence that differentiates the artifact 
 
 == Shape
 The general shape depends on the hardware, and it’s tech level.
-Tech level ten devices tend to appear as familiar mundane terran devices.
-For example, a tech level ten rifle will look like a rifle.
+Tech level 10 devices tend to appear as familiar mundane terran devices.
+For example, a tech level 10 rifle will look like a rifle.
 The rifle may have unique colours, style and descriptors, but it will still look like a rifle.
-A tech level twenty rifle may not look like a rifle at all.
-A tech level two rifle may not look like a rifle either.
+A tech level 20 rifle may not look like a rifle at all.
+A tech level 2 rifle may not look like a rifle either.
 So for familiar devices, the shape remains the same.
 The artifact shape may be random for aberrant tech level artifacts.
 
@@ -102,6 +102,6 @@ include::personas:partial$colour_affects.adoc[]
 
 
 ==== Colour Pattern Table
-When one colour is not enough.
+When 1 colour is not enough.
 
 include::personas:partial$colour_patterns.adoc[]

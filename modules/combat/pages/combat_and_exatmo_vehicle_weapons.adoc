@@ -6,7 +6,7 @@ Spacecraft are created in the xref:hardware:spacecraft.adoc[Spacecraft] section.
 Players and referees should understand spacecraft before blowing them up.
 
 == Attacks
-Attacks are a collection of electronic, kinetic, and energy weapons that one ship uses to control or damage another ship.
+Attacks are a collection of electronic, kinetic, and energy weapons that 1 ship uses to control or damage another ship.
 Some attacks work as defences as well.
 
 .*List of Attacks*
@@ -108,7 +108,7 @@ ECM cannot assist ramming while carrying out other ECM attacks or defences.
 . Determine Ramming Pilot Roll
 . Assess Damage Location on target.
 . Extent of Damage to target vessel (max Major)
-. Damage (one level less) to ramming vessel
+. Damage (1 level less) to ramming vessel
 .. Lash and board 0-3 (1d4 - 1) turns
 .. Smash and run
 
@@ -127,15 +127,16 @@ attempts = 5 (drive 5) + 2 (computer 3) + 1 (pilot 1) - 4 (drive 4) - 2 (pilot 2
 
 ==== Positive Ramming Attempts
 If the number of ramming attempts is positive, the attacker gets that many ram attempts.
-An attacking vessel cannot have more than four ramming attacks per turn.
-If the number of ram attempts is two, the attacker can make two ram attempts during the turn. 
-If the number of ram attempts is six, the attack can make four ram attempts during the turn.
+An attacking vessel cannot have more than 4 ramming attacks per turn.
+If the number of ram attempts is 2, the attacker can make 2 ram attempts during the turn.
+If the number of ram attempts is 6, the attack can make 4 ram attempts during the turn.
 
-==== Zero Ramming Attempts
-The ships are at equipoise and the ramming ship gets one ramming attempt that turn.
+[[_zero_ramming_attempts]]
+==== 0 Ramming Attempts
+The ships are at equipoise and the ramming ship gets 1 ramming attempt that turn.
 
 ==== Negative Ramming Attempts
-The ramming vessel is inferior to the target vessel and is only allowed one single ramming attempt for the entire battle.
+The ramming vessel is inferior to the target vessel and is only allowed 1 single ramming attempt for the entire battle.
 In some cultures this is called a Hale Mary. 
 The ramming vessel suffers a penalty equal to the ramming attempts number.
 The penalty is not built into the Ramming Success Roll, and cause the ramming vessel to lose pilot and computer levels. 
@@ -153,8 +154,8 @@ target = 100 - success = 10. Player must roll 10 or higher to ram.
 
 === Ram Begets Ram
 Each time an attacker has a failed ram, the target gets a chance to ram in return.
-The target spacecraft gets one ram attempt per failure.
-If an attacker fails three ramming attempts, the target ship gets three ram attempts. 
+The target spacecraft gets 1 ram attempt per failure.
+If an attacker fails 3 ramming attempts, the target ship gets 3 ram attempts.
 
 === Ram Location
 Ram location is randomly determined as both ships are writhing at nearly light speed.
@@ -212,7 +213,7 @@ Boarding is a preferred attack because it preserves the target spacecraft, hosta
 . Prepare to board
 
 === Mutual Boarding
-If two ships are trying to board each other, they will be automatically successful.
+If 2 ships are trying to board each other, they will be automatically successful.
 Since the goal of both ships is to connect airlocks.
 ECM will recognize that both ships want to connect, and it will happen automatically.
 If either the attacker or target vessel wants to direct the mutual boarding to a specific airlock, they must win a boarding roll.
@@ -221,7 +222,7 @@ If either the attacker or target vessel wants to direct the mutual boarding to a
 The number of boarding attempts equals the number of ramming attempts, and the same calculations apply.
 Table is included here for convenience.
 There is a maximum of 1 attempt at boarding per turn.
-If the number of boarding attempts is less than one the vessel *CANNOT* board.
+If the number of boarding attempts is less than 1 the vessel *CANNOT* board.
 
 === Calculate Attempt Number
 .Attempts = (attacker drive + computer + pilot levels) - (defender drive + pilot levels)
@@ -279,7 +280,7 @@ They must stay exatmo or inatmo.
 When used inatmo, the mini-missiles attack like regular grenades as an area of effect weapon.
 
 Targeted vessels can outrun mini-missiles.
-The targeted vessel must have a exatmo drive that is two levels higher than the attacking vessels. 
+The targeted vessel must have a exatmo drive that is 2 levels higher than the attacking vessels.
 When outrunning mini-missiles the targeted vessel cannot make any physical attacks, boarding or ramming. 
 
 Targeted vessels can use ECM to impair mini-missiles. 
@@ -363,21 +364,21 @@ Mines are hardy enough to be deployed in the atmosphere or in orbit to be used a
 
 Naval artillery is a bespoke weapon for destroying target vessels and it’s accompanying life forms.
 This weapon is not used to soften a target for boarding, or fire warning shots. 
-Naval artillery has only one purpose in mind, to destroy the target vessel.
+Naval artillery has only 1 purpose in mind, to destroy the target vessel.
 
 Naval artillery is more deadly than its deadly inatmo companion, inflicting many times more damage and many many times more range.
-One use of naval artillery exhausts a whole day’s worth of fuel.
+1 use of naval artillery exhausts a whole day’s worth of fuel.
 For dramatic effect naval artillery can only be fired once a turn. 
 Players cannot idly use their naval artillery; it requires a gunnery program and gunners.
 Without this complement, a ship cannot fire its naval artillery.
 
 The player must win an attack roll to damage the target.
 However a miss with naval artillery may still inflict damage on the target vessel.
-A successful attack roll is considered a direct hit and inflicts *two* damage rolls on the target.
-A near miss still does one damage roll on the target. 
+A successful attack roll is considered a direct hit and inflicts *2* damage rolls on the target.
+A near miss still does 1 damage roll on the target.
 A near miss is a raw attack roll greater than 442.
 
-Shields can only absorb damage from one damage roll in the case of a direct hit. 
+Shields can only absorb damage from 1 damage roll in the case of a direct hit.
 
 Naval artillery only works exatmo and cannot cross or be used in the atmosphere.
 Keeping in mind that a vessel cannot escape into the atmosphere in time to avoid this attack.
@@ -596,7 +597,7 @@ success = 9 times (comp 5 + drive 3 + skill 0) = 72
 target = 100 - success = 100 - 72 = 28 Player must beat 28 to actively defend. 
 ****
 
-A ship can attempt to thwart one attack per level of computer per turn.
+A ship can attempt to thwart 1 attack per level of computer per turn.
 
 .*Notes about active defences*
 * Active defences are not part of the Life Support Onion

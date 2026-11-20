@@ -1,0 +1,19 @@
+The listed armour wate is its actual wate in kilograms.
+When worn, mundane and artifact body armour contribute an effective load equal to actual wate x Binding.
+
+.Worn Armour Load
+****
+Effective armour load (kg) = actual armour wate (kg) x listed Binding
+****
+
+Add this effective load to the persona’s other carried equipment to determine encumbrance.
+Use the full listed Binding, without a Strength reduction.
+Do not also add the armour’s actual wate to this load.
+Binding 0 armour contributes 0 kg while worn.
+This calculation does not change the armour’s physical wate or the persona’s Wate Allowance.
+
+Leather armour weighing 3 kg with Binding 1 contributes 3 kg to encumbrance while worn.
+Plate Armour weighing 10 kg with Binding 5 contributes 50 kg while worn.
+Armour carried rather than worn contributes only its actual wate and provides no Defence bonus.
+
+Active biomech supports its own wate and uses the xref:hardware:biomech.adoc#_power_state[Biomech Power State] rules instead.

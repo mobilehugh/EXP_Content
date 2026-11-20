@@ -13,16 +13,17 @@
 ** xref:combat:weapon_skills.adoc[Weapon Skills]
 * xref:combat:attack_adjustments.adoc[Attack Adjustments]
 
-* xref:combat:zone_combat.adoc[Zone Combat]
+* xref:combat:move_in_terrain.adoc[Terrain Combat]
+* xref:combat:combat_and_aliens.adoc[Alien Combat]
 * xref:combat:combat_and_robots.adoc[Robot Combat]
 ** xref:combat:damage_and_demolition.adoc[Robot Damage]
-* xref:combat:combat_and_aliens.adoc[Alien Combat]
+* xref:combat:zone_combat.adoc[Zone Combat]
 * xref:combat:combat_and_exatmo_vehicle_intro.adoc[Spacecraft Combat]
 ** xref:combat:combat_and_exatmo_vehicle_weapons.adoc[Spacecraft Weapons]
 ** xref:combat:combat_and_exatmo_vehicle_damages.adoc[Spacecraft Damage]
 * xref:combat:combat_and_inatmo_vehicles.adoc[Vehicle Combat]
 * xref:combat:non_lethal_combat.adoc[Non Lethal Combat]
-* xref:combat:move_in_terrain.adoc[Terrain Combat]
+
 
 * xref:combat:equipment_damage.adoc[Breaking Things]
 * xref:combat:hit_locations.adoc[Hit Location]

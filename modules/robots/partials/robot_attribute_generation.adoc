@@ -29,7 +29,7 @@ s|Generation
 
 |Mind
 |xref:attributes:mind.adoc[MND,window=_blank, rel="noopener noreferrer"]
-|Zero
+|0
 
 |Strength
 |xref:attributes:strength.adoc[STR,window=_blank, rel="noopener noreferrer"]

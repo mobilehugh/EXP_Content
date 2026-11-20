@@ -13,7 +13,7 @@ s|Force Bonus
 |STR times 1/4
 
 |Shoot (powered)
-|Zero
+|0
 
 s|Attack Type
 s|Force Bonus

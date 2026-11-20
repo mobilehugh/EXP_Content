@@ -34,13 +34,13 @@ s|Unit
 |Gold
 |gps
 |Tenner
-|Ten
+|10
 
 |100 
 |Platinum
 |pps
 |Centurion
-|Hundred
+|100
 
 s|Denomination
 s|Colour

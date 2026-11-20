@@ -1,4 +1,4 @@
-.*Robotic Attack Table Two*
+.*Robotic Attack Table 2*
 [width="75%",cols="^1,<2"]
 |===
 2+<|Determine the robot’s attack type.

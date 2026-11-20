@@ -48,9 +48,23 @@ Capitalise defined EXP mechanics and column names when referenced in prose.
 
 .Capitalise when referring to specific mechanics
 * Skilled, Raw, Max Roll, Force (as attack table terms)
+* Binding (as the armour mechanic)
 
 .Lowercase when generic
 * maximum roll (generic phrase), skilled play (non-term usage)
+
+== Numbers
+Use digits for game quantities, measurements, counts, and numbered examples, including values below 10.
+Apply this convention consistently in prose, tables, formulas, and web and book versions.
+
+* Write 5 hexes, 2 attacks, 1 unit, 3 targets, and 0 hit points.
+* Write numerical bonuses, penalties, attribute scores, skill levels, and die results with digits.
+* Keep dice notation unchanged: 1d6, 3d10, and 1d1000.
+* Use digits for explicit fractions and mixed quantities: 1/2, 1/4, and 1.5.
+* Use words in idiomatic expressions and ordinary narrative: one another, one of the players, and at one time.
+* Preserve established names and terms, such as Four D Two and zero gravity.
+* Prefer recasting a prose sentence when a number at its start would be awkward. Digits are appropriate in concise rules, lists, and tables.
+* Preserve link targets, file paths, attribute values, and code. When changing a numbered heading, preserve its existing anchor.
 
 == Grammar
 Please review for gross grammatical errors.

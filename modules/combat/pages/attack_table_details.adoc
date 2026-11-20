@@ -38,7 +38,7 @@ When the player throws her kilodie attack roll, she adds the Skilled to the die 
 
 If the persona is using an unfamiliar weapon, she uses her Raw Bonus (Raw).
 
-The Skilled Bonus has two main components: attribute bonuses and level bonuses.
+The Skilled Bonus has 2 main components: attribute bonuses and level bonuses.
 
 === Attributes
 Most of the calculations done on the attack table involve the persona’s attributes.
@@ -60,7 +60,7 @@ The level component refers to the bonuses the persona gets from her vocation and
 The higher the experience level, the better the persona is at combat.
 In general, the persona with the higher level will be better in combat.
 Sometimes exceptional attributes can overshadow experience levels.
-However, if two personas have the same attributes more experienced persona will have an advantage.
+However, if 2 personas have the same attributes more experienced persona will have an advantage.
 
 == Raw Bonus
 The Raw Bonus is added to an attack roll when the persona is using unfamiliar weapons.

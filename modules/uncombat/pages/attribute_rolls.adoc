@@ -103,15 +103,15 @@ Strength roll = 4 (1d20) + 9 (STR score) + 5 (5th level Veterinarian) = 18
 
 == Attribute Challenge
 Attribute rolls and attribute challenges are slightly different.
-An attribute challenge pits two personas against each other in a contest of 1d20 rolls and attributes.
+An attribute challenge pits 2 personas against each other in a contest of 1d20 rolls and attributes.
 In an attribute roll the player makes an attribute roll trying to beat a specific target that is related to difficulty.
 In an attribute challenge the player is simultaneously rolling against against another player.
 The other player is typically the referee but could be another player from the expedition.
 The higher roll wins.
 If there is a tie a dramatic period of detente occurs and and attribute challenge is made.
 
-Two personas arm wrestling is a strength challenge.
-Two personas playing hat snatch is a dexterity challenge.
+2 personas arm wrestling is a strength challenge.
+2 personas playing hat snatch is a dexterity challenge.
 A staring contest is a mind challenge.
 
 === Challenge Examples
@@ -132,19 +132,19 @@ Personas can get together and combine their attributes to complete a task.
 An example would be a bunch of personas lifting a rock off of an expedition member.
 If there are enough personas, the referee will allow the lift to be successful without any rolls.
 If there are extenuating circumstances, the referee may require the personas to combine their forces.
-For example, a tug of war between two expeditions would be a combined attribute competition.
+For example, a tug of war between 2 expeditions would be a combined attribute competition.
 The success states for a combined attribute roll a combined attribute competition remains unchanged.
 
 The difference is in the synergy of numbers.
 In a combined attribute roll, every player gets to make a roll. 
 If any of the players are successful, the entire team is successful.
-For example, three personas are trying to push over a flag pole.
+For example, 3 personas are trying to push over a flag pole.
 Each player gets an attribute roll against the difficulty of this task.
 A win by any of the players means the flag pole has succumbed to vandalism.
 
 In a combined attribute competition, each player gets to make a roll.
 Success depends on the number of successes made by each team.
-So if two groups of ursidae are having a tug of war, every player gets to roll.
+So if 2 groups of ursidae are having a tug of war, every player gets to roll.
 The referee matches the players by their Strengths. 
 Whichever team has the most successes wins the tug of war. 
 A tie means that the tug of war is continuing, excitement increases, and the pull-a-thon continues.

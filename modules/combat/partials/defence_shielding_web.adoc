@@ -78,6 +78,6 @@ If an attacker using a Strike weapon critically fails her attack roll, the perso
 The player must win a Strength challenge to disarm her attacker.
 
 Shield::
-A shield consists of a piece of metal, wood, or other material manipulated by one arm.
+A shield consists of a piece of metal, wood, or other material manipulated by 1 arm.
 The shield is the historically famous shielding device
 The persona can use the shield for deflection, cover and deception.

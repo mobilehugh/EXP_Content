@@ -92,7 +92,7 @@ s|Description
 
 |73-75
 |Multi-bot
-|Combine two bots.
+|Combine 2 bots.
 
 |76-78
 |Navigation

@@ -17,7 +17,7 @@ When persona lives are not on the line, game time passes as a convenience.
 What gets accomplished is monitored qualitatively.
 A research team could try to upgrade a vehicle system.
 A nomad could spend time befriending and training a new alien friend.
-A datalyzer could sum ten thousand prime numbers to the power of eleven. 
+A datalyzer could sum 10000 prime numbers to the power of 11.
 A mercenary could heal her injuries and return her HPS back to full.
 Any of these things could take place in an instant with a single Task Roll.
 

@@ -1,4 +1,4 @@
-.*Robotic Attack Table Three*
+.*Robotic Attack Table 3*
 [width="75%",cols="^1,<2"]
 |===
 2+<|Determines the attack type.

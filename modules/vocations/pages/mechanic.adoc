@@ -35,8 +35,8 @@ An interest in repair will help the player win any task roll that involves repai
 If the mechanic is trying to make a better mousetrap, she would benefit from the enhance interest.
 When building something that does not exist, or when trying to combine equipment, a research interest is key.
 
-At startup, the persona gets one interest per three points of Intelligence score.
-A persona with a 12 INT would get four rolls on the Mechanic Interests Table. 
+At startup, the persona gets 1 interest per 3 points of Intelligence score.
+A persona with a 12 INT would get 4 rolls on the Mechanic Interests Table.
 Each interest roll has an associated expertise roll.
 After startup, the persona earns another interest and expertise with each new experience level.
 
@@ -47,9 +47,9 @@ Mechanic expertise represents more specific areas of knowledge.
 The expertise can represent tasks or very focused processes.
 The player can stack expertise and interests.
 
-At startup, the player gets one expertise per interest.
-A mechanic with repair 2 and enhance 1 would get three rolls on the mechanic expertise table.
-After startup, the persona gets one new expertise per new experience level.
+At startup, the player gets 1 expertise per interest.
+A mechanic with repair 2 and enhance 1 would get 3 rolls on the mechanic expertise table.
+After startup, the persona gets 1 new expertise per new experience level.
 As described above, the player can roll or choose the new expertise.
 
 === Repair
@@ -67,7 +67,7 @@ Enhancement does not include miniaturization.
 === Research
 The research interest is used to push the boundaries of engineering, fabrication, physics, and Sciency Fiction.
 The persona can use the research interest to create a new machine or process.
-The research interest can also be used to make a toy smaller or to combine two toys together.
+The research interest can also be used to make a toy smaller or to combine 2 toys together.
 
 include::vocations:partial$mechanic_expert.adoc[]
 

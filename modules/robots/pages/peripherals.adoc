@@ -33,13 +33,13 @@ I am here for a random peripheral for my robot, vehicle, mutation or spacecraft.
 == Utility
 These are the classic attachments that make, break or irritate the robot persona.
 Basic peripherals are admittedly dull, but when needed are very convenient.
-Every robot gets one basic peripheral
+Every robot gets 1 basic peripheral
 Fancy peripherals are fantastical devices that enhance the robot, but rarely impact combat.
 
 == Offensive
 Offensive peripherals is where the robots get all their attacks.
 The universal robot attack, ramming, is described in this section.
-Offensive peripherals are divided into four tables of increasingly dangerous offensive capabilities.
+Offensive peripherals are divided into 4 tables of increasingly dangerous offensive capabilities.
 
 == Defensive
 Defensive peripherals improve the robot’s ability to avoid getting damaged.

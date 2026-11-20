@@ -7,7 +7,7 @@ If the player wins the task roll, her persona has succeeded at the something.
 Tasks can be mundane, like trying to repair a loose doorknob.
 Tasks can be pure Sciency Fiction, like strapping a grommet-sized oscillating refractometer onto a Fredericton di-collating time re-modulator.
 Tasks can be uncombat related, like making a pie.
-Tasks can be combat related, like trying to fight with two weapons at once. 
+Tasks can be combat related, like trying to fight with 2 weapons at once.
 The possible number of tasks is infinite, and there is no complete list of tasks. 
 
 It is expected that there will be a host of tasks that players call on frequently. 
@@ -228,7 +228,7 @@ include::ROOT:partial$articulate.adoc[]
 ** No adjustments were applied
 * 1d100 + 28 vs treat simple burn, difficulty of 24 (Easy)
 
-* 9th level mercenary with combat interest of 6, ambidextrous expertise of 2 wants to use two pistols at once.
+* 9th level mercenary with combat interest of 6, ambidextrous expertise of 2 wants to use 2 pistols at once.
 ** Level Bonus +27
 ** Interest Bonus +6
 ** Expert Bonus +18
@@ -285,19 +285,19 @@ Reflex task rolls like dodging or ambidextrous combat usually cannot be shared.
 Teamwork is for simple, brief tasks that are not projects. 
 A merc and mechanic may work together to breach a door.
 A biologist and a nomad may work together to find a warren. 
-Two veterinarians may work together to stabilize an injured anthro.
+2 veterinarians may work together to stabilize an injured anthro.
 
 .*Teamwork Making the Dream Work*
-. Maximum of three team members
-. *Lowest two total task roll bonuses* are combined
+. Maximum of 3 team members
+. *Lowest 2 total task roll bonuses* are combined
 . Each player gets to make a task roll
 
-Teamwork can improve the chance of success by combining the two lowest total task roll bonuses, and up to three players can roll.
+Teamwork can improve the chance of success by combining the 2 lowest total task roll bonuses, and up to 3 players can roll.
 Consider a mercenary with a task roll bonus of 11 and a mechanic with a task roll bonus of 16 trying to breach a door.
 Both players can try and beat the difficulty with a 1d100 roll plus 27. 
-That means two rolls with an improved bonus. 
+That means 2 rolls with an improved bonus.
 If a spie with task roll bonus 21 decided to help out the merc and mech the bonus would remain 27.
-However, three players can roll, but the bonus is still only 27.
+However, 3 players can roll, but the bonus is still only 27.
 This is a “too many cooks spoil the broth” situation.
 
 A research team is different from teamwork. 

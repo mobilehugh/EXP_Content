@@ -9,12 +9,12 @@ s|Air
 s|Water
 
 |Free
-|Normal (Bolt)
+|Normal/Bolt
 |Normal
 |Normal
 
 |Light
-|Normal (Run)
+|Normal/Run
 |Normal
 |Normal
 
@@ -43,5 +43,6 @@ s|Land
 s|Air
 s|Water
 
-4+<|Only *anthros* can bolt (2xMove) or run (1.5xMove) on land.
+4+<|Bolt: +100% normal; anthros and wildlife only.+
+Run: + 50% normal; anthros and educated aliens only.
 |===

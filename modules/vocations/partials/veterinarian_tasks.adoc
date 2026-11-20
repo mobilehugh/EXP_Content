@@ -145,7 +145,7 @@ s|Description
 
 |Resuscitate
 |84
-|Restore to zero HPS and unconscious.
+|Restore to 0 HPS and unconscious.
 
 |Restore Attribute
 |96
@@ -173,11 +173,11 @@ s|Description
 
 |Unstun
 |32
-|Immediately remove stun effect from one persona.
+|Immediately remove stun effect from 1 persona.
 
 |Unstun Group
 |126
-|Unstun all within one hex range.
+|Unstun all within 1 hex range.
 
 |Vision Restoration
 |156

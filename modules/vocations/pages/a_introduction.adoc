@@ -81,7 +81,7 @@ include::vocations:partial$vocation_selection_example.adoc[]
 == Knowledge
 A vocation’s knowledge represents things that the persona knows.
 The knowledge base of the vocation represents it’s literal definition.
-Knowledge is split into two parts: interests and expertise.
+Knowledge is split into 2 parts: interests and expertise.
 Each vocation has tables devoted to knowledge this would inform that vocation.
 A veterinarian has knowledge around healing, and a mercenary has knowledge around combat.
 This does not mean that there are some overlapping knowledge.
@@ -92,7 +92,7 @@ Recalling details about alien anatomy is knowledge, and being skilled at cutting
 Knowing how to sharpen a knife is knowledge, but actually sharpening the knife is a task.
 Without getting over philosophical: anything that assists a player’s roll in succeeding at a task is knowledge.
 
-There are two areas of knowledge: interest and expertise.
+There are 2 areas of knowledge: interest and expertise.
 Each vocation has dedicated interest and expertise tables.
 The player can roll randomly on, or select from, these tables.
 Players can also create bespoke knowledge, but this is only recommended for experienced play tables.
@@ -137,7 +137,7 @@ The persona can complete gifted task with the player having to win a task roll.
 For example, a veterinarian has the gift of Quick Fix.
 This allows her to immediately heal her colleague a small amount.
 A mercenary has the gift of ambidextrous combat with swords.
-This allows her to use two swords without making the task roll.
+This allows her to use 2 swords without making the task roll.
 As the persona advances in her vocation she can add more gifts.
 
 The player can create a bespoke task as a gift.
@@ -172,7 +172,7 @@ include::ROOT:partial$articulate.adoc[]
 * Gift - Is it biological?
 
 Interests and expertise are cumulative and separated.
-The persona has two taxonomy interests, and the player can use them on any task related to taxonomy.
+The persona has 2 taxonomy interests, and the player can use them on any task related to taxonomy.
 Even if the persona has no expertise in trapping aliens, she can still use her taxonomy 2 interest when working on a task related to web making alien.
 When working to identify a herbivore she would be able to use both her interests in taxonomy and her expertise in herbivores.
 
@@ -232,11 +232,11 @@ TIP: Rules assist game balance and creativity. +
 *Don't let rules obstruct the story or fun.*
 
 == Multiple Vocations
-A player may want to have a persona with more than one vocation.
+A player may want to have a persona with more than 1 vocation.
 Inexperienced players or referees should avoid multi-vocation personas.
 The persona must have the attribute requirements for both vocations.
 
-There are situations where the ref and players may allow a persona to have more than one vocation.
+There are situations where the ref and players may allow a persona to have more than 1 vocation.
 A player may wish to change things up with her persona.
 The expedition may need a particular vocation, and a player volunteers to cross-train her persona.
 For example, a mercenary persona may add in the mechanic vocation to ensure maintenance of the the spaceship’s naval artillery.
@@ -246,7 +246,7 @@ Less mature players may abuse this privilege.
 The referee decides if the player is combining or switching personas in good faith.
 
 === Combining
-Combining vocations is when the player has a persona with two vocations concurrently.
+Combining vocations is when the player has a persona with 2 vocations concurrently.
 For example, a biologist mechanic can do biologist and mechanic tasks.
 The persona advances both levels simultaneously and can use tasks from both vocations.
 
@@ -264,7 +264,7 @@ If the persona has the vocation’s attribute requirements, she can switch any t
 For example, a mercenary may suddenly get a conscience and devote the rest of her life to the study of biology.
 If she has the appropriate attributes, she can do this switch at any time.
 The persona’s mercenary tasks freeze at her exit level.
-She begins collecting experience points as a first-level biologist with zero EXPS.
+She begins collecting experience points as a first-level biologist with 0 EXPS.
 She can still use her mercenary tasks but only collects experience as a biologist.
 
 If the persona does not have the attributes to make a vocation, she can follow the nothing vocation until she gets the necessary EXPS.

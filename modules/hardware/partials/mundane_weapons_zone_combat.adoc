@@ -46,12 +46,12 @@ Self-explanatory.
 Radius::
 Mundane area of effect weapons are unpredictable.
 The player must roll the radius of effect each time one detonates.
-An radius of zero indicates only the target hex is damaged.
+An radius of 0 indicates only the target hex is damaged.
 The other hex values are the radius of the damage.
 
 Miss Roll::
 What dice to use to generate the radius of effect.
 
 Range::
-The range of mundane grenades is equal to one hex per point of Strength.
-A persona with a Strength of ten could aim at a target ten hexes away.
+The range of mundane grenades is equal to 1 hex per point of Strength.
+A persona with a Strength of 10 could aim at a target 10 hexes away.

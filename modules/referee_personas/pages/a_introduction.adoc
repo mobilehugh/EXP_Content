@@ -143,7 +143,7 @@ The CR is used to determine the EXPS value and number of attackers.
 *The CR is optional.*
 
 The Combat Ratio indicates how many player personas represent a fair fight.
-For this process, a player persona is a level one anthro persona with a typical attack table.
+For this process, a player persona is a level 1 anthro persona with a typical attack table.
 The larger the combat ratio the more dangerous the referee persona.
 
 A referee persona with a CR of 20 should be able to handle 20 personas, or 4 5th level personas.
@@ -188,7 +188,7 @@ The multipliers are multiplied together and then multiplied by the final base co
 .. 92 personas = fair fight
 
 === Attack Bonus
-The highest skilled attack bonus on the RPs attack table is used for the combat ratio.
+The highest Skilled Attack Bonus on the RPs attack table is used for the combat ratio.
 
 include::referee_personas:partial$combat_ratio_skilled_bonus.adoc[]
 

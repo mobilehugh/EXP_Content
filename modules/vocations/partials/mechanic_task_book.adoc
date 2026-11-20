@@ -98,8 +98,8 @@ s|Difficulty
 * *Mechanical*: Is it a machine? Yes/No.
 * *Miniaturization*: Decrease wate by 10 times.
 * *Mnemonic Trapping*: Memorize a technical thing.
-* *Multi-equip*: Integrate two toys into one.
-* *Quick Repair*: Unbreak for one more use. Trivial and minor damage.
+* *Multi-equip*: Integrate 2 toys into one.
+* *Quick Repair*: Unbreak for 1 more use. Trivial and minor damage.
 * *Repair*: Fully repair less than major damage.
 * *Reverse Polarity*: Make a machine go backwards. Once.
 * *Robot Command*: Impair a robot with words and sounds

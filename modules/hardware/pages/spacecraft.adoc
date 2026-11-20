@@ -172,7 +172,7 @@ The larger the drive size, the more powerful the exatmo drive.
 The exatmo drives are essential in spacecraft combat.
 They can maneuver a ship well beyond survivable physics in combat. 
 
-Exatmo drives will be one of two types: fusion or gravetics.
+Exatmo drives will be one of 2 types: fusion or gravetics.
 The player creating the spacecraft may choose between the two.
 Both are equally efficient at moving the ship around exatmo.
 Neither type of exatmo drive can function within the atmosphere.
@@ -275,7 +275,7 @@ The drive power represents how powerful the drive is.
 The more powerful the drive, the faster, further the drive goes.
 Each drive type has its own power level between one and ten.
 The player rolls drive power from 1-10 (1d10) for each drive the spacecraft has.
-The player may roll three times for a starship (exatmo, inatmo, and special) or once for a space tug (exatmo only).
+The player may roll 3 times for a starship (exatmo, inatmo, and special) or once for a space tug (exatmo only).
 The more powerful the drive is, the more hull space it occupies.
 
 include::hardware:partial$spacecraft_drive_power_levels.adoc[]
@@ -387,16 +387,16 @@ The range takes into account the vessel size and all fuel necessary for the task
 Choosing time to measure fuel burn proved to be the easiest way to keep track of fuel consumption.
 
 Consider a special drive jump as an example.
-A special drive jump uses one month of fuel and moves the ship as many light-years as the special drive level indicates.
-A 10 tonne or a 100-tonne vessel would use one month of their fuel storage to make the jump.
+A special drive jump uses 1 month of fuel and moves the ship as many light-years as the special drive level indicates.
+A 10 tonne or a 100-tonne vessel would use 1 month of their fuel storage to make the jump.
 This method allows the ship to make several jumps before refuelling but does not bog the players down with astronomical calculations.
 
 include::hardware:partial$spacecraft_fuel_consumption.adoc[]
 
 So a spacecraft with 15 months of fuel could make 15 special drive jumps or compete in 60 turns of space combat or 90 minutes of inatmo flight.
-A spacecraft drops out of combat if there is less than one week of fuel onboard.
+A spacecraft drops out of combat if there is less than 1 week of fuel onboard.
 Depleting an opponent of fuel is a victory condition.
-A spacecraft cannot jump if there is less than one month of fuel onboard.
+A spacecraft cannot jump if there is less than 1 month of fuel onboard.
 
 The nature of refuelling depends on the referee’s milieu and campaign.
 Some fuel types may be ubiquitous materials that one skims off the local gas giant.
@@ -461,7 +461,7 @@ The software will include any hardware and connections it needs to function on t
 A software package may physically bolt onto the spacecraft or be auto-downloaded from https://github.com/mobilehugh/EXP_Content[GitHub].
 
 There is no limit to the amount of software a ship’s computer can house, but there is a limit to the number of programmes that it can simultaneously operate.
-A spacecraft is limited to deploying one software title per computer level at once.
+A spacecraft is limited to deploying 1 software title per computer level at once.
 Players will have to make choices about what is the most critical package to run.
 
 === Crew
@@ -470,7 +470,7 @@ In some circumstances, the crew software replaces the required crew member compl
 In other circumstances, the programmes direct a persona or robot on how to operate the system.
 
 Crew replacement software is limited by the computer’s level.
-A spacecraft is limited to using one software title per level of computer at once.
+A spacecraft is limited to using 1 software title per level of computer at once.
 A low-level ship’s computer may always require a persona crew member to function.
 
 The player rolls decidice (1d100) for each programme, and there is a chance of having it.
@@ -511,7 +511,7 @@ When a persona can use the ship’s computer for a task roll, she enjoys a bonus
 For instance, a persona who can use the etiquette programme to help cater a fancy dinner.
 If the computer level is 5, the persona gets a +20 bonus when making the meal. 
 
-The player makes one roll per level of the ship’s computer.
+The player makes 1 roll per level of the ship’s computer.
 
 include::hardware:partial$spacecraft_programmes_operational.adoc[]
 
@@ -887,14 +887,14 @@ include::hardware:partial$spacecraft_artillery.adoc[]
 Naval artillery is for destroying the target ship.
 Naval artillery is not for softening the target vessel.
 The sheer force of naval artillery leads to the target’s destruction.
-One use of naval artillery exhausts a whole day’s worth of fuel.
+1 use of naval artillery exhausts a whole day’s worth of fuel.
 Naval artillery requires a gunnery program and a gunner.
 Without this complement, the ship cannot fire its naval artillery.
 
 NOTE: *Artillery are big guns. Naval artillery are big big big guns.*
 
 Naval artillery is more deadly than regular deadly artillery.
-Naval artillery inflicts three times the damage and has 100 times the range.
+Naval artillery inflicts 3 times the damage and has 100 times the range.
 Naval artillery only works exatmo and cannot fire inatmo or cross into an atmosphere.
 
 The player rolls on the spacer artillery table above and then does arithmetic as directed below.
@@ -1016,7 +1016,7 @@ Development is ongoing, and EXP users may reach this milestone with expected tec
 Cabins are a space luxury.
 If a spacecraft has passengers, other than in cold storage, it must have cabin space.
 If a spacecraft has cabins it must have corridors connecting them. 
-Each cabin requires one tonne of hull space and can comfortably house two passengers.
+Each cabin requires 1 tonne of hull space and can comfortably house 2 passengers.
 
 === Cargo Lock
 
@@ -1089,7 +1089,7 @@ A military vessel is any spacecraft that has artillery, mines or missiles.
 * Requires: 0.25 tonnes
 * Occupies: 0.25 tonnes (1 per 4 guests)
 
-A life bloat will maintain four passengers (up to 250 kg in wate each) in cryogenic suspension for an indefinite length of time.
+A life bloat will maintain 4 passengers (up to 250 kg in wate each) in cryogenic suspension for an indefinite length of time.
 The cryogenic suspension will begin when the balloon-like life bloat is subject to exatmo.
 There will be one life bloat for every four luxury passengers.
 
@@ -1110,7 +1110,7 @@ There is a 5% chance per robot on board of having a machine shop.
 The food machine will generate nutritionally balanced meals for anything that eats.
 The referee determines the palatability of said foodstuffs.
 Most food machines employ algae, or fungal, cultures to create the primary heterotrophic food groups.
-One tonne of food machine is required for every ten eaters supported.
+1 tonne of food machine is required for every 10 eaters supported.
 Because of their potential for comic relief, all ships will have a food machine.
 Food machines are also known as compu-cooks and auto chefs.
 If the food machine is busy enough, it would be reasonable to give it a personality.
@@ -1167,7 +1167,7 @@ There are no robots and no crew replacement software.
 After all deductions, there are leaves 63 tonnes of cargo space in the vessel.
 The remaining cargo space allows for a cargo lock and multiple airlocks.
 The cargo lock does not work exatmo, so its inclusion is a mystery.
-Sixty tonnes is the capacity of two mundane terran dump trucks.
+60 tonnes is the capacity of two mundane terran dump trucks.
 
 include::hardware:partial$spacecraft_cargo_space.adoc[]
 
@@ -1176,12 +1176,12 @@ include::hardware:partial$spacecraft_cargo_space.adoc[]
 === EXPS
 The EXPS value of a spacecraft is impossible to assess.
 The expedition earns experience for a spacecraft once they have flown it somewhere.
-In austere resource campaigns, the EXPS award for an earned spacecraft is one complete EXPS level.
+In austere resource campaigns, the EXPS award for an earned spacecraft is 1 complete EXPS level.
 If spacecraft are commonplace, this EXPS is only awarded once.
 
 === Value
 A spacecraft’s value depends on several components: hull, drives, computer, etc.
-Wear and tear may have reduced a ship to worthlessness in one culture, while another will pay dearly for anything that can get them into orbit.
+Wear and tear may have reduced a ship to worthlessness in 1 culture, while another will pay dearly for anything that can get them into orbit.
 Spacecraft are precious.
 Spacecraft with powerful computers and special drives are worth enormous amounts.
 

@@ -114,7 +114,7 @@ The players get to roll dice, but the computer is deciding the combat course.
 === Combat Turns
 A turn in spacecraft combat is very different from a combat unit in the tactical combat rules.
 Space combat turns are longer and more structured than the free-wheeling 2-second tactical combat unit.
-A combat turn lasts one minute and involves a stepwise execution of attacks and defences.
+A combat turn lasts 1 minute and involves a stepwise execution of attacks and defences.
 During a turn, the combatant vessels are wildly jockeying for position at half the speed of light.
 The ship computers are firing missiles, dumping mines, calculating ECM, and aiming artillery.
 Most often, the personas will be idle as the players make attack rolls and decisions. 
@@ -196,7 +196,7 @@ Counter attacks are not automatically activated and require a decision by the pl
 
 Each spacecraft is randomly created and has a different weapon configuration.
 The attack order only applies to attacks that the spacecraft has.
-One spacecraft may only have ECM, while another may have ECM and bombs.
+1 spacecraft may only have ECM, while another may have ECM and bombs.
 Naval artillery is very rare.
 All spacecraft can ram or board. 
 All of these attacks are possible in each combat turn.
@@ -207,18 +207,18 @@ include::combat:partial$exatmo_vehicle_turn_order.adoc[]
 Ship One and Ship Two are unable to talk it out.
 An spacecraft battle ensues.
 
-.*Ship One Attacks*
+.*Ship 1 Attacks*
 * ECM
 * Ramming
 * Artillery
 
-.*Ship Two Attacks*
+.*Ship 2 Attacks*
 * Ramming
 * Artillery
 * Mini-Missile (Grenades)
 
 .*Turn order and Initiative*
-. Ship One attacks with ECM.
+. Ship 1 attacks with ECM.
 .. ECM (1) act first, no init. 
 .. Ship Two has no ECM (1) to counter.
 .. ECM (1) affects Ship Two.
@@ -231,14 +231,14 @@ An spacecraft battle ensues.
 .. Initiative rolls required.
 .. Winner make Artillery attack first.
 . Neither ship is boarding (4).
-. Ship Two attacks with  Mini-Missiles (5).
+. Ship 2 attacks with  Mini-Missiles (5).
 .. Ship One has used ECM (1) and Artillery (3), no counter.
 .. Ship Two makes Mini-Missile attack on Ship One
 
 == Initiative
 Initiative is only needed when both vessels have the same attack type.
 For example, if both combatants have ECM, the pilots roll initiative to see which vehicle’s ECM acts first.
-If only one combatant has ECM, this pilot would automatically act first.
+If only 1 combatant has ECM, this pilot would automatically act first.
 
 === Initiative for Space Combat
 .Init = 1d20 + Computer Level + Pilot Level + Other
@@ -250,13 +250,13 @@ Init = 9 (1d20) + 4 (computer level) + 3 (pilot level) = 16
 Ship One and Ship Two are unable to talk it out.
 They both have Artillery, which is turn level 3.
 
-.*Ship One Combat Team*
+.*Ship 1 Combat Team*
 * Computer Level 2
 * Pilot Level 3
 * Combat Software Level 1
 * Init = 9 (1d20) + 2 (computer level) + 3 (pilot level) + 1 (other) = 15
 
-.*Ship Two Team*
+.*Ship 2 Team*
 * Computer Level 4
 * Pilot Level 1
 * Init = 11 (1d20) + 4 (computer level) + 1 (pilot level) = 16
@@ -271,7 +271,7 @@ Counters are detailed on the the Attack Defend Counter Attack Table.
 
 
 == Roll Types
-There are two roll types in spacecraft combat.
+There are 2 roll types in spacecraft combat.
 Attack Rolls and Success Rolls. 
 
 === Attack Rolls
@@ -302,7 +302,7 @@ Personas are not able to assist with an attack and repair the ship simultaneousl
 
 === Attack Assist
 Crew can help the ship’s computer and combat systems improve the chances of success.
-A mechanic with artillery skill two is assisting a level three computer.
+A mechanic with artillery skill 2 is assisting a level 3 computer.
 This vocation/computer team makes artillery attacks like a level 5 computer.
 
 If the spacecraft is flush with crew members, the computer can work with a research team to pile up bonuses.
@@ -327,7 +327,7 @@ Most of these repairs will fall apart once combat ends.
 * Exatmo Drive Patch Tough (126 + % goal)
 * Special Drive Patch Impossible (168 + % goal)
 
-For example, a mechanic attempts to repair the fusion drive by ten percentage points. 
+For example, a mechanic attempts to repair the fusion drive by 10 percentage points.
 This repair would be a exatmo drive patch with a difficulty of tough (126 + 10) task for the mechanic.
 If she is successful, the fusion drive will move from 8% effectiveness (disabled) to 18% effectiveness.
 The drive is still damage and once it is used to escape or ram it will likely fail again.

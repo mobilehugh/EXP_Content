@@ -169,7 +169,7 @@ include::ROOT:partial$articulate.adoc[]
 
 
 Not surprisingly, defensive combots have many defensive systems.
-A defensive combot with a 20 Constitution would get five defensive systems.
+A defensive combot with a 20 Constitution would get 5 defensive systems.
 That is a lot of defences.
 All defensive combots have the following peripherals and programming baked in.
 
@@ -186,7 +186,7 @@ The success of fortify programming depends on the combot’s Intelligence score.
 
 === Intruder Eyes
 Intruder detection makes it very difficult for anything to sneak into the detection perimeter.
-The range of the detection perimeter is ten hexes per point of Awareness.
+The range of the detection perimeter is 10 hexes per point of Awareness.
 The success of detecting a perimeter violation is also dependent on the combot’s Awareness score.
 
 === Anti-Anti-Detection
@@ -336,7 +336,7 @@ Table 4, 1 roll
 |===
 
 === Heavy Weapons
-Every heavy offensive combot gets one roll on the Heavy Combot Heavy Weapon Table.
+Every heavy offensive combot gets 1 roll on the Heavy Combot Heavy Weapon Table.
 A heavy weapon can create a game imbalance.
 The referee can neuter the heavy weapon by having the weapon out of ammunition or in need of launch codes.
 If the Nuk-O-Matic cannon wrecks the campaign balance, don’t use it.

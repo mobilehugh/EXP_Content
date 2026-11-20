@@ -91,8 +91,8 @@ For example, a heavy offensive combot needs a STR of 27 and a  STR prime of 4.
 
 === Hit Points
 The range of hit points the robot type has is listed here.
-The player gets one roll per point of Constitution using this value.
-If this datalyzer robot has a 10 CON, she gets to roll 1d2 + 2 ten times to generate her hit points. 
+The player gets 1 roll per point of Constitution using this value.
+If this datalyzer robot has a 10 CON, she gets to roll 1d2 + 2 10 times to generate her hit points.
 For more information, jump to xref:combat:damage_and_demolition.adoc[Robot Hit Points,window=_blank, rel="noopener noreferrer"].
 
 === Adaptability
@@ -122,7 +122,7 @@ For more info jump to to xref:robots:value.adoc[Value,window=_blank, rel="noopen
 Robotic systems are random abilities that accompany the robot at the fabrication point.
 The systems indicate weapons, defences, or tools that are part of the robot.
 Systems are baked in. 
-Each robot has a chance at each of the three systems. 
+Each robot has a chance at each of the 3 systems.
 
 ===  Offensive 
 Offensive systems are peripherals that the robot can use in combat to damage targets intentionally. 
@@ -134,7 +134,7 @@ The Datalyzer has a 5% chance of having an offensive system from the level 1 Off
 Defensive systems are peripherals that the robot can use in combat to defend itself from damage. 
 The defence may be a baked-in device or a malfunctioning peripheral.
 The data table indicates None, Auto, or a percent chance. 
-The Datalyzer automatically gets one roll on the defensive peripheral table. 
+The Datalyzer automatically gets 1 roll on the defensive peripheral table.
 There is a 24% chance that the datalyzer will get a second defensive system. 
 
 === Peripheral 
@@ -143,4 +143,4 @@ The peripheral effect may be a baked-in device or a malfunctioning peripheral.
 The data table indicates None, Auto, or a percent chance. 
 The random peripherals vary from the magnificent to the ridiculous.
 The data table indicates None, Auto, or a percent chance. 
-The datalyzer automatically gets two peripherals. 
+The datalyzer automatically gets 2 peripherals.

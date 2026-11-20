@@ -49,7 +49,7 @@ So the persona determines the range, and the grenade defines the area of effect.
 The player chooses the target hex that her persona is targeting.
 Grenades are most commonly thrown (Fling). 
 Grenades can also be launched (Shoot).
-The persona can throw a grenade one hex per point of Strength.
+The persona can throw a grenade 1 hex per point of Strength.
 
 === Range Distance (thrown)
 .Range = 1 hex per point of STR
@@ -168,7 +168,7 @@ include::ROOT:partial$articulate.adoc[]
 Most grenades deliver a deadly shockwave along with shrapnel or other special effects.
 Artifact grenades can deliver additional effects like fire, gas, or even stranger things.
 The grenade affects every persona in the area of effect.
-Those persons who are located one hex beyond the area of effect are faux realistic lucky.
+Those persons who are located 1 hex beyond the area of effect are faux realistic lucky.
 If the grenade effect is 30 hit points, every persona loses 30 hit points.
 If the grenade effect is poison gas, every persona must win a saving roll or take damage.
 

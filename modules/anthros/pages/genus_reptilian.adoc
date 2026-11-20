@@ -14,7 +14,7 @@ Reptilian is common name for the Hominidae Homo Serpens.
 Reptilians are upright, bipedal lizard people.
 Descriptive choices include salamander, snake, iguana, gator, turtle, frog, tyrannosaur, brontosaur, etc.
 The reptile type is only a decoration.
-Every reptilian has two arms, two legs, a torso and a face.
+Every reptilian has 2 arms, 2 legs, a torso and a face.
 Reptilians may have scaly hide, forked tongues, and decorative tails.
 Some reptilian skin can make good boots.
 Reptilians possess none of the abilities from their description.
@@ -89,7 +89,7 @@ Once the reptilian activates torpor, she will remain in this state for 1-6 (1d6)
 Torpor is a considerable commitment.
 The referee determines the torpor duration and may keep that info secret from the players.
 
-In this state of selective metabolism, the reptilian will heal three hit points each day.
+In this state of selective metabolism, the reptilian will heal 3 hit points each day.
 Torpor will also reduce the effects of poisonous atmospheres.
 When in torpor, radiation, heat, cold, ingested or inhaled toxin are reduced in effect.
 Torpor reduces the intensity of these attacks in half.

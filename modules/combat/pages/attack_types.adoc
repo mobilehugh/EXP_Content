@@ -18,8 +18,8 @@ include::combat:partial$attack_types_details_web.adoc[]
 *Non-powered thrusting and striking attacks*
 
 Strike Attacks depend on the persona’s muscle power to inflict damage.
-The persona must be in an adjacent hex to make an attack roll.
-Strike attacks get one attack roll per unit.
+The target must be within the Reach of the Strike Attack.
+Strike attacks get 1 attack roll per unit.
 
 An anthro could use a weapon like a sword or an axe.
 An alien could use a natural attack like a bite or a talon slash.
@@ -29,44 +29,70 @@ A robot could use a malfunctioning peripheral that operates as a club.
 These are non-powered thrusting and striking weapons.
 Strike weapons are handheld but can include the hand itself.
 Strike weapons include swords, maces, pole-arms, fists, paws, beaks, spears, etc.
-They are close combat weapons, and the target must be in the persona’s hex or an adjacent hex.
+They are close combat weapons, and the target must be within the weapon’s Reach and meet any minimum-distance requirement.
 
 include::combat:partial$attack_types_strike_weapons_web.adoc[]
 
-[[_range]]
+[[_reach]]
 === Reach
-Strike weapons use reach to determine how far away a target can be attacked.
-Reach describes close combat distance rather than projectile range.
-A dagger cannot reach over an adjacent hex to attack, but a spear could.
-Other weapons cannot be used while grappling is in effect.
-__Target hex__ is the where the target is.
-__Same hex__ is the hex that the persona is in.
+[[_range]]Reach is the maximum distance in hexes at which a persona can make a Strike Attack.
+Reach applies to Strike Attacks only; Fling and Shoot Attacks use Range.
+Count from the attacker’s hex to the target’s hex, excluding the attacker’s hex and including the target’s hex.
+If a persona occupies several hexes, count from the nearest occupied hex from which the attacking limb or weapon can strike.
 
-Most of this goes out the window when players are using Large or Gigantic alien personas.
-These rules are aimed at medium sized personas.
+.Reach in Hexes
+[cols="^,<",frame="all",stripes="even"]
+|===
+s|Reach
+s|Target Location
 
-.Reach Descriptions
-* Close
-** Requires target to be in same hex.
-** Can be used in grappling combat.
-* Normal
-** Target can be in any adjacent hex.
-** Cannot be used properly on target in same hex (no Force bonus)
-** Cannot be used at all in grappling combat.
-* Reach
-** Target may have one empty hex between the attacker and target.
-** Cannot be used on target in adjacent, or same hex.
-* Mounted
-** Unidirectional attack mounted on a heavy high speed mount.
-** Miss requires entire reorientation of mount.
-** Cannot be used on a target in adjacent or next hex.
+|0
+|Same hex as the attacker.
+
+|1
+|Adjacent hex.
+
+|2
+|2 hexes away, with 1 intervening hex.
+
+|3
+|3 hexes away, with 2 intervening hexes.
+
+|Special
+|See the attack’s description.
+|===
+
+A natural or built-in Strike Attack can hit a target at or within its Reach unless its description says otherwise.
+A Gigantic alien with Reach 2 and a Gigantic robot with Reach 2 can both strike a target 2 hexes away.
+The same distance is Reach 2 for a Medium anthro using a polearm.
+Reach does not grant extra attacks or movement.
+
+==== Weapon Reach
+The listed Reach of a weapon assumes a Medium anthro.
+Do not add the wielder’s natural Reach to the weapon’s listed Reach.
+For other persona sizes or unusual anatomy, the referee determines the weapon’s Reach and any minimum distance.
+Weapon length in centimetres is descriptive and does not directly determine Reach in hexes.
+
+Mundane Strike weapons have the following restrictions.
+A weapon’s Reach does not automatically permit attacks at every shorter distance.
+
+* Reach 0 weapons require a target in the same hex and can be used while grappling.
+* Reach 1 weapons can attack adjacent targets. They can also attack targets in the same hex, but without the Force Bonus. They cannot be used while grappling.
+* Reach 2 weapons listed in the mundane Strike weapon table require a target exactly 2 hexes away. They cannot attack targets in the same or an adjacent hex, and cannot be used while grappling.
+* Mounted lances have Special Reach. They require a heavy, high-speed mount and strike in 1 direction. They cannot attack targets in the same hex or at distances of 1 or 2 hexes. The referee determines their maximum Reach. A miss requires the mount to reorient for another attack.
+
+These weapon restrictions do not impose a minimum distance on an alien’s natural attack or a robot’s built-in attack.
+Contact indicates that a Minute alien or Nano robot must make physical contact with her target before attacking, as described in their size rules.
+Humongous aliens and Colossal robots have Reach 3 with a no-attack space of 1 hex.
+They cannot strike targets in the same or an adjacent hex, so a target must be 2 or 3 hexes away.
+Particular attacks may have special rules.
 
 == Fling Attacks
 *Non-powered projectile attacks*
 
 Fling attacks depend on the persona’s dexterity to hit a target, and on the persona’s strength to inflict damage.
 The personas may be several hexes apart and still be able to damage each other.
-Fling attacks get one attack roll per unit.
+Fling attacks get 1 attack roll per unit.
 
 An anthro would use a weapon like a bow or a sling.
 An alien may have evolved natural attack like spitting rocks or flinging quills.
@@ -75,7 +101,7 @@ A robot could use a malfunctioning peripheral that throw used batteries.
 === Fling Weapons
 These are non-powered projectile weapons.
 Fling weapons include rocks, daggers, boomerangs, whips, spitting, arrows, darts, etc.
-Fling weapons are not close combat weapons, and there must be at least one hex between the persona and her target.
+Fling weapons are not close combat weapons, and there must be at least 1 hex between the persona and her target.
 
 include::combat:partial$attack_types_fling_weapons_web.adoc[]
 
@@ -95,7 +121,7 @@ They cannot be launched without physical effort.
 include::ROOT:partial$articulate.adoc[]
 
 == Shoot Attacks
-*Powered projectile attack*
+*Powered projectile attacks*
 
 Shoot Attacks do not require any muscle power from the persona.
 The persona uses her intelligence and dexterity to guide the attack
@@ -125,7 +151,7 @@ The key is the lack of physical effort when the attack is made.
 
 
 == Zone Attacks
-*Attacks that affect an area*
+*Attacks that affect a zone.*
 
 A Zone Attack affects every persona in its area of effect, regardless of Defence.
 A frag grenade delivers explosive damage, while a sleeping gas aerosol may make targets fall asleep.
@@ -153,7 +179,7 @@ If the zone attack is delivered by weapon (like a grenade launcher) this is cons
 The range of the shoot attack is determined by the weapon delivering the zone attack (grenade launcher).
 
 == Psionic Attacks
-*Mind powered attacks with various effects*
+*Mind powered attacks.*
 
 Psionic attacks are listed here to keep EXP grounded in its Sciency Fiction roots.
 A Psionic Attack Type arises from an anthro mutation, and alien evolutation or a robot malfunctation that gives unique powers to the persona.

@@ -49,7 +49,7 @@ s|Description
 
 |Unstun
 |32
-|Immediately remove stun effect from one persona.
+|Immediately remove stun effect from 1 persona.
 
 3+s|Normal
 
@@ -93,7 +93,7 @@ s|Description
 
 |Resuscitate
 |84
-|Restore the persona to zero HPS and unconsciousness.
+|Restore the persona to 0 HPS and unconsciousness.
 
 |Poison Reverse
 |84
@@ -147,7 +147,7 @@ s|Description
 
 |Unstun Group
 |126
-|Unstun all within one hex range.
+|Unstun all within 1 hex range.
 
 |Paralyzing Pinch
 |126

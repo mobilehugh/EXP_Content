@@ -18,6 +18,6 @@
 :toy_exps: 105
 :toy_value: 7000
 :tech_level: 19
-:toy_info: Defence 800 minimum, restrictiveness 1, -7 on AID
+:toy_info: Defence 800 minimum, Binding 1, -7 on AID
 :hardware_xref: armour.adoc#_plastix
 :toy_xref: toy_armour_.adoc#_plastix_19

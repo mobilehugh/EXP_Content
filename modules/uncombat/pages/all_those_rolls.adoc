@@ -135,7 +135,7 @@ Challenge rolls with attributes are covered with excoriating detail elsewhere, j
 
 === Battling Attributes
 An attribute roll involves the player using a specific attribute in a challenge.
-Two personas arm wrestling would simultaneously roll dice to see who wins.
+2 personas arm wrestling would simultaneously roll dice to see who wins.
 Each persona rolls separately adding their strength attribute to the 1d20 roll.
 The higher roll wins the arm wrestle.
 A tie indicated detente and ongoing arm wrestling.
@@ -219,7 +219,7 @@ If the player rolls a __natural__ 20 she rolls another 1d20 and adds it to her a
 
 == Sphincter Roll
 Sphincter rolls are the last line of decision-making when players cannot agree.
-The sphincter roll is a luck challenge roll between two players.
+The sphincter roll is a luck challenge roll between 2 players.
 The player usually competes with the referee when making a sphincter roll.
 Sphincter rolls fill those gaps in the referee’s milieu.
 Sphincter rolls also assist players in making decisions when a decision is elusive.

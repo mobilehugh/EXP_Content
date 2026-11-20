@@ -4,10 +4,10 @@ Robots are inorganic fabricated entities.
 They do not have a physiology per se.
 Consequently, physical damage affects robots different from anthros and aliens. 
 While a hit point in damage is still a hit point in damage, its effect on the robot is different.
-The main difference between robotic and organic (anthros and aliens) is that robots do not ‘die’ at zero hit points.
-A robot at zero hit points (0 HPS) indicates a broken part rather than a dead robot.
-A robot dies when any of its attribute scores falls to zero.
-Zero hit points does not destroy a robot, but a zero Constitution does.
+The main difference between robotic and organic (anthros and aliens) is that robots do not ‘die’ at 0 hit points.
+A robot at 0 hit points (0 HPS) indicates a broken part rather than a dead robot.
+A robot dies when any of its attribute scores falls to 0.
+0 hit points does not destroy a robot, but a 0 Constitution does.
 
 :art: battle_hardened.png
 :width: 350px
@@ -37,14 +37,15 @@ Electrical and disintegration attacks are especially damaging to robot personas.
 An electrical or disintegration attack inflicts double damage to a robot. 
 
 Robots keep taking more and more damage.
-Eventually, the damage will reduce the robot’s hit point total to zero.
+Eventually, the damage will reduce the robot’s hit point total to 0.
 
-== Zero HPS
-For organic personas, zero hit points mean unconsciousness or death.
-For a robot, zero hit points indicate some system is damaged.
-When a robot’s HPS total drops below zero, several things happen.
+[[_zero_hps]]
+== 0 HPS
+For organic personas, 0 hit points mean unconsciousness or death.
+For a robot, 0 hit points indicate some system is damaged.
+When a robot’s HPS total drops below 0, several things happen.
 
-.Zero HPS Checklist
+.0 HPS Checklist
 . <<_hpm_damage,HPM Damage>>
 . <<_system_damage,System Damage>>
 . <<_attribute_damage,Attribute Damage>>
@@ -62,10 +63,10 @@ This is sometimes referred to as robot decay, or the decay trifecta.
 include::ROOT:partial$articulate.adoc[]
 
 == HPM Damage
-Each time the persona’s hit points drops to zero, the robot takes 10% off her hit points max.
+Each time the persona’s hit points drops to 0, the robot takes 10% off her hit points max.
 A robot with 110 HPM drops by 10% to a new HPM of 99.
 The drop in HPM rounds down and does not benefit the player.
-The robot is dead when her HPM reaches zero.
+The robot is dead when her HPM reaches 0.
 
 === HPM Decrease
 .New HPM = old HPM times 0.9
@@ -75,29 +76,29 @@ Always round down.
 ****
 
 === Rounding Down
-This drop in HPM continues until the HPM is less than one.
-The robot drops her HPM by 10% every time her HPS Total drops to zero.
+This drop in HPM continues until the HPM is less than 1.
+The robot drops her HPM by 10% every time her HPS Total drops to 0.
 Her HPM would decrease like so: 110, 99, 89, 80, 72, 64, 57 etc.
-An HPM of zero indicates a destroyed robot. 
+An HPM of 0 indicates a destroyed robot.
 The total damage (using Python models) this robot could sustain is 970 HPS.
-Although it is more likely an attribute will drop to zero and destroy the robot first.
+Although it is more likely an attribute will drop to 0 and destroy the robot first.
 
 === Carry Over
-What happens if a robot takes more than her HPM in one massive attack?
+What happens if a robot takes more than her HPM in 1 massive attack?
 In this case, the referee must carry over the remaining damage and subtract it from the newly minted hit point total.
 
 Consider a fresh new robot with 110 HPM.
 She takes 115 HPS of damage all at once.
-The first 110 hit points of damage reduce her hit point total to zero.
-This HPS Total would drop to zero, triggering the robot decay trifecta.
-The referee carries over the remaining five hit points in damage and subtracts them from the new HPS Total.
+The first 110 hit points of damage reduce her hit point total to 0.
+This HPS Total would drop to 0, triggering the robot decay trifecta.
+The referee carries over the remaining 5 hit points in damage and subtracts them from the new HPS Total.
 
 For example, her new HPM is 99, and the remaining 5 HPS of damage is carried over.
 Her new HPM would be 99, and her HPS Total would be 94.
 A large bolus of damage can run a robot through the decay trifecta several times.
 
 == System Damage
-When the robot’s hit points drops to zero, the player checks to see which robot system was most damaged.
+When the robot’s hit points drops to 0, the player checks to see which robot system was most damaged.
 System damage is similar to a hit location, but the part that malfunctions may be far away from the point of injury. 
 The player rolls to determine the system damaged and rolls to determine its severity.
 
@@ -109,7 +110,7 @@ The attributes affected by locomotion may slow the robot down, but more importan
 
 == Attribute Damage
 Every attribute listed under the robot system malfunction gets an individual roll on the malfunction severity table.
-Damaging the robot’s articulations indicates two rolls on the severity table, once for Awareness and Dexterity.
+Damaging the robot’s articulations indicates 2 rolls on the severity table, once for Awareness and Dexterity.
 In the case of control unit damage, every attribute is at risk.
 
 include::robots:partial$malfunction_severity.adoc[]
@@ -119,12 +120,12 @@ There is a 1 in 6 chance of not having an attribute decrease.
 
 === Attributes Decrease
 The process is simple. 
-If an attribute is severely damaged, the player reduces the attribute score by one point.
-If an attribute is critically damaged, the player reduces the attribute score by two points.
+If an attribute is severely damaged, the player reduces the attribute score by 1 point.
+If an attribute is critically damaged, the player reduces the attribute score by 2 points.
 Ouch.
 There is a chance to get lucky and suffer no attribute decrease.
 
-If any attribute drops to zero, the robot is dead. 
+If any attribute drops to 0, the robot is dead.
 
 A critical malfunction to the robot brain would reduce the robot’s Intelligence score by 2 points.
 So a robot with an 11 INT now has a 9 INT.
@@ -145,7 +146,7 @@ So a robot that critically damages her Awareness and Intelligence can only earn 
 == Robot Demolition Tables
 Robot demolition tables are essential for referee personas. 
 The demolition table has all the damage effects for the robot persona prepared. 
-Player personas usually will visit the system damage tables each time they zero their HPS Total.
+Player personas usually will visit the system damage tables each time they 0 their HPS Total.
 Someday, computers will automatically calculate the demolition table.
 
 include::robots:partial$malfunction_monitoring_decay_table.adoc[]

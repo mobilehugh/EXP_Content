@@ -21,7 +21,7 @@ NOTE: Playing a robot is more “alien” than playing an alien.
 === Articulation
 Every player will want their robot persona to be able to use artifact weapons that they find laying around.
 If a robot has an appropriate articulation that allows them to wield weapons they will use their Raw Bonus when making an attack roll.
-While the Raw Bonus is zero, there is no Maximum Roll when using the Robotic Attack Table.
+While the Raw Bonus is 0, there is no Max Roll when using the Robotic Attack Table.
 If there is no articulation for using external tools the persona cannot wield weapons.
 
 === Skills
@@ -37,7 +37,7 @@ For example, the player may use a Mercenary or Nomad Attack Table when making at
 
 The player can use this vocation attack table for their external “found laying around” artifact weapons.
 The robotic attack table can be used for baked-in attacks.
-Managing the burden of having two attack tables is up to the referee and the table of players.
+Managing the burden of having 2 attack tables is up to the referee and the table of players.
 Robots can be powerful and being able to use their super charged attributes to shoot things may affect game balance.
 A vocation weapon wielding robot fabricates an attack using the xref:combat:attack_table_anthro.adoc[Anthro Attack Table,window=_blank, rel="noopener noreferrer"].
 
@@ -61,7 +61,7 @@ include::combat:partial$attack_table_blank.adoc[]
 == Skilled Bonus
 The Skilled Bonus (Skilled) is for the robot’s baked-in attacks and malfunctioning peripherals acquired during fabrication.
 If the attack is appropriate, the player adds the Skilled Bonus to her attack roll.
-The Skilled Bonus has two main components: Attributes Component and Level Componenent.
+The Skilled Bonus has 2 main components: Attributes Component and Level Componenent.
 The persona’s Skilled Bonus increases as the they gains EXPS levels.
 
 include::combat:partial$attack_table_robot_skilled_bonus_calculation.adoc[]
@@ -92,7 +92,7 @@ include::combat:partial$attack_table_robot_skilled_level_component.adoc[]
 
 == Raw Bonus
 Robots do not have a Raw Bonus.
-A robot’s programming does not allow Raw attacks, and the robot’s Raw is zero.
+A robot’s programming does not allow Raw attacks, and the robot’s Raw is 0.
 Robot Raw is the easiest of all the attack table elements to calculate.
 
 include::combat:partial$attack_table_robot_raw_fraction.adoc[]

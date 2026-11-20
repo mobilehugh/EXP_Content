@@ -11,9 +11,9 @@ A tiny alien with a low Constitution score will have fewer hit points than a lar
 include::aliens:partial$hit_points_and_size.adoc[]
 
 Let’s consider a Large alien with a 9 Constitution.
-The player rolls nine ten-sided dice to determine the alien’s hit points.
+The player rolls 9 10-sided dice to determine the alien’s hit points.
 If the player had rolled 4, 5, 2, 6, 8, 3, 5, 6 and 7, her alien would have 46 hit points.
-Forty-six is the alien’s hit point max, and the player records this on her persona record sheet.
+46 is the alien’s hit point max, and the player records this on her persona record sheet.
 It is recommended to roll the total number of dice indicated the personas CON.
 Rolling the die type once then multiplying by CON is faster but much less biologic.
 
@@ -29,7 +29,7 @@ include::ROOT:partial$articulate.adoc[]
 
 == Alien Death and HPS
 Aliens do not die the same as anthros or robots.
-An alien is dead if her HPS total reaches zero.
+An alien is dead if her HPS total reaches 0.
 There is no bleeding out shock state like anthros.
 There is no let’s start again more broken like robots.
 Aliens are not subject to damage system shock or recovery rolls.

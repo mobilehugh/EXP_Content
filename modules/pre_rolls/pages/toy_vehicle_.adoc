@@ -37,7 +37,7 @@ include::pre_rolls:partial$format_toy.adoc[]
 * MANEUVERABILITY: 4
 * ENGINE/FUEL: gaseous (1600 kms)
 * ACCESSORIES
-** four sided awning
+** 4 sided awning
 ** too many lights
 
 

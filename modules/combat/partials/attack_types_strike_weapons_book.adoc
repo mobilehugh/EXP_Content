@@ -1,1 +1,1 @@
-*See xref:hardware:mundane_equipment.adoc#_strike_weapons[Strike Weapons] for more info.*
+*xref:hardware:mundane_equipment.adoc#_strike_weapons[Strike weapon list].*

@@ -35,13 +35,13 @@ She could immediately regain those lost hit points with a healing pharma.
 She can gradually regain lost hit points as her body repairs itself.
 No other attribute dances around like this.
 
-To keep track of this attribute, it has two parts. 
-These two parts are the constant hit points maximum (HPM), and the dynamic hit points (HPS). 
+To keep track of this attribute, it has 2 parts.
+These 2 parts are the constant hit points maximum (HPM), and the dynamic hit points (HPS).
 They are often referred to collectively as hit points.
 
 A hit point is not like an erg, or some other unit of energy.
 However, a hit point has a constant value.
-One hit point of damage reduces the hit point total of the persona.
+1 hit point of damage reduces the hit point total of the persona.
 A hit point is a hit point is a hit point.
 Anthros, aliens, robots, and inanimate objects all lose hit points when damaged.
 
@@ -64,7 +64,7 @@ When uninjured, the hit points (HPS) equals the hit points max (HPM).
 The persona’s HPS Total decreases every time she is injured.
 The HPS attribute is like a fuel gauge for damage.
 The lower the fuel gauge, the less damage the persona can withstand. 
-If this damage gauge gets to zero, dramatic things happen to the persona.
+If this damage gauge gets to 0, dramatic things happen to the persona.
 These dramatic things include unconsciousness and death.
 
 == Hit Points and Families
@@ -75,9 +75,9 @@ Following are some brief examples.
 .*Points About Hit Points*
 * Anthros can be stunned if they lose too many hit points at once. 
 ** Aliens and robots cannot be stunned or knocked out by a bolus of damage.
-* Anthros go unconscious and start dying at zero hit points. 
-** Aliens are dead at zero hit points. 
-** Robots break something and decay a bit at zero hit points. 
+* Anthros go unconscious and start dying at 0 hit points.
+** Aliens are dead at 0 hit points.
+** Robots break something and decay a bit at 0 hit points.
 * Spontaneous HPS recovery
 ** Organics (aliens and anthros) heal hit points through rest. 
 ** Robots do not heal hit points, and the risk of repairs usually exceed benefits. 

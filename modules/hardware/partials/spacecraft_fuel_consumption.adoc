@@ -19,7 +19,7 @@ s|Fuel Supply Used
 |Day
 
 |Special
-|One Use
+|1 Use
 |Month
 
 3+s|COMBAT USE

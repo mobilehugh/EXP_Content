@@ -40,8 +40,8 @@ The interests are infiltration, deception and destruction.
 Any task that the persona pursues that involves sneaking would benefit from the infiltration interest.
 The destruction interest supports any task that involves weapons or an unwilling increase in entropy.
 
-At startup, the player makes 1 roll on the interests table per three points of INT.
-After startup, the persona gets to roll, or choose, one new interest per EXPS level.
+At startup, the player makes 1 roll on the interests table per 3 points of INT.
+After startup, the persona gets to roll, or choose, 1 new interest per EXPS level.
 
 include::vocations:partial$spie_interests.adoc[]
 
@@ -49,13 +49,13 @@ include::vocations:partial$spie_interests.adoc[]
 Spie expertise are narrow areas of knowledge that assist the persona when making a task roll.
 Expertise is narrower than an interest and is less likely to apply to a task.
 However, when an expertise does apply is helps the task roll more than an interest does.
-Personas get one expertise per interest at startup.
+Personas get 1 expertise per interest at startup.
 After startup, personas may choose, or roll, for another expertise each EXPS level.
 
 === Infiltration
 Expertise in getting into places where one should not be.
 This expertise does not involve face-to-face deception, but the deception of architecture and security systems.
-The player makes one roll for each infiltration interest.
+The player makes 1 roll for each infiltration interest.
 
 include::vocations:partial$spie_expert_infiltration.adoc[]
 
@@ -106,7 +106,8 @@ include::vocations:partial$spie_tasks_web.adoc[]
 Spies have their own style of fancy hand-to-hand combat.
 The martial art includes kicks, punches, bites, chops, head-butts, and body slams.
 The martial arts ability is for unarmoured hand-to-hand combat only.
-Martial arts attacks do not use weapons and are effective only against targets in an adjacent hex.
+Martial arts attacks do not use weapons and have Reach 1, but are effective only against targets in an adjacent hex.
+This is an exception to the Reach 0 listed for ordinary punches and kicks in the mundane Strike weapon table.
 
 include::vocations:partial$spie_martial_arts_web.adoc[]
 
@@ -136,7 +137,7 @@ These attacks can bypass initiative, allowing the player to attack before being 
 ** A typical attack.
 ** Requires initiative roll.
 
-If two spies have tied martial arts attacks (for example, both have Before), use initiative between the spies.
+If 2 spies have tied martial arts attacks (for example, both have Before), use initiative between the spies.
 
 [discrete]
 === Attack Damage

@@ -1,10 +1,10 @@
 == How to Roll
-A player could also roll a single ten sided die three times in a row and build the kilodie result one roll at a time.
+A player could also roll a single 10 sided die 3 times in a row and build the kilodie result 1 roll at a time.
 However, users of the Roll-Playing System usually prefer to roll lots of dice.
 
-Three ten-sided dice simulate the 1d1000 die roll.
-Usually three separately coloured ten sided dice are rolled at once.
-For example, roll a green, a yellow and a red ten sided dice all at once.
+3 10-sided dice simulate the 1d1000 die roll.
+Usually 3 separately coloured 10 sided dice are rolled at once.
+For example, roll a green, a yellow and a red 10 sided dice all at once.
 In this case we will use the colour free first, second and third die rolls.
 
 * The first die is assigned the hundreds place.
@@ -15,8 +15,8 @@ In this case we will use the colour free first, second and third die rolls.
 ** 9, 8, 7, 6, 5, 4, 3, 2, 1 and 0
 * 0 0 0 is 1000 because fun!
 
-Rolling six on the first ten sider, six on the second ten sider, and four on the third ten sider creates a kilodie roll of 664.
-One can also roll a 1d10 three times to get the same result.
+Rolling 6 on the first 10 sider, 6 on the second 10 sider, and 4 on the third 10 sider creates a kilodie roll of 664.
+One can also roll a 1d10 3 times to get the same result.
 
 
 include::combat:partial$kilo_die_roll_numeric.adoc[]

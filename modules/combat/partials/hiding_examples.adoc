@@ -1,0 +1,27 @@
+.*Hiding Examples*
+[width="75%",cols="^1,<2",frame="all", stripes="even"]
+|===
+s|Percent Hidden
+s|Example
+
+|100
+|Behind a wall
+
+|90
+|Peeking through slit
+
+|75
+|Peeking around a corner
+
+|66
+|Pistol around corner
+
+|50
+|Rifle around corner
+
+|33
+|Non powered around corner
+
+s|Percent Hidden
+s|Example
+|===

@@ -24,7 +24,7 @@ In EXP, a critical hit is a roll of 990 or higher on 1d1000.
 include::ROOT:partial$articulate.adoc[]
 
 When a player rolls the maximum or minimum value of dice, exciting things can happen.
-Rolling a one or a six on a d6 is not as exciting as rolling a 1 or 100 on a d100.
+Rolling a 1 or a 6 on a d6 is not as exciting as rolling a 1 or 100 on a d100.
 Critical checks can happen in attack rolls, attribute rolls, task rolls, driving rolls, etc.
 
 Any amateur statistician will point out an impressive 998 is no more likely than an obscure 452. 
@@ -60,8 +60,8 @@ NOTE: *Critical check, roll, hit result are synonymous*
 
 === 1d1000
 The kilodie only has critical checks when it is being rolled as an attack roll.
-A 1d1000, also called a kilo-die, has two critical checks.
-There one critical range and one critical value.
+A 1d1000, also called a kilo-die, has 2 critical checks.
+There 1 critical range and 1 critical value.
 The critical range is 990 to 000 (1000).
 The critical value is 042.
 42 is a nod to https://en.wikipedia.org/wiki/Douglas_Adams[Mr. Adams,windows=_blank]. 
@@ -81,8 +81,8 @@ NOTE: *Referees do not use critical checks against player personas.*
 
 === 1d100
 The deci-die only has critical checks when making a task roll.
-A 1d100, also called a deci-die, has three critical checks.
-There are two critical values and one critical range.
+A 1d100, also called a deci-die, has 3 critical checks.
+There are 2 critical values and 1 critical range.
 The critical range is 95-00 (100), and the critical checks are 01 and 42.
 
 .Task Roll Critical Checks
@@ -96,7 +96,7 @@ The critical range is 95-00 (100), and the critical checks are 01 and 42.
 ** the persona gets EXPS for a critical fail
 
 === 1d20
-A twenty-sider only has critical checks when making attribute rolls. 
+A 20-sider only has critical checks when making attribute rolls.
 A 1d20 has 1 critical check.
 The critical check is 20. 
 

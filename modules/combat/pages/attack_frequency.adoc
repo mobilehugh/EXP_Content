@@ -2,11 +2,11 @@
 
 Attack frequency is the number of attack rolls a player can make per combat unit.
 A combat unit represents 2 seconds.
-In most cases the player gets to make one attack roll per unit.
+In most cases the player gets to make 1 attack roll per unit.
 This is the expectation unless otherwise stated by the attack, weapon, skill, or ability being used.
 
 == Natural Attacks
-Natural attacks and built-in attacks can have an attack frequency greater than one.
+Natural attacks and built-in attacks can have an attack frequency greater than 1.
 These attacks can be Strike, Fling, or Shoot Attacks.
 There is no special nomenclature for multiple natural attacks per unit.
 
@@ -18,12 +18,12 @@ Aliens automatically use their Skilled Bonus with their natural attacks.
 
 An alien’s natural attack frequency applies only to her natural attacks.
 It does not apply to weapons or mutations.
-An alien with three natural attacks per unit could bite three times, but would only get one attack roll with a lazer pistol that fires once per unit.
-If she uses a Sotto-2 weapon, she gets two attack rolls per unit with that weapon.
+An alien with 3 natural attacks per unit could bite 3 times, but would only get 1 attack roll with a lazer pistol that fires once per unit.
+If she uses a Sotto-2 weapon, she gets 2 attack rolls per unit with that weapon.
 
 The player can use fewer than the alien’s full number of natural attacks.
 She can also direct her natural attacks at different targets.
-An alien with three natural attacks could attack three different targets in a unit.
+An alien with 3 natural attacks could attack 3 different targets in a unit.
 
 For generating an alien’s natural attack frequency, jump to xref:aliens:attack_frequency.adoc[Alien Attack Frequency,window=_blank, rel="noopener noreferrer"].
 The referee can limit excessive natural attacks to preserve game balance and fun.
@@ -37,15 +37,15 @@ A robot uses her Skilled Bonus for built-in attacks and her Raw Bonus for malfun
 == Skills and Abilities
 Some skills and abilities allow multiple attacks per unit.
 A mercenary can split her Skilled Strike Attack Bonus amongst several Strike Attacks per unit.
-A mercenary can also split her Skilled Fling Attack Bonus between two arrow attacks per unit, although this is rare.
+A mercenary can also split her Skilled Fling Attack Bonus between 2 arrow attacks per unit, although this is rare.
 A spie can gain multiple martial arts attacks as she advances in EXPS level.
 The xref:vocations:spie.adoc#_martial_arts[Spie Martial Arts,window=_blank, rel="noopener noreferrer"] rules determine the number and order of these attacks.
 
 == Weapon Attacks
 
 === Single Attacks
-Mundane Strike and Fling weapons normally allow one attack roll per unit.
-Shoot weapons also allow one attack roll per unit unless their description specifies otherwise.
+Mundane Strike and Fling weapons normally allow 1 attack roll per unit.
+Shoot weapons also allow 1 attack roll per unit unless their description specifies otherwise.
 A skill or ability can change this frequency as described above.
 
 Weapons with multiple Shoot Attacks have special names and rules.
@@ -79,11 +79,11 @@ Flotto weapons are usually artifact weapons found in the xref:hardware:guns.adoc
 . Each hit will deliver 0-3 (1d4 - 1) rounds of damage
 . The player rolls damage for each round of damage
 
-The player makes five Attack Rolls each unit when using a Flotto weapon.
+The player makes 5 Attack Rolls each unit when using a Flotto weapon.
 The player adds her persona’s appropriate Shoot Bonus to each attack roll.
 Each attack roll represents a random number of ammo rounds (bullets, lazer bolts, etc.).
 For each successful attack roll anywhere from 0-3 rounds (1d4 - 1) damage the target.
-While extremely unlikely, it is possible to win five attack rolls and land zero rounds on the target.
+While extremely unlikely, it is possible to win 5 attack rolls and land 0 rounds on the target.
 The weapon expends 15 rounds of ammunition per unit, regardless of how many attacks hit.
 
 NOTE: Only a mercenary with flotto skill can “spread” the attack rolls between different targets.
@@ -91,10 +91,10 @@ NOTE: Only a mercenary with flotto skill can “spread” the attack rolls betwe
 ==== Flotto Example
 A persona fires her medium-powered full auto lazer pistol at a target.
 A medium-powered full auto lazer pistol inflicts 2-20 (2d10) hit points of damage per lazer bolt (round).
-The player makes five attack rolls on the target.
+The player makes 5 attack rolls on the target.
 Since she lacks lazer pistol skill, she adds her Raw Shoot Bonus to each attack roll.
-Three of the attack rolls are successful, two of the attack rolls fail.
-The player will then roll 1d4 - 1 three times to see how many lazer bolts (rounds) damage the target.
+3 of the attack rolls are successful, 2 of the attack rolls fail.
+The player will then roll 1d4 - 1 3 times to see how many lazer bolts (rounds) damage the target.
 The player rolls 2, 0, 3 indicating 5 rounds hitting the target.
 The target will suffer 10d10 hit points of damage.
 The weapon discharges 15 rounds of ammunition regardless.

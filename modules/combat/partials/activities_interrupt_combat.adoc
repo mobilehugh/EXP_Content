@@ -19,7 +19,7 @@ s|Duration
 |1-4 (d4)
 
 |Armour, apply
-|90 per Restrictiveness
+|90 per Binding (mundane armour; biomech uses its suiting rules)
 
 |Armour, remove
 |3-30 (3d10)

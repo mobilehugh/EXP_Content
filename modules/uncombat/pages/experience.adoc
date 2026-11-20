@@ -38,7 +38,7 @@ There is nothing wrong with this sixth sense that the personas of experienced pl
 There is nothing that a referee can or should do to make a player forget her hard-won skills.
 
 The player must be careful lest her persona seems to possess information she could not possibly know.
-A brand new persona should not display in-depth knowledge of a ruin mapped by the player’s three previous personas.
+A brand new persona should not display in-depth knowledge of a ruin mapped by the player’s 3 previous personas.
 However, it would be perfectly acceptable if the persona, on a hunch, acted in a very cautious manner while scrounging through those same ruins.
 
 The persona has no concept of gaining these points for activities. 
@@ -79,7 +79,7 @@ Every roll that a player makes is adjusted in some fashion by her persona’s EX
 Task rolls, attack rolls, saving rolls, attribute rolls all reflect a bit of EXPS Level.
 
 The experience point is a universal value like the hit point. 
-One EXPS is one EXPS is one EXPS.
+1 EXPS is 1 EXPS is 1 EXPS.
 
 === Anthro
 Every anthro pursues a vocation.
@@ -125,7 +125,7 @@ Simply engaging a target in lethal combat does not guarantee the earning of EXPS
 The opponent must have posed a threat to the expedition.
 Slaughtering the kittens in the local pet store would not result in EXPS for combat.
 An anti-knite may get some vocation experience for doing this, but no combat EXPS.
-Players cannot farm experience for their personas by engaging in frequent one-sided battles. 
+Players cannot farm experience for their personas by engaging in frequent 1-sided battles.
 It is possible that farming for experience may weaken combat skills leading to  EXPS penalties.
 
 ==== Calculating Combat EXPS
@@ -134,7 +134,7 @@ The combat ratios calculations are in their respective referee persona sections.
 The higher the combat ratio, the more dangerous the persona to the expedition.
 Combat ratio loosely represents the number of first-level personas needed for a fair fight.
 A weak but aggressive alien has a combat ratio of 1/2.
-This combat ratio indicates two of these aliens versus one first-level persona is a balanced fight.
+This combat ratio indicates 2 of these aliens versus 1 first-level persona is a balanced fight.
 A powerful combot has a combat ratio of 200.
 This combat ratio indicates this one combot would need to fight an army of 200 personas for a fair fight.
 
@@ -197,8 +197,8 @@ If things line up in the story, a persona may be able to improve their skills.
 
 During a prolonged persona downtime, the referee may allow a persona to study and practice a particular skill.
 The downtime could be a long space voyage or a savage winter.
-The most a persona could add is one new skill level.
-For example, a biologist left alone in a zoo for two months may add skill in zoo keeping.
+The most a persona could add is 1 new skill level.
+For example, a biologist left alone in a zoo for 2 months may add skill in zoo keeping.
 However, a mercenary with a part-time job counting money would learn nothing.
 
 Acquiring new skills should not be abused by the players or the referee.
@@ -307,8 +307,8 @@ This same method works for research teams or team artifact identification.
 
 ==== Example
 
-Consider an expedition with five personas.
-Three of the personas do battle with sentry droids while the other two reprogram a security system.
+Consider an expedition with 5 personas.
+3 of the personas do battle with sentry droids while the other two reprogram a security system.
 The mercenary is smashing robots like a jackhammer. 
 The spie and the nomad are less effective, but are damaged during combat.
 The mechanic and nothing are doing the security bypass, and avoid combat.
@@ -320,11 +320,11 @@ The mechanic has bypassed the security system.
 Total EXPS for combat is 4000 EXPS.
 Total EXPS for security bypass is 6000 EXPS.
 
-The combat has three participants, but the ref divides the experience four ways.
-The reprogramming task has two participants, but the referee divides the experience three ways.
+The combat has 3 participants, but the ref divides the experience four ways.
+The reprogramming task has 2 participants, but the referee divides the experience three ways.
 Each combat share is worth 1000 EXPS, and each task share is worth 2000 EXPS.
-The mercenary gets two shares of combat experience, and the spie and nomad each get one share.
-The mechanic gets two shares from the reprogramming task experience, and the nothing persona gets one share. 
+The mercenary gets 2 shares of combat experience, and the spie and nomad each get 1 share.
+The mechanic gets 2 shares from the reprogramming task experience, and the nothing persona gets 1 share.
 The mechanic gets 4000 EXPS, the mercenary gets 2000 EXPS, the nothing persona gets 2000 EXPS, the nomad gets 1000 EXPS, and the spie gets 1000 EXPS.
 The player of the spie persona is probably wondering if they should have helped reprogram the sentry.
 

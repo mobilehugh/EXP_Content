@@ -107,7 +107,7 @@ The beam does not change the appearance of the patient.
 So a patient would not change their attributes nor move from one life stage to another.
 
 The anti-ageing beam heals 3-30 (3d10) years of chronologic damage.
-Accidentally reducing a persona’s chronological age to less than one year old is lethal.
+Accidentally reducing a persona’s chronological age to less than 1 year old is lethal.
 
 === Anti Mutation Beam
 
@@ -132,7 +132,7 @@ While under the beam, phenomic mutations shrivel up and fall off the mutant.
 Psionic mutations stop working.
 
 Veterinarians can manipulate the beam for more exact effects.
-For example, removing one mutation while preserving another is a veterinarian manoeuver.
+For example, removing 1 mutation while preserving another is a veterinarian manoeuver.
 Working around a phenomic mutation is a normal (42) task, and working around a psionic mutation is a tough (126) task.
 If a vet wanted to eliminate a mutant’s pus-producing organ while retaining her symbiotic attachment, the player must win a normal (42) task roll.
 
@@ -274,7 +274,7 @@ Inserting a basic replacement is a tough (126) difficulty task and may require a
 
 25% of the time, the biorganic replacement will be a luxury unit that is self-inserting.
 The luxury unit still requires a veterinarian, but success is guaranteed and requires not operating theatre.
-The value of a biorganic replacement is ten times that of a basic unit.
+The value of a biorganic replacement is 10 times that of a basic unit.
 
 The tech level of a biorganic replacement improves the likelihood of insertion and luxuriousness.
 The referee may add the tech level to the chance that the replacement is a luxury unit.
@@ -286,7 +286,7 @@ Blood Filters::
 The blood filter is a super spleen combined with fortified bone marrow, strengthening the quality of the personas lifeblood.
 A blood filter could replace a failing blood system or improve a healthy one.
 The blood filter gives a permanent Constitution increase of +10%.
-The bonus must be at least one point but no more than two points.
+The bonus must be at least 1 point but no more than 2 points.
 The persona is hardened against poison and gets a bonus of +2 to win poison rolls.
 The blood filter biorganic attachment is worth 150000 eps.
 
@@ -302,7 +302,7 @@ Brain Tissue::
 The brain tissue biorganic attachment improves mental capacity and memory.
 A vet must successfully insert the proto tissue into the persona’s braincase.
 The persona receives a permanent Intelligence increase of +10%.
-The bonus must be at least one point but no more than two points.
+The bonus must be at least 1 point but no more than 2 points.
 This increased Intelligence has no impact on Mind.
 The brain tissue biorganic replacement is worth 1000000 eps.
 
@@ -310,7 +310,7 @@ Conductive Tissue::
 Conductive tissue biorganic replacement improves the user’s nervous system.
 Parallel neural tissue grows alongside existing neurons, improving electrochemical flow.
 The persona receives a permanent Dexterity increase of +10%.
-The bonus must be at least one point but no more than two points.
+The bonus must be at least 1 point but no more than 2 points.
 The conductive tissue biorganic replacement is worth 500000 eps.
 
 :art: primed_pumper.png
@@ -325,7 +325,7 @@ include::ROOT:partial$articulate.adoc[]
 Contractile Tissue::
 Contractile tissue biorganic replacement adds muscle tissue and innervation, improving the persona’s brawn.
 The persona receives a permanent Strength increase of +10%.
-The bonus must be at least one point but no more than two points.
+The bonus must be at least 1 point but no more than 2 points.
 The contractile tissue biorganic replacement is worth 100000 eps.
 
 Exoskeleton::
@@ -333,7 +333,7 @@ The exoskeleton biorganic replacement seals the persona’s body from the outsid
 The persona’s skin becomes impermeable, and her orifices become unseemly fleshy airlocks.
 Nothing enters or exits her body without first passing through the semi-volitional airlocks.
 The persona’s skin functions the same as a xref:hardware:armour#_civilian[Civilian Vac Suit,window=_blank, rel="noopener noreferrer"].
-The persona’s Charisma drops by 5 points, and her Dexterity decreases by two points.
+The persona’s Charisma drops by 5 points, and her Dexterity decreases by 2 points.
 The persona smears a smelly bouillabaisse of biochemistry onto her skin, and no veterinarian is required.
 There is no luxury edition for this biorganic replacement.
 The biorganic replacement exoskeleton is worth 2000000 eps.
@@ -361,7 +361,7 @@ The pump biorganic replacement improves an anthro’s vital fluid pump.
 The pump itself is improved, as are the essential vessels of the vascular system.
 The improved heart and blood vessels improve the persona’s Constitution.
 The persona receives a permanent CON increase of +20%.
-The bonus must be at least one and no more than three points.
+The bonus must be at least 1 and no more than 3 points.
 The pump biorganic replacement is worth 200000 eps.
 
 Lung::
@@ -369,9 +369,9 @@ The lung biorganic replacement improves the persona’s respiratory status.
 The improved respiratory tissue can be more lung, better gills, or more photosynthetic leaves.
 The replacement will improve the persona’s Constitution.
 The persona receives a permanent CON increase of +10%.
-The bonus must be at least one and no more than two points.
+The bonus must be at least 1 and no more than 2 points.
 The persona gets a +5 on inhaled and gas poison rolls.
-Breath-holding, or the anthro equivalent, is increased by three times.
+Breath-holding, or the anthro equivalent, is increased by 3 times.
 The lung biorganic replacement is worth 200000 eps.
 
 Psionic Mutation Insertion::
@@ -394,7 +394,7 @@ Sensory biorganic replacements enhance the persona’s connection to the outside
 There is an improvement in vision, hearing, touch, taste and smell.
 The improved sensory system improves the persona’s Awareness.
 The persona receives a permanent Awareness increase of +20%.
-The bonus must be at least one and no more than three points.
+The bonus must be at least 1 and no more than 3 points.
 Eye-hand coordination maneuvers are improved, and ambush detection doubles.
 The sensory biorganic replacement is worth 2000000 eps.
 
@@ -405,7 +405,7 @@ While the goal is to improve the persona’s Charisma, how the body is modded va
 This replacement accentuates vocal cords, pupil reaction, skin tone, hair colour.
 The improved appearance of the persona improves her Charisma.
 The persona receives a permanent Charisma increase of +20%.
-The bonus must be at least one and no more than three points.
+The bonus must be at least 1 and no more than 3 points.
 The softening biorganic replacement is worth 1000000 eps.
 
 === Blood Clot Disruptor
@@ -419,7 +419,7 @@ Value:: 35000 + Battery
 
 The blood clot disruptor is for dismantling unwanted clots from the outside of the body.
 The device does not treat any particular medical illness but assists the vet when working with blood.
-A complete treatment uses ten units of battery power.
+A complete treatment uses 10 units of battery power.
 
 Weaponizing this device yields unpredictable results.
 The blood clot disruptor is a Strike attack, and it behaves like a dagger.
@@ -427,7 +427,7 @@ A successful attack roll inflicts 2-12 (2d6) hit points of damage.
 There is a 1% chance per hit point of damage of inflicting a major bleed.
 A major bleed will inflict an additional 2-20 (2d10) hit points of damage.
 Each attack drains 30 units of battery power.
-Five attacks would drain a full battery.
+5 attacks would drain a full battery.
 
 === Blood Congealer
 
@@ -448,7 +448,7 @@ A successful attack roll inflicts 2-12 (2d6) hit points of damage.
 There is a 1% chance per hit point of damage of inflicting a major clot.
 A major clot will inflict an additional 2-20 (2d10) hit points of damage.
 Each attack drains 300 units of battery power.
-Six attacks would drain a full battery.
+6 attacks would drain a full battery.
 
 === Bone Setter
 
@@ -518,8 +518,8 @@ A successful attack roll inflicts 2-12 (2d6) hit points of damage.
 There is a 1% chance per hit point of damage of inflicting enduring damage.
 Enduring damage is immune to rapid healing by regeneration, quick fixes, and pharma heals.
 Enduring damage from a cauterizing ray must wait until after combat for the attention of a veterinarian.
-Each attack drains five units of battery power.
-Four attacks would drain a full battery.
+Each attack drains 5 units of battery power.
+4 attacks would drain a full battery.
 
 === Cerebro Converter
 
@@ -581,7 +581,7 @@ The cerebro converter may be used to remove a bad memory, or insert a piece of k
 It is strongly recommended to build a xref:uncombat:task_rolls.adoc#_research_teams[Research Team,window=_blank, rel="noopener noreferrer"] when using a cerebro converter.
 
 The difficulty of the task roll depends the type of cerebro conversion the vet is doing.
-A typical cerebro converter will be tech level ten.
+A typical cerebro converter will be tech level 10.
 Transferring a donor to another anthro is tough difficulty (126), and unethical.
 Transferring a donor into storage (organic or inorganic) is impossible difficulty (168).
 
@@ -680,7 +680,7 @@ The more advanced the cloning equipment, the less of a sample is needed.
 A low-tech cloning machine needs to have a living body present for the entire process.
 Low tech cloning is very time-consuming and dangerous for the living sample.
 A high-tech cloning machine only needs a small chunk of the sample present.
-The typical cloning machine is tech level ten and needs a living copy for a sample.
+The typical cloning machine is tech level 10 and needs a living copy for a sample.
 Cloning cannot proceed unless the necessary sample size is available.
 
 ==== Task Roll
@@ -735,7 +735,7 @@ Value:: 7000
 A coma control box will stabilize an unconscious persona and prevent their death.
 Only anthro personas suffer the comatose dying state that this device prevents.
 A coma control unit does not heal the persona but freezes their hit points at a negative number.
-The coma control unit only halts hit point decline below zero.
+The coma control unit only halts hit point decline below 0.
 The device has no impact on the effects of poisons or pharma.
 The coma control unit does not prevent further damage from additional attacks.
 The device is self-attaching, but detachment requires a biologist, mechanic, or veterinarian.
@@ -818,7 +818,7 @@ The blanket can maintain normothermia within air temperatures of -10C and +50C.
 The fever control blanket is well-loved by nomads as well as vets.
 
 The blanket will function until it is damaged.
-The blanket is delicate, and a mere three hit points of damage destroys it.
+The blanket is delicate, and a mere 3 hit points of damage destroys it.
 A fever control blanket is disposable and is disposable.
 
 === Hearing Headphones
@@ -921,13 +921,13 @@ Each day is another 24 DD for the task roll.
 Clearly personas that have been long deceased cannot be resurrected with the life ray.
 
 The life ray is not a healing device.
-The persona will be restored to zero HPS and regain consciousness.
+The persona will be restored to 0 HPS and regain consciousness.
 Missing limbs do not grow back.
 Attributes do not recover, pain continues, and limbs do not grow back.
 
 The life ray cannot restore a persona with a zeroed attribute.
-So a persona who has zero Strength is permanently dead.
-Charisma is the only attribute that can drop below zero.
+So a persona who has 0 Strength is permanently dead.
+Charisma is the only attribute that can drop below 0.
 
 Death leads to decrepitude.
 The death experience damages every attribute.
@@ -971,7 +971,7 @@ Value:: 25000
 
 A metab counter graphically monitors respiration, blood flow, brain activity, and other useless metabolic indicators.
 The metab counter is the classic futuristic physician’s stethoscope.
-This device has a ten hex point and snoop range.
+This device has a 10 hex point and snoop range.
 Vets and biologists can use the metab counter to locate life forms and determine their health.
 
 
@@ -1128,7 +1128,7 @@ Value:: 25000
 This handy little box helps detect the taxonomy of organic personas.
 The detector works on deceased specimens as well.
 
-EXP has a Sciency Fiction taxonomy to separate the three families.
+EXP has a Sciency Fiction taxonomy to separate the 3 families.
 Jump to xref:appendices:generic_mythos.adoc#_faux_taxonomy[Families, window=_blank, rel="noopener noreferrer"] for more info.
 The family level reading will be Hominidae (anthros), diversidae (aliens), or inorganic.
 The genus-level reading for anthros is homo.
@@ -1154,7 +1154,7 @@ EXPS:: 300
 Value:: 25000
 
 This handy little box detects poisonous compounds.
-The poison detector has a two hex range.
+The poison detector has a 2 hex range.
 There are a few lights and a scale.
 The scale indicates how dangerous the poison is.
 The danger is related to the intensity, but the player does not learn the exact intensity of the poison.
@@ -1236,7 +1236,7 @@ Nor does the chamber restore missing limbs.
 The chamber does restore hit points and attribute values.
 The rejuv chamber can repair AWE, CHA CON, DEX, STR and HPS.
 The rejuv chamber cannot repair INT, MND or HPM.
-If an attribute drops below one (except CHA and HPS Total), the persona is irrevocably dead.
+If an attribute drops below 1 (except CHA and HPS Total), the persona is irrevocably dead.
 
 To have a safe rejuv chamber experience, the vet must win a task roll.
 The difficulty of the task roll is determined by the skill being attempted.
@@ -1314,7 +1314,7 @@ Choose which style is best for the milieu.
 
 Weaponizing this device yields unpredictable results.
 Each attack drains 30 units of battery power.
-Ten attacks would drain a full battery.
+10 attacks would drain a full battery.
 It attacks as a Strike weapon but has no STR bonus.
 A successful attack roll will inflict 2-12 (2d6) hit points of cutting damage.
 
@@ -1338,7 +1338,7 @@ The auto-embalmer cannot hold an unwilling occupant, and anyone could thrash the
 Stasis bags can be any colour, but they are always opaque.
 
 One bag can hold 150 kg.
-Only one type of organic material per bag is allowed.
+Only 1 type of organic material per bag is allowed.
 Two canines would be acceptable.
 A canine and turnips would not.
 A stasis bag requires an atmosphere and a temperature between -80°C and +80°C.

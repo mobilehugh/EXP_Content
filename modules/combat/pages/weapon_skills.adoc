@@ -19,7 +19,7 @@ In the past weapon skills were referred to as proficiencies.
 
 == Initial Weapon Skills
 The initial weapon skills are determined by the persona’s vocation.
-Each vocation, except Nothings, gets to choose one weapon skill from each Attack Type.
+Each vocation, except Nothings, gets to choose 1 weapon skill from each Attack Type.
 It is common for players to hold back choosing their weapon skills until they come across a weapon they like.
 For example, a mechanic persona may have no Strike Attack skills until she finds a compucrafted hammer.
 So the player uses the Raw Bonus for Strike Attacks until adding the hammer skill.
@@ -100,12 +100,12 @@ If the weapon is a high tech artifact that does not look like a weapon the perso
 Mercenaries still get weapon skills and increase skill levels to help with tasks and improve Attack Rolls.
 
 === Nothings:
-Nothings are only skilled with one weapon and one weapon only.
+Nothings are only skilled with 1 weapon and 1 weapon only.
 Choose wisely.
 
 === Robots
 A robot is only Skilled with attacks baked-in during fabrication.
 Robots use their Raw Bonus for attacks that are malfunctioning peripherals.
 Most robot attacks are malfunctioning peripherals.
-On a robot Attack Table the Raw Bonus is zero.
+On a robot Attack Table the Raw Bonus is 0.
 There is a to be decided edge case of whether a robot that has a vocation can use a Vocation Attack Table.

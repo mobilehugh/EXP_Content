@@ -5,7 +5,7 @@
 
 s|Type
 s|DEF Bonus
-s|Restrictiveness
+s|Binding
 s|Wate (kg)
 s|Cost (eps)
 
@@ -101,7 +101,7 @@ s|Cost (eps)
 
 s|Type
 s|DEF Bonus
-s|Restrictiveness
+s|Binding
 s|Wate (kg)
 s|Cost (eps)
 |===
@@ -112,18 +112,13 @@ The whole purpose of armour is to decrease one’s chance of being damaged in co
 The player adds the Defence bonus to her persona’s naked Defence.
 While it seems overly apparent, the persona must be wearing the armour to get the Defence bonus.
 
-Restrictiveness::
-The more restrictive the armour the less the of the persona’s natural Defence can be used.
-The DEF Bonus gives and restrictiveness taketh away.
+Binding::
+Binding measures how much worn armour limits freedom of movement.
+It determines the armour’s effective encumbrance load and can reduce the Dexterity contribution to Defence.
+See xref:combat:defence_rating.adoc#_binding[Binding] for the rules.
 
 Wate::
-The armour wate indicates the wate of the suit of armour in kilograms.
-The wate of armour is excluded from the persona’s wate allowance when she is wearing it.
-If the persona is carrying her armour, the armour wate increases the wate she is carrying.
-
-A suit of leather armour would have a wate of 3 kilograms.
-A persona carrying her leather armour increases her wate allowance by 3 kg and does not get a Defence bonus.
-A persona wearing her leather armour gets a Defence bonus of +50, and there is no impact on her wate allowance.
+include::uncombat:partial$armour_encumbrance.adoc[]
 
 Cost::
 Self explanatory.
@@ -131,7 +126,7 @@ Self explanatory.
 .*Armour Descriptions*
 None::
 No armour, civilian dress or daily attire.
-This armour type has no movement or restrictiveness penalties and grants the maximum Dexterity bonus to the persona’s Defence.
+With no armour, Binding and armour load are 0, and the persona can use her full Dexterity contribution to Defence.
 
 Furs/skins::
 Classic Neanderthal wear.
@@ -143,11 +138,11 @@ Leather is the preserved hide of some unlucky, thick-skinned animal.
 Leather armour is light and non-restrictive.
 
 Padded::
-Padded armour has two layers of leather sandwiching some form of stuffing.
+Padded armour has 2 layers of leather sandwiching some form of stuffing.
 The stuffing is often flammable, and the suit is held together with stitching.
 
 Studded::
-Studded armour has two layers of leather sandwiching some form of stuffing.
+Studded armour has 2 layers of leather sandwiching some form of stuffing.
 The stuffing is often flammable, and the suit is held together with metal studs.
 
 Ring::
@@ -159,7 +154,7 @@ Scalemail has a padded armour base with metal strips (or scales) hung loosely on
 
 Cured hide::
 A thick animal hide hardened by curing.
-This armour has low restrictiveness.
+This armour has low Binding.
 
 Plant Fibre::
 Plant fibre functions like vegan cured hide and is woven from preserved cellulose.

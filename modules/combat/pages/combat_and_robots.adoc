@@ -24,14 +24,14 @@ include::ROOT:partial$articulate.adoc[]
 .. Ramming attack is required to use the Skilled Bonus.
 . Robot Defence is 700 unless hardened by defences.
 . Electrical and disintegration attacks inflict double damage.
-. A robot is neither destroyed nor unconscious a zero HPS.
+. A robot is neither destroyed nor unconscious a 0 HPS.
 .. Demolition tables are complex and fun.
 .. Robot free will increases with malfunction and damage.
 . Robots can be defeated by means other than violence.
 
 == Fabricator Type
 The relationship between a robot and her fabricator type is fluid at the best of times.
-There are no https://en.wikipedia.org/wiki/Isaac_Asimov[Asimovian] three rules in EXP.
+There are no https://en.wikipedia.org/wiki/Isaac_Asimov[Asimovian] 3 rules in EXP.
 Robots cannot easily engage in combat with their fabricator type.
 For a robot to intentionally harm a persona from her fabricator type would require a xref:uncombat:robot_free_will.adoc[Control Factor,window=_blank, rel="noopener noreferrer"] Roll.
 
@@ -161,6 +161,6 @@ The maximum penalty is 1/4 times.
 
 If a 120 kg robot rams a 40 kg target, the player triples the damage.
 In this case, 24 HPS of damage would become 72 HPS of damage.
-If a 40 kg robot were to ram a 120 kg target, the player decreases the damage three times.
+If a 40 kg robot were to ram a 120 kg target, the player decreases the damage 3 times.
 In this case, 24 HPS of damage would become 8 HPS of damage.
 If both the robot and the target were medium-sized, the crush multiplier would not apply.

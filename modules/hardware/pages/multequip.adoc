@@ -40,7 +40,7 @@ The referee can guide the generation of the new toy to ensure a suitable it is a
 === Multi-Equipment Chance
 .Chance  = 1% per Tech Level 
 ****
-Tech level 10 device has a 10% chance of adding a new device. Maximum three devices.
+Tech level 10 device has a 10% chance of adding a new device. Maximum 3 devices.
 ****
 
 The additional artifact will have the same tech level as the original toy.

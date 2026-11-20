@@ -81,11 +81,11 @@ s|Difficulty
 |===
 
 .*Task Descriptions*
-* *Ambidextrous, Fling*: Use two striking weapons no penalty.
-* *Ambidextrous, Grenades*: Use two grenades at once no penalty.
-* *Ambidextrous, Pistols*: Use two pistols at once no penalty.
-* *Ambidextrous, Rifles*: Use two rifles at once no penalty.
-* *Ambidextrous, Striking*: Use two striking weapons no penalty.
+* *Ambidextrous, Fling*: Use 2 striking weapons no penalty.
+* *Ambidextrous, Grenades*: Use 2 grenades at once no penalty.
+* *Ambidextrous, Pistols*: Use 2 pistols at once no penalty.
+* *Ambidextrous, Rifles*: Use 2 rifles at once no penalty.
+* *Ambidextrous, Striking*: Use 2 striking weapons no penalty.
 * *Ambush Ambivalence*: Act during ambush as if no ambush.
 * *Bolster*: Move attack bonus points to defence (DEF).
 * *Breach, Civilian*: Destructively remove a civilian locked door.
@@ -99,8 +99,8 @@ s|Difficulty
 * *Flanking*: Achieve flanking bonuses.
 * *Proficiency*: Use a personal weapon as skilled.
 * *Running Cover*: Run and maintain full Defence.
-* *Safe Shot, Aerosol*: Maneuver an aerosol to avoid one target.
-* *Safe Shot, Grenade*: Fling a grenade to avoid one target.
+* *Safe Shot, Aerosol*: Maneuver an aerosol to avoid 1 target.
+* *Safe Shot, Grenade*: Fling a grenade to avoid 1 target.
 * *Salute*: Gesticulate deference to superior.
 * *Snap Reload*: Reload a weapon without time loss.
 * *Snap Unjam*: Unjam a weapon without time loss.

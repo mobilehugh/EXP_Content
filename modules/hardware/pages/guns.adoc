@@ -58,9 +58,9 @@ To modify a toys’ description jump to xref:hardware:appearance.adoc[Appearance
 
 ==== Attack Type 
 The attack types indicate the frequency of attack that the powered projectile weapon has.
-Attack Shoot has one attack roll per unit.
-Attack Types D and E have two and three attack rolls per unit.
-Attack Flotto is for Full auto, and the player makes five attack rolls per unit with some special rules. 
+Attack Shoot has 1 attack roll per unit.
+Attack Types D and E have two and 3 attack rolls per unit.
+Attack Flotto is for Full auto, and the player makes 5 attack rolls per unit with some special rules.
 For all the deets jump to xref:combat:attack_types.adoc[Attack Types,window=_blank, rel="noopener noreferrer"].
 
 ==== Range 
@@ -90,8 +90,8 @@ A weapon with an accuracy of +50 adds +50 to every kilodie roll the player makes
 ==== Damage 
 Damage is the number of hit points the weapon subtracts from the target with a successful attack roll.
 Most often, the damage parameter is a number range with the suggested die roll in brackets.
-For example, 4-48 (4d12) indicates a weapon that inflicts 4-48 hit points of damage, and four twelve-sided dice will generate the value.
-If there is a list of five different damage ranges, such as 5-60, 5-50, 4-48, 3-30, 2-20, then the weapon has power levels.
+For example, 4-48 (4d12) indicates a weapon that inflicts 4-48 hit points of damage, and 4 12-sided dice will generate the value.
+If there is a list of 5 different damage ranges, such as 5-60, 5-50, 4-48, 3-30, 2-20, then the weapon has power levels.
 
 ==== Magazine 
 The magazine lists the number of attack rolls before having to reload.
@@ -103,7 +103,7 @@ Wate lists the unloaded wate of the gun in kilograms.
 There are several different parameters for wate.
 The first number is the wate of the weapon, and the number in parenthesis is the wate of the ammunition.
 
-The weapon wate is usually a single number, but weapons with different power levels (calibres) have three values.
+The weapon wate is usually a single number, but weapons with different power levels (calibres) have 3 values.
 The first wate is for high powered versions, the middle wate is for the medium powered version, and the last wate is for low powered versions.
 For example, 4.62, *2.75*, and 1.95 represent 4.63 kgs for the high powered version (XHP and HP), 2.75 kgs for the medium powered version (MP) and 1.95 kgs for the low powered versions (LP and XLP)
 
@@ -153,7 +153,7 @@ An aerosol pistol amplifies the range and efficiencies of aerosols.
 The aerosol pistol doubles the range and triples the number of charges.
 The pistol does not alter the area of effect, duration, or damage of an aerosol.
 The persona cannot disconnect aerosol canisters from the pistol before extinguishing all charges.
-An aerosol with a ten hex range and three hex area of effect would have a 20 hex range and a three hex area of effect.
+An aerosol with a 10 hex range and 3 hex area of effect would have a 20 hex range and a 3 hex area of effect.
 
 A malfunction indicates a loss of all remaining charges.
 There is a slim chance (determined by the ref) of the weapon exploding on malfunction.
@@ -182,10 +182,10 @@ Value:: 8000
 include::ROOT:partial$articulate.adoc[]
 
 An aerosol rifle amplifies the range and efficiencies of aerosols.
-The aerosol rifle triples the range and quintuples (five times) the number of charges.
+The aerosol rifle triples the range and quintuples (5 times) the number of charges.
 The rifle does not alter the area of effect, duration, or damage of an aerosol.
 The persona cannot disconnect aerosol canisters from the rifle before extinguishing all charges.
-An aerosol with a ten hex range and three hex area of effect would have a 30h range and the same area of effect.
+An aerosol with a 10 hex range and 3 hex area of effect would have a 30h range and the same area of effect.
 
 A malfunction indicates a loss of all remaining charges.
 There is a slim chance (determined by the ref) of the weapon exploding on malfunction.
@@ -215,8 +215,8 @@ include::ROOT:partial$articulate.adoc[]
 An antimat pistol launches a micro-particle of antimatter suspended in a lattice of electrons.
 This lattice will shatter when it hits a liquid or solid.
 The resulting explosion will instantly annihilate 50 kg of matter.
-The explosion releases a blast of heavy particles and superheated gases that will affect everything within a ten hex radius regardless of cover.
-Everything in the ten hex radius will take 25 to 70 (5d10+20) hit points of damage.
+The explosion releases a blast of heavy particles and superheated gases that will affect everything within a 10 hex radius regardless of cover.
+Everything in the 10 hex radius will take 25 to 70 (5d10+20) hit points of damage.
 
 A malfunction with this weapon means the electron lattice has shattered within the gun.
 A malfunction usually indicates a harmless misfire, but if the ref is in a bad mood, the gun may disintegrate itself.
@@ -274,7 +274,7 @@ Value:: 250000 (30000)
 include::ROOT:partial$articulate.adoc[]
 
 The beegun’s activation chamber excites a normally docile insect into a poisonous rage.
-After two units of warming up, the beegun is ready to fire.
+After 2 units of warming up, the beegun is ready to fire.
 If the player wins an attack roll, the insect will inject a deadly and instantaneous poison.
 The target must save vs intensity 19 to 24 (18+d6) poison or die.
 If the player wins the saving roll, her persona will be comatose for 1-4 days.
@@ -617,8 +617,8 @@ Value:: 8000 + Battery
 include::ROOT:partial$articulate.adoc[]
 
 The full automatic lazer pistol is a hand held lazer weapon with a rapid-fire option.
-The F weapon type releases 15 charges in one unit.
-When flotto is employed the player makes 5 attack rolls in one unit.
+The F weapon type releases 15 charges in 1 unit.
+When flotto is employed the player makes 5 attack rolls in 1 unit.
 Each successful attack roll scores 0-3 (d4-1) lazer bolts of damage.
 For a discussion of full auto (flotto) attacks jump to xref:combat:attack_types.adoc#_type_f_attacks[Flotto Attacks].
 
@@ -650,8 +650,8 @@ Value:: 12000 + Battery
 include::ROOT:partial$articulate.adoc[]
 
 The full automatic lazer rifle is a two handed weapon with a rapid fire option.
-The F weapon type releases 15 charges in one unit.
-When flotto is employed the player makes 5 attack rolls in one unit.
+The F weapon type releases 15 charges in 1 unit.
+When flotto is employed the player makes 5 attack rolls in 1 unit.
 Each successful attack roll scores 0-3 (d4-1) lazer bolts of damage.
 For a discussion of full auto (flotto) attacks jump to xref:combat:attack_types.adoc#_type_f_attacks[Flotto Attacks].
 
@@ -685,8 +685,8 @@ Value:: 1000 (1)
 include::ROOT:partial$articulate.adoc[]
 
 A full automatic pistol fires bullets, and tosses outspent shell casings.
-The F weapon type releases 15 rounds in one unit.
-When flotto is employed the player makes 5 attack rolls in one unit.
+The F weapon type releases 15 rounds in 1 unit.
+When flotto is employed the player makes 5 attack rolls in 1 unit.
 Each successful attack roll scores 0-3 (d4-1) rounds of damage.
 For a discussion of full auto (flotto) attacks jump to xref:combat:attack_types.adoc#_type_f_attacks[Flotto Attacks].
 The rate of fire is determined by trigger squeeze.
@@ -719,8 +719,8 @@ Value:: 4000 (1)
 include::ROOT:partial$articulate.adoc[]
 
 The full-auto rifle is the standard weapon of military service.
-The F weapon type releases 15 rounds in one unit.
-When flotto is employed the player makes 5 attack rolls in one unit.
+The F weapon type releases 15 rounds in 1 unit.
+When flotto is employed the player makes 5 attack rolls in 1 unit.
 Each successful attack roll scores 0-3 (d4-1) rounds of damage.
 For a discussion of full auto (flotto) attacks jump to xref:combat:attack_types.adoc#_type_f_attacks[Flotto Attacks].
 The rate of fire is determined by trigger squeeze.
@@ -989,7 +989,7 @@ The grapple gun fires a sticking device attached to a strong cord.
 The grapple is the mainstay of most every action movie in existence. 
 This weapon offers great opportunities for story progression.
 
-There are two type of grapple guns. 
+There are 2 type of grapple guns.
 Destructive and non-destructive.
 The player can pick either. 
 Otherwise there is a 42% chance the grappled will be destructive.
@@ -1221,7 +1221,7 @@ include::ROOT:partial$articulate.adoc[]
 The napalm gun sprays a jet of flaming adhesive death.
 The jet from the gun is covers a 19 by 1 hex swath area of effect.
 The area of effect is a straight line, and cannot be swept over an arc.
-Everything caught inside the one hex wide path will take 10-100 HPS of damage.
+Everything caught inside the 1 hex wide path will take 10-100 HPS of damage.
 
 All objects capable of burning have a chance of bursting into flames.
 The percentage chance of immolating is equal to the damage rolled.
@@ -1266,7 +1266,7 @@ To determine the med injected jump to xref:hardware:pharma.adoc#_pharma_type[Pha
 If the pharma is beneficial to the persona, they can choose to fail their saving roll.
 This way long range healing pharma can still help the persona. 
 The value of the pharma is multiplied ten fold in this format.
-Powerful pharma are limited to one dose only.
+Powerful pharma are limited to 1 dose only.
 Note that a miss with this weapon has no effect and wastes the pharma.
 
 Each cartridge is a self-contained unit, containing the needles, toxin and power.
@@ -1447,7 +1447,7 @@ The radiation beam affects inorganic and organic personas equally.
 For more info about radiation attacks jump to xref:uncombat:saving_rolls.adoc#_radiation[Radiation Attacks].
 
 This is also known as an x-ray gun, or a rad rifle.
-A malfunction with this gun will bathe a 3 hex radius with intensity 3 to 24 radiation for one to six units.
+A malfunction with this gun will bathe a 3 hex radius with intensity 3 to 24 radiation for 1 to 6 units.
 
 
 === Revolver 

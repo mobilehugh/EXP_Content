@@ -43,7 +43,7 @@ The chosen generic mythos for EXP is one of austerity.
 This austerity reflects a lack, or disorganization, of resources such that training, sustenance and technology are rare.
 Austerity does not prevent “anything from existing at any time”, but makes cool and powerful things rare.
 This rarity of powerful items is reflected in the tables for generating TOYs and is meant to be storyful.
-In an austere world a cloning machine would be the basis for a campaign, in an opulent world a cloning machine could be used in one session.
+In an austere world a cloning machine would be the basis for a campaign, in an opulent world a cloning machine could be used in 1 session.
 
 EXP is not designed for an abundant or opulent mythos.
 However there is certainly enough data to create such worlds.
@@ -205,7 +205,7 @@ A scarcity based campaign may need a framework for energy sources.
 Not surprisingly, EXP has a faux framework for how things get energy and keep running.
 The power and energy framework in EXP lends itself to fun Sciency Fiction explanations.
 
-There are four sources of energy in EXP, cells, fuel cells, fuel and power sources.
+There are 4 sources of energy in EXP, cells, fuel cells, fuel and power sources.
 Cell, aka batteries, are for personal artifacts that need portable power.
 Fuel cells are specifically for robots and not found anywhere else.
 Fuel is for planetary and extraplanetary vehicles.
@@ -216,7 +216,7 @@ Power sources represent architectural infrastructure that resembles our mundane 
 * Vehicles get energy from fuel.
 * Cities get energy from power sources
 
-The energy sources have three different formats: basic, rechargeable, and continuous.
+The energy sources have 3 different formats: basic, rechargeable, and continuous.
 Basic energy sources are expendable and disposable.
 Batteries on mundane terra are an example of basic cells.
 Rechargeable energy sources charge themselves.
@@ -270,7 +270,7 @@ Rechargeable power systems or batteries may be swappable, but usually are baked 
 ==== Gravitational
 This power cell filters gravitational waves into electrical energy.
 An explanation of this technological miracle will not be attempted.
-The gravitational force cannot exceed 3g or be less than one half g.
+The gravitational force cannot exceed 3g or be less than 1/2 g.
 The robot will store energy for those instances where gravitational cell cannot function.
 The robot has 1 hour of stored energy per point of CON.
 Once out of power the robot will remain dormant until gravity normalizes.
@@ -298,7 +298,7 @@ They offer continuous uninterrupted power that is usually restricted by range.
 Broadcast cells are power receivers that convert transmissions from a source into energy.
 The receivers will cease to function if they are electronically jammed or out of range.
 When within range the robot has an endless supply of power.
-Robots using broadcast power can store one month of power per point of CON.
+Robots using broadcast power can store 1 month of power per point of CON.
 A robot with a broadcast power source that runs out of stored charge must be placed back in range to recharge.
 
 ==== Nuclear
@@ -311,9 +311,9 @@ Fissionable materials are required to replenish the nuclear batteries.
 ==== Psionic
 Psionic cells convert the surrounding psychic energy into electrical energy.
 The psionic cell has the most complicated recharge process.
-The batteries last for the usual one month per point of CON.
+The batteries last for the usual 1 month per point of CON.
 When it is time to recharge the cell drains local psionic energy.
-The nearest persona will to the robot will be drained one point of MND to fully recharge the robot.
+The nearest persona will to the robot will be drained 1 point of MND to fully recharge the robot.
 The persona gets a save vs psionic attack.
 The robot persona uses her CON as MND to calculate the saving throw.
 If the persona saves the robot moves onto the next persona.
@@ -322,13 +322,13 @@ The process is automated and the robot is unaware of who is attacked when.
 == Faux Taxonomy
 
 Every persona, from the evilest referee persona to the kindest player persona, has a family.
-The three types of families found in EXP are anthros (humans, canines, felines, etc.), robots (janitorial, combot, android, etc.) and aliens (carnivorous plants, pulsating blobs, flying bear slugs, etc.).
+The 3 types of families found in EXP are anthros (humans, canines, felines, etc.), robots (janitorial, combot, android, etc.) and aliens (carnivorous plants, pulsating blobs, flying bear slugs, etc.).
 
 On mundane terra, science uses genetics and observation to create a https://en.wikipedia.org/wiki/Taxonomy_(biology)[taxonomy of life,window=_blank, rel="noopener noreferrer"].
 The biological taxonomy organizes life into domains, kingdoms, phyla, class, order, etc.
 EXP ignores all of this in the name of Sciency Fiction and simplicity, creating its own faux taxonomy.
 
-The faux taxonomy ignores the first six divisions in the schema and focuses on family, genus and species.
+The faux taxonomy ignores the first 6 divisions in the schema and focuses on family, genus and species.
 The families, genus, and species reflect the life form’s appearance and function, not its genetics.
 It is even simpler to use their familiar names: anthro, alien, and robot.
 
@@ -381,7 +381,7 @@ Not only may aliens lack hands and feet, but they also may lack language, tool u
 Most aliens will be referee personas acting as a friend, foe or dinner to player personas.
 
 When creating an alien persona, the player is creating an entire species.
-A player persona alien will only represent one creature, but the generation has all the information for an entire alien species.
+A player persona alien will only represent 1 creature, but the generation has all the information for an entire alien species.
 To evolve an alien hop, swim or fly over to xref:aliens:a_introduction.adoc[Aliens].
 
 .*Diversidae Tortillis Irritii*

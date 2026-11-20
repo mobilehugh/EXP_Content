@@ -1,5 +1,5 @@
 
-.*Percent Chance To Get An Attack Roll Dependent On Relative Size of Target If Concealed So Not Visible Table*
+.*Firing Blind Table*
 [width="85%",cols="6*^",frame="all", stripes="even"]
 |===
 
@@ -12,7 +12,7 @@ s|Medium
 s|Large
 s|Gigantic
 
-|% Chance 
+|% Chance
 |2
 |4
 |8
@@ -26,6 +26,8 @@ s|Medium
 s|Large
 s|Gigantic
 
-6+<|Minute or Nano sized targets are not considered for this table.
-6+<|Humongous targets cannot obfuscate themselves
+6+<|Minute and Nano: 0 percent chance. +
+Humongous and Colossal: Cannot hide
 |===
+
+Formerly called the "Percent Chance To Get An Attack Roll Dependent On Relative Size of Target If Concealed So Not Visible Table."

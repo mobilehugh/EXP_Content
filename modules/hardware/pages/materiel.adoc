@@ -60,10 +60,10 @@ include::hardware:partial$materiel_ammo_types.adoc[]
 === Amount
 The number of ammo sets determines the amount of ammo found.
 An ammo set is a complete set of what is needed to arm a weapon.
-Ten ammo sets are entirely different depending on the weapon type.
-Ten sets for a rifle with a 15 round magazine would mean 150 bullets.
-Ten sets for a lazer pistol using one battery would indicate ten batteries.
-Ten sets for an antimat pistol using two batteries is ten chunks of antimatter ammo and twenty batteries. 
+10 ammo sets are entirely different depending on the weapon type.
+10 sets for a rifle with a 15 round magazine would mean 150 bullets.
+10 sets for a lazer pistol using 1 battery would indicate 10 batteries.
+10 sets for an antimat pistol using 2 batteries is 10 chunks of antimatter ammo and 20 batteries.
 
 include::hardware:partial$materiel_ammo_amount.adoc[]
 
@@ -118,18 +118,18 @@ A power source conveniently justifies endless energy for combat and research fun
 === Powerpack
 Powerpacks are a collection of cells combined into one device.
 Powerpacks have a cell type and number of cells to power any artifact with a powerpack plug.
-So a power pack with 16 cells could power a four-battery lazer rifle four times over before expending.
-A 16 cell powerpack could power a one cell mutation detector for 80 days. 
+So a power pack with 16 cells could power a 4-battery lazer rifle 4 times over before expending.
+A 16 cell powerpack could power a 1 cell mutation detector for 80 days.
 Powerpacks contain a number of cells equal to a materiel battery stash.
 
 include::hardware:partial$materiel_cells_powerpack.adoc[]
 
 === Multicell
 A multicell is a single cell that replaces an entire battery set. 
-If the player generates four cells per set, the multicell can replace four cells.
-If an artifact required four solid cells to operate, a multicell with four cells could replace them.
-A multicell does not work like a power pack, and a four-cell multicell cannot power a single cell artifact four times over. 
-A multicell must have at least two cells per set.
+If the player generates 4 cells per set, the multicell can replace 4 cells.
+If an artifact required four solid cells to operate, a multicell with 4 cells could replace them.
+A multicell does not work like a power pack, and a 4-cell multicell cannot power a single cell artifact 4 times over.
+A multicell must have at least 2 cells per set.
 
 === Parameters
 
@@ -192,7 +192,7 @@ There are no experience points earned for finding fuel.
 The milieu of the campaign determines the value of the fuel.
 A scarcity based campaign may make fuel acquisition the entire point of the game.
 A space-faring campaign may make fuel a cheap and accessible commodity used to travel the galaxy.
-One eps per kilogram of fuel makes a decent reference and conversation point.
+1 eps per kilogram of fuel makes a decent reference and conversation point.
 
 
 == Manuals
@@ -210,7 +210,7 @@ Spacecraft will have enormous manuals stored within their onboard computers.
 A vibro mace may have a simple pamphlet describing it’s use in pictograms.
 
 === Type
-There are two types of manuals: instructional and repair. 
+There are 2 types of manuals: instructional and repair.
 The vast majority of manuals will be instruction manuals.
 An instruction manual may be as simple as a pamphlet or as gargantuan as a computer system.
 Repair manuals are less common than instruction manuals.
@@ -257,7 +257,7 @@ A library on a fancy book would resemble a tablet or computer.
 The manual format is mostly for appearance and plays a role in the manual’s mobility.
 A built-in manual will be part of the artifact. 
 Sheet manuals can become very large.
-A plastic sheet manual for a spacecraft might resemble a library, but for just one artifact. 
+A plastic sheet manual for a spacecraft might resemble a library, but for just 1 artifact.
 
 include::hardware:partial$materiel_manual_format.adoc[]
 

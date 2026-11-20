@@ -81,7 +81,7 @@ include::uncombat:partial$driving_maneuvers.adoc[]
 === Speed
 Speed effects are dependent on the persona’s Dexterity.
 High Dexterity reflects good eye-hand coordination, agility, and reaction time, all of which aids in avoiding accidents.
-The maximum speed that a persona can handle is one h/u per point of DEX.
+The maximum speed that a persona can handle is 1 h/u per point of DEX.
 Even trying to drive straight can be dangerous at high speeds.
 
 Handling is the handling class of vehicle.
@@ -159,7 +159,7 @@ The loss of control is temporary, and if there still is a chance that no collisi
 ==== Duration
 The loss of control of the vehicle will last for 0 to 3 units (1d4 - 1).
 The driver loses control of her vehicle for that duration of time.
-If the vehicle is traveling at 10 h/u and loses control for three units, the vehicle will travel 30 hexes out of control.
+If the vehicle is traveling at 10 h/u and loses control for 3 units, the vehicle will travel 30 hexes out of control.
 
 Deceleration and deviation simulate the vehicle careening out of control every unit.
 This period is when everyone in the vehicle is screaming in fear, especially the nothing personas.
@@ -247,8 +247,8 @@ If there are multiple vehicles in the collision, the speeds of both vehicles com
 The vehicle speeds are combined to inflict damage to both vehicles.
 
 .*Relative Speeds*
-. Head-on collision (front three  facets): add speeds together
-. Rear-end collision (back three facets): subtract speeds
+. Head-on collision (front 3  facets): add speeds together
+. Rear-end collision (back 3 facets): subtract speeds
 . T-bone collision (side facets): Use the higher speed 
 
 include::uncombat:partial$inatmo_collision_damage.adoc[]
@@ -264,13 +264,13 @@ There are some faux Newtonian solutions to these potential problems.
 ==== Collision Wate Multiplier
 .Damage Multiplier = Larger vehicle wate / Smaller vehicle wate  
 ****
-The multiplier cannot exceed four times or one-quarter.
+The multiplier cannot exceed 4 times or 1/4.
 ****
 
 If a 1200 kg vehicle collides with a 400 kg vehicle, the larger vehicle will take 1/3 damage. 
-The smaller vehicle will take three times damage.
+The smaller vehicle will take 3 times damage.
 The referee should round the damage multiplier to the nearest manageable number (1, 2, 3, 4) or (1, 1/2, 1/3. 1/4).
-The damage factor cannot be increased more than four times greater or be reduced by less than 1/4.
+The damage factor cannot be increased more than 4 times greater or be reduced by less than 1/4.
 
 === Passenger Damage
 Collisions can deliver massive amounts of damage and easily kill personas.
@@ -279,7 +279,7 @@ The referee generates the damage, and the player subtracts the value from her hi
 The referee can roll damage once for all the personas in the collision or individually for each persona.
 
 Every persona involved in the collision takes the HPS damage.
-If two vehicles collide, then all the personas in both vehicles take damage.
+If 2 vehicles collide, then all the personas in both vehicles take damage.
 In a collision at 35 h/u, every passenger in both vehicles takes 6d10 HPS in damage.
 Relative wate can increase the damage by up to 4 times or decrease it by 1/4.
 
@@ -299,9 +299,9 @@ Vehicles suffer damage in a fashion similar to other inorganic objects.
 Vehicle damage resembles robot, spacecraft, and artifact damage.
 The higher the speed of the vehicle has its collision at the more damage that it endures.
 
-A vehicle in a collision at eight h/u will not sustain damage, but the passengers may.
-A vehicle in a collision at 28 h/u would sustain three vehicle damage table rolls.
-A vehicle that collides at 60 h/u (250 km/h) would take six damage table rolls.
+A vehicle in a collision at 8 h/u will not sustain damage, but the passengers may.
+A vehicle in a collision at 28 h/u would sustain 3 vehicle damage table rolls.
+A vehicle that collides at 60 h/u (250 km/h) would take 6 damage table rolls.
 
 Each vehicle damage roll indicates a location of damage and the extent of the damage. 
 The location of the damage is entirely random. 

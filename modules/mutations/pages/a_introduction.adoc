@@ -74,7 +74,7 @@ Mutation effects that are harboured within a robot are called __malfunctations__
 Usually, it is clear whether the mutation effect arises from malfunction or intention.
 
 == Types
-Mutations have two broad types: psionic and phenomic.
+Mutations have 2 broad types: psionic and phenomic.
 These were originally called mental (psionic) and physical (phenomic) mutations.
 As a nod to https://en.wikipedia.org/wiki/Metamorphosis_Alpha[Metamorphosis Alpha,window=_blank, rel="noopener noreferrer"] the distinction between the physical and mental has been maintained.
 
@@ -105,7 +105,7 @@ Psionic mutations require concentration of the mind, like lifting a weight invol
 The attribute that powers psionic mutations is xref:attributes:mind.adoc[Mind,window=_blank, rel="noopener noreferrer"].
 
 == Categories
-There are three categories of mutations: Combat, Uncombat and Defective.
+There are 3 categories of mutations: Combat, Uncombat and Defective.
 
 
 === Combat
@@ -171,17 +171,17 @@ The target is most often another persona but could also be an inanimate object.
 The most common is the ranged mutation.
 Ranged mutations can be directed at any target within the range of the mutant.
 The range is determined by the listed attribute and, where specified, the mutant’s EXPS Level.
-For example, a mutation may have a range of one hex per MND.
-This means one hex per point of Mind and, with a 12 MND, a mutant could use the mutation 12 hexes away.
+For example, a mutation may have a range of 1 hex per MND.
+This means 1 hex per point of Mind and, with a 12 MND, a mutant could use the mutation 12 hexes away.
 There are variations to this common range format.
-Two hexes per MND would yield a 24 hex range with a 12 MND.
-One hex per four MND would yield a three hex range with a 12 MND.
+2 hexes per MND would yield a 24 hex range with a 12 MND.
+1 hex per 4 MND would yield a 3 hex range with a 12 MND.
 If the range includes MND and experience level, then the two are added.
-A fourth level persona with a 12 MND would have a 16 hex range with a mutation that was listed as one hex per (MND + Level).
+A fourth level persona with a 12 MND would have a 16 hex range with a mutation that was listed as 1 hex per (MND + Level).
 
 ==== Area of Effect
 Radius ranges are spherical and use the location hex of the persona for the centre.
-Thus a mutation with a ten hex radius of effect would contain all targets within ten hexes, including above and below the mutant.
+Thus a mutation with a 10 hex radius of effect would contain all targets within 10 hexes, including above and below the mutant.
 The area of effect would include everything in the 20 hex diameter sphere.
 
 ==== Touch
@@ -200,7 +200,7 @@ If a mutation obviously does not require complete concentration on the part of t
 Mutations that are always in constant use do not require a significant portion of the mutant’s mental or physical resources.
 
 Mutation durations may depend on the listed attribute and the persona’s EXPS Level.
-If a mutation has a duration of one unit per MND, then the mutant can make the mutation last 12 units if she has a 12 MND.
+If a mutation has a duration of 1 unit per MND, then the mutant can make the mutation last 12 units if she has a 12 MND.
 Other variations of duration exist, and they all function identically to the range variations discussed earlier, except that units replace hexes.
 Mutations with random durations are determined each time the mutation is employed.
 Such mutations indicate that the mutant has set in motion physical effects which she has no control over.
@@ -218,16 +218,16 @@ These mutations will function until the mutant is dead or has the mutation excis
 
 === Frequency
 The frequency of the mutation indicates how often it can be used during a daily cycle of the mutant.
-The frequency assumes a 24 hour day (see Chapter 12: Time and Movement) where the mutant sleeps around eight hours each day.
-If the mutant is in a situation where there is no planetary rotation or one where there is no 24-hour cycle, a complete rest (eight hours’ sleep) will be equivalent to the completion of a daily cycle.
+The frequency assumes a 24 hour day (see Chapter 12: Time and Movement) where the mutant sleeps around 8 hours each day.
+If the mutant is in a situation where there is no planetary rotation or one where there is no 24-hour cycle, a complete rest (8 hours’ sleep) will be equivalent to the completion of a daily cycle.
 
 Most mutations can be used several times a day, depending on the listed attribute and EXPS Level of the mutant.
 The more powerful the mutation, the less frequently it can be used each day.
-If the frequency of a mutation is one per four MND, a persona with a 12 MND could employ it three times each day and would have to rest eight hours before using it again.
+If the frequency of a mutation is 1 per 4 MND, a persona with a 12 MND could employ it 3 times each day and would have to rest 8 hours before using it again.
 For this type of mutation, rest is essential.
 Unless otherwise stated, a mutation can be used at least once a day.
-This includes mutations which have very low frequencies, such as one per 13 MND.
-This mutation could be used once a day, even by a persona with an MND of six.
+This includes mutations which have very low frequencies, such as 1 per 13 MND.
+This mutation could be used once a day, even by a persona with an MND of 6.
 
 Mutations that can be used more frequently are labelled “as needed” and just as the title states.
 The mutant can use such a mutation as it is needed.
@@ -235,10 +235,10 @@ The mutant can use such a mutation as it is needed.
 Constant mutations always function whether the mutant is asleep or awake.
 
 Mutations cannot be stored.
-A mutant cannot use a mutation more often one day than the next because she saved some uses from the previous day.
+A mutant cannot use a mutation more often 1 day than the next because she saved some uses from the previous day.
 The mutant may use the mutation no more than the frequency states, and each use is cumulative until she rests.
 Mutations cannot be compounded to double an effect.
-The mutant can only use one mutation at a time unless one of the mutations has a “constant” or “as needed” frequency.
+The mutant can only use 1 mutation at a time unless one of the mutations has a “constant” or “as needed” frequency.
 
 The mutant has used a mutation whenever the effects start.
 Even if the target saves and the mutation has no effect, the mutation has been used.
@@ -256,7 +256,7 @@ Mutations are biologically magical and create a whole host of complications, con
 The referee and players will use their improv skills, making mutations both interesting and fun.
 What follows is a disjointed collection of past  decisions around mutations.
 
-* Fresh personas (first level anthros, aliens, and robots) are limited to *ONE* defective mutation of any type.
+* Fresh personas (first level anthros, aliens, and robots) are limited to *1* defective mutation of any type.
 This new suggestion prevents mutation overwhelm syndrome, especially in anthro humanoids.
 
 * The mutant must be conscious to use a mutation unless stated otherwise by that specific mutation.

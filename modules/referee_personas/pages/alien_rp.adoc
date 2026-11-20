@@ -157,7 +157,7 @@ Alien society is something for the referee to consider and prepare for her campa
 A single alien society can be the basis for an entire campaign.
 The process for determining an alien player persona’s society is complex and time-consuming.
 
-For alien referee personas, the society and tech levels are on one table.
+For alien referee personas, the society and tech levels are on 1 table.
 The referee generates a society level and then generates the tech level in a second roll.
 There is a much higher chance of an alien having a vocation and having tech level creator.
 
@@ -236,17 +236,17 @@ The alien can use all xref:hardware:mundane_equipment.adoc[Mundane Equipment].
 This alien may have survival equipment for their terrain.
 This alien may have an artifact but lacks knowledge of how it works.
 High-tech artifacts may be mistaken for magic.
-A tech tool using alien RP gets *one roll* on the Limited TOY Table below.
+A tech tool using alien RP gets *1 roll* on the Limited TOY Table below.
 The tech level of the toy rolled cannot exceed TL 10.
 
 ==== Computer
 This alien can use all mundane tools, but she will prefer to use toys.
-A comp tool user gets one roll per two EXPS levels on the Limited TOY Table below.
+A comp tool user gets 1 roll per 2 EXPS levels on the Limited TOY Table below.
 The tech level of the toy rolled cannot exceed TL 10.
 
 ==== Creator
 This alien has an intimate relationship with and understanding of technological devices.
 This alien can combine toys for synergistic effects.
-Creators get one roll on the regular TOYS table per EXPS Level.
+Creators get 1 roll on the regular TOYS table per EXPS Level.
 Treasure and Junque do not count as a TOYS roll for creators.
 Creator aliens can amass great wealth as well as deadly weapons.

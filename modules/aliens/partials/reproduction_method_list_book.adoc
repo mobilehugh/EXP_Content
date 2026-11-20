@@ -44,7 +44,7 @@ s|Reproduction
 * Endoparasitism - baby grows inside another alien
 * Exoparasitism - baby grows attached to another alien
 * Exotransformism - another alien transforms into baby
-* Gamatocorpic - baby arises from two fused aliens
+* Gamatocorpic - baby arises from 2 fused aliens
 * Marsupality - baby born into a sac inside the alien
 * Oviparity - baby born from a sac outside the alien
 * Placentality - baby born live from the alien

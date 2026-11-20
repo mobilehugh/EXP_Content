@@ -15,7 +15,7 @@ The most pressing questions a player will ask are: Do I have language?  Can I us
 Player personas should have a language to communicate with their fellow expedition members.
 Purist use of aliens would leave this to chance.
 Referees tend to leave tool usage and vocations to chance.
-Just one gigantic alien anti-knite, and the referee will have to restructure her whole campaign.
+Just 1 gigantic alien anti-knite, and the referee will have to restructure her whole campaign.
 
 == Four Pillars
 There are 4 pillars of an alien society: Language, Culture, Education and Vocation.
@@ -23,20 +23,20 @@ These pillars represent how advanced the alien society is.
 Each pillar builds off of the previous one.
 A society without language cannot have culture.
 A society without culture will not develop education.
-It is quite rare for an alien society to achieve all four pillars.
-If the referee, milieu and story allows player personas can choose to have all four societal pillars in place.
+It is quite rare for an alien society to achieve all 4 pillars.
+If the referee, milieu and story allows player personas can choose to have all 4 societal pillars in place.
 
 As the player progresses through this section they start as wildlife and add societal pillars.
 
 == Technology
-There is a strong connection between technology and the four pillars.
-However, having all four pillars in place does not guarantee a technologically advanced society.
+There is a strong connection between technology and the 4 pillars.
+However, having all 4 pillars in place does not guarantee a technologically advanced society.
 In EXP technology and societal advance can be separated.
-It is impossible to achieve creator level tech usage without all four pillars.
-However, it is possible to achieve all four pillars and have no technology.
+It is impossible to achieve creator level tech usage without all 4 pillars.
+However, it is possible to achieve all 4 pillars and have no technology.
 
 As the player progresses through this section they start with a tool score of 0.
-There are opportunities to increase the tech score as they elevate through the four pillars.
+There are opportunities to increase the tech score as they elevate through the 4 pillars.
 
 == Wildlife
 An alien that has no language and no tool use is considered *wildlife*.
@@ -72,7 +72,7 @@ Simple tool usage does not allow an alien to pick up a fusion pistol and attack 
 == Language
 The language section determines if the alien species has a natural language or not.
 All aliens get to check for language and rudimentary tool use.
-For the alien species to have language, the player must roll less than or equal to three times her persona’s Intelligence attribute.
+For the alien species to have language, the player must roll less than or equal to 3 times her persona’s Intelligence attribute.
 To get a sense of what the language sounds like jump to xref:aliens:biology.adoc#_sounds[Alien Sounds,window=_blank,rel="noopener noreferrer"].
 
 :art: cunning_charisma.png
@@ -106,7 +106,7 @@ It is recommended that alien player personas either automatically have language 
 ** increases tool score from 0 to 1
 ** all aliens make this initial tool check
 
-If an alien species has no language and a tool score of one, the aliens can transiently use simple machines.
+If an alien species has no language and a tool score of 1, the aliens can transiently use simple machines.
 Aliens that lack language but can use tools are an edge case where curiosity and dexterity lead to random intermittent tool use.
 Language negative, tool positive aliens have no tool memory, and cannot use artifact tech tools or build artifacts.
 
@@ -115,7 +115,7 @@ Language negative, tool positive aliens have no tool memory, and cannot use arti
 
 This section determines if the alien species has a cultural structure or not.
 An alien species cannot evolve a culture without language.
-For the alien species to have culture, the player must roll less than or equal to three times her persona’s Charisma score.
+For the alien species to have culture, the player must roll less than or equal to 3 times her persona’s Charisma score.
 
 If there is no culture, the alien species *cannot have education or vocation*.
 If the alien species has no organized culture, it may still have a hierarchy within its grouping.
@@ -155,7 +155,7 @@ include::personas:partial$beliefs_religion.adoc[]
 
 This section determines if the alien species has an educational system or not.
 An alien species will not evolve education without culture and language.
-For the alien species to have culture, the player must roll less than or equal to three times her persona’s Awareness score.
+For the alien species to have culture, the player must roll less than or equal to 3 times her persona’s Awareness score.
 
 If the alien species has no education system, they tend to learn by trial and error.
 While individual aliens may be bright, the culture will seem less so.

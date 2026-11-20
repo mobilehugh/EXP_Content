@@ -1,7 +1,7 @@
 .*Smog and Attack Roll Table*
 [width="75%",cols="3*^",frame="all", stripes="even"]
 |===
-3+<|The fog and smoke (smog) of war. Penalty per hex. 
+3+<|The fog and smog of war. Penalty per hex.
 
 s|Roll (1d6)
 s|Description

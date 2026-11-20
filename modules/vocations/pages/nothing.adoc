@@ -32,12 +32,12 @@ However, nothings can get the expedition access to funding or make connections.
 All of these focus on the nothing moving ahead in their culture.
 
 == Interests
-There are three nothing interests: career, clout, and flex.
+There are 3 nothing interests: career, clout, and flex.
 Career interest will assist the player with any task rolls she makes related to her persona’s career.
 The Clout interest is similar to a biome, but only allows them to exercise their privilege within that sphere of influence.
 The Flex interest assists the persona any time she is moving upwards through connections and not merit.
 
-At startup the player gets one roll on the interest table per 3 points of highest attribute.
+At startup the player gets 1 roll on the interest table per 3 points of highest attribute.
 However, a nothing cannot use her INT attribute to generate interests.
 So if a persona has a 12 AWE, 9 CHA, and 15 INT she may use her AWE to get 4 rolls on the interests table.
 After startup the persona may roll or choose an additional interest for each new experience level
@@ -48,9 +48,9 @@ include::vocations:partial$nothing_interests.adoc[]
 Nothing expertise can represent past job experience, places of habitation, or pure displays of privilege.
 Even though nothing knowledge seems counter intuitive interests and expertise help the nothing persona with their task rolls.
 
-At startup the persona gets one area of expertise per interest.
+At startup the persona gets 1 area of expertise per interest.
 So a nothing with Flex 2 and Clout 1 would get 2 rolls on the Flex Table and 1 roll on the Clout Table.
-After start up the persona gets one new expertise per experience level.
+After start up the persona gets 1 new expertise per experience level.
 The player can roll on one of the expertise tables or choose a specific expertise.
 
 :art: nothing_suit.png
@@ -129,7 +129,7 @@ A persona can improve her social standing by increasing her EXPS levels.
 A nothing adds 1-100 (1d100) to her social standing for each new EXPS level.
 
 === Privilege
-A nothing persona has one main ability, and it allows her to get her way whether she deserves it or not.
+A nothing persona has 1 main ability, and it allows her to get her way whether she deserves it or not.
 A nothing can apply social pressure on another nothing to get her way.
 Pulling privilege involves using connections, wealth or career power to get their way.
 The nothing persona with the higher social standing wins.
@@ -157,7 +157,7 @@ A campaign could easily revolve around a nothing persona with spectacular wealth
 
 The treasure system complicates and convolutes treasure generation.
 The player does not need to know the treasure type.
-The player only uses the two tables below to determine her persona’s wealth.
+The player only uses the 2 tables below to determine her persona’s wealth.
 If you want more information about treasure jump over to  xref:hardware:treasure.adoc[Treasure,window=_blank, rel="noopener noreferrer"].
 
 include::vocations:partial$nothing_wealth.adoc[]

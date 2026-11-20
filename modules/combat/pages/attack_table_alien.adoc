@@ -15,17 +15,17 @@ Even a simple tool user can use an artifact weapon (gun, grenade, axe, etc).
 However wildlife aliens do not even comprehend tools of any kind.
 A non-tool using alien would step over the fusion rifle and attack the robot with her beak.
 
-If an alien does not have a Vocation she must use the Raw Bonus of zero.
+If an alien does not have a Vocation she must use the Raw Bonus of 0.
 If the alien species has education and she can follow a Vocation then a Vocation Attack Table is generated for artifact weapons attacks.
 
 .*Aliens and Artifact Weapons*
 * Wildlife - No weapon use or interest at all
-* Tool Using - May use a weapon with Raw Bonus of zero
+* Tool Using - May use a weapon with Raw Bonus of 0
 * Educated - May use Vocation Attack Table and it’s Skilled Bonus
 
 The player can use a Vocation Attack Table for  artifact weapons.
 The Alien Attack Table is used for evolved natural attacks.
-Managing the burden of having two attack tables is up to the referee and the table of players.
+Managing the burden of having 2 attack tables is up to the referee and the table of players.
 Aliens can be powerful and being able to use their super charged attributes to shoot things may affect game balance.
 
 The player can create a Vocation Attack Table for her educabucated tool usin’ alien by jumping xref:combat:attack_table_anthro.adoc[here,window=_blank, rel="noopener noreferrer"].
@@ -45,7 +45,7 @@ include::combat:partial$attack_table_blank.adoc[]
 == Skilled Bonus
 The Skilled Bonus (Skilled) is for the alien’s natural attacks.
 The player adds the Skilled to her attack roll when her persona is attacking.
-The Skilled has two main components: Attributes Bonus and Level bonus.
+The Skilled has 2 main components: Attributes Bonus and Level bonus.
 The persona’s Skilled increases as the persona gains EXPS levels.
 
 include::combat:partial$attack_table_alien_calculation.adoc[]

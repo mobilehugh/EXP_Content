@@ -44,7 +44,7 @@ include::vocations:partial$veterinarian_interests.adoc[]
 
 == Expertise
 The Veterinarian’s expertise reflects narrow areas of focus with deeper comprehension.
-The player makes one roll on the expertise table per interest.
+The player makes 1 roll on the expertise table per interest.
 So if the persona has 2 interests in treatment she would get 2 rolls on the Treatment Expertise Table.
 The persona acquires a new expertise at each new experience level.
 

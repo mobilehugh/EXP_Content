@@ -102,8 +102,8 @@ One Knite may have a keen interest in manipulating the physical space.
 While another Knite may be interested in studying society.
 An interest in the Think Space would assist with any task that involves the think space.
 
-At startup, the persona gets one interest per three points of Intelligence score.
-A persona with a 12 INT would get four rolls on the Knite Interest Table.
+At startup, the persona gets 1 interest per 3 points of Intelligence score.
+A persona with a 12 INT would get 4 rolls on the Knite Interest Table.
 After startup, the persona earns another interest with each new experience level.
 
 include::vocations:partial$knite_interests.adoc[]
@@ -114,9 +114,9 @@ Expertise increases the chances of success when attempting a task roll.
 
 NOTE: Knites *cannot* manipulate Kirlian auras through inorganic media like monitors, cameras, or phones.
 
-At startup, the player gets one expertise per interest.
+At startup, the player gets 1 expertise per interest.
 So a Knite with physicum interest 2 and culturum interest 1 would get 2 rolls on the Physicum Expertise Table and 1 roll on the Culturum Expertise Table.
-After startup the persona gets one new expertise per new experience level.
+After startup the persona gets 1 new expertise per new experience level.
 
 === Physicum
 An interest in the physical space will assist the persona in any task that involves the physical space.

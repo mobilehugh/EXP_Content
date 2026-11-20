@@ -86,7 +86,7 @@ Massive accessories may increase a vehicle’s wate.
 
 ==== Size and Shape
 When using minis in the tactical combat rules, the size of the vehicle becomes important.
-A rough estimate of the vehicle’s hex size is one hex per 200 kg of vehicle wate.
+A rough estimate of the vehicle’s hex size is 1 hex per 200 kg of vehicle wate.
 For example, a double-stretch passenger vehicle (articulated bus) needs 60 hexes of space. 
 The hex mat space works out to 3 hexes wide by 20 hexes long.
 Typically these hexes are arranged in a rectangle, but accessories and usage may alter this shape.
@@ -280,10 +280,10 @@ include::hardware:partial$vehicle_accessories_combat.adoc[]
 === Recreational
 Recreational vehicles are for persona comfort.
 A recreational use vehicle could be a camper or a limousine.
-The player makes one roll on the Recreational Accessory Table. 
-Most vehicles get one roll on the table.
+The player makes 1 roll on the Recreational Accessory Table.
+Most vehicles get 1 roll on the table.
 Large vehicle gets an additional accessory per 20 passenger spots.
-A recreational passenger vehicle that holds 60 passengers gets three extra rolls.
+A recreational passenger vehicle that holds 60 passengers gets 3 extra rolls.
 
 .*Recreational Accessories*
 * Cup holders
@@ -316,7 +316,7 @@ Max speed = 6 + 6 + 6 + 6 + 6 + 6 = 36 h/u (130 kmh)
 include::uncombat:partial$observations_on_speed.adoc[]
 
 == Acceleration
-Acceleration indicates how much faster the vehicle can travel from one unit to the next.
+Acceleration indicates how much faster the vehicle can travel from 1 unit to the next.
 The higher the acceleration, the more powerful the engine.
 A high acceleration indicates the power of the engine exceeds the wate of the vehicle.
 Acceleration generally requires maths.
@@ -330,17 +330,17 @@ Acceleration generally requires maths.
 :description: Small car with tracks driving out of the image frame.
 include::ROOT:partial$articulate.adoc[]
 
-For example, two vehicles have the same speed of 50 h/u.
+For example, 2 vehicles have the same speed of 50 h/u.
 Vehicle Won has an acceleration of 5 h/u per unit.
 Vehicle Also has an acceleration of 10 h/u per unit.
-If Won and Also have a drag race, the first four seconds would be as follows.
-The first unit, Won travels five hexes, Also travels ten hexes.
-The second unit, Won travels ten more hexes but Also travels 20 more hexes.
+If Won and Also have a drag race, the first 4 seconds would be as follows.
+The first unit, Won travels 5 hexes, Also travels 10 hexes.
+The second unit, Won travels 10 more hexes but Also travels 20 more hexes.
 
 The outcome is different if the vehicles have different speeds and do laps and not drag racing.
 Vehicle Won has an acceleration of 5 h/u per unit and a top speed of 50 h/u
 Vehicle Also has an acceleration of 10 h/u per unit and a top speed of 20 h/u.
-After ten units, Won will be going 50 h/u and quickly catches up because Also is going a mere 20 h/u.
+After 10 units, Won will be going 50 h/u and quickly catches up because Also is going a mere 20 h/u.
 
 ====
 It is best to avoid complex maths and choose story. 
@@ -451,7 +451,7 @@ Jets are an air based locomotion.
 
 === Magnetic
 A magnetic locomotion unit allows the vehicle to hover above the ground at a fixed height.
-The vehicle cannot hover more than one hex above the ground.
+The vehicle cannot hover more than 1 hex above the ground.
 The magnetic drive keeps the vehicle level on varying terrain and offers a very stable ride.
 Vehicles with magnetic locomotion will often float around long after their destruction.
 
@@ -540,7 +540,7 @@ Air based locomotion indicates the ability to fly supported by gas, most commonl
 Air based locomotion cannot drive on land or water.
 They may slowly taxi on land but only make speed while in the air.
 
-Air based locomotion indicated a vehicle has flight and can travel in three dimensions.
+Air based locomotion indicated a vehicle has flight and can travel in 3 dimensions.
 Three-dimensional movement and adds massive complexity to tactical combat.
 The referee may ground air based locomotion types to preserve game balance.
 
@@ -609,9 +609,9 @@ An accessory can be junk that adds character or a game-changing artifact that de
 :description: A maritime vessel lighting paris from above.
 include::ROOT:partial$articulate.adoc[]
 
-The player gets one roll on the Accessory Type Table.
+The player gets 1 roll on the Accessory Type Table.
 Junk Accessories do not count as a roll.
-The player stops rolling if she has three junk accessories, one mundane or one artifact accessories.
+The player stops rolling if she has three junk accessories, one mundane or 1 artifact accessories.
 
 include::hardware:partial$vehicle_accessory_type.adoc[]
 
@@ -624,7 +624,7 @@ include::hardware:partial$vehicle_accessory_luxury.adoc[]
 == Adaptability
 Adaptability represents how easy the vehicle is to repair and add new parts.
 Adaptability alters the difficulty of task rolls when repairing the vehicle.
-The adaptability is multiplied by four and added to the mechanic’s task Roll.
+The adaptability is multiplied by 4 and added to the mechanic’s task Roll.
 Adaptability ranges from +5 (very adaptable) to -5 (very un-adaptable).
 
 [discrete]
@@ -643,7 +643,7 @@ An engine block for a semi-trailer would not be compatible with that of a pick-u
 Vehicles have no EXPS value for most personas.
 Their reward is allowing the expedition to get around and therefore get more EXPS in other ways.
 Nothings can earn experience for driving their first vehicle.
-Nothing vehicle EXPS is one EXPS Level or 4242 EXPS towards her Zero Level Vocation.
+Nothing vehicle EXPS is 1 EXPS Level or 4242 EXPS towards her 0 Level Vocation.
 
 == Value
 The base value of a vehicle is 10 000 per tonne. 

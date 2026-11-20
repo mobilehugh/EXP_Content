@@ -9,27 +9,27 @@ s|Difficulty
 s|Recommendation
 
 |1
-|One
+|1
 |Trivial (<25DD)
 |Telekinesis, Drama
 
 |3
-|Two
+|2
 |Normal (<43DD)
 |Pressure
 
 |6
-|Three
+|3
 |Hard (<85DD)
 |Suggestion
 
 |9
-|Four
+|4
 |Tough (<127DD)
 |Telekinesis, Disarm
 
 |12
-|Five
+|5
 |Impossible (<200DD)
 |Kirlian Intent
 

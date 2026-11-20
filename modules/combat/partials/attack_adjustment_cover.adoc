@@ -1,0 +1,27 @@
+.*Cover Attack Roll Adjustments*
+[width="75%",cols="^1,<2",frame="all", stripes="even"]
+|===
+s|Percent
+s|Adjustment
+
+|100
+|No shot
+
+|90
+|-450
+
+|75
+|-220
+
+|66
+|-175
+
+|50
+|-125
+
+|33
+|-80
+
+s|Percent
+s|Cover Adjustment
+|===

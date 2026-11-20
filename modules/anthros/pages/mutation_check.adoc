@@ -32,7 +32,7 @@ The player rolls against the table and records the number of each mutation type.
 
 A player that want's her persona to mutation can double her chance of mutation.
 For example, if the player want's her canine anthro to physically mutate her chance becomes 36%.
-If a player does not want her persona to mutate the chance of a start mutation is zero.
+If a player does not want her persona to mutate the chance of a start mutation is 0.
 Players should not be forced to have a persona with mutations.
 Along the same thought process a no player or expedition should be forced to play with a mutation that cause them distress.
 Some mutations, especially defects, are gross and resemble actual medical conditions.
@@ -43,9 +43,9 @@ Psionics were formerly called Mental Mutations and Phenomics were formerly calle
 
 .Mutation Chance Variations
 * *double Chance* if desired
-* *zero Chance* if not desired
+* *0 Chance* if not desired
 * *100% Chance* if humanoid genus
-* *zero Chance phenomic* if purestrain genus
+* *0 Chance phenomic* if purestrain genus
 * Defects should not cause duress
 
 include::anthros:partial$anthro_phenomic_check.adoc[]

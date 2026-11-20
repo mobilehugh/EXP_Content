@@ -7,19 +7,19 @@
 2+<|*Persona Powered Thrusting and Striking Weapons*
 
 |Swords, clubs, axes
-2+<| Zero
+2+<| 0
 
 |*Fling Attacks*
 2+<|*Persona Powered Throwing and Missile Weapons*
 
 |Bows, rocks, spears
-2+<|Zero
+2+<|0
 
 |*Shoot Attacks*
 2+<|*Powered Projectile Weapons*
 
 |Pistols, rifles
-2+<|Zero
+2+<|0
 
-3+<|In this case zero = 0. A truly Raw Attack Roll. 
+3+<|In this case 0 = 0. A truly Raw Attack Roll.
 |===

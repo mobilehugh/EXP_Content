@@ -16,23 +16,23 @@ s|Explanation
 |1-3 (1d3) hexes
 
 |51-60
-|One Facet Point
+|1 Facet Point
 |30 Degrees
 
 |61-70
-|One Facet
+|1 Facet
 |60 Degrees
 
 |71-80
-|Two Facet Points
+|2 Facet Points
 |90 Degrees
 
 |81-90
-|Two Facets
+|2 Facets
 |120 Degrees
 
 |91-95
-|Three Facet Points
+|3 Facet Points
 |150 Degrees
 
 |96-99

@@ -35,7 +35,7 @@ Or specific descriptions that the referee desires like strong, fast or ugly.
 === Series
 For player personas determining their robot type is a laborious process.
 The referee can use the Single Roll Robot Type Table below.
-One roll using a 1d1000 chooses the robot RP type.
+1 roll using a 1d1000 chooses the robot RP type.
 The referee should massage the robot type to suit her campaign’s milieu.
 
 include::robots:partial$series_selection_single_roll_web.adoc[]

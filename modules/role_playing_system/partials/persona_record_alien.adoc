@@ -15,7 +15,7 @@ s|Attributes:
 2+s|Abilities:
 
 2+|Run, Swim, Fly
-2+|Two Fling attacks
+2+|2 Fling attacks
 2+|Creator Tool Usage
 
 |Vocation:

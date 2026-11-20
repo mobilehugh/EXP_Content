@@ -2,7 +2,7 @@
 
 It is easy enough to incorporate alternate attribute generation systems.
 EXP bases all its rules on a system where 3 and 18 are rare attribute scores.
-Bonuses and penalties in EXP reflect anthro attributes based on this on the three die six curves.
+Bonuses and penalties in EXP reflect anthro attributes based on this on the 3 die 6 curves.
 Small increases in average attribute scores can lead to powerful personas.
 The referee and players should choose the approach that works best for them.
 
@@ -19,7 +19,7 @@ Expeditions are composed of powerful vocations like spies and knites.
 The ruleset still works, and using drop the lowest is up to the players and referee.
 
 Drop the lowest does not apply to Social Standing as this attribute has a range of 1-1000.
-However, it would be statistically similar to allow the player to make two rolls and pick preferred one.
+However, it would be statistically similar to allow the player to make 2 rolls and pick preferred one.
 
 Hit Points could be influenced in a similar way by allowing the player to re-roll their lowest 1d8 value.
 

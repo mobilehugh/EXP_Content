@@ -5,7 +5,7 @@ Robot defences can be malfunctioning peripherals used as a defence in combat.
 Most defences are hardenings that protect the robot while doing its assigned job.
 The added defence in combat is a bonus.
 
-Unlike the convoluted attack tables, there is only one Defensive Peripherals Table.
+Unlike the convoluted attack tables, there is only 1 Defensive Peripherals Table.
 Each robot type has a clear direction on how to approach this table.
 Some robots have no defensive peripherals.
 Others are designated with multiple peripherals.
@@ -50,7 +50,7 @@ The lethal aunty personnel defensive system places the robot’s escape over the
 The player rolls an intensity of 3-18 (3d6) for each use of the defensive system.
 Any attacker in contact with, or immediately adjacent to, the robot is injured and driven away by the defensive system.
 Every attacker takes a damage bolus in hit points equal to the aunty personal defensive system’s intensity.
-If the player rolls a 9 for intensity, every attacker loses nine hit points.
+If the player rolls a 9 for intensity, every attacker loses 9 hit points.
 This damage can be lethal to weaker attackers, hence the moniker.
 
 The attackers are subject to intense pain, irritation or distraction, and killing damage.
@@ -85,7 +85,7 @@ Other vision types, organic ultravision etc., would visualize the robot as usual
 
 == Detect ambush
 This defence makes it very difficult to surprise this robot.
-The robot is four times more likely to detect something detrimental to it.
+The robot is 4 times more likely to detect something detrimental to it.
 The robot quadruples (times 4) her Awareness score when detecting an ambush.
 The defence includes active and passive ambushes.
 A robot with AWE 12 would use an AWE 48 detecting mines, trip wires or traps.

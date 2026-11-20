@@ -64,6 +64,6 @@ Shield::
 *Small*: *Wate*: 3.0 kg; *Cost*: 20 eps; *Alternate*: Pot lid. +
 *Medium*: *Wate*: 5.0 kg; *Cost*: 30 eps; *Alternate*: Street sign. +
 *Large*: *Wate*: 7.0 kg; *Cost*: 50 eps; *Alternate*: Car door.
-A shield consists of a piece of metal, wood, or other material manipulated by one arm.
+A shield consists of a piece of metal, wood, or other material manipulated by 1 arm.
 The shield is the historically famous shielding device
 The persona can use the shield for deflection, cover and deception.

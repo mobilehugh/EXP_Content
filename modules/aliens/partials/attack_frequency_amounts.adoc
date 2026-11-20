@@ -27,5 +27,5 @@ s|Roll 1d100
 s|Attack Frequency
 
 2+<|Optional - Add 1/3 DEX score to this roll.
-2+<|1 per 2 is one attack every other unit.
+2+<|1 per 2 is 1 attack every other unit.
 |===

@@ -16,8 +16,8 @@ The combination of attacks determined about is shortened into a convenient sente
 For example, "2 shoot for 3d10", or "2 fling for 1d20 and 1 strike for 1d12".
 
 == Attack Rationalization
-Sometimes it doesn't make sense for an alien to only have one attack type multiple times.
-Presently an alien with multiple attacks would only have one attack type and one damage amount.
+Sometimes it doesn't make sense for an alien to only have 1 attack type multiple times.
+Presently an alien with multiple attacks would only have 1 attack type and 1 damage amount.
 A dragon like alien may breath fire to attack 4 times a unit.
 It may be more fun if that dragon like alien breathed fire once for a lot of damage, and slapped with tentacles for less damage.
 Attack rationalization can help with this dilemma.

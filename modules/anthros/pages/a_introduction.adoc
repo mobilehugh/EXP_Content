@@ -6,7 +6,7 @@ ____
 ____
 
 All anthros are upright and bipedal.
-They have a face, a head, and two functional hands.
+They have a face, a head, and 2 functional hands.
 Anthros function like us mundane humans, and are the most familiar shape available to the player.
 EXP’s faux taxonomy of life describes anthros as the family Hominidae and the genus homo.
 Each anthro type is considered a species with names like homo avis or homo felis.

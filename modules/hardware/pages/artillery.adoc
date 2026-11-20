@@ -62,7 +62,7 @@ Artillery is not meant to be a personal weapon used in personal combat.
 Most often the target of artillery cannot be seen by the gunner.
 There is a gap between firing artillery. 
 
-Reloading of artillery takes 5 units (ten seconds).
+Reloading of artillery takes 5 units (10 seconds).
 By standards of mundane terran artillery this is a generous rate of fire.
 Reloading time takes the same if ramming in a shell, loading fuel or replacing batteries.
 If there are no moving parts or expendables the artillery needs a cool down of 6 units between shots.
@@ -109,7 +109,7 @@ An artillery piece modelled after a type F weapon has a 15 round magazine.
 The magazine parameter “battery” indicates that the artillery crew must replace all the batteries before firing.
 
 ==== Wate 
-The wate of the artillery has two parts.
+The wate of the artillery has 2 parts.
 The first part is the wate of the cannon. 
 The number in brackets is the wate of the ammunition.
 The ammo wate could be the wate of a shell, fuel, or battery.
@@ -148,7 +148,7 @@ The explosion releases a blast of heavy particles and superheated gases.
 Everything within the 75 hex area of effect takes the listed damage.
 
 A malfunction with this weapon indicates the electron lattice has shattered within the gun.
-The artillery piece explodes and inflicts 25-70 (5d10+20) hit points of damage in a two hex radius.
+The artillery piece explodes and inflicts 25-70 (5d10+20) hit points of damage in a 2 hex radius.
 
 === Beehive Cannon 
 
@@ -203,7 +203,7 @@ Wate:: 150kg (Battery)
 EXPS:: 700
 Value:: 600000 + Battery
 
-The glacier gun freezes everything within its six hex by 100 hex area of effect.
+The glacier gun freezes everything within its 6 hex by 100 hex area of effect.
 Each point of damage equals a % chance of being entrapped in ice
 So 25 HPS of damage indicates 25% of being trapped in the ice.
 The chance to break free is a Tough Strength challenge.
@@ -315,8 +315,8 @@ When full auto is activated, the amount of damage becomes astronomical.
 
 The Howglitzer can fire once a unit (Shoot) 15 times in a row.
 If there is an adequate battery charge, the Howglitzer can launch a volley of lazer attacks.
-The F attack type releases 15 charges in one unit.
-The player makes five attack rolls in one unit.
+The F attack type releases 15 charges in 1 unit.
+The player makes 5 attack rolls in 1 unit.
 Each successful attack roll scores 1-3 (1d3) Zone Attacks.
 It is possible to deliver 225-2250 hit points of damage in the area of effect.
 Personas skilled in artillery may spread the area of effect hits to cover a larger area.
@@ -346,8 +346,8 @@ When full auto is activated, the amount of damage becomes cataclysmic.
 
 The Howblitzer can fire once a unit (Shoot) 15 times in a row.
 If there is enough ammunition, the Howblitzer can launch a barrage of attack rolls.
-The F attack type releases 15 charges in one unit.
-The player makes five attack rolls in one unit.
+The F attack type releases 15 charges in 1 unit.
+The player makes 5 attack rolls in 1 unit.
 Each successful attack roll scores 1-3 (1d3) Zone Attacks.
 It is possible to deliver 180-2160 hit points of damage in the area of effect.
 Personas skilled in artillery may spread the area of effect hits to cover a larger area.
@@ -368,12 +368,12 @@ EXPS:: 900
 Value:: 8000000 (200000) + Battery
 
 The fusion cannon launches a blob of fusion that creates a conflagration.
-Fusion artillery casts a 900 by nine hex swath of incinerating death.
+Fusion artillery casts a 900 by 9 hex swath of incinerating death.
 
 The first casualty of a fusion cannon is the battery crew.
 Firing releases a fusion backflash that can deliver tremendous damage.
 Those firing the fusion cannon take 18-180 (18d10) hit points in damage.
-The backflash has a three hex area of effect.
+The backflash has a 3 hex area of effect.
 Only personas sporting powered armour or special shielding are safe.
 
 Target Size::
@@ -390,7 +390,7 @@ The swath delivers 24-240 (24d10) hit points in damage.
 Collateral Damage::
 Everything exploded by the fusion cannon swath explodes outwards in collateral damage.
 The boiling flesh and bits of bone hurtle outward from the swath path.
-This steaming goo of collateral colleagues is three hexes on either side of the swath. 
+This steaming goo of collateral colleagues is 3 hexes on either side of the swath.
 Collateral damage inflicts 21-210 (21d10) hit points of damage.
 
 A gigantic persona in the swath would take a combined swath and collateral damage, suffering 45-450 (45d10) hit points of damage.
@@ -444,7 +444,7 @@ The whale gun can reel in a 10 tonnes object at five hu.
 The whale gun must be mounted to a stable deck, or it will fly off.
 If the target is too big, the whale gun will reel itself to the target.
 
-The grapple end can be reeled back in over three units if the attack roll fails.
+The grapple end can be reeled back in over 3 units if the attack roll fails.
 
 A malfunction with this weapon indicates a mechanism jam.
 
@@ -471,7 +471,7 @@ The grav cannon is ineffective against targets with a wate greater than 5000kg.
 25% of the time, the grav cannon reverses gravity by  3-12 (3d4) gravities.
 Reversing gravity accelerates everything in the opposite direction to the present gravity.
 The general effect is that things go flying into the air.
-All items fly one hex into the air per anomalous gravity.
+All items fly 1 hex into the air per anomalous gravity.
 This acceleration inflicts 1 to 12 (1d12) hit points of damage per gravity of acceleration.
 Hitting the ground inflicts an additional 1-6 (1d6) hit points per gravity.
 Colliding with an immobile object along the path of the toss will also inflict 1-6 (1d6) hit points per gravity.
@@ -481,15 +481,15 @@ The remaining 75% of the time, the grav cannon will add  3-12 (3d4) gravities to
 Increasing gravity causes personas to crash to the ground and vehicles to grind into the dirt.
 This pressing problem will also inflict damage to all targets in the area of effect.
 This damage is 1 to 12 (1d12) hit points in damage per extra gravity.
-E.g., three gravities would smash targets into the ground for 3-36 (3d12) hit points of damage.
+E.g., 3 gravities would smash targets into the ground for 3-36 (3d12) hit points of damage.
 
 .*All Around*
 This weapon is a ZOG (zero gravity) combat weapon.
 The grav cannon flings enemy combatants off into space.
 All targets accelerate away from the epicentre at  3-12 (3d4) gravities.
 This acceleration inflicts 1 to 12 (1d12) hit points of damage per gravity of acceleration.
-The targets are also flying away at one h/u for every 2 points of damage.
-Consider a grav cannon that generated five gravities to the area of effect.
+The targets are also flying away at 1 h/u for every 2 points of damage.
+Consider a grav cannon that generated 5 gravities to the area of effect.
 The referee generates 24 HPS of damage using 5d12.
 Each target subtracts 24 HPS from their HPS Total and is flying away at
 12 h/u.
@@ -591,9 +591,9 @@ Value:: 1200000 (20000)
 This flame thrower, aka the Immolator, bathes everything in a three by 150 hex swath with sticky burning goo.
 
 The immolator sprays a jet of flaming adhesive death.
-The jet from the flame thrower covers a 150 by three hex swath area of effect.
+The jet from the flame thrower covers a 150 by 3 hex swath area of effect.
 The area of effect is a straight line, and the gunnery team cannot sweep the attack over an arc.
-Everything caught inside the one hex wide path will take 30-300 (10d30) hit points of damage.
+Everything caught inside the 1 hex wide path will take 30-300 (10d30) hit points of damage.
 
 All objects capable of burning have a chance of bursting into flames.
 The percentage chance of immolating is equal to the damage rolled.
@@ -694,7 +694,7 @@ Radiation damage is 1-4 (1d4) hit points of damage per intensity level of radiat
 An intensity 12 radiation attack would inflict 12-48 (12d4) hit points of damage.
 
 The radiator is also known as an x-ray cannon, cobalt gun,  a rad cannon.
-A malfunction with this gun will bathe a three hex radius with intensity 3-24 (3d8) radiation.
+A malfunction with this gun will bathe a 3 hex radius with intensity 3-24 (3d8) radiation.
 
 === Slotto Cannon 
 
@@ -714,7 +714,7 @@ The slotto cannon allows for up to 3 attacks per unit.
 Ionized gasses ejected from the emission chamber create a hefty kickback.
 The lazer beam itself is continuous and invisible. 
 
-In previous EXP versions, all this entry contained was “once, twice, three times a lazer.”
+In previous EXP versions, all this entry contained was “once, twice, 3 times a lazer.”
 
 This weapon is also called a lazer cannon, sotto lazer cannon.
 
@@ -787,7 +787,7 @@ This cannon is stunning indeed.
 The stun artillery is less lethal but remains very dangerous.
 The whale cannon dangerously overloads the nervous system of organic personas.
 The electro-stun attack damages inorganic personas (robots) as well.
-Inorganic personas take one hit point of damage per the intensity of poison.
+Inorganic personas take 1 hit point of damage per the intensity of poison.
 The whale stunner will kill many of the targets in the area of effect.
 
 Other names for the whale stunner are stun cannon or passive fister.
@@ -819,7 +819,7 @@ All targets in the area of effect take 12-144 (12d12) hit points of damage.
 .*Stunning*
 Every organic target in the area of effect must win a poison roll or be stunned.
 The poison intensity is 3-30 (3d10).
-Both organic and inorganic targets take one hit point per poison intensity.
+Both organic and inorganic targets take 1 hit point per poison intensity.
 Organic targets are stunned for 1-10 (1d10) units.
 
 .*Blinding*

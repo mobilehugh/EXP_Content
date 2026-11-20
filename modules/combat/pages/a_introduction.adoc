@@ -56,7 +56,7 @@ Combat time stretches 2-second intervals into minutes of decisions and dice roll
 Persona tokens move on the hex mat with care and precision.
 Players begin rolling dice to determine who goes first and who hurts who.
 A misplaced token can result in getting squashed by an alien or impaled by a combot.
-Ten seconds of combat time can take 20 minutes of mundane time to play.
+10 seconds of combat time can take 20 minutes of mundane time to play.
 
 NOTE: If granular tactical combat is unappealing, consider the xref:role_playing_system:combat_rules.adoc[Theatrical Combat System,window=_blank, rel="noopener noreferrer"].
 
@@ -71,10 +71,10 @@ A target’s Defence is composed of armour, dexterity, size, and .
 When the player’s attack roll is higher than the target’s Defence (DEF), she has won the attack roll and get’s to damage her target.
 
 In the Roll-Playing System’s tactical combat rules, the players use a kilo-die to make attack rolls.
-The kilo-die is a thousand-sided die, or 1d1000.
+The kilo-die is a 1000-sided die, or 1d1000.
 The 1d1000 generates a random number between 1 and 1000.
 The kilo die is not a golf ball with tiny writing on it.
-The player rolls three 1d10s to simulate the 1d1000.
+The player rolls 3 1d10s to simulate the 1d1000.
 For more info about the 1d1000 jump to xref:combat:kilo_die_mechanic.adoc[Kilodie Mechanic,window=_blank, rel="noopener noreferrer"].
 
 == Attack Types
@@ -85,7 +85,8 @@ For a more detailed explanation jump to xref:combat:attack_types.adoc[Attack Typ
 === Strike
 *Non-powered thrusting and striking attack.*
 Strike attacks depend on the user’s muscle power to inflict damage.
-The personas must be in adjacent hexes to be able to damage each other.
+The target must be within the attack’s Reach and meet any minimum-distance requirement.
+Reach 0 means the same hex, Reach 1 means adjacent, and Reach 2 means 2 hexes away.
 Examples are clubs, fists, swords, pincers, claws and axes.
 
 === Fling
@@ -229,12 +230,12 @@ The Force Bonus (FORCE) increases the amount of damage delivered.
 
 To understand the Force Bonus one needs to understand Hit Points and damage.
 Hit Points collectively represent a target’s life force, structural integrity and luck.
-Decreasing your opponent’s hit points to zero is the entire point of combat.
+Decreasing your opponent’s hit points to 0 is the entire point of combat.
 Each combat turn the player gets a chance to reduce her opponent’s hit points.
 The opponent also gets a chance to reduce the persona’s hit points.
 These reductions are called damage.
 The more hit points the target loses the more damage the target has taken.
-It is a race to the bottom and whoever gets to zero Hit Points first *loses*.
+It is a race to the bottom and whoever gets to 0 Hit Points first *loses*.
 to get more information about hit points and damage xref:attributes:hit_points.adoc[jump here.,window=_blank, rel="noopener noreferrer"]
 
 Whenever the player wins an Attack Roll, she then makes a Damage Roll that decreases the target’s hit points.
@@ -261,7 +262,7 @@ Shoot Attacks are self-powered and have no Force Bonus at all.
 
 == Defence
 Defence (DEF) represents how difficult it is to damage the target.
-Personas wrap all their defences up into one number called Defence (DEF).
+Personas wrap all their defences up into 1 number called Defence (DEF).
 Defence is a quantitative value that represents how difficult it is to damage the target.
 The higher the Defence, the better protected the target is.
 Dexterity, armour, hide, body structure, experience, and luck are rolled into Defence (DEF).
@@ -279,7 +280,7 @@ You can take the time to learn more by jumping to xref:combat:time_in_combat.ado
 == Combat Movement
 Combat movement determines how far a persona can move each unit (2 seconds) of combat time.
 The measure of combat distance is the hex, and the size of a hex is 2 meters.
-A slow persona with a movement rate of 3 hexes per unit (3 hu) could move three hex spaces per turn.
+A slow persona with a movement rate of 3 hexes per unit (3 hu) could move 3 hex spaces per turn.
 A fast persona with a movement rate of 9 hu could move 9 hex spaces each turn.
 To learn more about movement move over to xref:combat:move_in_combat.adoc[Move,window=_blank, rel="noopener noreferrer"].
 

@@ -1,7 +1,7 @@
 .*Foliage Movement Cost Table*
 [width="75%",cols="<,5*^",frame="all", stripes="even"]
 |===
-6+<|Movement PENALTY in h/u. 
+6+<|Depth based on Medium anthro.
 
 s|Depth
 s|Tiny
@@ -10,54 +10,54 @@ s|Medium
 s|Large
 s|Gigantic
 
-|Low
-|1 h/u
-|0
-|0
-|0
-|0
-
-|Short
-|1 h/u
-|1 h/u
+|Ankles
+|-2 h/u
+|-1 h/u
 |0
 |0
 |0
 
-|Normal
-|2 h/u
-|1 h/u
-|1 h/u
+|Knees
+|-3 h/u
+|-2 h/u
+|-1 h/u
 |0
 |0
 
-|High
-|2 h/u
-|2 h/u
-|1 h/u
-|1 h/u
+|Legs
+|Stop
+|-3 h/u
+|-2 h/u
+|-1 h/u
 |0
 
-|Tall
-|3 h/u
-|2 h/u
-|2 h/u
-|1 h/u
-|1 h/u
+|Waist
+|Stop
+|Stop
+|-3 h/u
+|-2 h/u
+|-1 h/u
+
+|Shoulder
+|Stop
+|Stop
+|Stop
+|-3 h/u
+|-2 h/u
 
 |Mess
-|Climb
-|3 h/u
-|2 h/u
-|2 h/u
-|1 h/u
+|Stop
+|Stop
+|Stop
+|Stop
+|-3 h/u
 
-|Barrier
-|Climb
-|Climb
-|Climb
-|Climb
-|Climb
+|Wall
+|Stop
+|Stop
+|Stop
+|Stop
+|Stop
 
 s|Depth
 s|Tiny
@@ -66,6 +66,6 @@ s|Medium
 s|Large
 s|Gigantic
 
-6+<|If penalty decreases move to < 1 h/u must climb.
+6+<|If movement rate is less than 1 h/u -> Stop.
 
 |===

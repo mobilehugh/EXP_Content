@@ -13,7 +13,7 @@ Bombs are a subsection of grenades.
 Bombs are nothing more than great big grenades.
 They have a greater effect, inflict more damage, and have longer durations than the grenades or aerosols that the bomb is modelling.
 Grenade and aerosol special effects increase in lethality as well.
-Clouds, fires, radioactivity, or ice fields will last ten times longer.
+Clouds, fires, radioactivity, or ice fields will last 10 times longer.
 The intensities of poisons are amplified by ten as well.
 The intensity of a bomb attack cannot exceed 25.
 
@@ -205,13 +205,13 @@ Value:: 2000
 
 The cover bomb disables all sensory modalities ineffective.
 Sensors include eyes, sonar, infravision, touch, smell, etc.
-Personas within the cloud are not blinded, but there is a barrier between all five senses.
+Personas within the cloud are not blinded, but there is a barrier between all 5 senses.
 Inside the cloud, vision grey, yelling is quiet, and touch is numb.
 Personas have no sense of direction, and combatants may bump into each other.
 Attack rolls are random swings and shots.
 Movement is random unless the persona has some form of heightened directional sense.
 The suspension will remain cohesive for 10-160 (1d6 x 10) days.
-Getting lost in the one-kilometre diameter sensory deprivation tank is guaranteed.
+Getting lost in the 1-kilometre diameter sensory deprivation tank is guaranteed.
 
 === Cremator
 
@@ -320,7 +320,7 @@ EXPS:: 100
 Value:: 1237
 
 The foam bomb instantly covers its area of effect with a rapidly hardening blob of foam.
-The foam pad is ten h deep.
+The foam pad is 10 h deep.
 The foam hardens in 20 units.
 The bomb will permanently trap anything still within the foam after 20 units.
 The foam is thick and slows movement by 1/2.
@@ -372,7 +372,7 @@ Objects greater than 100 tonnes in wate are not affected by this grenade’s att
 25% of the time, the gravitas reverses gravity by 1-12 (1d12) gravities.
 Reversing gravity accelerates everything in the opposite direction to the present gravity.
 The general effect is that things go flying into the air.
-All items fly one hex into the air per anomalous gravity.
+All items fly 1 hex into the air per anomalous gravity.
 This acceleration inflicts 1 to 12 (1d12) hit points of damage per gravity of acceleration.
 Hitting the ground inflicts an additional 1-6 (1d6) hit points per gravity.
 Colliding with an immobile object along the path of the toss will also inflict 1-6 (1d6) hit points per gravity.
@@ -382,15 +382,15 @@ The remaining 75% of the time, the gravitas will add 1-12 (1d12) g to the local 
 Increasing gravity causes personas to crash to the ground and vehicles to grind into the dirt.
 This pressing problem will also inflict damage to all targets in the area of effect.
 This damage is 1 to 12 (1d12) hit points in damage per extra gravity.
-E.g., three gravities would smash targets into the ground for 3-36 (3d12) hit points of damage.
+E.g., 3 gravities would smash targets into the ground for 3-36 (3d12) hit points of damage.
 
 .*All Around*
 This weapon is a ZOG (zero gravity) combat weapon.
 The gravruptor flings enemy combatants off into space.
 All targets accelerate away from the epicentre at 1-12 (1d12) gravities.
 This acceleration inflicts 1 to 12 (1d12) hit points of damage per gravity of acceleration.
-The targets are also flying away at one h/u for every 2 points of damage.
-Consider a gravitas that generated five gravities on detonation
+The targets are also flying away at 1 h/u for every 2 points of damage.
+Consider a gravitas that generated 5 gravities on detonation
 The referee generates 24 HPS of damage using 5d12.
 Each target subtracts 24 HPS from their HPS Total and is flying away at
 12 h/u.
@@ -505,7 +505,7 @@ The nerve agents are both contact and respiratory poisons.
 All organic targets must roll vs poison attack or suffer the described effect.
 The gas’s intensity will vary from 4-24 (4d6).
 
-The cloud of gas will remain and be poisonous for one day per point of intensity.
+The cloud of gas will remain and be poisonous for 1 day per point of intensity.
 Prevailing winds may affect the duration and intensity of the gas cloud.
 
 include::hardware:partial$gas_effect_type.adoc[]
@@ -525,7 +525,7 @@ A neutron bomb bathes everything in the area of effect with destructive radiatio
 Only those organics hardened to radiation can avoid the initial wave of damage.
 Anything that survives the initial attack then must roll versus intensity 25 radiation.
 
-The area of effect remains hot for 25 years, dropping one level of radiation intensity per year.
+The area of effect remains hot for 25 years, dropping 1 level of radiation intensity per year.
 The site will remain radioactively anomalous forever.
 What mad alien race would invent such a sick and twisted device?
 
@@ -571,7 +571,7 @@ The intensity of the attack is 25.
 
 .*Residual Radiation*
 For effect, the ref can make the 200 hex area of effect a lingering radiation zone.
-The radiation intensity decreases from 25 by one point per month.
+The radiation intensity decreases from 25 by 1 point per month.
 The device creates a permanent radiation anomaly for detectors and canines.
 
 === Paint Bomb

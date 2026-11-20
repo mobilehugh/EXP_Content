@@ -82,7 +82,7 @@ Whether jets work exatmo or not is up to the referee.
 
 === Magnetic
 A magnetic locomotion unit allows the robot to hover above the ground.
-The robot can hover no higher than one hex above the ground.
+The robot can hover no higher than 1 hex above the ground.
 Magnetic locomotion is not a flying type of locomotion.
 Robots with magnetic locomotion will often float around long after their destruction.
 Magnetic locomotion can travel above any solid or liquid.
@@ -95,7 +95,7 @@ Even a single-piston robot will be steady and balanced.
 Pistons must have a solid surface to operate.
 
 === Pods
-Pods are mechanical legs with at least one articulation.
+Pods are mechanical legs with at least 1 articulation.
 The robot has 4 to 16 (4d4) pods.
 These articulated poles will hop, scuttle or patter the robot around the terrain.
 Pods require a solid surface to operate.

@@ -1,0 +1,27 @@
+.*Concealment Attack Roll Adjustments*
+[width="75%",cols="^1,<2",frame="all", stripes="even"]
+|===
+s|Hidden
+s|Adjustment
+
+|100
+|xref:combat:attack_adjustments.adoc#_firing_blind[Firing blind,window=_blank]
+
+|90
+|-80
+
+|75
+|-60
+
+|66
+|-40
+
+|50
+|-20
+
+|33
+|--
+
+s|Hidden
+s|Concealment Adjustment
+|===

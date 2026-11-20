@@ -14,7 +14,7 @@ Florian is common name for the Hominidae Homo Planta.
 Florians are humanoid walking plant people.
 Florians can take the appearance of any plant type: venus flytrap, rose, seaweed, pine tree, mushroom, etc.
 Remember that these various florian types are only decorations.
-Every florian has two arms, two legs, a torso and a face.
+Every florian has 2 arms, 2 legs, a torso and a face.
 Their skin may be bark, and their hair leaves.
 Florians have no abilities other than those listed below.
 For example, a poison ivy florian would not be poisonous.
@@ -74,4 +74,4 @@ Florians can hold their breath indefinitely and can avoid the effects of inhaled
 == Healing
 When resting in sunlight and drinking plenty of water, a florian can rapidly heal.
 A florian heals twice as fast as other anthro types.
-A Sunbathing florian will heal at two hit points per day for the first seven days, and then four hit points per day.
+A Sunbathing florian will heal at 2 hit points per day for the first 7 days, and then 4 hit points per day.

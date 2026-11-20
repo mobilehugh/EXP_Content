@@ -51,7 +51,7 @@ s|Comment
 |81-90
 |Unconscious
 |Permanent.
-|One revival check per day.
+|1 revival check per day.
 
 |91-99
 |Vomiting

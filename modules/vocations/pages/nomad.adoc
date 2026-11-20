@@ -39,7 +39,7 @@ An expertise is more focused, and offers greater benefit to appropriate task rol
 == Interests
 Interests are broad areas of knowledge that assist the nomad in the performance of tasks. 
 Nomad interests are wide ranging and can be applied to most any nomad task.
-At startup, the persona gets one interest per 3 points of Intelligence, and one additional interest per new experience level. 
+At startup, the persona gets 1 interest per 3 points of Intelligence, and 1 additional interest per new experience level.
 
 include::vocations:partial$nomad_interests.adoc[]
 
@@ -48,9 +48,9 @@ Expertise represents areas of knowledge narrower than an interest.
 While an interest is broad and easily applied, an expertise is more focused and less likely to be applicable to a task.
 However, when an expertise is applicable, it benefits the persona much more on their task roll. 
 
-At startup, the persona gets one area of expertise per interest. 
-So a nomad with Domesticate 2 and Survival 1 would get two rolls on the Domesticate expertise table and one roll on the Survival expertise table.
-After startup, the persona gets one new expertise per experience level. 
+At startup, the persona gets 1 area of expertise per interest.
+So a nomad with Domesticate 2 and Survival 1 would get 2 rolls on the Domesticate expertise table and 1 roll on the Survival expertise table.
+After startup, the persona gets 1 new expertise per experience level.
 
 :art: nomad.png
 :width: 250px

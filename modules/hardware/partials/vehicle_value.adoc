@@ -30,7 +30,7 @@ s|Range
 |Double
 
 |Self Powered
-|One Quarter
+|1/4
 
 2+s|Vehicle Use
 

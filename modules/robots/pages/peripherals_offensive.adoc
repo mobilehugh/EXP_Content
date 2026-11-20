@@ -18,16 +18,17 @@ It is okay to say “enough is enough already.
 
 include::robots:partial$peripherals_offensive_categories.adoc[]
 
-== Attack Level Zero
+[[_attack_level_zero]]
+== Attack Level 0
 These are the robots that have no malfunctioning, intentional or accidentally dangerous weapons built-in.
 The player is responsible for role playing their persona's participation in combat.
 In fact there may be existing safety features in place that prevent the robot from harming targets.
-Robots in attack level zero may have to make frequent xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] checks to engage in combat.
+Robots in attack level 0 may have to make frequent xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] checks to engage in combat.
 
 === Creative Combat
 If the player wants her persona to smash a target with her lifting arm she would have to explain the action.
 If the persona had a striking offensive peripheral she could just attack.
-Robots in attack level zero may have to make frequent xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] checks to engage in combat.
+Robots in attack level 0 may have to make frequent xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] checks to engage in combat.
 
 === Ramming
 All robots can ram themselves into targets.
@@ -55,17 +56,18 @@ Ramming is a Strike attack.
 
 include::robots:partial$ramming_freedom.adoc[]
 
-== Attack Level One
+[[_attack_level_one]]
+== Attack Level 1
 Most of these attacks are malfunctioning peripherals that can be weaponized by the robot.
 Do not underestimate this attack level.
-Attack Table One can generate a collection of lethal close combat attacks very quickly.
-There is also a chance to elevate to Attack Level Two from this table.
+Attack Table 1 can generate a collection of lethal close combat attacks very quickly.
+There is also a chance to elevate to Attack Level 2 from this table.
 These attacks do not require a player to win a control factor roll to misuse them.
 
 include::robots:partial$peripherals_offensive_1.adoc[]
 
-Each time the robot lands at ramming freedom level four they move to a more dangerous ramming surface.
-So a robot with a flat (1d4) ramming surface would get the benefits of level four and increase damage to a blunt point (1d6).
+Each time the robot lands at ramming freedom level 4 they move to a more dangerous ramming surface.
+So a robot with a flat (1d4) ramming surface would get the benefits of level 4 and increase damage to a blunt point (1d6).
 
 === Defensive System
 Sometimes the best offence is a good defence.
@@ -74,12 +76,12 @@ Jump to xref:robots:peripherals_defensive.adoc[Defensive Peripherals,window=_bla
 === Ramming Freedom
 Ramming freedom increases the amount of control that the robot has over ramming.
 Each visit to ramming freedom increases it by 1 level.
-So if this is the first time here the ramming freedom increases from level zero to level one.
-If the robot already has ramming freedom one they advance to ramming freedom two, and so on.
+So if this is the first time here the ramming freedom increases from level 0 to level 1.
+If the robot already has ramming freedom 1 they advance to ramming freedom 2, and so on.
 
-Moving from level zero to level one allows the robot to ram targets without making a xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] check.
+Moving from level 0 to level 1 allows the robot to ram targets without making a xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] check.
 This is a huge leap forward in the realm of smashing things.
-This robot still uses her raw strike bonus and still takes damage for the intentional collision.
+This robot still uses her Raw Strike Bonus and still takes damage for the intentional collision.
 
 === Strike Attack
 The robot may use one of her peripherals as a dangerous striking weapon.
@@ -93,10 +95,11 @@ The player rolls on the Striking Peripheral Attack Table below to determine what
 include::robots:partial$peripherals_offensive_strike.adoc[]
 
 === Advance Attack Level
-The player makes one roll on the more dangerous Attack Table Two.
+The player makes 1 roll on the more dangerous Attack Table 2.
 
-== Attack Level Two
-Attacks on this table are slightly more dangerous and further ranging than those on Attack Table One.
+[[_attack_level_two]]
+== Attack Level 2
+Attacks on this table are slightly more dangerous and further ranging than those on Attack Table 1.
 These attacks are a mix of baked-in devices and misusing peripherals.
 Attacks do not require a player to make a control factor roll to misuse them.
 
@@ -121,13 +124,13 @@ The Fling attack’s damage and ammunition supply are also on this table.
 include::robots:partial$peripherals_offensive_fling_web.adoc[]
 
 === Multiple Attacks
-The player makes 2 rolls on Attack Table One above.
+The player makes 2 rolls on Attack Table 1 above.
 Multiple peripherals are additive, allowing the robot to have multiple strike attacks for instance.
 
 === Ramming Freedom
 Ramming freedom increases the amount of control that the robot has over ramming.
 At this attack level the ramming freedom is increased by 2 levels.
-So if the robot has ramming freedom one it would be increased to ramming freedom three.
+So if the robot has ramming freedom 1 it would be increased to ramming freedom 3.
 
 === Stun Strike Attack
 This strike attack includes a debilitating stun effect.
@@ -139,9 +142,10 @@ For more info jump to xref:hardware:armaments.adoc#_stun_weapons[Stun Weapon,win
 Use the table at <<_striking_peripheral, Striking Peripheral>> to generate the attack type.
 
 === Advance Attack Level
-The player makes one roll on the more dangerous Attack Table Three.
+The player makes 1 roll on the more dangerous Attack Table 3.
 
-== Attack Level Three
+[[_attack_level_three]]
+== Attack Level 3
 Attacks on this table are more dangerous and peculiar.
 These attacks are a mix of baked-in devices and misused peripherals.
 Attacks do not require a player to make a control factor roll to misuse them.
@@ -156,13 +160,13 @@ Use the table at <<_fling_attack,Fling Attack>> to generate the fling attack typ
 
 === Inertia Strike Attack
 This Strike attack increases its density on contact.
-The inertia weapon does triple the weapon damage plus ten hit points.
+The inertia weapon does triple the weapon damage plus 10 hit points.
 For more info jump to xref:hardware:armaments.adoc#_inertia_weapon[Inertia Weapon,window=_blank, rel="noopener noreferrer"].
 Use the table at <<_striking_peripheral, Striking Peripheral>> to generate the attack type.
 
 === Multiple Attacks
-The player makes 3 rolls on Attack Table Two.
-This Attack Table Three result often leads to multiple attacks or improved attacks.
+The player makes 3 rolls on Attack Table 2.
+This Attack Table 3 result often leads to multiple attacks or improved attacks.
 This table result can make the persona cumbersome to play or overpowered.
 The referee may limit the total number of attacks to maintain game balance and story.
 
@@ -174,7 +178,7 @@ The attack could arise from releasing toxic gases from the robot’s power plant
 The nausea attack uses vapours, sprays or gases, and targets with atmospheric protections are unaffected.
 
 .*Range*
-The range of the attack is one hex per point of her STR Prime score.
+The range of the attack is 1 hex per point of her STR Prime score.
 A robot with a 3 STR Prime has a range of 3 hexes from her chassis.
 
 .*Intensity*
@@ -186,8 +190,8 @@ The incapacitation lasts for 0 to 3 units (1d4 - 1).
 
 .*Cumulative*
 The nausea attack is cumulative and repeatedly generating this attack makes it stronger.
-The first appearance of nausea attack is level one.
-Each level increases the range by one hex and the intensity by 1-4 (1d4).
+The first appearance of nausea attack is level 1.
+Each level increases the range by 1 hex and the intensity by 1-4 (1d4).
 
 === Paralysis Attack
 The paralysis attack temporarily incapacitates organic targets with overwhelming weakness.
@@ -197,7 +201,7 @@ The attack could arise from releasing a damaging energy blast from the robot’s
 The paralysis attack uses waves, pulsations, and harmonics to penetrate atmospheric protections like vac suits.
 
 .*Range*
-The range of the attack is one hex per point of her INT Prime score.
+The range of the attack is 1 hex per point of her INT Prime score.
 A robot with a 3 INT Prime has a range of 3 hexes from her chassis.
 
 .*Intensity*
@@ -209,13 +213,13 @@ The paralysis lasts for 0 to 3 units (1d4 - 1).
 
 .*Cumulative*
 The paralysis attack is cumulative and repeatedly generating this attack makes it stronger.
-The first appearance of paralysis attack is level one.
-Each level increases the range by one hex and the intensity by 1-4 (1d4).
+The first appearance of paralysis attack is level 1.
+Each level increases the range by 1 hex and the intensity by 1-4 (1d4).
 
 === Ramming Freedom
 Ramming freedom increases the amount of control that the robot has over ramming.
 At this attack level the ramming freedom is increased by 2 levels.
-So if the robot has ramming freedom one it would be increased to ramming freedom three.
+So if the robot has ramming freedom 1 it would be increased to ramming freedom 3.
 
 === Stun Fling Attack
 This fling attack includes a debilitating stun attack.
@@ -243,26 +247,27 @@ For more info jump to xref:hardware:armaments.adoc#_vibro_weapon[Vibro Weapon,wi
 Use the table at <<_striking_peripheral, Striking Peripheral>> to generate the attack type.
 
 === Advance Attack Level
-The player makes one roll on the ever so more dangerous Attack Table Four.
+The player makes 1 roll on the ever so more dangerous Attack Table 4.
 
-== Attack Level Four
+[[_attack_level_four]]
+== Attack Level 4
 This attack table is composed of lethal weapons that can quickly annihilate an entire expedition.
 The attacks found here are usually baked-in weapons and not malfunctioning peripherals.
 The universal requirement is lethality.
-Soft-touch attacks are not permitted when using Attack Table Four.
+Soft-touch attacks are not permitted when using Attack Table 4.
 
 === Disregard Fabricator
-Any robot that reaches attack level four automatically gets to disregard their fabricator.
+Any robot that reaches attack level 4 automatically gets to disregard their fabricator.
 This offensive peripheral disengages any connection to the persona’s fabricator type.
 Fabricator based commands do not weigh on this robot’s programming.
 
 include::robots:partial$peripherals_offensive_4.adoc[]
 
 === Aerosol
-On Attack Table Four, an aerosol will be an actual weapon built into the robot.
+On Attack Table 4, an aerosol will be an actual weapon built into the robot.
 The aerosol type rolled must be a killing aerosol.
 No soft touch aerosols are allowed.
-The aerosol can recharge after one minute of uncombat time.
+The aerosol can recharge after 1 minute of uncombat time.
 To determine the aerosol type jump to xref:hardware:aerosols.adoc[Aerosols,window=_blank, rel="noopener noreferrer"].
 
 
@@ -289,7 +294,7 @@ To determine the gun type jump to xref:hardware:guns.adoc#_generate_type[Guns,wi
 
 === Inertia Fling Attack
 This fling attack increases its density on contact.
-The inertia weapon does triple the weapon damage plus ten hit points.
+The inertia weapon does triple the weapon damage plus 10 hit points.
 For more info jump to xref:hardware:armaments.adoc#_inertia_weapon[Inertia Weapon,window=_blank, rel="noopener noreferrer"].
 Use the table at <<_fling_attack,Fling Attack>> to generate the fling attack type.
 
@@ -300,10 +305,10 @@ The lethal jet only works on organic targets.
 The jet is a Shoot attack, and the player must win an attack roll for the poison to take.
 
 A robot cannot have more than one lethal jet attack.
-A second lethal jet should be replaced by a different Attack Table Four result.
+A second lethal jet should be replaced by a different Attack Table 4 result.
 
 .*Range*
-The range of the attack is one hex per point of her Strength score.
+The range of the attack is 1 hex per point of her Strength score.
 A robot with a 13 STR has a  lethal jet range of 13 hexes.
 
 .*Intensity*
@@ -314,19 +319,21 @@ A robot with a prime STR of 3 has a poison intensity of 3-24.
 The organic target must win a poison roll or die.
 Anthros that lose their poison roll fall unconscious and have -1 hit points.
 Aliens that lose their poison roll fall unconscious and have 1 hit points.
-Anthros and aliens are dead in ten units without intervention.
+Anthros and aliens are dead in 10 units without intervention.
 
 Organic targets that win their saving throw take 1-4 hit points (1d4) of damage per point of poison intensity.
 If this damage proves lethal, the persona may switch her saving throw to a loss.
 
-=== Multiple Level Three Attacks
-The player makes 3 rolls on Attack Table Three.
+[[_multiple_level_three_attacks]]
+=== Multiple Level 3 Attacks
+The player makes 3 rolls on Attack Table 3.
 This table result can make the persona cumbersome to play or overpowered.
 The referee may limit the total number of attacks to maintain game balance and story.
 
-=== Multiple Level Two Attacks
-The player makes 4 rolls on Attack Table Two.
-This Attack Table Four result leads to multiple attacks or improved attacks.
+[[_multiple_level_two_attacks]]
+=== Multiple Level 2 Attacks
+The player makes 4 rolls on Attack Table 2.
+This Attack Table 4 result leads to multiple attacks or improved attacks.
 This table result can make the persona cumbersome to play or overpowered.
 The referee may limit the total number of attacks to maintain game balance and story.
 
@@ -341,7 +348,7 @@ The robot will have a baked-in weapon that functions like a mutation.
 The mutation must be a combat mutation.
 The mutation cannot be a defect or compromise the persona in any way.
 
-Robots have a zero Mind score.
+Robots have a 0 Mind score.
 The player uses the robot’s Intelligence score for mutations that depend on Mind.
 
 The mutation type can be a Psionic Mutation or a Phenomic Mutation.

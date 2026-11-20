@@ -40,8 +40,8 @@ Constitution, Intelligence, Dexterity and Strength are determined by their prime
 include::robots:partial$robot_attribute_generation.adoc[]
 
 === Mind (MND)
-Robot personas have a Mind score of zero.
-A zero Mind does not indicate that robots are psionically vulnerable and easily manipulated.
+Robot personas have a Mind score of 0.
+A 0 Mind does not indicate that robots are psionically vulnerable and easily manipulated.
 Robots do not have Mind because their consciousness does not exist within the Think Space.
 Robots are unaffected by mental attacks that function through the xref:appendices:generic_mythos.adoc#_the_spaces[Think Space, window=_blank, rel="noopener noreferrer"].
 Robots cannot be mind-controlled or subject to telempathy or have their mind read.
@@ -91,7 +91,7 @@ Her persona’s regular attributes scores are 11 AWE, 8 CHA and 653 SOC.
 She records these scores on her persona record.
 Remember that Mind (MND) is automatically 0 for a robot persona.
 
-The remaining four regular attributes CON, DEX, INT, and STR need to be translated from the prime scores.
+The remaining 4 regular attributes CON, DEX, INT, and STR need to be translated from the prime scores.
 Based on her prime attributes, she rolls 1d8 for her CON, 1d6 + 7 for her DEX, 1d6 + 13 for her INT and 1d10 + 19 for her STR.
 The player rolls a CON of 6, a DEX or 11, an INT of 18 and a STR of 27.
 These are the attributes used to interact with the world.

@@ -4,30 +4,30 @@
 2+<|Reach based on size category
 
 s|Size
-s|Reach
+s|Reach (hexes)
 
 |Nano
 |Contact
 
 |Tiny
-|Move
+|0
 
 |Small
-|in hex
+|1
 
 |Medium
-|Adjacent
+|1
 
 |Large
-|1 over
+|1
 
 |Gigantic
-|2 over
+|2
 
 |Colossal
-|Special
+|3
 
 s|Size
-s|Reach
+s|Reach (hexes)
 
 |===

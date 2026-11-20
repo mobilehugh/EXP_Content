@@ -17,9 +17,9 @@ include::aliens:partial$attributes_generation_list.adoc[]
 == Attribute Considerations
 It is immediately obvious that alien attributes are quite different from anthro attributes.
 Not only are the number ranges different, but there are some functional differences as well.
-Aliens die if any of their attributes drop to zero (except social standing). 
+Aliens die if any of their attributes drop to 0 (except social standing).
 This includes hit points and charisma. 
-Aliens do not get stunned with system shock and can continue to sustain damage until zero hit points.
+Aliens do not get stunned with system shock and can continue to sustain damage until 0 hit points.
 Which would be alien death. 
 
 

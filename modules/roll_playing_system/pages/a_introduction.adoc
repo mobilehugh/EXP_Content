@@ -67,7 +67,7 @@ A quick overview of significant rolls is covered below.
 == Adjusting Rolls
 In the Roll-Playing System, dice rolls can are subject to many adjustments.
 In keeping with embracing the high roll, positive adjustments help the persona, and negative adjustments hinder the persona.
-For example, a bonus of plus three would add three points to the player’s die roll.
+For example, a bonus of plus 3 would add 3 points to the player’s die roll.
 Bonuses make success more likely, but success is not guaranteed.
 Physically strong personas increase their damage when using striking weapons.
 A Force Bonus is a bonus that increases a damage roll.
@@ -128,12 +128,12 @@ The player will roll the kilodie and compare that value to the target’s Defenc
 If the attack roll plus adjustments are greater than the target’s Defence, the player usually inflicts damage on the target.
 A damage roll follows a successful attack roll.
 The higher the number the player rolls, the more likely her persona will be victorious in combat.
-There are more than fifteen sections under the heading of xref:combat:a_introduction.adoc[Tactical Combat, window=_blank, rel="noopener noreferrer"] that cover the finer details.
+There are more than 15 sections under the heading of xref:combat:a_introduction.adoc[Tactical Combat, window=_blank, rel="noopener noreferrer"] that cover the finer details.
 
 === Attribute Rolls
 Attribute rolls are a collection of rolls that pit the persona’s attributes against specific challenges.
-The player usually rolls a twenty-sided die for an attribute roll.
-Two players could make attribute rolls to see who’s persona wins an arm wrestle.
+The player usually rolls a 20-sided die for an attribute roll.
+2 players could make attribute rolls to see who’s persona wins an arm wrestle.
 A player could make an attribute roll to see if a poison harms her persona.
 The higher the player rolls, the more likely things will go well for the persona.
 
@@ -161,7 +161,7 @@ The player is usually rolling a percentile die to ‘generate’ data.
 Generative rolls determine what kind of artifact a persona finds.
 A high roll does not make a difference when generating an artifact.
 Data tables are in alphabetical order, and a higher roll only indicates the starting letter of the artifact.
-An excellent artifact roll for the persona could be six on one table but fifty-six on another table.
+An excellent artifact roll for the persona could be 6 on 1 table but 56 on another table.
 
 ==== Chance Rolls
 Chance rolls determine if a specific event occurs.

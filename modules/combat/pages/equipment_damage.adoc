@@ -56,7 +56,7 @@ include::ROOT:partial$articulate.adoc[]
 
 === When
 Nothing happens to the equipment if the damage amount is less than it’s HPS.
-At zero HPS, the toy does not go unconscious or die, but it suffers damage.
+At 0 HPS, the toy does not go unconscious or die, but it suffers damage.
 Obviously delicate artifacts can be instantly destroyed.
 
 TIP: Rules assist game balance and creativity. +
@@ -74,7 +74,7 @@ include::combat:partial$exatmo_vehicle_damage_amount.adoc[]
 === Cumulative Damage
 The damaging effects of artifact injuries are cumulative.
 An artifact can become disabled over several attacks.
-An artifact suffering two major damage incidents (40% performance drop) is now functioning at 36%. 
+An artifact suffering 2 major damage incidents (40% performance drop) is now functioning at 36%.
 For example, a rifle’s range would be reduced from 100 hexes. to 36 hexes.
 
 A system is disabled when it is reduced to less than 10% function.
@@ -82,7 +82,7 @@ A system is disabled when it is reduced to less than 10% function.
 === Instantaneous Destruction
 Instantaneous destruction occurs when an attack destroys a system in a single blow.
 The attack must drop the system from 100% to <1% function in a single attack.
-Destroying an artifact in one blow may lead to additional consequences.
+Destroying an artifact in 1 blow may lead to additional consequences.
 Often players will expect a destroyed bomb or grenade to activate accidentally.
 Accidental activation is usually determined by a xref:uncombat:sphincter_rolls.adoc[Sphincter Roll,window=_blank, rel="noopener noreferrer"]
 

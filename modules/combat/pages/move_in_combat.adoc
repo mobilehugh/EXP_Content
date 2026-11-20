@@ -26,7 +26,7 @@ ____
 == Distance
 The unit of distance used in combat movement is the hex.
 Hex is short for the word hexagon.
-The https://en.wikipedia.org/wiki/Hexagon[hexagon,window=_blank, rel="noopener noreferrer"] is a six-sided polygon of great beauty.
+The https://en.wikipedia.org/wiki/Hexagon[hexagon,window=_blank, rel="noopener noreferrer"] is a 6-sided polygon of great beauty.
 The scale of EXP’s hexagon is 2 meters.
 In EXP, hexes are a unit of measure.
 
@@ -67,13 +67,13 @@ The player can use some of those hexes to accomplish simple actions, change dire
 include::ROOT:partial$articulate.adoc[]
 
 Movement rates are equal between anthros, aliens, robots and vehicles.
-One h/u equals one h/u regardless of locomotion type.
+1 h/u equals 1 h/u regardless of locomotion type.
 Flippers, feet, wheels, tracks or antigrav boots with the same movement rate move at equal speed.
 
 == Changing Direction
 Changing direction is the most straightforward and easily understood of all the movement adjustments.
 There is no movement penalty for moving forward on stable terrain.
-There is one hex cost per facet of change in direction.
+There is 1 hex cost per facet of change in direction.
 
 .*Persona with a 6 h/u move*
 . Straight ahead, move 6 hexes and attack.
@@ -112,17 +112,14 @@ This benefit is in hexes of distance only.
 Running does not allow for attack rolls or actions.
 
 .Tactical Withdrawal (Running)
-* free or unencumbered (cannot carry a watermelon, for example)
-* benefit is hexes of distance only
-* no attack rolls
-* no actions other than running
+* free or light encumbered
+* no attack rolls or actions
+* +50%, may change direction
+* Anthros and educated aliens only
 
-For example, an anthro persona with a move of 6 h/u is carrying a watermelon.
-If the player decides on a rapid tactical withdrawal, the persona may drop the watermelon and move at 9 h/u.
+For example, an anthro persona with a move of 6 h/u is carrying a heavy rock.
+If the player decides on a rapid tactical withdrawal, the persona may drop the heavy rock and move at 9 h/u.
 Running does not guarantee the safety of a persona in any way.
-
-Robots move at maximum efficiency and cannot increase movement rate by running.
-Only aliens and anthros have the flight response that allows them to make a rapid tactical withdrawal.
 
 == Bolting
 A persona’s movement rate represents what she can accomplish per unit of combat.
@@ -136,63 +133,44 @@ This benefit is in hexes of distance only.
 Bolting does not allow for attack rolls or actions.
 
 .Panicked Rout (Bolting)
-* free from encumbrance (will drop weapons and shed armour or backpacks)
-* benefit is hexes of distance only
-* straight line only
-* absorbs no tactical information
-* no attack rolls
-* no actions other than running
-* get +2 hexes for panicked screaming.
+* free from encumbrance
+** drop weapons and backpack
+* no attack rolls, actions, or observations
+* +100%, straight line only
+* Anthros and alien wildlife only
 
-For example, an anthro persona with a move of 6 h/u sees a heavy combot eviscerate the rest of her expedition (in one unit).
+For example, an anthro persona with a move of 6 h/u sees a heavy combot eviscerate the rest of her expedition (in 1 unit).
 The player decides her persona should run screaming from the combat area.
 The persona would drop her weapon, her backpack, tear off her armour, and run in a straight line screaming.
-Her movement rate bolting would be 14 h/u.
-Double for routing and +2 for panicked screaming.
-
-Robots move at maximum efficiency and cannot increase movement rate by running.
-Only aliens and anthros have the flight response that allows them to make a rapid tactical withdrawal.
-Bolting does not guarantee the safety of a persona in any way.
+Her movement rate bolting would be 12 h/u.
 
 == Crawling
 A persona can crawl along the ground to improve concealment or cover.
 Crawling involves keeping one’s body unnaturally close to the ground and compromises movement rate.
 Crawling personas move at 1/4 of their regular movement rate.
-So a persona who normally can move eight h/u can crawl at two h/u.
+So a persona who normally can move 8 h/u can crawl at 2 h/u.
 Crawling also impedes the actions a person can undertake.
 
-Crawling gives the persona a DEF bonus of +125 to powered and none powered missile weapons.
-So attack types B and C are penalized but Strike attacks get an attack bonus of +125.
+Only anthros and aliens with at least education can crawl defensively.
+Crawling must also make sense based on size category.
+Gigantic aliens cannot crawl for advantage.
 
-Robots cannot alter their locomotion type to gain a crawling DEF bonus.
-Only medium-sized or smaller organic personas can use this bonus.
+Crawling gives an attacker an attack roll penalty of -125 to ranged attacks like fling and shoot attacks.
+However, crawling gives an attacker an attack roll bonus of +125 for strike attacks, or a ranged attack directly above the crawler.
 
 == Crouching
 A persona can crouch while moving to improve concealment or cover.
 Crouching involves lowering one’s body closer to the ground and compromises movement rate.
 Crouching personas move at 1/2 their regular movement rate.
-So a persona who normally can move six h/u can crouch at three h/u.
+So a persona who normally can move 6 h/u can crouch at 3 h/u.
 Crouching also impedes the actions a person can undertake.
 
-Crouching gives the persona a DEF bonus of +60 vs powered and none powered missile weapons.
-So attack types B and C are penalized but Strike attacks get an attack bonus of +125.
+Only anthros and aliens with at least education can crouch defensively.
+Crouching must also make sense based on size category.
+Gigantic aliens cannot crouch for advantage.
 
-Robots cannot alter their locomotion type to gain any DEF bonus.
-Only medium-sized or smaller organic personas can use this bonus.
-
-== Rolling
-Rolling allows the persona to stay undercover and move a bit faster.
-Rolling personas can move at 1/3 their movement rate (rounded down).
-A rolling persona with a seven h/u move can roll at two h/u.
-
-Rolling gives the persona a DEF bonus of +125 to powered and non-powered missile weapons.
-So attack types B and C are penalized but Strike attacks get an attack bonus of +125.
-
-While rolling, a persona cannot make attack rolls or task rolls.
-The persona can only make roll rolls.
-
-Robots cannot alter their locomotion type to gain any DEF bonus.
-Only medium-sized or smaller organic personas can use this bonus.
+Crouching gives an attacker an attack roll penalty of -60 to ranged attacks like fling and shoot attacks.
+However, crouching gives an attacker an attack roll bonus of +60 for strike attacks, or a ranged attack directly above the croucher.
 
 == Barrel Rolling
 Once during combat, a persona can make a barrel roll if they scream barrel roll.
@@ -202,7 +180,7 @@ Anthros, alien tool users and robots can perform a barrel roll once during a com
 
 == Diving
 A dive is a headfirst horizontal torpedo jump that can propel the persona beyond her movement allowance.
-Upon finishing her unit’s movement, a persona can dive an additional one hex for every six points of STR.
+Upon finishing her unit’s movement, a persona can dive an additional 1 hex for every 6 points of STR.
 Diving can launch her through windows, into doorways, across tables, off cliffs, etc.
 Diving renders a persona inactive for the next unit.
 
@@ -219,42 +197,33 @@ Horizontal jumps have no hite and are just for distance.
 Vertical jumps get personas over impasses.
 A failed vertical jump leaves the persona crumpled at the base of the barrier.
 
-. Horizontal jump, running start yields one hex per STR / 7
-. Horizontal jump from standing yields one hex per STR / 15
+. Horizontal jump, running start yields 1 hex per STR / 7
+. Horizontal jump from standing yields 1 hex per STR / 15
 . Vertical jump, half persona hite, normal DEX roll required
 . Vertical jump, persona hite, difficult DEX roll required
 
 Robots do not jump.
-Wildlife may jump over natural obstructions in their habitat.
+Wildlife may jump effortlessly over natural obstructions in their habitat.
 
-== Move or Act
-Movement rate represents the furthest a persona can move in one unit during combat.
+== Doing Things
+Movement rate represents the furthest a persona can move in 1 unit during combat.
 During combat, players can move and make an attack roll without penalty.
-So an anthro that moves five h/u per unit could move five hexes straight ahead and make an attack roll.
-As soon as the persona deviates from this most simplistic move attack combination, there are penalties.
+So an anthro that moves 5 h/u per unit could move 5 hexes total and make an attack roll.
+As soon as the persona deviates from this most simplistic move attack combination, there are consequences.
 The player pays for these penalties in hexes.
+In tactical combat simple things take time, and the currency of that time are hexes per unit.
 
-For example, changing direction can cost one hex in movement.
-So an anthro that moves five h/u per unit could move four hexes, change direction and make an attack roll.
-The more dramatic the direction change, the more hexes per unit are absorbed.
+For example, catching an ammo pack costs 2 hexes of movement.
+So an anthro that moves 5 h/u per unit could move 3 hexes, catch the ammo pack, and make an attack roll.
 
-For example, catching an ammo pack costs two hexes of movement.
-So an anthro that moves five h/u per unit could move three hexes, catch the ammo pack, and make an attack roll.
-
-These movement penalties are cumulative.
-So an anthro that moves five h/u per unit could move two hexes, catch the ammo pack, change direction and make an attack roll.
-She may be getting a lot done, but she is not getting as far as before.
-
-The movement cost for waist-deep water is four hexes per unit.
-So changing direction, catching a watermelon, and firing her pistol in waist-deep water is not possible.
-She needs seven hexes per unit when she only has five hexes per unit to spend.
-Now the player must decide which is most important: the watermelon, changing direction, or moving.
-
-NOTE: *hexes per unit in tactical combat are similar to action points in other rule sets.*
 
 === Actions
 Actions can be completed within the combat unit and have a movement rate cost.
-If the total hex cost of actions is greater than the persona’s movement rate, then she must stop moving for that unit.
+A persona can do one or two actions per unit during combat.
+A persona with cannot stack a bunch of actions.
+For example a persona with a 12 h/u move rate cannot flip 6 tables in one unit.
+They could flip a table, swallow a pill and still have 9 hexes of movement left.
+
 
 include::combat:partial$action_costs_in_combat.adoc[]
 

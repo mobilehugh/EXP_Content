@@ -26,5 +26,5 @@ include::ROOT:partial$articulate.adoc[]
 . Only tool using aliens use armour.
 .. Alien naked Defence is randomly determined.
 .. Descriptive body part types do not affect Defence.
-. Alien die at zero hit points.
+. Alien die at 0 hit points.
 .. Aliens do not suffer damage system shock and can fight until dead.

@@ -7,7 +7,7 @@ ____
 
 The player is you.
 As a player, you control a persona.
-Usually, a player only controls one persona.
+Usually, a player only controls 1 persona.
 The persona is a tool that allows the player to participate in the story.
 Using a board game reference, the persona is like a playing piece in the game.
 Other games call personas characters, avatars, or actors.
@@ -79,7 +79,7 @@ If it is worth creating, it is worth writing down.
 
 
 === Family
-The player can choose from three different persona families: anthro, robot or alien.
+The player can choose from 3 different persona families: anthro, robot or alien.
 The anthro family are humanoids like us, which makes them the easiest to play.
 Robots and aliens are for experienced players.
 The referee may also limit families and types to maintain a consistent milieu.

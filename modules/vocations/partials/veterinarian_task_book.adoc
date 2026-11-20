@@ -178,13 +178,13 @@ s|Difficulty
 * *Radiation Arrest*: Stop ongoing effects of radiation.
 * *Radiation Cure*: Reverse all radiation effects (even HPS damage).
 * *Reattach Members*: Reverse the handiwork of knites.
-* *Resuscitate*: Restore to zero HPS and unconscious.
+* *Resuscitate*: Restore to 0 HPS and unconscious.
 * *Restore Attribute*: Revive an injured attribute (not from aging).
 * *Sentience*: Sentience present. Yes/No.
 * *Stabilize*: Stop persona from losing negative HPS.
 * *Stasis Bag*: Safely stuff into stasis bag.
 * *Strong Fix*: Heal 2d6 HPS over 2 units.
 * *Subliminal Suggestion*: Interject a thought without detection.
-* *Unstun*: Immediately remove stun effect from one persona.
-* *Unstun Group*: Unstun all within one hex range.
+* *Unstun*: Immediately remove stun effect from 1 persona.
+* *Unstun Group*: Unstun all within 1 hex range.
 * *Vision Restoration*: Restore any blindness.

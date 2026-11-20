@@ -24,7 +24,7 @@ In short, this web site is the rule set for a role-playing game in the vein of D
 This flavour of role-playing game is Sciency Fiction.
 
 You play the game using the document you are reading now.
-Usually one player, called the referee, will peruse this content and make up a story for their friends to partake in.
+Usually 1 player, called the referee, will peruse this content and make up a story for their friends to partake in.
 All these folks get together in real life and play EXP as a tabletop role-playing game.
 If you are familiar with role-playing games but new to EXP, you can probably skip this chapter.
 
@@ -56,8 +56,8 @@ Our table used miniatures and hex paper to sort out combat.
 War games still had an enormous influence on how designers developed role-playing games.
 Combat resolution was tactical, detailed, and obsessive.
 
-A twenty-sided die was not refined enough for us.
-We devised a thousand-sided die by rolling three ten-sided dice together.
+A 20-sided die was not refined enough for us.
+We devised a 1000-sided die by rolling 3 10-sided dice together.
 The 1 to 1000 range allowed us to give subtle bonuses or penalties on the hexagonal mat.
 EXP mashed Metamorphosis Alpha, Gamma World and tactical miniature combat into one book.
 
@@ -70,7 +70,7 @@ The working title of the homebrew (1980) was EXP 1000.
 This cumbersome title was a reference to the 1000-sided die roll and its experimental nature.
 Folks just started calling it EXP.
 
-Those three letters kept coming up in other ways.
+Those 3 letters kept coming up in other ways.
 The teams of players called themselves expeditions, not parties.
 Personas gained levels by collecting experience points.
 Since we had eschewed the canonical 20-sided dice, we felt experimental.

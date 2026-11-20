@@ -33,10 +33,13 @@ The base Defence of an unarmoured target is 500.
 The defence values are related to this base value.
 For instance, a suit of armour with a Defence of 725 would give the wearer a base Defence of 725 instead of 500.
 
-==== Restrictiveness 
-The more restrictive a suit of armour is, the more cumbersome and unyielding it is to normal body movement.
-The more cumbersome the armour, the higher its restrictiveness.
-The less restrictive armour is, the more that the persona can use her Dexterity to avoid taking damage.
+==== Binding
+[[_restrictiveness]]Binding measures how much worn armour limits freedom of movement.
+Use actual armour wate x listed Binding as its contribution to encumbrance.
+Movement and task roll effects come from the resulting encumbrance category, with no separate Binding movement or task penalty.
+Binding can also limit the Dexterity contribution to Defence.
+See xref:combat:defence_rating.adoc#_binding[Binding] and xref:uncombat:encumbrance.adoc#_worn_armour[Worn Armour] for details.
+Biomech uses its powered or unpowered state instead of a numerical Binding rating.
 
 ==== Wate
 The wate of armour is unnecessarily complicated.
@@ -60,7 +63,7 @@ The second number is the value of this armour for a 70 kgs anthro persona.
 
 The value per kilogram helps the referee when fabricating armour for aliens and robots.
 The value of a suit of ablative armour is 590 eps per kilogram of armour wate.
-So a three-kilogram suit of ablative armour is worth 1770 eps.
+So a 3-kilogram suit of ablative armour is worth 1770 eps.
 The standard value for a 70 kgs anthro persona is 900 eps.
  
 
@@ -70,7 +73,7 @@ The standard value for a 70 kgs anthro persona is 900 eps.
 
 [horizontal]
 Defence:: 625
-Restrictiveness:: 3
+Binding:: 3
 Wate:: 2.5 (1.5kg)
 EXPS:: 200
 Value:: 590/kg (900)
@@ -89,7 +92,7 @@ Depleted ablative armour retains its DEF of 625 but loses all special defences a
 
 [horizontal]
 Defence:: 625
-Restrictiveness:: 3
+Binding:: 3
 Wate:: 2.9 (2kg)
 EXPS:: 200
 Value:: 590/kg (1200)
@@ -104,7 +107,7 @@ Ballistic cloth does not absorb damage from low-velocity attacks such as punches
 
 [horizontal]
 Defence:: 725
-Restrictiveness:: 2
+Binding:: 2
 Wate:: 3.0 (2kg)
 EXPS:: 100
 Value:: 1000/kg (2000)
@@ -116,7 +119,7 @@ It is usually composed of such mundane materials as Kevlar weaves and ceramic pl
 
 [horizontal]
 Defence:: Plus 30-120 (3d4 times 10)
-Restrictiveness:: 0-3 (1d4 - 1)
+Binding:: 0-3 (1d4 - 1)
 Wate:: Halved
 EXPS:: 300 
 Value:: See below
@@ -129,16 +132,16 @@ include::hardware:partial$compucrafted_armour.adoc[]
 
 Defence (DEF) increases by 30-120 (3d4 x 10) from the base Defence.
 Lighter and less cumbersome materials allow for more unrestricted body movement.
-The lighter design decreases the armour’s restrictiveness to between 0-3 (1d4 - 1).
-The new restrictiveness cannot be higher than armour’s previous restrictiveness.
-Compucrafted armour reduces its wate by half and increases its value four times.
+The lighter design decreases the armour’s Binding to between 0-3 (1d4 - 1).
+The new Binding cannot be higher than armour’s previous Binding.
+Compucrafted armour reduces its wate by half and increases its value 4 times.
 EXPS value is a flat 300 points for all types of compucrafted armour.
 
 === Concussion
 
 [horizontal]
 Defence:: 625
-Restrictiveness:: 3
+Binding:: 3
 Wate:: 2.9 (2kg)
 EXPS:: 200
 Value:: 590/kg (1200)
@@ -153,7 +156,7 @@ Any of these damages types are reduced by 1/2 when wearing concussion armour.
 
 [horizontal]
 Defence:: None
-Restrictiveness:: Table
+Binding:: Table
 Wate:: Table
 EXPS:: 333
 Value:: Table
@@ -216,7 +219,7 @@ This covering appears like a rough weave of loose fibres.
 
 [horizontal]
 Defence:: 0
-Restrictiveness:: 0
+Binding:: 0
 Wate:: Table
 EXPS:: 500
 Value:: Table
@@ -238,7 +241,7 @@ include::hardware:partial$force_field_belt_strength.adoc[]
 
 [horizontal]
 Defence:: +40
-Restrictiveness:: 0
+Binding:: 0
 Wate:: Special
 EXPS:: 50 + TOY  
 Value:: 100 + TOY 
@@ -250,7 +253,7 @@ The persona controls the artifact using voice command, tongue wrangling, or faci
 The milieu of the campaign determines the base helmet type.
 
 Regardless of the helmet type, the DEF bonus is the same.
-Helmets do not affect restrictiveness. 
+Helmets do not affect Binding.
 The baked-in artifact determines the wate and value of the helmet.
 
 The type of equipment installed is limited by wate and reason.
@@ -291,7 +294,7 @@ Roll from the list of visual aid artifacts found in xref:hardware:devices.adoc#_
 
 [horizontal]
 Defence:: 800
-Restrictiveness:: 1
+Binding:: 1
 Wate:: 1.0 (0.7kg)
 EXPS:: 75
 Value:: 1000/kg (1000)
@@ -309,7 +312,7 @@ NOTE: *In previous EXP versions, plastix armour had no AR when not wearing the v
 
 [horizontal]
 Defence:: 750
-Restrictiveness:: 15
+Power State:: See xref:hardware:biomech.adoc#_power_state[Biomech Power State]
 Wate:: 300 (210kg)
 EXPS:: 1000
 Value:: 10000000 + accessories
@@ -324,7 +327,7 @@ Jump to xref:hardware:biomech.adoc[Biomech,window=_blank, rel="noopener noreferr
 
 [horizontal]
 Defence:: 600
-Restrictiveness:: +2
+Binding:: +2
 Wate:: None (2kg)
 EXPS:: 900
 Value:: 20000
@@ -345,7 +348,7 @@ include::hardware:partial$protex_armour_type.adoc[]
 
 [horizontal]
 Defence:: Table
-Restrictiveness:: Table
+Binding:: Table
 Wate:: Table
 EXPS:: 100
 Value:: Table
@@ -421,7 +424,7 @@ include::ROOT:partial$articulate.adoc[]
 
 NOTE: *Exatmo = EXterior to ATMOsphere. Inatmo = INside ATMOsphere.*
 
-There are three different types of vac suits: civilian, industrial, and military.
+There are 3 different types of vac suits: civilian, industrial, and military.
 Each of which has its peculiarities.
 Vac suits will rip only if subject to direct damaging forces.
 For example, shooting or intentionally cutting a vac suit may cause it to rupture.
@@ -433,7 +436,7 @@ include::hardware:partial$vac_suit_type.adoc[]
 
 [horizontal]
 Defence:: 500
-Restrictiveness:: 4
+Binding:: 4
 Wate:: 10 (8kg)
 EXPS:: 350
 Value:: 100000
@@ -447,11 +450,11 @@ The civilian vac suit has no motion controls.
 Personas must clumsily drag themselves around by grappling in zero gravity.
 Civilian vac suits have an all-frequency homing device, emitting a locator-distress call.
 
-The persona will be able to function for four days in a vacuum.
+The persona will be able to function for 4 days in a vacuum.
 After the fourth day, the civilian vac suit turns into a personalized cryogenic suspension unit.
 Vac suit cryo will keep a persona alive as long as it suits the story.
 A persona can also wear the vac suit to protect against toxins inside an atmosphere.
-The suit will maintain a safe environment for four days and then act as a stasis bag for four months. 
+The suit will maintain a safe environment for 4 days and then act as a stasis bag for 4 months.
 Being resurrected from a vac suit is a veterinarian maneuver.
 
 A civilian vac suit is relatively delicate, and intentional destruction can lead to rupture.
@@ -472,7 +475,7 @@ include::ROOT:partial$articulate.adoc[]
 
 [horizontal]
 Defence:: 600
-Restrictiveness:: 8
+Binding:: 8
 Wate:: 30 (21kg)
 EXPS:: 350
 Value:: 250000
@@ -480,13 +483,13 @@ Value:: 250000
 The industrial vac suit is for repair work in outer space.
 It is cumbersome to put on and is not helpful in an emergency decompression.
 
-The wearer can fly an industrial vac suit at six h/u.
+The wearer can fly an industrial vac suit at 6 h/u.
 The industrial vac suit has a built-in radio and storage for tools and parts.
 The industrial vac suit also has a mini airlock.
 The airlock allows for delicate inatmo hands-on work.
 
-A worker can inhabit the industrial vac suit for one day.
-Beyond one day of use, the wearer will die from the perils of exatmo. 
+A worker can inhabit the industrial vac suit for 1 day.
+Beyond 1 day of use, the wearer will die from the perils of exatmo.
 There are no safety features like those found in civilian vac suits.
 An industrial vac suit cannot function inatmo.
 
@@ -494,7 +497,7 @@ An industrial vac suit cannot function inatmo.
 
 [horizontal]
 Defence:: 700
-Restrictiveness:: 6
+Binding:: 6
 Wate:: 20 (15kg)
 EXPS:: 350
 Value:: 300000
@@ -518,7 +521,7 @@ The entire suit is ready for explosive removal in the atmosphere.
 This feature allows the wearer to be combat-ready when boarding a spacecraft.
 A military vac suit cannot function inatmo and cannot cross into an atmosphere.
 
-A military vac suit will function for six days in exatmo.
+A military vac suit will function for 6 days in exatmo.
 There is no cryogenic suspension. 
 Upon incapacitation of the wearer, a military vac destroys itself and its wearer.
 The suit melts into harmless space debris, leaving no helpful evidence behind.

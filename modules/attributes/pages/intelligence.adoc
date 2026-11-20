@@ -31,7 +31,7 @@ Anthro and alien intelligence represent the number and connectivity of their org
 Robot intelligence is inorganic and represents baked in processors and machinery. 
 
 Intelligence is equivalent between the families. 
-An intelligence score of twelve is the same for anthros, aliens and robots.
+An intelligence score of 12 is the same for anthros, aliens and robots.
 The robot consciousness is a malfunction of their machinery, and this can limit their function.
 Alien persona intelligence does not indicate language or tool using. 
 High alien intelligence makes all these more likely.

@@ -14,7 +14,7 @@ Canine is the common name for the Hominidae Homo Canis.
 Canines are humanoid dog people.
 A canine persona can select the looks of one of many dog types: poodle, terrier, wolf, jackal, dingo, fox, etc.
 The persona remains a bipedal humanoid.
-A canine would always have two arms, two legs, a torso and a face.
+A canine would always have 2 arms, 2 legs, a torso and a face.
 The canines are humanoid dogs sporting fur and doggy tails.
 
 Example species: Chihuahua, Dane, Dingo, Labrador, Poodle, Terrier, Weiner, Wolf.
@@ -71,7 +71,7 @@ The persona can immediately tell whether the radiation is a point source or gene
 If there is a point source of radiation, the canine can move towards the epicentre.
 The canine could also track a mobile source of radiation.
 If there is a generalized background radiation level, the persona can determine this as well.
-The range of radiation detection is five hexes per point of AWE and radiation intensity.
+The range of radiation detection is 5 hexes per point of AWE and radiation intensity.
 The range is very far.
 Canines can use this ability to avoid poisoned wastelands or track down a leaking fusion pistol.
 

@@ -3,8 +3,8 @@
 |===
 2+<|Actions cost movement in h/u
 
+s|Action
 s|Cost
-s|Penalty
 
 |Attack target
 |None

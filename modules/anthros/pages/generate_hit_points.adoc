@@ -4,7 +4,7 @@ Hit points (HPS) measure how much physical punishment a persona can endure befor
 An anthro’s Constitution determines her physiologic health.
 In turn, her Constitution determines her hit points.
 
-Hit points has two components.
+Hit points has 2 components.
 The first component is the fixed hit point max (HPM).
 The second component is the dynamic hit point total (HPS).
 When someone asks how many hit points a persona has, one responds with the hit point max value.
@@ -16,12 +16,12 @@ The hit points max is full health, and the hit point total is present health.
 *aka HPM*
 
 A persona’s hit points is determined by rolling d8s.
-A player rolls 1d8 for every two points of CON.
+A player rolls 1d8 for every 2 points of CON.
 The sum of these d8s comprises the largest component of the HPS. 
-A player whose persona has a ten Constitution would roll 5d8 and add them together.
-The player then adds one hit point per one point of Constitution her persona has. 
+A player whose persona has a 10 Constitution would roll 5d8 and add them together.
+The player then adds 1 hit point per 1 point of Constitution her persona has.
 The persona described in this paragraph would get 5d8 + 10 hit points.
-Rolling the eight siders and adding her Constitution is how the player determines her persona’s hit points maximum.
+Rolling the 8 siders and adding her Constitution is how the player determines her persona’s hit points maximum.
 
 === Calculation
 .HPM = (1/2 CON x 1d8) + CON
@@ -34,8 +34,8 @@ A persona with a CON of 11 would roll 6d8 and add 11. Rounding benefits the play
 
 Hit Points reflects the number of hit points the persona has left.
 The more hit points the persona has left, the healthier they are.
-If the hit points drops to zero, bad things start to happen. 
-If the hit points drops below zero, the persona is dying.
+If the hit points drops to 0, bad things start to happen.
+If the hit points drops below 0, the persona is dying.
 
 == Hit Points Min
 *aka Death*
@@ -46,21 +46,21 @@ The hit points minimum is “negative half” her hits points maximum.
 A persona with a hit points max of 42 would be irrevocably dead at -21 hit points. 
 If the persona in this paragraph loses 63 hit points at once, she is instantly dead.
 
-Hit points minimum is also called negative one half of one’s HPS.
+Hit points minimum is also called negative 1/2 of one’s HPS.
 
 === Calculation
-.Death = zero - (1/2 max HPM)
+.Death = 0 - (1/2 max HPM)
 ****
 A persona with 30 HPM is dead when her HPS get to negative 15 (-15).
 ****
 
-Hit points is an attribute that can drop below one without killing the persona.
+Hit points is an attribute that can drop below 1 without killing the persona.
 A persona with a negative hit point total is unconscious and dying from physical trauma.
 Having a negative hit point total is often referred to as “being negative.”
 A persona with a negative hit points is unconscious and can do nothing other than lay about and bleed.
 
-The persona loses one hit point every five units (10 seconds) while her hit point total is negative.
-A persona at -2 hit points will drop to -3 hit points five units later, and then -4 hits points 10 seconds after that.
+The persona loses 1 hit point every 5 units (10 seconds) while her hit point total is negative.
+A persona at -2 hit points will drop to -3 hit points 5 units later, and then -4 hits points 10 seconds after that.
 This physiologic collapse continues until the hit point total reaches her hit point minimum, and the persona is dead.
 This rapid decline to death does not stop unless medically treated.
 
@@ -72,7 +72,7 @@ NOTE: Damage system shock and recovery rolls are optional rules.
 *aka DSS*
 
 Damage system shock checks to see if a persona is incapacitated by a bolus of damage.
-Whenever a persona loses more than half her hit point total (HPS) in one attack, she must make a DSS roll or fall unconscious.
+Whenever a persona loses more than half her hit point total (HPS) in 1 attack, she must make a DSS roll or fall unconscious.
 The DSS is a specialized attribute roll that takes into consideration the persona’s hit point total.
 
 === System Shock Roll

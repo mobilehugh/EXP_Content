@@ -1,7 +1,7 @@
 = Rescue \(R)
 
 Rescue robots cover all the bases on non-policing emergency response.
-There are two types of rescue robots.
+There are 2 types of rescue robots.
 Retrieval rescue robots rescue people and property from dangerous environments.
 Containment rescue robots suppress and contain those dangerous environments.
 Rescue robots have many unique skills.
@@ -110,8 +110,8 @@ Grappling and stashing targets in a non-retrieval environment will require a CF 
 
 === Stasis Chambers
 Retrieval robots can store organic creatures in stasis chambers when necessary.
-The robot has one stasis chamber for every two points of Strength.
-So a retrieval robot with a 20 STR would have ten stasis chambers.
+The robot has 1 stasis chamber for every 2 points of Strength.
+So a retrieval robot with a 20 STR would have 10 stasis chambers.
 The size of the fabricator type determines the size of the stasis chamber.
 
 Inorganic rescuees are also stored in a stasis chamber if they fit.
@@ -177,14 +177,14 @@ The containment robot can also cordon off a dangerous area.
 This robot has 250 hexes of glowing retractable fencing for cordoning off dangerous areas.
 
 === Detection
-Containment robots can sense toxic danger at a range of ten hexes per point of Awareness score.
+Containment robots can sense toxic danger at a range of 10 hexes per point of Awareness score.
 Toxic danger includes fire, radiation, chemicals, epidemics, dangerous thoughts, defective mutations, etc.
 The toxic danger must be large enough to represent harm to a community.
 For example, detection does not alarm if a poisonous alien were nearby.
 
 === Fire Suppression
 The containment robot has a universal flame retardant, which will extinguish typical fires.
-The robot can extinguish five hexes of fire for every point of Constitution score.
+The robot can extinguish 5 hexes of fire for every point of Constitution score.
 For example, a robot with CON 22 could put out 110 flaming hexes.
 The flame retardant is non-toxic, is breathable, and has minimal residue.
 The containment robot can recharge its fire suppression if basic materials are available.

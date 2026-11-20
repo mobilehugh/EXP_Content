@@ -1,7 +1,7 @@
 .*Liquids Movement Cost Table*
 [width="75%",cols="<,5*^",frame="all", stripes="even"]
 |===
-6+<|Movement PENALTY in h/u. Splash, swim, sink etc. 
+6+<|Movement PENALTY in h/u.
 
 s|Depth
 s|Tiny
@@ -25,39 +25,39 @@ s|Gigantic
 |0
 
 |Legs
-|Swim
+|Sink
 |4 h/u
 |3 h/u
 |2 h/u
 |1 h/u
 
 |Waist
-|Swim
-|Swim
+|Sink
+|Sink
 |4 h/u
 |3 h/u
 |2 h/u
 
 |Shoulder
-|Swim
-|Swim
-|Swim
+|Sink
+|Sink
+|Sink
 |4 h/u
 |3 h/u
 
 |Deep
-|Swim
-|Swim
-|Swim
-|Swim
+|Sink
+|Sink
+|Sink
+|Sink
 |4 h/u
 
 |Way Deep
-|Swim
-|Swim
-|Swim
-|Swim
-|Swim
+|Sink
+|Sink
+|Sink
+|Sink
+|Sink
 
 s|Depth
 s|Tiny
@@ -66,7 +66,7 @@ s|Medium
 s|Large
 s|Gigantic
 
-6+<|If penalty decreases move to < 1 h/u must swim.  
+6+<|If movement rate is less than 1 h/u -> Sink.
 
 
 |===

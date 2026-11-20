@@ -1,1 +1,1 @@
-*See xref:hardware:mundane_equipment.adoc#_zone_attack_weapons[Zone Attack Weapons] for more details.*
+*xref:hardware:mundane_equipment.adoc#_zone_attack_weapons[Zone weapon list].*

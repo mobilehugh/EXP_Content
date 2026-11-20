@@ -2,7 +2,8 @@
 
 Encumbrance represents the burden of equipment that the persona has elected to carry.
 Everything that the persona wears or carries contributes to encumbrance.
-Encumbrance includes clothing, armour (unless worn), ammunition, weapons, food, and anything else with a wate.
+Encumbrance includes clothing, worn or carried armour, ammunition, weapons, food, and anything else with a wate.
+Worn body armour uses its Binding-adjusted effective load rather than its actual wate.
 This section does not cover the philosophical elements of encumbrance,
 The age-old questions of which is more difficult to carry, 2 kg of oxygen, or 2 kg of lead?
 
@@ -50,6 +51,10 @@ Bigger personas can lift more stuff.
 The player multiplies her persona’s  Wate Allowance by the WA Adjustment.
 
 include::uncombat:partial$wa_and_size.adoc[]
+
+== Worn Armour
+
+include::uncombat:partial$armour_encumbrance.adoc[]
 
 == Encumbrance Categories
 Wate Allowance is a solitary number.
@@ -149,8 +154,9 @@ The encumbrance categories are neat and interesting, but how they affect the per
 Carrying too much equipment has a detrimental effect on the persona’s ability to perform tasks.
 The higher the encumbrance level, the more difficult tasks become.
 Encumbrance is not just about wate. 
-It also includes restrictiveness and entanglements impairing performance.
-The persona needs to set the stuff down to avoid the task roll penalty.
+Worn armour’s Binding is already represented in its effective encumbrance load.
+Use the resulting encumbrance category for task rolls without adding a separate Binding penalty.
+The persona must set equipment down or remove worn armour to reduce the load and improve her encumbrance category.
 An easy (12) task would increase the difficulty 24 when encumbered.
 
 When encumbrance rules are due to high gravity environments, personas cannot escape the penalties.

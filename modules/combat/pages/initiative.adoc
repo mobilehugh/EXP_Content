@@ -39,7 +39,7 @@ There are no attack roll bonuses for winning initiative.
 == Initiative Roll
 Every player makes an initiative roll every unit of combat.
 Each player makes an initiative roll on a 1d20, adding their persona’s Dexterity score and experience level.
-The referee can combine all the referee personas into one initiative roll.
+The referee can combine all the referee personas into 1 initiative roll.
 A single initiative roll for a group of cannon fodder referee personas makes sense.
 Important referee personas may get an initiative roll.
 All personas roll at once and quickly sum up their total initiative.
@@ -50,7 +50,7 @@ All personas roll at once and quickly sum up their total initiative.
 Init = 15 (on 1d20) + 12 DEX + 4th level = 31
 ****
 
-The initiative rolls of three players are 11, 14 and 21.
+The initiative rolls of 3 players are 11, 14 and 21.
 The order of initiative for the personas is 21, 14 and 11.
 This order does not designate the order of action but the order of tactical advantage.
 The player with an initiative of 21 may go first if they wish, but they may wait to assess before acting.
@@ -62,9 +62,9 @@ Even if the tie is between players, they must resolve the tie.
 
 The players resolve the tie by rolling an unadjusted 1d10.
 This 1d10 result acts as a decimal place added to the initiative roll.
-Two players both roll 17 for initiative.
+2 players both roll 17 for initiative.
 They now both roll a 1d10 each.
-One player rolls 8, and the other player rolls 4.
+1 player rolls 8, and the other player rolls 4.
 The initiative values are now 17.8 and 17.4, and the player with 17.8 wins the tactical advantage.
 
 == Who Goes First?
@@ -128,7 +128,7 @@ If she fails this roll, bad things can happen to her persona.
 To learn how to make an awareness roll jump to xref:uncombat:attribute_rolls.adoc[Attribute Rolls,window=_blank, rel="noopener noreferrer"].
 
 == Anatomy of a Unit 
-An expedition of four personas gets into a ‘situation,’ and the game moves into combat time.
+An expedition of 4 personas gets into a ‘situation,’ and the game moves into combat time.
 The minis are on the hex mat, and the players are getting tactical.
 The referee calls for initiative rolls and creates and creates an init order from the rolls. 
 The referee’s init roll for her referee persona is excluded from the init order for convenience.
@@ -184,7 +184,7 @@ include::combat:partial$init_example_5.adoc[]
 == Mutations
 Aliens and anthros can use psionic mutations at any time during a unit.
 Mental attacks are instantaneous and are unaffected by the initiative list.
-If two psionic mutations are facing off, they make an initiative roll where Mind replaces Dexterity.
+If 2 psionic mutations are facing off, they make an initiative roll where Mind replaces Dexterity.
 
 Phenomic mutations follow the usual Dexterity-based initiative roll.
 All robot mutation-like attacks follow the usual Dexterity-based initiative roll.
@@ -196,5 +196,5 @@ Things that help initiative run smoothly, making combat more fun for one and all
 . Pick the number of rules that work and use one less.
 . Ensure lowest init roll moves and attacks promptly.
 . Players with waited actions must pay attention. Or die.
-. Clump referee personas into one init roll.
+. Clump referee personas into 1 init roll.
 . Save gossip and detailed description for after the unit completes.

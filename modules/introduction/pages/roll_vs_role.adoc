@@ -13,7 +13,7 @@ The tactical combat rules are detailed and dice-heavy, and they form the basis f
 The theatrical combat rules form the next oldest ruleset.
 The theatrical combat rules are a simplified version of the tactical combat rules.
 The theatrical combat rules simplify the tactical combat rules by using simpler dice.
-The theatrical system works with hundred-sided, twenty-sided, ten-sided and six-sided dice.
+The theatrical system works with 100-sided, 20-sided, 10-sided and 6-sided dice.
 The theatrical system sacrifices detail and subtlety for speed and fun.
 The theatrical combat rules now have their own dice mechanic, but dividing down the kilodie is still an option.
 
@@ -45,7 +45,7 @@ It only takes a few minutes to create a persona, and the game mechanics are intu
 Onboarding of new players is immediate.
 
 .*Role-Playing System is for you if...*
-* You have played board games and can roll six-sided dice
+* You have played board games and can roll 6-sided dice
 * You are dice averse and would rather talk
 * You are not fond of remembering numbers
 * You don’t care too much about details

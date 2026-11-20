@@ -22,12 +22,12 @@ The following paragraphs detail how to manage various tech levels in EXP.
 . <<_implications,Implication>>
 
 == Preamble Ramble
-The usual tech level is ten. 
-Tech level ten reflects the tech of the level of mundane terra in the late 20th century.
+The usual tech level is 10.
+Tech level 10 reflects the tech of the level of mundane terra in the late 20th century.
 One could argue that in the 2020s, the tech level of mundane terra is possibly 11, with gusts up to 12.
 This discussion is beyond the scope of this text, and the base tech level remains 10.
-All artifacts that the TOY system generates is a tech level ten device.
-Any variation from tech level ten changes the wate, value and appearance of the artifact.
+All artifacts that the TOY system generates is a tech level 10 device.
+Any variation from tech level 10 changes the wate, value and appearance of the artifact.
 
 === Low Tech
 
@@ -91,14 +91,15 @@ Included here for completeness of preamble ramble.
 
 include::appendices:partial$tool_usage_examples_tech_level.adoc[]
 
-=== Tech Level Ten 
-All equipment described in the technology section is tech level ten (TL10).
-Tech level ten is an arbitrary number that allows space for tech levels below and above.
-Tech level ten is a familiar reference point for us on mundane terra.
+[[_tech_level_ten]]
+=== Tech Level 10
+All equipment described in the technology section is tech level 10 (TL10).
+Tech level 10 is an arbitrary number that allows space for tech levels below and above.
+Tech level 10 is a familiar reference point for us on mundane terra.
 TL10 is that point where all the facets of science--mathematics, electronics, physics, biology--can work together to create any device.
 
-The tech level of one device does not represent the tech level of the entire culture.
-A tech level ten culture will have devices that have higher and lower tech levels. 
+The tech level of 1 device does not represent the tech level of the entire culture.
+A tech level 10 culture will have devices that have higher and lower tech levels.
 One can find high tech artifacts in low tech cultures.
 The corollary is true as well. 
 One can find low tech artifacts in high tech cultures.
@@ -155,9 +156,9 @@ Multiply the EXPS adjustment with the artifact’s EXPS value to get the new EXP
 The EXPS award can increase for both lower and higher tech devices. 
 The persona learns as much from understanding a poorly made device as a well-made device.
 
-A tech level ten lazer pistol is worth 500 EXPS.
-At tech level three, the same lazer pistol is worth 780 EXPS.
-At tech level twenty, that lazer pistol is worth 900 EXPS.
+A tech level 10 lazer pistol is worth 500 EXPS.
+At tech level 3, the same lazer pistol is worth 780 EXPS.
+At tech level 20, that lazer pistol is worth 900 EXPS.
 
 === Value 
 The value column indicates the change in the artifact’s value.
@@ -166,9 +167,9 @@ Value is very arbitrary and does not reflect market value within the referee’s
 A low tech lazer pistol may be very valuable in a world where a lazer pistol is the only ranged weapon.
 A high tech lazer pistol may be nothing unusual in a peaceful high tech world where everything is plentiful.
 
-A tech level ten lazer pistol is worth 500 eps.
-At tech level three, the same lazer pistol is worth 150 eps.
-At tech level twenty, that lazer pistol is worth 5000 eps.
+A tech level 10 lazer pistol is worth 500 eps.
+At tech level 3, the same lazer pistol is worth 150 eps.
+At tech level 20, that lazer pistol is worth 5000 eps.
 
 === Identification 
 The tech level of an object may affect a persona’s ability to identify it.
@@ -183,9 +184,9 @@ The toy may use different materials--e.g., a plastic frying pan.
 The device may operate under a different process--e.g., the stock is squeezed instead of a trigger pull.
 The artifact may look entirely different--e.g., a key may be a metal ball touched against a door.
 
-A tech level ten lazer pistol has no artifact identification penalty.
-At tech level three, the same lazer pistol has an artifact identification penalty of -4.
-At tech level twenty, that lazer pistol has an artifact identification penalty of -8.
+A tech level 10 lazer pistol has no artifact identification penalty.
+At tech level 3, the same lazer pistol has an artifact identification penalty of -4.
+At tech level 20, that lazer pistol has an artifact identification penalty of -8.
 
 === Convenience Table
 

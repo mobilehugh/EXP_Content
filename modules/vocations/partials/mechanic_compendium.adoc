@@ -21,7 +21,7 @@ s|Description
 
 |Quick Repair
 |24
-|Unbreak for one more use. Trivial or minor damage.
+|Unbreak for 1 more use. Trivial or minor damage.
 
 |Bake a Pie
 |24
@@ -91,7 +91,7 @@ s|Description
 
 |Multi-equip
 |148
-|Integrate two toys into one.
+|Integrate 2 toys into one.
 
 3+s|Impossible
 

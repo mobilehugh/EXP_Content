@@ -4,8 +4,8 @@ In keeping with the family name diversidae, alien shapes are very diverse.
 The alien description system is wild and unpredictable.
 An alien shape is a mash-up of body parts from a list of mundane terra denizens.
 Each body part listed should be familiar to the reader.
-Four different body parts are combined to create a new alien shape.
-The four body parts are proportional to each other and represent appearance only.
+4 different body parts are combined to create a new alien shape.
+The 4 body parts are proportional to each other and represent appearance only.
 The size category or the alien determines its size, not its body parts.
 For example, an alien with a wate of 10kg and a tiger torso would have a proportionally scaled-down tiger torso.
 
@@ -137,7 +137,7 @@ include::aliens:partial$alien_shape_torso_adornment.adoc[]
 
 
 == Coat and Colour
-The alien will usually have a unified coat chosen from one of the four body parts generated.
+The alien will usually have a unified coat chosen from one of the 4 body parts generated.
 This is chosen by the persona.
 For example, if one of the body parts is budgie, the entire alien could be covered in feathers.
 Even the ape arms of the alien would be covered in feathers.

@@ -8,12 +8,12 @@ include::robots:partial$movement_rate_and_dexterity.adoc[]
 
 A robot with a 10 DEX would move at 8 hexes per unit. 
 A robot with a 17 DEX would move at 14 hexes per unit. 
-A robot that moves faster than ten h/u may be subject to acceleration rules. 
+A robot that moves faster than 10 h/u may be subject to acceleration rules.
 
 == Acceleration
 Acceleration is an optional rule for robots that move incredibly fast.
-A robot that moves faster than ten h/u may be subject to these rules. 
-Robotic acceleration is one hex per unit per STR prime (1 to 4).
+A robot that moves faster than 10 h/u may be subject to these rules.
+Robotic acceleration is 1 hex per unit per STR prime (1 to 4).
 
 A robot with a movement rate of 16 h/u and a 3 STR  prime would move 10 h/u in the first unit, 13 h/u in the second unit and 16 h/u in the third unit.
 

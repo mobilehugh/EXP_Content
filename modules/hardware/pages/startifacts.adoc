@@ -34,12 +34,12 @@ Each table of players will develop their language for equipment.
 
 == Number 
 Players get *three* startifacts, maybe. 
-Personas can end up with more or less than three items.
+Personas can end up with more or less than 3 items.
 
 Junque and minimal Treasure do not count as startifacts.
-In this case, the persona may get more than three items, although some are useless.
+In this case, the persona may get more than 3 items, although some are useless.
 Spacecraft, vehicles, robots and other powerful items stop startifact generation.
-In this case, the persona may get less than three items because of the item’s power.
+In this case, the persona may get less than 3 items because of the item’s power.
 
 == Limitations
 Personas are not allowed to amass artifacts related to their vocation.

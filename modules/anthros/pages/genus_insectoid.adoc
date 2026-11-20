@@ -13,7 +13,7 @@ include::ROOT:partial$articulate.adoc[]
 Insectoid is common name for the Hominidae Homo Insectum.
 Insectoids are humanoid bugs.
 An insectoid persona could resemble a bee, spider, worm, slug, flea, mosquito, beetle, tick, louse, moth, grasshopper, dragonfly, etc.
-Every insectoid has two arms, two legs, a torso and a face.
+Every insectoid has 2 arms, 2 legs, a torso and a face.
 The insectoid may sport the head of a fly and have a soft exoskeleton for the skin.
 The persona may also have additional decorative limbs or wings.
 The anthro type is entirely decorative.

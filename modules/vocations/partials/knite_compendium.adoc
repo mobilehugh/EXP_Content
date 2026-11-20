@@ -37,7 +37,7 @@ s|Description
 
 |Multiple Attacks
 |24
-|One attack per gift when using energy sword.
+|1 attack per gift when using energy sword.
 
 |Kirlian Find
 |24 + DEX

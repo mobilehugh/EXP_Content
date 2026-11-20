@@ -2,7 +2,7 @@
 
 Exploration robots map, search, explore, catalogue, and record.
 The robot may be using the data directly or transferring the data elsewhere.
-There are two types of exploration robots: planetary and extraplanetary.
+There are 2 types of exploration robots: planetary and extraplanetary.
 Exploration robots often go by the nickname exobots.
 
 .*Exploration Attribute Requirements*

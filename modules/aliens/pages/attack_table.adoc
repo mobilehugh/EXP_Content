@@ -6,7 +6,7 @@ Following are the details of how to calculate an attack table for an alien perso
 This section has cursory explanations and no detailed calculations.
 For more info jump to xref:combat:attack_table_alien.adoc[Alien Attack Table,window=_blank, rel="noopener noreferrer"]
 
-The attack table is composed of four roll bonuses spread across 3 attack types.
+The attack table is composed of 4 roll bonuses spread across 3 attack types.
 
 .*Attack Roll Bonuses*
 * xref:combat:attack_table_details.adoc#_skilled_bonus[Skilled Bonus,window=_blank, rel="noopener noreferrer"]
@@ -18,7 +18,7 @@ The attack table is composed of four roll bonuses spread across 3 attack types.
 * xref:combat:attack_table_details.adoc#_max_roll[Max Roll,window=_blank, rel="noopener noreferrer"]
 ** the highest roll possible
 * xref:combat:attack_table_details.adoc#_force_bonus[Force Bonus,window=_blank, rel="noopener noreferrer"]
-** always zero for natural attacks, as STR is rolled into the damage roll
+** always 0 for natural attacks, as STR is rolled into the damage roll
 ** may apply to weapons if the alien is a tool user
 
 .*Attack Types*
@@ -30,10 +30,10 @@ The attack table is composed of four roll bonuses spread across 3 attack types.
 ** Lazer eyes, energy bolts, gas propelled chunks
 
 These items create a matrix of arithmetic fun called an attack table.
-If the alien were attacking with her natural claw attack the player would add her skilled strike bonus to her attack roll.
+If the alien were attacking with her natural claw attack the player would add her Skilled Strike Bonus to her attack roll.
 These bonuses are based on the persona's attributes, increase with experience levels.
 
 .*Aliens and Artifact Weapons*
 * Wildlife - No weapons use or interest in them at all, always natural attacks
-* Tool Using - May use a weapon with Raw Bonus of zero
+* Tool Using - May use a weapon with Raw Bonus of 0
 * Educated - May use Vocation Attack Table and it’s Skilled Bonus

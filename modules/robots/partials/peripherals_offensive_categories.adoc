@@ -6,18 +6,18 @@
 s|Attack Level
 s|Description
 
-|<<_attack_level_zero,Attack Level Zero>>
+|<<_attack_level_zero,Attack Level 0>>
 |All Robots.
 
-|<<_attack_level_one,Attack Level One>>
+|<<_attack_level_one,Attack Level 1>>
 |Misused peripherals.
 
-|<<_attack_level_two,Attack Level Two>>
+|<<_attack_level_two,Attack Level 2>>
 |Dangerous peripherals.
 
-|<<_attack_level_three,Attack Level Three>>
+|<<_attack_level_three,Attack Level 3>>
 |Baked-in weapons.
 
-|<<_attack_level_four,Attack Level Four>>
+|<<_attack_level_four,Attack Level 4>>
 |Big baked-in weapons.
 |===

@@ -2,7 +2,7 @@
 
 The most critical evolutionary advance of any alien species is its relationship with technology.
 In EXP, the alien species tool score determines this relationship.
-The tool score may increase from zero to four as the player checks against her persona’s Dexterity and Intelligence scores.
+The tool score may increase from 0 to four as the player checks against her persona’s Dexterity and Intelligence scores.
 There is a slight chance that a fully developed alien civilization may have no use for tools at all.
 There is no chance that an undeveloped alien civilization will be technologically advanced.
 The player looks up her alien species’ technological adeptness on the Alien Tool Score Table.
@@ -57,7 +57,7 @@ An alien species can reach creator level tool use without evolving vocations.
 // An alien species will only have a written language have a tool use score of at least one.
 
 == Alien Artifacts
-The player can generate one artifact from TOYs if her species has a Tech or higher tool use score.
+The player can generate 1 artifact from TOYs if her species has a Tech or higher tool use score.
 The TOY will be a bespoke artifact tailored to the alien’s shape.
 If the alien persona has a vocation, the player generates artifacts from TOYs as per her vocation.
 All vocation based TOYs will be bespoke artifacts tailored to the alien’s shape.

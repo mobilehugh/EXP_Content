@@ -29,7 +29,7 @@ s|Sample Damage
 
 |<750
 |Piece of anything. 
-|Two uses then destroyed. 
+|2 uses then destroyed.
 
 s|Wate (kgs)
 s|Sample Size

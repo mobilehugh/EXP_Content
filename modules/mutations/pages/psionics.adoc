@@ -30,7 +30,7 @@ This mutant can absorb the assigned force that would typically damage her.
 A laser bolt will dissipate over her entire body, or radiation will pass through her unaffected.
 The damage type that the persona can absorb is determined on the Absorption Table.
 A persona with absorption can absorb an amount of damage equal to her HPM plus 3 HPS per experience level.
-Damage cannot be reduced to less than one point of damage.
+Damage cannot be reduced to less than 1 point of damage.
 For example, a level 4 persona with 30 HPS could absorb 42 HPS in damage.
 If the attack is supposed to inflict less than 42 HPS of damage, she will take no damage.
 Absorption cannot be used to gain HPS.
@@ -110,7 +110,7 @@ The death of the alien will severely impact the persona.
 If the persona could have prevented the death, she will be hit with severe attribute injuries.
 The sudden loss of counsel and telepathic connection crushes the persona’s INT and MND.
 The persona loses 1-6 (1d6) points on each attribute.
-If either attribute drops below zero, the persona is dead.
+If either attribute drops below 0, the persona is dead.
 The lowered attributes will return at 1 point per day.
 The player can add the point to either attribute until she heals.
 The persona can only get another animal attachment once her attributes have been restored.
@@ -219,7 +219,7 @@ For example, the aliens communicate using chemicals that the mutant cannot recre
 So she will understand but not be able to ‘smell’ back.
 
 If the mutant wants to speak the language permanently, she has a chance to add it to her repertoire.
-There is a chance equal to the persona’s (INT + Level) times three of adding the language.
+There is a chance equal to the persona’s (INT + Level) times 3 of adding the language.
 A 4th level mutant with a 10 INT would have a 42% chance to memorize the language.
 If the language is essential to the persona she can try again later.
 Later is determined by the referee.
@@ -249,7 +249,7 @@ After the first unit, the target can repel the attack by winning a psionic roll.
 The amount of damage inflicted increases by 1-4 (1d4) each unit the mutant attacks.
 
 For example, the target takes 1d4 damage in the first unit.
-If the target fails her next three psionic rolls, she will take more damage each combat unit.
+If the target fails her next 3 psionic rolls, she will take more damage each combat unit.
 Failing 3 rolls would result in 2d4 in the second unit, 3d4 in the third unit, and 4d4 in the fourth unit.
 The target will either break the freeze attack or die.
 When a target is killed by this attack, it is frozen solid.
@@ -258,7 +258,7 @@ A mutant with a 10 MND could inflict up to 50d4 in damage in her last unit.
 
 The benevolent cryokinesis acts like a psychic air conditioner.
 This cooling only works on organic consciousnesses and cannot cool a machine or robot.
-The mutant can comfortably cool organics in a four hex radius.
+The mutant can comfortably cool organics in a 4 hex radius.
 
 
 === Detections
@@ -271,8 +271,8 @@ Frequency:: As Needed
 Bonuses:: +20 on searching rolls
 
 Detections give the mutant a veritable suite of organic detectors.
-The persona gets one detection skill per 5 points of Awareness.
-If the persona has a 15 AWE, she will get three rolls on the below table.
+The persona gets 1 detection skill per 5 points of Awareness.
+If the persona has a 15 AWE, she will get 3 rolls on the below table.
 For example, she could detect water, poison and food.
 If the same detection is rolled twice, the detection mutation is twice as effective.
 A doubled detection has twice the range and doubles the effectiveness.
@@ -288,7 +288,7 @@ Yes, the is life, but not whether it is friend or foe.
 When used to locate resources, the resource must actually be present.
 For example, looking for pharma will only work if there is pharma to find.
 This is up to the referee.
-The chance of successfully sniffing out a resource is equal to three times the persona’s Awareness.
+The chance of successfully sniffing out a resource is equal to 3 times the persona’s Awareness.
 For example, a persona with 14 AWE has a 42% chance of finding safe water.
 The water must be within range, and the search will last about 1-12 (1d12) minutes.
 This mutation will also send personas in the correct general direction of the water.
@@ -406,7 +406,7 @@ For example, a mutant whose (MND + Level) equals 15 could browse the target mind
 At the end of this time, the target gets another psionic roll to block the intrusion.
 The mutant may “listen in” until a psionic roll throws her out.
 
-Once blocked from reading the target mind, the mutant must have one night of restful sleep before trying again.
+Once blocked from reading the target mind, the mutant must have 1 night of restful sleep before trying again.
 The mutant can only listen to once consciousness at a time.
 
 For the referee, this mutation can be a challenge.
@@ -472,7 +472,7 @@ Unwanted objects within the force field can easily be evicted by the mutant.
 To share the force field with other personas, they must be hugging the mutant before shell generation.
 If they let go, they will be ejected from the force field.
 
-The mutant requires one night of restful sleep to generate another force field.
+The mutant requires 1 night of restful sleep to generate another force field.
 
 === Gyrokinesis
 
@@ -539,7 +539,7 @@ Bonuses:: -25 on negotiation rolls
 
 This mutation has a self-explanatory title.
 There is a field of hostility that surrounds this mutant.
-The mutant has some strange psychic effect on all creatures within a one hex range, causing them to have hostile emotions towards the mutant.
+The mutant has some strange psychic effect on all creatures within a 1 hex range, causing them to have hostile emotions towards the mutant.
 This defect has no effect or inorganic personas.
 
 Outside of the radius of effect, personas have an indifferent attitude towards the mutant.
@@ -708,7 +708,7 @@ Inorganic sources use their INT score instead of their MND score for the psionic
 Once the knowledge is acquired, it is stored in an incorruptible state until the mutant transmits it or is dead.
 The mutant cannot use this information as part of her knowledge base.
 She can only transmit the data.
-The mutant can hold one discrete knowledge point per point of (INT + Level).
+The mutant can hold 1 discrete knowledge point per point of (INT + Level).
 
 Delivering the data is basically the reverse of acquiring the data.
 Organic personas must lose a psionic roll to have the knowledge inserted into their consciousness.
@@ -717,7 +717,7 @@ Inorganic personas automatically absorb the information.
 When infoporia has been blocked for the mutant, she must have one restful sleep before attempting transmission again.
 
 Once delivered, the information is gone.
-One source and one destination only, the mutant is not a knowledge photocopier.
+1 source and 1 destination only, the mutant is not a knowledge photocopier.
 Some mutants have transmitted knowledge into fellow personas for later retrieval and transmission.
 
 Infoporia cannot be used to reverse engineer what the target persona knows.
@@ -963,7 +963,7 @@ When mass mind is being used to amplify a mutation, no psionic roll is required.
 The mutant must choose from *one* of the following amplifications: double range, double intensity, or double damage.
 The target persona gets all the same psionic rolls to defend themselves as they usually would.
 
-Mass mind could redirect mental blast from one persona target to another target.
+Mass mind could redirect mental blast from 1 persona target to another target.
 The mutant deploying mental blast must win a psionic roll, or the mental blast is diverted.
 Mass mind could be used to double the damage of mental blast.
 There would be no psionic roll needed when improving mental blast.
@@ -1069,13 +1069,13 @@ When the target succumbs to mental control, touch is no longer required, and the
 The range of mental control is 1 kilometer per point of (MND + Level).
 Mental control does work across an atmosphere (from inatmo to exatmo).
 
-The mutant can mentally control more than one target at a time.
+The mutant can mentally control more than 1 target at a time.
 The total number of mentally controlled targets is limited by the mutant’s Intelligence and the target’s Intelligence.
 The combined Intelligence of controlled minds cannot exceed the mutant’s (INT + Level).
-A mutant whose (INT + Level) equals 12 could mentally control three personas with an INT of 4.
+A mutant whose (INT + Level) equals 12 could mentally control 3 personas with an INT of 4.
 If the target has a higher INT than the mutant, she can still control the persona, but not likely for long.
 
-The player with the mutant persona controls two personas.
+The player with the mutant persona controls 2 personas.
 The target’s eyes become the mutant’s eyes.
 The target’s mouth becomes the mutant’s mouth.
 The target’s consciousness is controlled by the mutant.
@@ -1205,7 +1205,7 @@ Peripheral muscles carry out are voluntary actions like walking or juggling.
 Peripheral muscles typically are found on the limbs and face of a target.
 The mutant does not have to identify the specific muscles and nerves of the target’s anatomy.
 The mutant need only describe what she wants to happen.
-For example: close the eyes, one leg to trip another, make a wing stop working, force a fin to flag about limply, push an undesired button, pull a trigger too soon, not throw a grenade, or change target.
+For example: close the eyes, 1 leg to trip another, make a wing stop working, force a fin to flag about limply, push an undesired button, pull a trigger too soon, not throw a grenade, or change target.
 
 Subtle Myokinesiss do not get a psionic roll and are automatically successful.
 For example, dropping a piece of paper or turning a doorknob the wrong way would automatically succeed.
@@ -1237,8 +1237,8 @@ Bonuses:: CR *3
 This deadly mutation allows the mutant to drain life from surrounding organic personas.
 Necroprojection instantly drains hit points from the target(s) caught in the area of effect.
 If a target persona fails her psionic roll all of her hit points are drained.
-Anthros Hit Points is reduced to negative one half her Hit Points Maximum.
-Aliens Hit Points is reduced to zero.
+Anthros Hit Points is reduced to negative 1/2 her Hit Points Maximum.
+Aliens Hit Points is reduced to 0.
 Robots are not affected by this mental attack.
 Jump to xref:uncombat:health.adoc#_death[Death,window=_blank, rel="noopener noreferrer"] for more info about persona death.
 
@@ -1254,7 +1254,7 @@ At second level it absorbs all life within 2 hexes, and so on.
 The mutant becomes more and more dangerous as her experience level increases.
 
 The mutant can deselect 1 consciousness per 3 levels of experience.
-At 6th level the mutant’s death field has an enormous 6 hex area of effect and she can spare two personas from death.
+At 6th level the mutant’s death field has an enormous 6 hex area of effect and she can spare 2 personas from death.
 
 The referee can modify the duration of unconsciousness to limit the power of this mutation.
 For example, the mutant may be unconscious for 1 hour per hit point.
@@ -1281,7 +1281,7 @@ Neuroemesis is a useful mutation for immobilizing everything within the area of 
 However, the nausea attack is not discerning, and every organic persona within range is affected.
 Both friends, and foes, are hit with the nausea effect.
 With experience, the mutant can exclude specific personas from being affected by their mutation.
-The mutant can protect one target per 2 EXPS levels from their neuroemesis mutation.
+The mutant can protect 1 target per 2 EXPS levels from their neuroemesis mutation.
 For example, a 4th level mutant could keep 2 of her expedition members from being affected by the repulsion field.
 This mutation was formerly known as Nausea Field Generation.
 
@@ -1296,7 +1296,7 @@ Bonuses:: CR *3, +40 for anaesthesia Rolls
 
 Neuronegation cuts the target off from all sensory input.
 The attack puts the target into a sensory anaesthetic state.,
-All six senses are shut down: vision, hearing, touch, smell, taste, and psionic.
+All 6 senses are shut down: vision, hearing, touch, smell, taste, and psionic.
 The target’s consciousness is totally cut off from both the physical and think space.
 The target must win a psionic roll or collapse into a blankly staring husk.
 
@@ -1327,7 +1327,7 @@ While phasing, the mutant cannot use any other psionic mutations.
 
 The phase mutation is used to move through obstructions on the physical plane.
 The mutant can pass through walls up to a distance of up to her movement rate.
-When phased the mutant’s movement rate is doubled for that one unit.
+When phased the mutant’s movement rate is doubled for that 1 unit.
 A mutant with a movement rate of 4 h/u could pass through 8 hexes (16 meters) of obstructions.
 The mutant can move downwards into the land or water.
 This mutation cannot be used to fly.
@@ -1492,7 +1492,7 @@ Partially transmuting a target into either a solid, liquid, or gas has equally h
 A random chunk of the target is violently transmuted into a homogenous rock, puddle or cloud.
 Every kilogram of the target transmuted inflicts damage on the target.
 For each kilogram transmuted, the target takes 1d8 hit points in damage.
-There is no difference in damage between the three phases.
+There is no difference in damage between the 3 phases.
 If a target loses 12kgs of wate to transmutation, she will lose 12d8 hit points.
 The target must lose a psionic roll before undergoing partial transmutation.
 
@@ -1578,7 +1578,7 @@ Benevolent physical effects can be increased by 4 times.
 
 If a killing poison was supposed to inflict 80 HPS in damage, it would only inflict 20 HPS.
 If the mutant is supposed to age a year, then she’ll only age 3 months.
-A paralysis effect would have one-quarter of the duration and one-quarter of the paralysis.
+A paralysis effect would have 1/4 of the duration and 1/4 of the paralysis.
 This mutant heals 4 times as fast and can extend a pharma’s effect be 4 times.
 These benefits are attributed to respiration control, blood re-routing, hormonal adjustments and alterations in enzyme production.
 
@@ -1818,7 +1818,7 @@ Duration:: 1 per (MND + Level)
 Frequency:: 1 per 3 (MND + Level)
 Bonuses:: None
 
-The six basic senses of this mutant can be ethereally projected beyond the mutant’s body.
+The 6 basic senses of this mutant can be ethereally projected beyond the mutant’s body.
 The senses projected are hearing, sight, smell, taste, touch and the sixth sense.
 So this mutant could project her sight into a locked room and search it.
 She could project her sixth sense and activate a psionic mutation from that location.
@@ -1826,12 +1826,12 @@ The projected senses can only observe.
 They cannot manipulate objects while being projected.
 
 While a sense is projected, the mutant can still use her local senses to their full capacity.
-So this mutant could have two sets of eyes watching.
-This could offer the player two Awareness rolls when her persona is searching an area.
+So this mutant could have 2 sets of eyes watching.
+This could offer the player 2 Awareness rolls when her persona is searching an area.
 
 Sight, hearing and sixth sense are still subject to damaging effects while in the projected form.
 A flash, boom or mental attack could respectively injure the mutant’s sight, hearing or consciousness.
-To project more than one sense at a time requires multiple uses of the mutation.
+To project more than 1 sense at a time requires multiple uses of the mutation.
 
 
 === Protection Shell
@@ -1886,9 +1886,9 @@ The defect renders the mutant mentally defenceless.
 A mutant with this serious defect will usually have a long history of impulsive purchases, personal dependencies, and cult affiliations.
 Psychopenia does not mean the mutant is lacking Intelligence, bravery or emotional weakness.
 
-The mutant’s Mind is not zero.
+The mutant’s Mind is not 0.
 The mutant still has a Mind for her other psionic mutations, vocations, or will power checks.
-However, when she is subject to a psionic attack, her effective MND is zero.
+However, when she is subject to a psionic attack, her effective MND is 0.
 
 
 === Purify
@@ -1930,7 +1930,7 @@ After the first unit, the target can repel the attack by winning a psionic roll.
 The amount of damage inflicted increases by 1-4 (1d4) each unit the mutant attacks.
 
 For example, the target takes 1d4 damage in the first unit.
-If the target fails her next three psionic rolls, she will take more damage each combat unit.
+If the target fails her next 3 psionic rolls, she will take more damage each combat unit.
 Failing 3 rolls would result in 2d4 in the second unit, 3d4 in the third unit, and 4d4 in the fourth unit.
 The target will either break the heating attack or die.
 When a target is killed by this attack, it is left a charred smoking husk.
@@ -1939,7 +1939,7 @@ A mutant with a 10 MND could inflict up to 50d4 in damage in the last unit.
 
 The benevolent pyrokinesis acts like a psychic space heater.
 This warming only works on organic consciousnesses and cannot overheat a machine or robot.
-The mutant can comfortably warm organic personas in a four hex radius.
+The mutant can comfortably warm organic personas in a 4 hex radius.
 
 === Restoration
 
@@ -2050,8 +2050,8 @@ The organic audio sensors of anthros and aliens will recover in 1-8 (1d8) hours.
 Inorganic audio sensors remain broken until repaired.
 Sonic attacks still inflict damage if the target is deafened.
 
-The mutant can protect one target per EXPS Level from being damaged within the radius of effect.
-So a 2nd level mutant could keep two of her team mates from being blasted by sonoclasia.
+The mutant can protect 1 target per EXPS Level from being damaged within the radius of effect.
+So a 2nd level mutant could keep 2 of her team mates from being blasted by sonoclasia.
 
 === Sonomimesis
 
@@ -2068,7 +2068,7 @@ Sounds can be memorized and replayed at a later date.
 If the player wins an Intelligence roll the mutant can replay an edited, or remixed, copy of the sound.
 The more difficult the sound the more difficult it is to memorize.
 
-Each reproduction can last up to two units per point of (MND + Level).
+Each reproduction can last up to 2 units per point of (MND + Level).
 A 3rd level mutant with a 10 MND could make a recording up to 26 units in length.
 The number of recordings stored cannot exceed the mutant’s (INT + Level).
 Extreme volume cannot be reproduced solely by the mutant.
@@ -2119,7 +2119,7 @@ The device must be within the range of this mutant’s defect.
 
 Weapons can be accidentally activated if the mutant is ambushed, injured, or otherwise stressed.
 When startled, every weapon within range of the mutant’s defect is checked for accidental discharge.
-If there are no stressors on the mutant, the referee may make one random check per day.
+If there are no stressors on the mutant, the referee may make 1 random check per day.
 Due to life experience, mutants with weapon discharging tend to avoid trigger weapons.
 
 .*Chance of Accidental Activation*
@@ -2169,7 +2169,7 @@ If an involuntary target is holding onto something, the referee may allow MND vs
 Sometimes players need to know how fast an object can move telekinetically.
 The speed of telekinesis depends on the mutant’s MND.
 The xref:anthros:movement_rate.adoc[Movement Rate,window=_blank, rel="noopener noreferrer"] table is consulted replacing Dexterity with the mutant’s Mind.
-So a persona with a 16 MND could move an object at six h/u.
+So a persona with a 16 MND could move an object at 6 h/u.
 
 Sometimes players want to weaponize telekinesis.
 There are many ways to weaponize this mutation.
@@ -2212,7 +2212,7 @@ This invisible articulation can do anything from back-scratching to weapon using
 The arm functions like a real arm, paw and all.
 The arm can lift an amount determined using the mutant’s MND for wate allowance (1/3 WA using MND).
 Even though the telekinetic arm is invisible, it must always be within line of sight.
-The mutant can only generate one telekinetic arm at a time.
+The mutant can only generate 1 telekinetic arm at a time.
 
 The telekinetic arm takes damage from Zone Attacks.
 A telekinetic arm will dissipate if it takes more than half the mutant’s HPM.
@@ -2238,7 +2238,7 @@ The mutant cannot carry much when telekinetically flying.
 Using the xref:uncombat:encumbrance.adoc#_encumbrance_levels[Encumbrance,window=_blank, rel="noopener noreferrer"] rules the mutant must have light encumbrance.
 If she is carrying too much junk, telekinetic flight does not work.
 
-Telekinetic flight allows her to move at speeds up to three times her movement rate.
+Telekinetic flight allows her to move at speeds up to 3 times her movement rate.
 The mutant uses her MND instead of her DEX on the xref:anthros:movement_rate.adoc[Movement Rate,window=_blank, rel="noopener noreferrer"] table.
 A persona with a 12 MND could telekinetically fly at 15 h/u.
 There is no official limit to the speed of telekinetic flight.
@@ -2307,7 +2307,7 @@ include::mutations:partial$psionic_teleportation_fail_web.adoc[]
 [horizontal]
 Category:: Combat, Uncombat
 Range:: 4h per (MND + Level)
-Duration:: One Use
+Duration:: 1 Use
 Frequency:: As Needed
 Bonuses:: CR +5, +42 on learning rolls
 
@@ -2332,7 +2332,7 @@ Thought imitation applies specifically to mental attacks.
 Thought imitation does not work for mutations like teleportation or time stop.
 
 Using thought imitation to predict a persona’s actions is a complicated and time-consuming activity.
-The mutant must study the target for at least one minute per point of the target’s INT.
+The mutant must study the target for at least 1 minute per point of the target’s INT.
 Therefore a target with 12 Intelligence would require 12 minutes of observation.
 After observation, the target must fail a psionic roll.
 If the target wins her psionic roll, the observation period has failed.
@@ -2389,7 +2389,7 @@ Time stop allows the mutant to stack any other psionic mutations that she has.
 
 Gravity does not function during time stop.
 However, the mutant still has limits to how much she can lift.
-She can lift ten times her xref:uncombat:encumbrance.adoc[Wate Allowance,window=_blank, rel="noopener noreferrer"] using her MND instead of STR.
+She can lift 10 times her xref:uncombat:encumbrance.adoc[Wate Allowance,window=_blank, rel="noopener noreferrer"] using her MND instead of STR.
 
 The range of the time stop is as far as the mutant can think.
 However, the effective range of time stop is how far the mutant can move.
@@ -2436,7 +2436,7 @@ There must be remaining uses for total recuperation to automatically activate.
 
 Total recuperation also decreases ageing effects.
 This includes ageing attacks and natural ageing effects.
-The mutation will quarter the effects (4 years is only one year) of ageing.
+The mutation will quarter the effects (4 years is only 1 year) of ageing.
 The mutant must be at full HPS to use total recuperation versus ageing.
 
 === Ventriloquism

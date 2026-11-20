@@ -23,7 +23,7 @@ For more info jump to xref:combat:attack_table_details.adoc[Attack Tables,window
 == Skilled Bonus
 The Skilled Bonus (Skilled) is for weapons in which the persona is skilled.
 The player adds the Skilled to her attack roll when her persona uses a weapon in which she is proficient.
-The Skilled Bonus has two main components: Attributes Bonus and Level bonus.
+The Skilled Bonus has 2 main components: Attributes Bonus and Level bonus.
 The persona’s Skilled increases as the persona gains EXPS levels.
 
 include::combat:partial$attack_table_anthro_skilled_total.adoc[]
@@ -42,7 +42,7 @@ include::combat:partial$attack_table_anthro_skilled_attribute_component.adoc[]
 The persona’s vocation determines her level bonus.
 Each vocation has its level bonus.
 The level bonus is added per level of experience that the persona has.
-Adding the level component to the skilled bonus at first level is a matter to be decided by the table.
+Adding the level component to the Skilled Bonus at first level is a matter to be decided by the table.
 
 include::combat:partial$attack_table_anthro_skilled_level_component.adoc[]
 

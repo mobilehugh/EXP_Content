@@ -42,8 +42,8 @@ The Taxonomy interest could help with an alien identification task.
 The Research interest could help with a laboratory task.
 The Culture interest could help with a linguistic task.
 
-At startup, the persona gets one interest per three points of Intelligence score.
-A persona with a 12 INT would get four rolls on the Biologist Interest Table.
+At startup, the persona gets 1 interest per 3 points of Intelligence score.
+A persona with a 12 INT would get 4 rolls on the Biologist Interest Table.
 After startup the persona earns another interest with each new experience level.
 The player can choose to roll on the Biologist Interest Table, or choose a specific interest.
 
@@ -57,9 +57,9 @@ Biologist expertise is grouped by interest.
 A taxonomy interest could come with expertise in: burrowers, hivers or herbivores.
 A culture interest could come with expertise in: language, religion or politics
 
-At startup the player gets one areas of expertise per interest.
+At startup the player gets 1 areas of expertise per interest.
 So a biologist with taxonomy 2 and culture 1 would get 2 taxonomy expertise and 1 culture expertise.
-After start up the persona gets one new expertise per experience level.
+After start up the persona gets 1 new expertise per experience level.
 While it is recommended to have a persona’s expertise limited to her interests, it is not essential.
 For example, a biologist with taxonomy interest and no taxonomy expertise seems odd.
 
@@ -93,7 +93,7 @@ include::vocations:partial$biologist_expert_cultural.adoc[]
 
 == Gifts
 Biologist gifts are tasks that the player does not need to make a task roll for.
-The persona gets one gift at first level and more difficult ones are added at prescribed levels.
+The persona gets 1 gift at first level and more difficult ones are added at prescribed levels.
 
 include::vocations:partial$biologist_gifts_web.adoc[]
 

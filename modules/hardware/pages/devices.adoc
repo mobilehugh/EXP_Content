@@ -65,8 +65,8 @@ The devices all operate on unknown electrochemical and mechanical principles tha
 All absorbers have the same specifications and abilities.
 They eliminate the substance in question in a non-violent manner.
 
-They have a three hex radius of effect in which the toxic material will have absolutely no effect.
-For instance, a radiation absorber would reduce the effects of radiation __within__ the three hex area of effect for the duration of the battery set.
+They have a 3 hex radius of effect in which the toxic material will have absolutely no effect.
+For instance, a radiation absorber would reduce the effects of radiation __within__ the 3 hex area of effect for the duration of the battery set.
 The absorber will also clean up an area around itself by drawing in and neutralizing the offending substance.
 The absorbers reduce the duration and area of effect to 1/4 of expected.
 Substances like smoke, radiation and gas clouds drop to 1/4 of their area of effect and duration.
@@ -78,16 +78,16 @@ include::hardware:partial$absorber_types.adoc[]
 
 [horizontal]
 Vocation:: None
-Duration:: one canister
+Duration:: 1 canister
 Wate:: 500gms
 EXPS:: 600
 Value:: Special
 
 The aerosol regulator has no false advertisements in its title. 
 It simply regulates aerosols.
-The cap-like device snaps onto an aerosol, restraining its all-in-one-use nature.
+The cap-like device snaps onto an aerosol, restraining its all-in-1-use nature.
 The aerosol regulator will yield 1-4 additional uses for an aerosol.
-Aerosols typically only yield one use.
+Aerosols typically only yield 1 use.
 The persona cannot remove the aerosol regulator until she expends all charges.
 The device can also moderate the effect of any uncombat aerosol.
 Paint aerosols will act like ordinary paint canisters, and foam aerosols will dispense like shaving cream.
@@ -96,7 +96,7 @@ Paint aerosols will act like ordinary paint canisters, and foam aerosols will di
 
 [horizontal]
 Vocation:: Mercenary, Spie
-Duration:: One Use
+Duration:: 1 Use
 Wate:: Doubled
 EXPS:: 100
 Value:: Special
@@ -136,7 +136,7 @@ Wate:: 2.5kg
 EXPS:: 250
 Value:: 500000
 
-The antigrav beam generates anomalous gravity in a one hex area of effect, up to 5 hexes away.
+The antigrav beam generates anomalous gravity in a 1 hex area of effect, up to 5 hexes away.
 The beam delicately lifts objects into the air and gently sets them back down.
 There is no way to weaponize this device or lift involuntary personas. 
 The antigrav beam is for lifting large or delicate objects to ease repair.
@@ -179,7 +179,7 @@ include::ROOT:partial$articulate.adoc[]
 
 Antigrav boots are the typical antigrav unit found in most Sciency Fiction milieus.
 Antigrav boots allow the wearer to fly about without the worries of gravity.
-The gravity repulsion unit can operate for ten days per battery set.
+The gravity repulsion unit can operate for 10 days per battery set.
 The antigrav boots can come in a belt form which has a wate of 16 kg.
 The antigrav boots will work on personas up to 150 kg in wate.
 Either antigrav unit (boots or belt) can travel at up to 25 h/u, hover, fly upside down, fly sideways, etc.
@@ -230,7 +230,7 @@ The pushcart must be under the object, but it need not be centred to lift.
 The barrow will raise the object about 20 cm off the ground.
 The device has safety features that prevent falling damage.
 While on the barrow, balance is unimportant since there is no gravity to tip the object over.
-The pushcart’s max speed is five h/u.
+The pushcart’s max speed is 5 h/u.
 
 === Attractors 
 
@@ -279,7 +279,7 @@ This device does not attract psionic communications, sign language, the written 
 
 In a major urban center, the energy load on the attractor can become dangerous. 
 When used in any dense communication environment, the artifact will seep radiation.
-Personas within five hexes must win a radiation roll versus intensity 4-24 (4d6) radiation.
+Personas within 5 hexes must win a radiation roll versus intensity 4-24 (4d6) radiation.
 The radius of the comms attractor is 1 kilometre, but story trumps this range.
 
 ==== Energy
@@ -292,7 +292,7 @@ Recharging batteries from an energy attractor is a hard (84) mechanic task.
 
 In an energy-rich environment, the load on the attractor can become very high. 
 This overload may cause the attractor to seep radiation.
-Personas within five hexes must win a radiation roll versus intensity 4-24 (4d6) radiation.
+Personas within 5 hexes must win a radiation roll versus intensity 4-24 (4d6) radiation.
 
 The energy attractor has a range of 10 hexes, a value of 100000 and is a mechanic artifact.
 
@@ -436,7 +436,7 @@ The persona can then use the output to power another artifact.
 The battery slot allows the artifact to get power from any battery type. 
 The battery can hold 3-18 (3d6) batteries of any type.
 
-A one battery lazer pistol attached to a battery slot holding eight batteries could shoot eight magazines of lazer bolts in succession.
+A 1 battery lazer pistol attached to a battery slot holding 8 batteries could shoot 8 magazines of lazer bolts in succession.
 A mechanic is required to connect the battery slot to an artifact.
 Connecting a battery slot to an artifact is a normal (42) task roll.
 
@@ -485,7 +485,7 @@ A datalyzers (Sotto - 2) and hobbots (type H) *cannot* be turned off with a robo
 Neutralization is not permanent, and the robot will reactivate in 3-300 (3d100) units. 
 In a  uncombat neutralization, the robot will reactivate in 1-10 (1d10) minutes.
 Using the robot neutralizer on a shutdown robot will cause it to reactivate immediately.
-So turning one robot off may turn another robot on within the three hex area of effect.
+So turning 1 robot off may turn another robot on within the 3 hex area of effect.
 
 Mechanics will earn a bonus of +42 on any robot-related PT rolls with this artifact.
 
@@ -509,7 +509,7 @@ Value:: 50000
 include::ROOT:partial$articulate.adoc[]
 
 The canceller safely disperses matter into its useless components.
-A canceller can disperse one hex of matter per use.
+A canceller can disperse 1 hex of matter per use.
 The wate of the dispersed substance is not crucial because personas are usually trying to pass by a barrier.
 The device has industrial safeguards which only allow the canceller to disperse homogeneous or simple substances.
 The canceller does not affect complex objects such as robots or organics.
@@ -528,7 +528,7 @@ Value:: 100000
 The climate band is a uncombat, meteorologic force field that defends the persona against the weather.
 The climate band creates a form-fitting force field that protects the persona from temperatures between -50°C and +50°C.
 The climate band will counter any meteorological conditions such as wind chill, precipitation, hypothermia, heatstroke, sand storms, etc.
-A battery set will last five days.
+A battery set will last 5 days.
 This force field can only operate in inatmo.
 The climate band does not block poison gas, radiation, lightning strikes or weaponized attacks.
 
@@ -722,7 +722,7 @@ Lazer::
 Line of site communication only. 
 Interception is only possible by physically diverting the lazer.
 Combining this with dental communicators has strong comedy potential.
-Lazer comms increase the device’s value by ten times.
+Lazer comms increase the device’s value by 10 times.
 
 Telepathic::
 Users can pass their thoughts to each other through the thinkspace.
@@ -802,15 +802,15 @@ The persona contributes her data into the vocation computer as others have befor
 Vocation computers aid the player when making task rolls.
 The bonus is a random 3-30 (3d10) on task rolls.
 The more experienced the persona, the better she is at using her vocation computer.
-Players get one bonus roll per three EXPS levels.
+Players get 1 bonus roll per 3 EXPS levels.
 The player gets to choose the highest roll for her bonus.
-So a 6th level persona would get three rolls of 3-30 picking the best roll.
+So a 6th level persona would get 3 rolls of 3-30 picking the best roll.
 
 include::hardware:partial$vocation_computer_type.adoc[]
 
 ==== AI Computers
 Autonomous Intelligence (AI) is a highly interactive artificial Intelligence with both consciousness and immeasurable computational power.
-Artificial general Intelligence is one of mundane terra’s current obsessions.
+Artificial general Intelligence is 1 of mundane terra’s current obsessions.
 In EXP, AI refers to autonomous Intelligence or aware Intelligence, and calling it artificial may piss it off. 
 An AI  computer will almost certainly become a referee persona with emotions, personality and goals.
 To fabricate an AI, jump to xref:referee_personas:ai_rp.adoc[Autonomous Intelligence,window=_blank, rel="noopener noreferrer"].
@@ -956,7 +956,7 @@ The final product has a wate between 1 and 10 grams (1d10).
 
 A dehydrator requires a power source. 
 Batteries are not enough. 
-While dehydrating, the machine bathes a ten hex radius with 1-12 (1d12) intensity radiation.
+While dehydrating, the machine bathes a 10 hex radius with 1-12 (1d12) intensity radiation.
 A power failure during dehydration will destroy the specimen in the most disgusting manner possible.
 
 There is a 90% chance that the dehydration will be successful.
@@ -974,7 +974,7 @@ Dehydration costs personas 1 point of Mind.
 The MND penalty applies every time the persona dehydrates.
 
 The device can convert up to 750 kg of matter at once.
-Each kilogram takes one minute to dehydrate into gray powder.
+Each kilogram takes 1 minute to dehydrate into gray powder.
 The dehydrator must cool down for 1 hour per kilogram dehydrated.
 
 Mixing bags of dehydrated grey powder does not mix up the objects.
@@ -1061,7 +1061,7 @@ The ear filter fits snugly in the ear and does not impair hearing at all.
 Any anthro and some aliens can use the ear filters.
 The filter changes its structure when subject to any deafening attack.
 The spongy ear filter will defend against both the decibels and the vibrations of sonic attacks.
-The filter negates one attack and sacrifices itself.
+The filter negates 1 attack and sacrifices itself.
 Ear filters come in pairs of 1-12 (1d12).
 
 Eye Filters::
@@ -1113,12 +1113,12 @@ The glow pro starts to warm the area when removed from its storage bag.
 A glow pro can be re-bagged and re-used later.
 This artifact does not require oxygen to burn and even works exatmo.
 A glow pro does not off-gas and will not start a larger fire.
-The glow pro will burn for five days in total.
+The glow pro will burn for 5 days in total.
 A glow pro is worth 1000 and comes in lots of 1-6 (1d6).
 
 Synthex::
 The synthex fire log is the stealth heater of the fire log industry.
-It gives off no heat signature or light and warms all personas within two hexes.
+It gives off no heat signature or light and warms all personas within 2 hexes.
 The synthex fire-less log emits interference patterns that vibrate nearby molecules.
 All personas in the area of effect are kept nice and warm. 
 This artifact does not require oxygen to burn and even works exatmo.
@@ -1155,7 +1155,7 @@ Value:: 750
 
 A generator converts fuel energy to battery energy.
 A generator can be a power source for larger artifacts.
-A generator will only work with one type of fuel.
+A generator will only work with 1 type of fuel.
 A mechanic is required to connect the generator to an artifact. 
 Power source connection is an easy (24) task roll.
 A mechanic is required to adapt the generator to charge a battery type. 
@@ -1173,7 +1173,7 @@ Wate:: 200gms
 EXPS:: 103
 Value:: 2000
 
-There are two different types of hooks destructive and non-destructive.
+There are 2 different types of hooks destructive and non-destructive.
 The hooks come with handles and attach themselves to any surface.
 They are most commonly used to climb walls.
 A mechanic can convert hooks to grapples with a cord and a job rifle.
@@ -1333,7 +1333,7 @@ A Kirlian talisman is a potent weapon against its opposite sect.
 A knite talisman can injure an anti-knite and vice versa.
 A successful attack roll destroys the talisman and reduces the Knite’s Mind by 1-4 (1d4) points.
 While Mind loss is temporary, if the Knite’s MND is less than 18, she loses all her Knite abilities.
-The knite, or anti-knite, regains one point of Mind per night of restful sleep.
+The knite, or anti-knite, regains 1 point of Mind per night of restful sleep.
 
 Knites earn a bonus of 15 on psionic-related rolls when wearing their talisman.
 This bonus only works if the talisman is openly displayed.
@@ -1389,8 +1389,8 @@ For normal illumination purposes, the light has a range and terminus diameter.
 The user can dial down the terminus diameter to half a hex in diameter. 
 The range of regular illumination is also the range of the light’s unique property.
 The width of the light beam spreads as it gets further away from the source.
-The beam width will be less than a hex wide at the source and will increase in width by one hex per 16 hexes of range, with terminus widths of 1, 2, 4, or 8 hexes.
-A wall that is 64 hexes away has a circle of light two hexes in radius  (4 hexes in diameter).
+The beam width will be less than a hex wide at the source and will increase in width by 1 hex per 16 hexes of range, with terminus widths of 1, 2, 4, or 8 hexes.
+A wall that is 64 hexes away has a circle of light 2 hexes in radius  (4 hexes in diameter).
 
 include::hardware:partial$light_artifact_power.adoc[]
 
@@ -1405,7 +1405,7 @@ Wate:: 1kg
 EXPS:: 200
 Value:: Special
 
-These locks are padlocks designed for one persona’s personal use.
+These locks are padlocks designed for 1 persona’s personal use.
 The device can be attached to whatever the persona desires.
 Mundane locks require a latch to lock the object in question. 
 Autonomous locks can be placed on an object, locking, protecting and hiding the valuable.
@@ -1500,12 +1500,12 @@ The debris field or building collapse would be a different story.
 In short, this is the safest, most destructive, commercial explosive made.
 Plastix is nearly impossible to weaponize, but it often gives a tactical advantage.
 
-One kg of plastix will blow one hex-sized hole in any civilian architectural structure.
+1 kg of plastix will blow 1 hex-sized hole in any civilian architectural structure.
 Flying debris can be a problem for those caught on the wrong side of a charge (say inside a room).
 Technically the plastix explosive imparts 1000 HPS of damage.
 A mercenary or mechanic with demolitions skill must apply the plastix to inflict full damage.
 All other personas applying the plastix will only inflict 100-600 (1d6 * 100) hit points of damages.
-If 1000 HPS equals a one hex hole, less damage will produce a proportionally smaller hole.
+If 1000 HPS equals a 1 hex hole, less damage will produce a proportionally smaller hole.
 
 To properly apply plastix explosive requires an easy (24) mechanic task roll.
 Detonation of plastix explosives is easy to achieve.
@@ -1630,7 +1630,7 @@ They also require a reasonably smooth surface.
 They work best on proper roads in civilized areas.
 
 This device only works in pairs (not impaired).
-One cannot skate with just one rocket rollerskate. 
+One cannot skate with just 1 rocket rollerskate.
 The plural is essential.
 
 The skates are fast and move at 31 to 50 (1d20 + 30) hexes per unit.
@@ -1739,7 +1739,7 @@ So a multi-scope could be a climate and darkness scope.
 Each scope gets another roll on the attack rolls bonus section. 
 So multi-scope made up of +60 climate, and +90 Darkness would have a +150 attack bonus.
 It would also attack cleanly in any weather or darkness.
-Each visit to multi-scope adds another scope to a maximum of three scopes and a maximum attack roll bonus of +250.
+Each visit to multi-scope adds another scope to a maximum of 3 scopes and a maximum attack roll bonus of +250.
 The value of a multi-scope is the combined value of the scopes times 10. 
 
 ==== Pacifist
@@ -1821,7 +1821,7 @@ This device does not permanently change the persona’s Dexterity attribute.
 Once removed or damaged, the persona returns to her normal DEX attribute value.
 The suit is delicate and is damaged every time the persona is damaged. 
 For gameplay, the suit usually starts with 1000 hit points.
-Once reduced to zero HPS, it stops conducting. 
+Once reduced to 0 HPS, it stops conducting.
 
 === Materiel 
 
@@ -1839,7 +1839,7 @@ However, some materiel is precious.
 
 It is also reasonable to have materiel align with existing expedition artifacts.
 For example, a player may roll extra batteries for her lazer pistol.
-Or one persona may have the software for another persona’s vocation computer.
+Or 1 persona may have the software for another persona’s vocation computer.
 
 Take a jump over to xref:hardware:materiel.adoc[Materiel,window=_blank, rel="noopener noreferrer"].
 
@@ -1876,7 +1876,7 @@ EXPS:: 42
 Value:: Special
 
 A tesseract box is a multi-roomed artifact that appears small and mundane on its outside.
-A tesseract box only occupies one hex of physical space.
+A tesseract box only occupies 1 hex of physical space.
 On the inside, the tesseract box can contain 100s of medium-sized rooms. 
 A tesseract box is a campaign-altering artifact.
 It would not be uncommon to find referee personas inside the tesseract box. 
@@ -2001,7 +2001,7 @@ UV visual aids have a value of 500.
 
 X-Ray:: 
 The wearer can adjust the x-ray goggles to see inside things at various depths.
-They have a range of 1 hex and can penetrate up to one hex of hull metal.
+They have a range of 1 hex and can penetrate up to 1 hex of hull metal.
 These goggles are detectable as radioactive by canines.
 Xray goggles have a value of 15000.
 

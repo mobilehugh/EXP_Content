@@ -5,7 +5,7 @@ Some peripherals are entirely incongruous to the robot type, which is fine.
 Why wouldn’t a combat robot have a tea service built-in?
 Peripherals are not malfunctioning parts but baked in robot-controlled devices.
 
-Every robot gets one roll on the Basic Peripherals Table.
+Every robot gets 1 roll on the Basic Peripherals Table.
 A percentage value indicates the chance of an extra roll.
 Some robots do not have peripherals, which is made clear on their fabrication info.
 

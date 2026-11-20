@@ -41,7 +41,7 @@ include::ROOT:partial$articulate.adoc[]
 
 == 4D2 Mechanic Refresher
 
-.*Four steps of the 4D2 Mechanic*
+.*4 steps of the 4D2 Mechanic*
 . A player rolls dice to get a  *Number*
 . That  *Number* yields an *Outcome*
 . The   *Outcome* produces a *Descriptor*
@@ -146,23 +146,23 @@ When shooting a pistol, the player could use a pistol skill as a shift.
 A glorious description of throwing a grenade can earn a shift.
 
 === Shift Maximums
-The maximum number of shifts a player can add to her Outcome is three.
+The maximum number of shifts a player can add to her Outcome is 3.
 The maximum Outcome is +10, which is an Immaculate Success.
 A roll of 11, 12 or even 13 becomes +10.
 
 === Shift Penalties
 Shifts cannot be negative.
-The lowest a player’s shift can become is zero.
+The lowest a player’s shift can become is 0.
 Penalties can only take away a player’s shift.
 If a persona wanted to use her DEX as a shift, but her hands were tied, she could not use her DEX shift. 
 However, another persona in the same situation without a DEX attribute would not suffer a -1 shift.
 
 === Shifts and Skills
 When the player rolls a high number, her persona can gain skills.
-A high number is one pathway to earning new skills and strengthening the persona.
+A high number is 1 pathway to earning new skills and strengthening the persona.
 Players cannot use shifts to gain skills. 
 Using shifts to score new skills can lead to rapidly overpowered personas. 
-A +1 shift increases the chance of the persona gaining a new skill three times.
+A +1 shift increases the chance of the persona gaining a new skill 3 times.
 
 A shift only moves the outcome and not the descriptor.
 For example, a player rolls Masterful Success (+6) when remodulating a tensor refactoring core.
@@ -178,7 +178,7 @@ A Shift of +2 would move a Solid Success (+2) to an Outstanding Success (+4).
 If her opponent has Pistol 2, then the competing Shifts would cancel out.
 
 A persona is repairing an antigrav modulator on a skimmer bike.
-She has engine skill one and an INT attribute.
+She has engine skill 1 and an INT attribute.
 The player casts a great yarn about using a piece of wire to reverse the polarity.
 She can shift her 4D2 Outcome by +3 (skill, attribute, good story).
 The shift of +3 moves her Minor Failure (-1) to a Solid Success (+2).
@@ -186,7 +186,7 @@ The shift of +3 moves her Minor Failure (-1) to a Solid Success (+2).
 A persona is play wrestling in the mud pit of a bar.
 She has no wrestling skills.
 She can use her STR and DEX attributes.
-She can shift her 4D2 Outcome by +2 (two attributes).
+She can shift her 4D2 Outcome by +2 (2 attributes).
 The shift of +2 moves her Magnificent Success (+8) to an Immaculate Success (+10).
 The persona earns the accolades of the bar crowd (Outcome = +10) but does not earn a wrestling skill.
 
@@ -197,7 +197,7 @@ If a roll has been shifted or folded to +10 or +9 a skill is not earned.
 
 The new skill should be related to the roll being made.
 If the persona is shooting a rifle she can add a rifle skill to her persona record.
-The next time she is shooting a rifle she can use a shift of plus one. 
+The next time she is shooting a rifle she can use a shift of plus 1.
 
 === Skill Learning
 .Number = Immaculate (+10) or Wondrous (+9) success

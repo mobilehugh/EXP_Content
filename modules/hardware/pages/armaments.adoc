@@ -34,7 +34,7 @@ Jump here for the gory details of xref:combat:attack_types.adoc[Attack Types,win
 
 === Number
 Armaments are usually single weapons.
-If more than one unit is possible it is described in the armament description.
+If more than 1 unit is possible it is described in the armament description.
 
 === Description
 Armaments usually have distinct descriptions based on their use case. 
@@ -43,7 +43,15 @@ To modify a toys’ description jump to xref:hardware:appearance.adoc[Appearance
 === Parameters
 The details for the Roll-Playing system and tactical combat.
 
-==== Range 
+==== Reach
+Strike armaments use Reach rather than Range.
+Reach is the maximum striking distance in hexes: 0 means the same hex, 1 means adjacent, and 2 means 2 hexes away.
+Listed weapon Reach assumes a Medium anthro and does not add to natural Reach.
+Weapons with Strike and Fling modes use Reach when striking and Range when thrown.
+An enhanced mundane weapon retains its base weapon’s Reach and minimum-distance restrictions unless stated otherwise.
+See xref:combat:attack_types.adoc#_reach[Reach] for counting hexes and weapon restrictions.
+
+==== Range
 The range is how far the weapon can shoot and retain its accuracy. 
 The range is a hardware limitation and does not reflect the skills of the persona in any way. 
 The weapon’s range is limited by wavering bullets, dissipating charges, or decaying material.
@@ -80,7 +88,7 @@ The value indicates the MSRP (Money Suggested for role-playing) of the miscellan
 === Arm of Ephro 
 [horizontal]
 Type:: Strike
-Range:: Adjacent Hex
+Reach:: 1
 Damage:: 4-24 (4d6)
 Duration:: Until Destroyed
 Wate:: 30kg
@@ -96,7 +104,7 @@ Whenever the persona gets angry or raises her voice, a 2% chance of the arm will
 There is no method of communication with this robot. 
 It only expresses its love by attacking the persona’s enemies.
 During combat, the arm fights in front of its owner and increases her DEF by 75.
-The arm attacks twice per unit, has a DEF of 900, and can move at ten h/u (via anti-gray).
+The arm attacks twice per unit, has a DEF of 900, and can move at 10 h/u (via anti-gray).
 Unlike other robots, this one is destroyed when it reaches 0 HPS,
 The arm of ephro will start with 10-100 (10d10) Hit Points.
 
@@ -112,7 +120,7 @@ Value:: 50000000000
 
 The black hole is an unorthodox but deadly weapon.
 When activated appears as a black space.
-Anything that wanders within one hex of the active black hole also wanders into oblivion.
+Anything that wanders within 1 hex of the active black hole also wanders into oblivion.
 Any artifacts, personas, projectiles that pass through the field disappear in a spiralling light show. 
 While this process is not instantaneous, it cannot be stopped and is absolutely final.
 Anything lost to a black hole is lost from both time and space and can never be retrieved.
@@ -129,7 +137,7 @@ include::ROOT:partial$articulate.adoc[]
 
 An activated black hole does not suck the air out of a room. 
 An activated black hole does pull everything within light-years towards it.
-An activated black hole does not generate darkness beyond its one hex radius.
+An activated black hole does not generate darkness beyond its 1 hex radius.
 There is some debate whether this weapon is a black hole at all. 
 Maybe it is a tiny black hole?
 Maybe it is a field gravity anomaly that behaves like a black hole?
@@ -147,7 +155,7 @@ It is an off/on button and not an on/off button.
 The black hole can only move by remote control in its inactive gravulator form.
 The sphere of darkness must be properly, never safely, positioned before being activated.
 The remote control for the gravulator can store five moves simultaneously and is very irritating to maneuver.
-The gravulator moves at two h/u and can make 42 moves before replacing the battery.
+The gravulator moves at 2 h/u and can make 42 moves before replacing the battery.
 Throwing the remote control into the black hole automatically deactivates it, and it returns to its gravulator state.
 The black hole will not consume its remote control, but it will finish consuming whatever else is on the menu.
 
@@ -167,7 +175,7 @@ It will eat all it encounters, disappearing in the blackness of space, looking f
 Type:: Shoot
 Range:: 20h (-200)
 Damage:: 4-24 (4d6)
-Duration:: One Shot
+Duration:: 1 Shot
 Wate:: 0.1 kg
 EXPS:: 200
 Value:: 700
@@ -180,6 +188,7 @@ This pen is mightier than a sword.
 === Compucrafted Weapon 
 [horizontal]
 Type:: Strike or Fling
+Reach:: As base Strike weapon
 Range:: Same
 Damage:: Special
 Duration:: Until Destroyed
@@ -221,7 +230,7 @@ Value:: 220000
 
 The comm blaster destroys a specific radio transceiver by delivering a pulse of energy.
 The target radio explodes like an acoustic fragmentation grenade.
-The explosion has a two hex radius area of effect.
+The explosion has a 2 hex radius area of effect.
 This counter-insurgency device is for destroying active threats or disposing of compromised equipment.
 The comm blaster does not work on lazer communicators.
 Regardless of the communicator size, the area of effect and damage is the same.
@@ -246,7 +255,7 @@ What defence does a referee’s scenario have against a cutting lazer (other tha
 Nothing.
 
 For uncombat cutting, the lazer cutter works as expected.
-The lazer cannot cut more than four hexes in length per unit (a generous hex-sized opening).
+The lazer cannot cut more than 4 hexes in length per unit (a generous hex-sized opening).
 The cutting lazer has 20 units of power, and every unit of cutting uses 1-12 (1d12) units of energy.
 
 Weaponizing a cutting lazer first requires an attack roll win.
@@ -262,7 +271,7 @@ A cutting lazer will inflict 100 to 600 (10d6 times 10) HPS of damage to robots 
 === Displacement Gloves 
 [horizontal]
 Type:: Strike
-Range:: Special
+Reach:: Special
 Damage:: 1-4 (1d4)
 Duration:: 20 hits per Battery
 Wate:: 0.4 kg
@@ -287,6 +296,7 @@ The bonus is primarily due to the target’s confusion rather than increased com
 === Electro Weapon
 [horizontal]
 Type:: Strike or Fling
+Reach:: As base Strike weapon
 Range:: Special 
 Damage:: Special
 Duration:: 30 hits per Battery
@@ -313,7 +323,7 @@ include::hardware:partial$electro_weapons.adoc[]
 === Expando Dagger 
 [horizontal]
 Type:: Strike
-Range:: Nil
+Reach:: 0
 Damage:: 4-24 (4d6)
 Duration:: Until Destroyed
 Wate:: 0.75
@@ -326,7 +336,7 @@ The player can choose to have the weapon attack as a regular dagger (1d4) or act
 The expando action fires out barbs and hooks when the dagger detects a target hit.
 This shredding action accounts for the additional damage.
 
-A skilled user has three options after the expando barbs are activated. 
+A skilled user has 3 options after the expando barbs are activated.
 *The first option* to have the barbs retract, allowing for another attack in the next unit. 
 *The second option* is to have the dagger remain stuck in the target. 
 The barbs and hooks undulate, causing extreme pain and ongoing damage.
@@ -350,7 +360,7 @@ Value:: 110
 The flare gun is a pistol-shaped survival device that fires a geostationary flare into the sky.
 A dial on the flare gun determines the height of the flare.
 The flare can fire horizontally to light up an area far from the expedition.
-A five hex radius below the flare lights up like daylight.
+A 5 hex radius below the flare lights up like daylight.
 The radius of effect is the same regardless of how high the flare above the ground.
 Once aloft, the flare is unaffected by regular winds and shines through cloud and rain.
 The flare and ground effect last until the firer turns it off.
@@ -362,7 +372,7 @@ A flare gun is a single magazine weapon and can only attack every other unit.
 
 A successful attack roll inflicts 2-20 (2d10) hit points of damage.
 Each hit point of damage indicates a 5% chance the flare will adhere and burn the target.
-So a flare that inflicts ten hit points in damage has a 50% chance of sticking to the target.
+So a flare that inflicts 10 hit points in damage has a 50% chance of sticking to the target.
 While stuck, the flame burns brightly, both revealing the target and inflicting additional damage.
 Each unit that the flare is attached inflicts an additional 1-6 (1d6) hit points of damage.
 
@@ -373,7 +383,7 @@ The flare is not designed to burn flesh or metal and extinguishes itself in 1-20
 Type:: Special
 Range:: Special
 Damage:: 100-1200 (1d12 * 100)
-Duration:: One Use
+Duration:: 1 Use
 Wate:: 0.5 kg
 EXPS:: 650
 Value:: 1500000
@@ -447,7 +457,7 @@ Value:: 4500
 
 The grenade launcher is a pump-activated, magnetically powered grenade launcher.
 The launcher can be mounted on a rifle or held like a pistol for the same effect.
-The grenade launcher can hold three grenades at once.
+The grenade launcher can hold 3 grenades at once.
 The grenade must have a wate between 0.5 kg and 2.0 kg.
 The grenade wate requirement becomes less stringent as the grenade launcher increases in tech level.
 The grenades load unarmed, and they auto-trigger and detonate upon firing.
@@ -458,6 +468,7 @@ This weapon is pump-activated and requires batteries to function.
 === Inertia Weapon
 [horizontal]
 Type:: Strike or Fling
+Reach:: As base Strike weapon
 Range:: Special
 Damage:: 10 + Special
 Duration:: 30 per Battery
@@ -467,7 +478,7 @@ Value:: 700
 
 Inertia weapons technomagically increase their inertia the moment they contact a target.
 While this increase in wate and force increases damage, it does not improve on attack rolls.
-The damage delivered is three times the mundane weapons damage plus ten hit points. 
+The damage delivered is 3 times the mundane weapons damage plus 10 hit points.
 
 :art: inertia_axe.png
 :width: 250px
@@ -479,7 +490,7 @@ The damage delivered is three times the mundane weapons damage plus ten hit poin
 include::ROOT:partial$articulate.adoc[]
 
 For example, a sword that inflicts 1-8 (1d8) hit points in damage would inflict 3-24 (3d8).
-Then ten additional hit points plus the persona’s Force Bonus are added to the total damage.
+Then 10 additional hit points plus the persona’s Force Bonus are added to the total damage.
 An inertia weapon that has no power functions the same as its mundane base weapon.
 
 include::hardware:partial$inertia_weapons.adoc[]
@@ -503,13 +514,13 @@ A bolo that sacrifices itself by exploding inflicts an extra 5-30 (5d6) HPS of d
 If the bolo does not explode, there is a 5% chance per point of damage that the bolo will tangle and trip the target. 
 The bolo can explode on any sized target but can only trip up medium, small and tiny personas.
 
-If the bolo does not explode and does not tangle the target, it snaps back into a ball and must cool for three units.
+If the bolo does not explode and does not tangle the target, it snaps back into a ball and must cool for 3 units.
 On occasion, a bolo fight emerges where the same bolo flies back and forth.
 
 === Lite Sabre
 [horizontal]
 Type:: Strike (no Force Bonus)
-Range:: Nil
+Reach:: 1
 Damage:: Special
 Duration:: Until Destroyed
 Wate:: 1.2kg
@@ -517,8 +528,8 @@ EXPS:: 700
 Value:: Special
 
 A lite sabre is an energy sword that retracts into its hilt.
-There are three different types of lite sabre, each having its damage, duration, and value.
-The three types of lite swords refer to the composition of the energy blade of the weapon. 
+There are 3 different types of lite sabre, each having its damage, duration, and value.
+The 3 types of lite swords refer to the composition of the energy blade of the weapon.
 
 include::hardware:partial$lite_sabre_types.adoc[]
 
@@ -606,12 +617,12 @@ EXPS:: 869
 Value:: 245000
 
 The POV Canon (pronounced paw-vee) inflicts minimal physical damage and massive mental transformation.
-A successful attack roll has two components: damage and a powerful wave of compassionate transference.
+A successful attack roll has 2 components: damage and a powerful wave of compassionate transference.
 The target will take 1-4 (1d4) hit points of damage and a psionic attack of intensity 1-10 (1d10) plus the firer’s Mind.
 If the target loses the mental attack roll, she suffers an intense but temporary change of mind. 
 The target’s point of view switches to a deep, often debilitating, understanding of the attacker’s point of view.
 The persona immediately adopts a complete understanding of the attacker’s emotional and personal position.
-The results of this are temporary, lasting one unit per point of intensity of the attack.
+The results of this are temporary, lasting 1 unit per point of intensity of the attack.
 
 A space trooper adorned in plastix armour may suddenly stop attacking the expedition because she now ‘feels’ her enemy.
 On rare occasions, the target may assist the firer of the POV Canon.
@@ -629,7 +640,7 @@ The POV Canon is not a stealth weapon.
 Type:: Fling
 Range:: Tripled
 Damage:: Doubled + 15 
-Duration:: One Use
+Duration:: 1 Use
 Wate:: 4 times
 EXPS:: 300
 Value:: 10 times
@@ -653,7 +664,7 @@ EXPS:: 500
 Value:: 6000
 
 The rocket launcher is a shoulder-mount directing tube that fires a tactical micro missile.
-The missile’s warhead explodes like a shrapnel grenade with a two hex radius of effect.
+The missile’s warhead explodes like a shrapnel grenade with a 2 hex radius of effect.
 Like all other area of effect weapons, the firer targets a hex.
 The target hex has a Defence of 600, and a miss uses the grenade miss table.
 The typical grenade area of effect carnage follows.
@@ -675,7 +686,7 @@ Directly targeting a persona is an act of classic action movie vengeance.
 Indoor use of a rocket launcher is an off-label that never works as expected.h
 
 The rocket launcher’s magazine holds 1-4 (1d4) rockets.
-A rocket launcher with a three-missile magazine can fire three times before having to reload.
+A rocket launcher with a 3-missile magazine can fire 3 times before having to reload.
 
 .*Exotic Warhead*
 There is a 20% chance that the rocket launcher has an exotic warhead.
@@ -730,7 +741,7 @@ Memory::
 The persona uses the targeting system to identify the target and pulls the trigger.
 The missile will remember this location or persona and immediately starts tracking the target.
 A memory missile can arrive much later. 
-The rocket can travel up to 100 klicks or ten days to find and detonate on its target.
+The rocket can travel up to 100 klicks or 10 days to find and detonate on its target.
 The rocket can go around corners, maneuver stairs, and even wait for an elevator.
 The rocket cannot navigate off-planet or public transit.
 An attack roll is still required when the rocket lands. 
@@ -766,7 +777,7 @@ The spinning wheel of death is a hand-cranked flying wheel that brings serrated 
 The wheel looks like a small table sporting a crank and a dangerous-looking children’s spin top.
 The spin top is large and covered in razor-sharp vertical slats.
 The stalk of the spin top rests beneath the table and sports needles and barbs.
-Feverish cranking of the SWOD activates it after two units.
+Feverish cranking of the SWOD activates it after 2 units.
 Once activated, it flies straight up into the air and hovers while picking its target.
 The spinning wheel of death will select a random organic persona that is in front of the table.
 The front of the table is the non-crank side.
@@ -801,6 +812,7 @@ There is no saving roll.
 === Stun Weapons 
 [horizontal]
 Type:: Strike or Fling
+Reach:: As base Strike weapon
 Range:: Special
 Damage:: Special
 Duration:: 15 per Battery
@@ -884,7 +896,7 @@ EXPS:: 475
 Value:: 542000
 
 The temporal disrupter is a chrono-accelerator that instantly ages targets.
-A successful attack roll inflicts 3-36 (3d12) hit points of damage and ages the persona one year per point of damage.
+A successful attack roll inflicts 3-36 (3d12) hit points of damage and ages the persona 1 year per point of damage.
 The ageing effect is instantaneous and permanent.
 
 Organic personas that pass through a life stage will lose or gain attribute points.
@@ -896,7 +908,7 @@ The temporal disrupter will destroy a robot, but it may take a long, long time.
 
 For more info about temporal attacks jump to xref:uncombat:health.adoc#_aging[Aging,window=_blank, rel="noopener noreferrer"].
 
-A malfunction will this weapon inflicts an ageing attack on everything within a two hex radius.
+A malfunction will this weapon inflicts an ageing attack on everything within a 2 hex radius.
 
 === Toss Garotte 
 [horizontal]
@@ -919,8 +931,8 @@ A successful attack roll indicates that the garotte is on the target’s shoulde
 As the garotte tightens, it inflicts 2-8 (2d8) hit points of damage per unit.
 The strangling target must win a saving throw versus her Constitution or fall unconscious.
 The intensity of the attack increases with the damage that the garotte inflicts. 
-The first unit inflicts six hit points and requires an intensity 6 saving roll to stay conscious.
-The second unit inflicts five hit points and requires an intensity 11 saving roll to stay conscious.
+The first unit inflicts 6 hit points and requires an intensity 6 saving roll to stay conscious.
+The second unit inflicts 5 hit points and requires an intensity 11 saving roll to stay conscious.
 
 Once the target is unconscious, the toss garotte stops inflicting damage.
 Safe removal of the toss garotte requires a vet or mechanic task roll.
@@ -931,7 +943,7 @@ If a toss garotte kills a persona during strangulation, it has accidentally deca
 === Vibro Weapon
 [horizontal]
 Type:: Strike 
-Range:: Nil
+Reach:: As base Strike weapon
 Damage:: +20 damage
 Duration:: 25 per Battery
 Wate:: +1.3kg
@@ -963,7 +975,7 @@ Wate:: 1.75
 EXPS:: 375
 Value:: 900
 
-The web gun is a glue sprayer with a one hex area of effect.
+The web gun is a glue sprayer with a 1 hex area of effect.
 A successful attack roll stops the target in her tracks.
 The target will be incapacitated by gluing her down to the ground or by gluing all her limbs together.
 The web gun will work on any target less than 750 kg in wate.

@@ -173,7 +173,7 @@ include::uncombat:partial$aid_tech_level.adoc[]
 
 Some high-tech artifacts are combined devices called multi-toys. 
 Multi equipment is common with very high-tech TOYS.
-The persona may identify one part of a multi-toy and not another part. 
+The persona may identify 1 part of a multi-toy and not another part.
 
 There is also the possibility that high-tech devices will come with baked-in instructions.
 Whether these are linguistically helpful or confusing is determined by the referee’s milieu.
@@ -181,13 +181,13 @@ Whether these are linguistically helpful or confusing is determined by the refer
 === Role-Playing 
 Adjustments are added depending on how the persona conducts her study of the artifact.
 If the player says that her persona is being very careful, she will add 3 to roll in circle E.
-If the player says that her persona is in a reckless rush, she will subtract two from her roll in circle  E.
+If the player says that her persona is in a reckless rush, she will subtract 2 from her roll in circle  E.
 
 include::uncombat:partial$aid_role_playing.adoc[]
 
 == Research Teams
 Personas can get together to improve their chances of successful identification.
-Two heads are better than one, or many hands make confusing work. 
+2 heads are better than one, or many hands make confusing work.
 The referee can allow as many personas to join in as makes sense.
 An artifact may not dispose itself to being surrounded by curious personas.
 
@@ -197,14 +197,14 @@ Averaging is arithmetically challenging and can trap the team in a loop.
 Getting stuck in a loop is a common problem with teams on mundane terra.
 
 A more exciting approach is to have all the players roll at once. 
-The highest roll pairs with the lowest roll, and those two personas argue over who is correct.
+The highest roll pairs with the lowest roll, and those 2 personas argue over who is correct.
 A Charisma attribute competition decides which ‘idea’ moves the team forward.
 While this seems completely insane, it is how teams commonly proceed on Mundane Terra.
 
 == Duration of Artifact ID
 Each roll on the AID Flowchart takes a variable amount of game time. 
 A complicated low-tech cloning machine should not be sorted out in a few minutes by a persona.
-An obvious gun-looking gun should not take a mercenary ten days to figure out.
+An obvious gun-looking gun should not take a mercenary 10 days to figure out.
 
 To make the AID Flowchart more faux realistic, the referee can change the duration of each roll.
 For example, can the fusion rifle be identified in time for the mercenary to use it?

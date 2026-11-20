@@ -104,7 +104,7 @@ s|Difficulty
 * *Living*: Is it biological and living? Yes/No.
 * *Mimic*: Create benign sound to distract target.
 * *Muffle*: Induce silence over a quiet sound.
-* *Multiple Attacks*: One attack per gift when using energy sword.
+* *Multiple Attacks*: 1 attack per gift when using energy sword.
 * *Pressure*: Psionically incapacitate a persona with choking fear or guilt. Range = nearby.
 * *Reflect Incoming*: Return an energy shoot attack (lazer, plasma) with her energy sword. Raw Shoot Attack.
 * *Suggestion, Spoken*: Get persona to repeat what the knite just spoke.

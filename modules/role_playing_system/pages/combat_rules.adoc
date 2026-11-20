@@ -29,7 +29,7 @@ NOTE: *The players interpret outcomes in the cinematic fashion that best serves 
 In the Theatrical Combat System, there are only descriptions.
 The system has no hit points, no movement, no proficiencies, and no attack rolls to monitor.
 The players must work their imagination muscle more than their maths muscle.
-A description often requires more effort than subtracting six from 48.
+A description often requires more effort than subtracting 6 from 48.
 The outcomes are descriptive and require a creative description.
 
 The Role-Playing System and its combat resolution tool still have dice rolls.
@@ -38,7 +38,7 @@ The Theatrical Combat System only uses the 4D2 Mechanic.
 
 == 4D2 Mechanic Refresher
 
-.*Four steps of the 4D2 Mechanic*
+.*4 steps of the 4D2 Mechanic*
 . A player rolls dice (2d6 - 2d6) to get a  *Number*
 . That *Number* yields an *Outcome*
 . The *Outcome* produces a *Descriptor*
@@ -198,7 +198,7 @@ If a roll has been shifted or folded to +10 or +9 a skill is not earned.
 
 The new skill should be related to the roll being made.
 If the persona is shooting a rifle she can add a rifle skill to her persona record.
-The next time she is shooting a rifle she can use a shift of plus one. 
+The next time she is shooting a rifle she can use a shift of plus 1.
 
 === Skill Learning
 .Number = Immaculate (+10) or Wondrous (+9) success
@@ -323,7 +323,7 @@ A Cataclysmic Failure (-10) indicates a catastrophic malfunction of the Zone Att
 include::role_playing_system:partial$numbers_grenade_descriptors.adoc[]
 
 Every target in the area of effect must make a negative folded roll to determine the attack’s impact.
-If efficiency is of concern, one roll can determine the impact on all persona’s in the area of effect.
+If efficiency is of concern, 1 roll can determine the impact on all persona’s in the area of effect.
 
 
 :art: alien_robot_anthros.png
@@ -367,7 +367,7 @@ Completely ignoring armour is too unrealistic for even the Theatrical Combat Sys
 Armour can shift the persona’s descriptor in her favour.
 A suit of combat armour can decrease a mortal wound to a mere wound.
 More powerful armour may have an even more significant beneficial shift.
-Plus two is the highest possible shift armour can offer. 
+Plus 2 is the highest possible shift armour can offer.
 
 == Range
 There are no minis or hex mats rules for the Theatrical Combat System.
@@ -388,16 +388,16 @@ Each descriptive level indicates how far apart the combatants can be and still e
 include::role_playing_system:partial$horseshoes_hand_grenades.adoc[]
 
 == Attack Frequency
-Under normal circumstances, each persona gets one 4D2 roll per turn.
-Some attacks allow for more than one 4D2 roll per turn.
+Under normal circumstances, each persona gets 1 4D2 roll per turn.
+Some attacks allow for more than 1 4D2 roll per turn.
 Some aliens are fast and can make multiple bites per turn.
 Some weapons have fast triggers and can make multiple attacks per turn.
 Some weapons are automated and fire bursts of projectiles.
 The exact nature of the multiple attacks is in the weapon description.
 
-Each attack allows the player one 4D2 roll. 
+Each attack allows the player 1 4D2 roll.
 The player may choose the best number from the 4D2 rolls.
-So a player whose anthro persona has a plasma rifle (3 attacks per unit) would get three 4D2 rolls and pick the best one.
+So a player whose anthro persona has a plasma rifle (3 attacks per unit) would get 3 4D2 rolls and pick the best one.
 
 Only aliens with multiple attacks and mercenaries can spread their attacks between different targets. 
 
@@ -412,7 +412,7 @@ include::role_playing_system:partial$size_may_matter.adoc[]
 == None Rules
 There are no real rules here, just concepts.
 If any of these rules are crucial to gameplay, then consider using the tactical combat rules in their place.
-The two combat systems mix and match very well. 
+The 2 combat systems mix and match very well.
 If detailed initiative and movement are essential, the players can use the tactical versions of these rules. 
 
 === Movement

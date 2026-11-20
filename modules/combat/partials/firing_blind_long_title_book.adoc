@@ -1,0 +1,32 @@
+
+.*Firing Blind Table*
+[width="100%",cols="<,^",frame="all", stripes="even"]
+|===
+2+<|Firing randomly at an obfuscated target chance to get an attack roll.
+
+s|Size
+s|% Chance
+
+|Tiny
+|2
+
+|Small
+|4
+
+|Medium
+|8
+
+|Large
+|16
+
+|Gigantic
+|32
+
+s|Size
+s|% Chance
+
+2+<|Minute and Nano: 0 percent chance. +
+Humongous and Colossal: Cannot hide
+|===
+
+Formerly called the "Percent Chance To Get An Attack Roll Dependent On Relative Size of Target If Concealed So Not Visible Table."

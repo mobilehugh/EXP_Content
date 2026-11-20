@@ -89,7 +89,7 @@ The player can read the details of frenzy and hibernation in the
 Hite is in centimetres (cm), and wate is in kilograms (kg).
 A centimetre is shy of half an inch.
 A kilogram is slightly more than 2 pounds. 
-The delivery data lists two different sets of hite and wate.
+The delivery data lists 2 different sets of hite and wate.
 The player chooses between the sizes big and bigger.
 Their titles are self-explanatory for the ursidae.
 In general, ursidae are big.

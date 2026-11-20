@@ -9,7 +9,7 @@ These robots do not have vehicle combat training.
 *INATMO* is short for in-atmosphere. Which involves gravity, weather, roads and surfaces.
 *EXATMO* is short for exterior-to-atmosphere. Which very involves very little gravity, no atmosphere, and no surfaces.
 
-The two types of transportation robots are inatmo and exatmo.
+The 2 types of transportation robots are inatmo and exatmo.
 Inatmo transport robots pilot planetary vehicles.
 Exatmo transport robots pilot space-vehicles.
 Inatmo transport robots drive and navigate.
@@ -101,7 +101,7 @@ include::ROOT:partial$articulate.adoc[]
 === Driving
 Inatmo transport robots have attachments that allow them to drive any vehicle.
 A vehicle is an artifact from xref:hardware:vehicles.adoc[Vehicles,window=_blank, rel="noopener noreferrer"], but does not include self-powered vehicles.
-The inatmo transport robot can pilot two vehicles per point of INT score.
+The inatmo transport robot can pilot 2 vehicles per point of INT score.
 A persona with an 11 INT could drive 22 separate vehicles.
 The chance that this robot already pilots the vehicle is 1% per point of INT.
 A persona with an 11 INT has an 11% chance of already knowing how to drive a vehicle.

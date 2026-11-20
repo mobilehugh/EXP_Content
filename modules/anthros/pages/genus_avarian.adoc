@@ -15,7 +15,7 @@ Avarians are humanoid bird people.
 An avarian persona can choose from many avian life forms.
 For example, hawk, parrot, albatross, ostrich, penguin, vulture, swallow, puffin, robin, etc.
 Avarians are not humans with wings.
-An avarian has two legs, two arms, a torso and a face.
+An avarian has 2 legs, 2 arms, a torso and a face.
 Feathers or down cover their skin, they sport beaks, and they have clawed hands and feet.
 
 Some avarians from popular culture are https://en.wikipedia.org/wiki/Ekek[ekek,window=_blank, rel="noopener noreferrer"], https://en.wikipedia.org/wiki/Karura[kakura,window=_blank, rel="noopener noreferrer"], https://en.wikipedia.org/wiki/Garuda[garuda,window=_blank, rel="noopener noreferrer"], and https://en.wikipedia.org/wiki/Thoth[Thoth,window=_blank, rel="noopener noreferrer"].
@@ -76,7 +76,7 @@ If the referee permits, there is a chance for full wings to be functional.
 Full wings require modified clothing and armour.
 Full wings can never retract or hide, and they can become a hindrance to the persona.
 There is a chance that full wings can be functional wings allowing the persona to fly.
-Full wings are majestic and offer a Charisma bonus of plus two.
+Full wings are majestic and offer a Charisma bonus of plus 2.
 
 == Flying
 A flying persona is a significant challenge for the referee.
@@ -87,7 +87,7 @@ TIP: Rules assist game balance and creativity. +
 For an avarian to be able to fly, she must have functional wings.
 Only full wings can be functional.
 There is a 1/2 percent change per point of Dexterity that the persona will have fully functional flying wings.
-An avarian persona with a Dexterity of twelve has a six percent chance of flight.
+An avarian persona with a Dexterity of 12 has a 6 percent chance of flight.
 
 Flying allows the persona to have three-dimensional movement and to hover in the air.
 The persona can fly at up to double her movement rate.

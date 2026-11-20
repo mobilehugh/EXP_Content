@@ -9,27 +9,27 @@ s|Difficulty
 s|Recommendation
 
 |1
-|One
+|1
 |Trivial (<25DD)
 |Dangerous?
 
 |3
-|Two
+|2
 |Normal (<43DD)
 |Smarter than me?
 
 |6
-|Three
+|3
 |Hard (<85DD)
 |Mutated?
 
 |9
-|Four
+|4
 |Tough (<127DD)
 |Phenomic ID
 
 |12
-|Five
+|5
 |Impossible (<200DD)
 |Psionic ID
 

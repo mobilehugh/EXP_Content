@@ -7,16 +7,16 @@ Robots cannot simply pick up and use any old weapon they find.
 
 For detailed calculations, jump to xref:combat:attack_table_robot.adoc[Robot Attack Table,window=_blank, rel="noopener noreferrer"].
 
-The attack table is composed of four roll bonuses spread across 3 attack types.
+The attack table is composed of 4 roll bonuses spread across 3 attack types.
 
 .*Attack Roll Bonuses*
 * xref:combat:attack_table_details.adoc#_skilled_bonus[Skilled Bonus,window=_blank, rel="noopener noreferrer"]
 ** when using baked-in weapons, or weaponized malfunctioning peripherals acquired from offensive peripherals
 * xref:combat:attack_table_details.adoc#_raw_bonus[Raw Bonus,window=_blank, rel="noopener noreferrer"]
-** robot raw bonus is zero
-** creative attacks use the raw bonus of zero
+** robot Raw Bonus is 0
+** creative attacks use the Raw Bonus of 0
 * xref:combat:attack_table_details.adoc#_max_roll[Max Roll,window=_blank, rel="noopener noreferrer"]
-** robots have a max roll of none
+** robots have a Max Roll of none
 ** the player uses the final value of the kilodie roll
 * xref:combat:attack_table_details.adoc#_force_bonus[Force Bonus,window=_blank, rel="noopener noreferrer"]
 ** based on the STR of the persona
@@ -31,7 +31,7 @@ The attack table is composed of four roll bonuses spread across 3 attack types.
 ** attacks not dependant on the robot's strength, a misused cutting lazer or a nail gun.
 
 These items create a matrix of arithmetic fun called an attack table.
-If the alien were attacking with her natural claw attack the player would add her skilled strike bonus to her attack roll.
+If the alien were attacking with her natural claw attack the player would add her Skilled Strike Bonus to her attack roll.
 These bonuses are based on the persona's attributes, increase with experience levels.
 
 == Artifact Weapon Use
@@ -50,7 +50,7 @@ NOTE: Playing a robot is more “alien” than playing an alien.
 === Articulation
 Every player will want their robot persona to be able to use artifact weapons that they find laying around.
 If a robot has an appropriate articulation that allows them to wield weapons they will use their Raw Bonus when making an attack roll.
-While the Raw Bonus is zero, there is no Maximum Roll when using the Robotic Attack Table.
+While the Raw Bonus is 0, there is no Max Roll when using the Robotic Attack Table.
 If there is no articulation for using external tools the persona cannot wield weapons.
 
 == Skilled Attacks
@@ -66,7 +66,7 @@ For example, the player may use a Mercenary or Nomad Attack Table whan making at
 
 The player can use this vocation attack table for their external “found laying around” artifact weapons.
 The robotic attack table can be used for baked-in attacks.
-Managing the burden of having two attack tables is up to the referee and the table of players.
+Managing the burden of having 2 attack tables is up to the referee and the table of players.
 A weapon wielding robot use the the xref:combat:attack_table_anthro.adoc[Anthro Attack Table,window=_blank, rel="noopener noreferrer"] if the referee and player feel it is appropriate.
 
 Robots can be powerful and being able to use their super charged attributes to shoot things may affect game balance.

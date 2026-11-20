@@ -69,7 +69,7 @@ include::ROOT:partial$articulate.adoc[]
 
 == Language and Culture
 Social robots speak the language of their fabricator type and many others.
-This robot can speak ten languages per point of Intelligence score.
+This robot can speak 10 languages per point of Intelligence score.
 So a persona with an 11 INT could fluently speak 110 languages.
 When a social robot encounters a new language, the robot may already understand it.
 The chance of already knowing the language a percent chance equal to her Intelligence score.
@@ -80,7 +80,7 @@ Culture is more complicated than language.
 A social robot can understand a culture’s nuances to assist other personas.
 A social robot can be pedantic about culture, and this habit does not guarantee seamless interactions.
 The social robot’s CHA would still play a role in the role-playing.
-The robot can understand one culture per point of Intelligence score.
+The robot can understand 1 culture per point of Intelligence score.
 So a persona with an 11 INT could understand 11 cultures.
 If a culture is not already in the repository, the robot will acquire it in 1-4 (1d4) weeks.
 

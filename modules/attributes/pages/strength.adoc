@@ -24,7 +24,7 @@ Strength is equivalent amongst all the families.
 Anthro and alien Strength arise from contracting fibres and boney levers.
 Robot Strength employs hydraulics, servos, wires etc.
 Organic and robotic Strength is equal on a point by point basis. 
-So a robot, alien or anthro with nine Strength are equally strong.
+So a robot, alien or anthro with 9 Strength are equally strong.
 
 // brand new table for version 6.0
 .*Strength Scores by Family*

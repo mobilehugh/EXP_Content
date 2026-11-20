@@ -34,16 +34,16 @@ For example, tasks related to shooting a lazer gun or throwing a grenade would b
 Tactical interests are the officer side of executing tasks related to the bigger picture of a battle.
 If the mercenary wants to avoid an ambush or organize a room entry plan, she calls on her tactical interests.
 
-At startup, the player gets one roll per three points of INT. 
+At startup, the player gets 1 roll per 3 points of INT.
 Each interest includes an area of expertise as well.
-After startup, the player can roll or choose one additional interest per new EXPS level.
+After startup, the player can roll or choose 1 additional interest per new EXPS level.
 
 include::vocations:partial$mercenary_interests.adoc[]
 
 == Expertise
 Expertise represents much more specific knowledge than interests and can refer to a specific weapon type or a specific task. 
 An expertise assists the persona in completing task rolls related to the task.
-A mercenary gets one expertise per corresponding interest. 
+A mercenary gets 1 expertise per corresponding interest.
 So combat interests will earn the persona a combat expertise as well.
 
 === Combat
@@ -57,7 +57,7 @@ The expertise would also help the persona when making an uncombat task roll.
 The combat expertise Pistols, Flotto would give an attack roll bonus when using any flotto pistol.
 The Pistols, Flotto expertise would also give a task bonus when cleaning or unjamming a flotto pistol.
 
-The player makes one roll per interest at startup and gets an additional roll for each new EXPS level.
+The player makes 1 roll per interest at startup and gets an additional roll for each new EXPS level.
 
 include::vocations:partial$mercenary_expert_combat.adoc[]
 

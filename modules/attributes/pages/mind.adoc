@@ -24,11 +24,11 @@ Mind represents the amount of force one can generate in the think space.
 For more information about these faux spaces jump to xref:appendices:generic_mythos.adoc[Generic Mythos,window=_blank, rel="noopener noreferrer"].
 
 The Mind Attribute has family-based peculiarities that other attributes do not have.
-Inorganic personas (robots) have a Mind of zero and are unharmed by this.
+Inorganic personas (robots) have a Mind of 0 and are unharmed by this.
 Robots do not connect to the think space, will power is not a concept, and cyber space has no use for luck.
-Organic personas die if their Mind drops to zero. 
+Organic personas die if their Mind drops to 0.
 The life force of alien and anthro personas evaporates if they lose their Mind.
-In rare instances, an alien may evolve with zero Mind.
+In rare instances, an alien may evolve with 0 Mind.
 These alien species are an edge case and have no connection to the think space.
 
 // brand new table for version 6.0

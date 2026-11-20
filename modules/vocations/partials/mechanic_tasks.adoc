@@ -61,12 +61,12 @@ s|Description
 
 |Multi-equip
 |148
-|Integrate two toys into one.
+|Integrate 2 toys into one.
 
 
 |Quick Repair
 |24
-|Unbreak for one more use. Trivial and minor damage.
+|Unbreak for 1 more use. Trivial and minor damage.
 
 |Repair
 |42

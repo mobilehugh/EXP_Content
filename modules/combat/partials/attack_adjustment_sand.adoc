@@ -1,7 +1,7 @@
-.*Sands and Attack Roll Table*
+.*Sand and Attack Roll Table*
 [width="75%",cols="3*^",frame="all", stripes="even"]
 |===
-3+<|When the sand is blowing. Penalty is per hex. 
+3+<|Blowing sand. Penalty is per hex.
 
 s|Roll (1d4)
 s|Description

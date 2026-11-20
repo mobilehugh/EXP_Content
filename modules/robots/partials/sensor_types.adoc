@@ -1,7 +1,7 @@
 .*Robot Sensors Table*
 [width="75%",cols="^1,<2"]
 |===
-2+<|One sensor set per 4 points of Awareness.
+2+<|1 sensor set per 4 points of Awareness.
 s|Roll 1d100
 s|Sensor Type
 

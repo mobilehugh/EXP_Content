@@ -14,7 +14,7 @@ Aquarian is the common name for the Hominidae Homo Pisces.
 Aquarians are humanoid fish people.
 The player can choose from many aquatic life forms: shark, goldfish, octopus, salmon, viper, sea cucumber, anemone, sea star, etc.
 The persona remains a bipedal humanoid.
-An aquarian would always have two arms, two legs, a torso and a face.
+An aquarian would always have 2 arms, 2 legs, a torso and a face.
 The hands may have webbing between the fingers, or the legs may have suction cups.
 Regardless of the appearance, an aquarian can do anything any other anthro can do.
 An aquarian would not take on any special abilities of their chosen fish shape.
@@ -66,10 +66,10 @@ When the aquarian is in liquid or zero gravity (ZOG), she is swimming.
 A swimming aquarian enjoy attribute and movement bonuses.
 The persona gets  +2 on her AWE, CHA, DEX, INT, and STR attributes.
 She also gets a movement rate bonus of 50% when swimming.
-For personas that frequently swim, keeping two sets of attributes is advised.
+For personas that frequently swim, keeping 2 sets of attributes is advised.
 
 Aquarians are aquatic life forms and must regularly return to their liquid environment.
 By super soaking their gills, aquarians can venture into full gravity and air.
-An aquarian can survive in a gaseous atmosphere for one hour per point of CON.
+An aquarian can survive in a gaseous atmosphere for 1 hour per point of CON.
 For example, an aquarian with CON 11 could wander the mall for 11 hours.
 After 11 hours, she would start to suffocate.

@@ -49,14 +49,14 @@ These are choices made by the player.
 
 Anthros can be stunned if they take too much damage at once.
 They remain stunned until they spontaneously recover.
-These two responses are unique to anthro personas.
+These 2 responses are unique to anthro personas.
 Getting knocked out during combat is called Damage System Shock (DSS).
 Failing Damage System Shock renders the anthro unconscious.
 Recovering from this unconscious state is aptly called Recovery.
 The player must win a Recovery Roll (REC) to get her persona back on her feet.
 For more details about anthro HPS, DSS and REC, jump to xref:anthros:generate_hit_points.adoc[Anthro HPS,window=_blank, rel="noopener noreferrer"].
 
-When an anthro reaches zero HPS, they fall into an unconscious coma and quickly die from their wounds.
+When an anthro reaches 0 HPS, they fall into an unconscious coma and quickly die from their wounds.
 
 === Alien
 Alien personas have a few unique responses to being damaged.
@@ -68,7 +68,7 @@ An alien persona can keep persevering in combat until all her HPS are exhausted.
 There is no Damage System Shock or Recover Rolls for aliens.
 
 There is an important caveat to this combat resistance.
-When an alien reaches zero HPS, they are deceased. 
+When an alien reaches 0 HPS, they are deceased.
 There is no unconscious state for an alien persona.
 Aliens are not obligated to fight to the death, but they could if the player chose to.
 
@@ -83,7 +83,7 @@ Robots keep grinding along.
 There are no DSS or REC rolls for robots.
 They take a licking and keep on kicking.
 
-Robots have a unique response when they reach zero HPS.
+Robots have a unique response when they reach 0 HPS.
 The robot does not die or go unconscious.
 A robot keeps functioning but falls apart a little bit.
 Eventually, a robot will fall apart and cease to function.
@@ -98,8 +98,8 @@ They just fall apart.
 
 === Anthro
 Anthro bodies will spontaneously replenish their HPS under the right circumstances.
-For an anthro to spontaneously heal, she must have at least zero HPS and rest completely.
-Anthro personas with less than zero HPS are critically ill and dying. 
+For an anthro to spontaneously heal, she must have at least 0 HPS and rest completely.
+Anthro personas with less than 0 HPS are critically ill and dying.
 When an anthro’s HPS Total is negative, she cannot spontaneously heal.
 
 An anthro must rest completely to heal damage and retain hit points.
@@ -133,7 +133,7 @@ A veterinarian, or medical device, can speed up persona healing.
 
 If an alien chooses to rest intentionally, they will heal 2 HPS per day.
 Rest means no hunting, no carousing, no chasing, no combat and no other shenanigans. 
-If there is an interruption in this intentional rest, the alien will only heal one HPS that day.
+If there is an interruption in this intentional rest, the alien will only heal 1 HPS that day.
 
 An alien with 0 HPS Total is a dead alien and does not heal.
 
@@ -176,7 +176,7 @@ Robots do not age at all.
 :description: Very old military man leaning on cane and waving a saber.
 include::ROOT:partial$articulate.adoc[]
 
-All organic personas progress through five age categories: child, youth, adult, elder, and aged.
+All organic personas progress through 5 age categories: child, youth, adult, elder, and aged.
 As a persona’s age category changes, her attributes change as well.
 Aliens and anthros pass through these age categories the same. 
 However, aliens can have life spans much longer or much shorter than anthro personas.
@@ -230,7 +230,7 @@ However, some referee personas may start as children.
 Any persona that descends into the child age category would face the following attribute adjustments.
 AWE -1, CHA +4, CON -3, DEX +2, INT -2, MND -4, STR -3, and HPM -20%.
 In general, children are cuter and weaker than their elder brethren.
-If these adjustments were to reduce a persona’s attribute to zero or less, the transition would kill them.
+If these adjustments were to reduce a persona’s attribute to 0 or less, the transition would kill them.
 
 === Youth
 A youth is suffering through the age of transformation.
@@ -246,7 +246,7 @@ In general, youths are stronger, healthier and more irritating than their younge
 
 When descending into youth from adulthood, only the negative adjustments apply.
 Reverse ageing only occurs if the persona suffers a chronologic abnormality that takes place during the game.
-If these attribute changes reduce an attribute to zero, the persona is dead.
+If these attribute changes reduce an attribute to 0, the persona is dead.
 
 === Adult
 An adult has reached maturity in all aspects of her biology.
@@ -260,7 +260,7 @@ The persona may be allowed to pursue a new vocation with these attribute changes
 
 When descending into adulthood from being an elder, only the negative adjustments apply.
 Reverse ageing only occurs if the persona suffers a chronologic abnormality that takes place during the game.
-If these attribute changes reduce an attribute to zero, the persona is dead.
+If these attribute changes reduce an attribute to 0, the persona is dead.
 
 === Elder
 An elder persona has passed peak performance, and her attributes are beginning to wane.
@@ -275,7 +275,7 @@ Passing into elderhood does not allow a persona to pursue a new vocation.
 
 When descending into the elder age category from the aged category, only the negative adjustments apply.
 Reverse ageing only occurs if the persona suffers a chronologic abnormality that takes place during the game.
-If these attribute changes reduce an attribute to zero, the persona is dead.
+If these attribute changes reduce an attribute to 0, the persona is dead.
 
 === Aged
 The aged age category represents biological deterioration.
@@ -289,19 +289,19 @@ Passing into the aged category does not allow a persona to pursue a new vocation
 
 When descending into the aged category from the past expiry category, only the negative adjustments apply.
 Reverse ageing only occurs if the persona suffers a chronologic abnormality that takes place during the game.
-If these attribute changes reduce an attribute to zero, the persona is dead.
+If these attribute changes reduce an attribute to 0, the persona is dead.
 Life was long and good. 
 
 ==== Annual Aged Checks
 Each calendar year in the aged category, the persona faces deterioration.
 There is an unhappy birthday check to see if the persona suffers additional attribute ageing penalties.
-If the player fails a Hard CON Attribute Roll (target roll of 24), the persona loses two attribute points.
+If the player fails a Hard CON Attribute Roll (target roll of 24), the persona loses 2 attribute points.
 
 The player may choose which attributes decrease.
 So she could from her AWE, CON, DEX, INT, STR, or HPS (-20%).
 The player cannot choose to decrease her Charisma or Mind.
 For example, the player could drop her AWE 2 points or spread it out between DEX -1 or HPS -20%.
-If these attribute changes reduce an attribute to zero, the persona is dead.
+If these attribute changes reduce an attribute to 0, the persona is dead.
 It was time. 
 
 === Past Expiry
@@ -311,8 +311,8 @@ Surviving past the upper limit of the aged category is defying the genetic imper
 
 A persona ascending into the past expiry age category suffers an attribute penalty on every attribute.
 This penalty is -1 on every attribute score and -20% on her HPM.
-This whole-body deterioration occurs every six months of the persona’s rapidly ending life.
-If these attribute changes reduce an attribute to zero, the persona is dead.
+This whole-body deterioration occurs every 6 months of the persona’s rapidly ending life.
+If these attribute changes reduce an attribute to 0, the persona is dead.
 Finally. 
 
 === Quirks
@@ -320,7 +320,7 @@ Several quirks come up with the attribute age adjustments.
 
 ==== HPM Rounds Down
 When the persona is suffering a decrease in HPM, the player must round down the result.
-An HPM of zero is the same as any other attribute reaching zero and results in the persona’s death.
+An HPM of 0 is the same as any other attribute reaching 0 and results in the persona’s death.
 
 ==== Extreme Life Spans
 Short life spans may require the referee to adjust the years to months or even days.
@@ -330,7 +330,7 @@ If the end-of-life deterioration seems too fast, it is up to the referee and pla
 ==== Chronologic Versus Biologic
 Under normal circumstances, a person’s chronologic age will equal her biological age.
 The attributes are changes by the persona’s biological age.
-In some unusual cases, the persona may need to keep track of two ages.
+In some unusual cases, the persona may need to keep track of 2 ages.
 
 A persona that spends a century in cryogenic suspension her chronologic age could jump from 35 to 135 without her ageing a day biologically.
 Her attributes would still reflect that of a 35-year-old persona.
@@ -355,7 +355,7 @@ Anthros can die from losing HPS in trauma or losing attributes.
 A negative hit point total indicates more damage than her body can heal.
 When an anthro reaches a negative HPS Total, she isn’t dead yet, but she is unconscious and dying.
 A dying anthro loses 1 HPS per game minute (30 units) until she is dead.
-An anthro is dead once her HPS total reaches negative one-half her HP M.
+An anthro is dead once her HPS total reaches negative 1/2 her HP M.
 
 An anthro whose HPM is 54 would be irrevocably and permanently dead at -27 HPS Total.
 An anthro with negative HPS can only lie about and bleed.
@@ -368,26 +368,26 @@ Appropriate medical attention can stabilize her downward slide to oblivion.
 Veterinarians are best at performing this stabilization, having specific skills to do so.
 A successfully stabilized persona will cease to lose HPS at the lethal rate of 1 per minute.
 If a stabilization task roll fails, the vet can immediately try again, but the anthro loses 1 HPS.
-The anthro cannot start natural biologic healing until her HPS total is at least zero.
+The anthro cannot start natural biologic healing until her HPS total is at least 0.
 
 Anthros can also die from attribute loss.
 Attribute loss is usually due to ageing.
 Some horrible attacks reduce attributes directly.
-If any attribute score reaches zero, the persona is dead.
+If any attribute score reaches 0, the persona is dead.
 For example, if an anthro with an Awareness score of 1 were to lose an AWE point, she would be irrevocably dead.
 A zeroed attribute represents the complete loss of an essential faculty.
 A persona with an AWE of 0 has suffered a fatal collapse of her sensory processing system.
 
-NOTE: *Charisma less than zero is undesirable but not lethal.*
+NOTE: *Charisma less than 0 is undesirable but not lethal.*
 
 === Alien
 Alien death is not as dramatic as anthro death.
-Once an alien’s HPS total reaches zero, it is dead.
+Once an alien’s HPS total reaches 0, it is dead.
 There is no unconscious or salvageable dying state, just a final thud to the ground.
 
 Aliens can also die from attribute loss.
 All attributes, including Charisma, are essential alien attributes.
-If any attribute score reaches zero, the alien is dead.
+If any attribute score reaches 0, the alien is dead.
 For example, if an alien with an Awareness score of 1 were to lose an AWE point, she would be irrevocably dead.
 A zeroed attribute represents the complete loss of an essential faculty.
 An alien with an AWE of 0 has suffered a fatal collapse of her sensory processing system.
@@ -395,21 +395,21 @@ An alien with an AWE of 0 has suffered a fatal collapse of her sensory processin
 === Robotic
 Robotic death is somewhat complicated.
 Robots rarely die from a loss of hit points.
-Dropping a robot’s HPS to less than zero has a completely unique effect on robots.
+Dropping a robot’s HPS to less than 0 has a completely unique effect on robots.
 When a robot loses all their hit points, they simply deteriorate a bit.
 The deterioration leads to a drop in random attributes.
 Because of this, robots almost always die from attribute loss.
 
-If any attribute score reaches zero, the robot is dead.
+If any attribute score reaches 0, the robot is dead.
 For example, if a robot with an Awareness score of 1 were to lose an AWE point, she would be scrap.
 A zeroed attribute represents the complete loss of an essential system.
 A robot with an AWE of 0 has suffered a fatal collapse of her sensory processing system.
 
-NOTE: *Charisma of zero is fatal for a robot.*
+NOTE: *Charisma of 0 is fatal for a robot.*
 
 Attribute loss for robots is due to damage.
 Robots actively avoid repair.
 
 Robots do not have an MND attribute to lose. 
-This attribute starts at zero and does not represent robotic death.
-If a robot somehow gains Mind, reducing it to zero would be fatal.
+This attribute starts at 0 and does not represent robotic death.
+If a robot somehow gains Mind, reducing it to 0 would be fatal.

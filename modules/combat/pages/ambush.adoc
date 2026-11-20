@@ -20,7 +20,7 @@ Most ambushes will be partially successful, with part of the expedition ambushed
 include::ROOT:partial$articulate.adoc[]
 
 An ambush is a planned event.
-Ambushes do not happen when two expeditions accidentally come across each other in the wasteland.
+Ambushes do not happen when 2 expeditions accidentally come across each other in the wasteland.
 An ambush is different from initiative, and a successful trap allows the ambushers to bypass initiative altogether.
 
 *Ambush Checklist*
@@ -83,7 +83,7 @@ The ambushers are well organized and indigenous.
 Each persona must make an improbably (1d100) Ambush Detection Roll.
 Detecting this ambush will be at the last instant, and there is no opportunity to warn the rest of the expedition.
 
-The expedition consists of four personas Abel, Babel, Cable and Dabel.
+The expedition consists of 4 personas Abel, Babel, Cable and Dabel.
 Abel is a feline, and her player wins the improbable (1d100) Ambush Detection Roll.
 The remaining personas will suffer the effects of an ambush.
 How long they remain ambushed depends on Awareness and Dexterity rolls.

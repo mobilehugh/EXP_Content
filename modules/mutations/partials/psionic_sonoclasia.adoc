@@ -18,6 +18,6 @@ s|HPS Damage
 s|Range
 s|HPS Damage
 
-2+<|Mutant can protect one target per EXPS Level
+2+<|Mutant can protect 1 target per EXPS Level
 
 |===

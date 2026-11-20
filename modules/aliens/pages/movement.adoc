@@ -22,7 +22,7 @@ An alien's actual movement rate takes a bit more work to determine
 
 == Quarter Unit
 The quarter unit is a parcel of movement that the player uses to determine how fast the alien moves.
-The quarter unit is determined by dividing the alien's dexterity score by four.
+The quarter unit is determined by dividing the alien's dexterity score by 4.
 This value is rounded in the player's favour.
 Which in this case is rounding up.
 So an alien with a DEX of 12 would have a quarter unit of 3.

@@ -24,7 +24,7 @@ Fling attacks are ranged attacks powered by the alien’s brawn.
 These could be acidic spittle, flying quills, ejected spines or darts.
 Fling attacks have a range and shoot like an arrow, *not* like a bullet.
 Fling attacks are not long range attacks, but close combat is not required.
-The alien’s Fling attack range is one hex per point of Strength score.
+The alien’s Fling attack range is 1 hex per point of Strength score.
 An alien with a Strength of 12 has a 12 hex attack range.
 Unlike anthros, aliens do not get Strength damage bonuses for Strike attacks.
 

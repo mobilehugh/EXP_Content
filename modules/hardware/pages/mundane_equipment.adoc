@@ -9,7 +9,7 @@ The referee reserves the right to change wates and costs without notice.
 == Cost vs Value
 All the costs listed are in electrum pieces (eps).
 However, market prices may increase the value of a piece of kit.
-For example, a village in a small ruin may only have one set of plastix to sell.
+For example, a village in a small ruin may only have 1 set of plastix to sell.
 The scarcity and importance of an item could impact its cost.
 Relative to an artifact, equivalent mundane equipment is valueless.
 
@@ -81,8 +81,10 @@ include::hardware:partial$vocation_tool_kits.adoc[]
 
 == Armour
 Armour is anything that deflects or dissipates force from the persona’s hide.
-The wate of worn armour does not increase the persona’s wate allowance.
-If the persona is carrying the same armour, its wate increases her wate allowance.
+Worn body armour contributes its actual wate x Binding to encumbrance.
+Armour carried rather than worn contributes its actual wate.
+These loads do not change the persona’s Wate Allowance.
+See xref:uncombat:encumbrance.adoc#_worn_armour[Worn Armour] for the calculation.
 For all the gore preventing details jump to xref:combat:defence_rating.adoc[Defence,window=_blank, rel="noopener noreferrer"].
 
 === Body Armour

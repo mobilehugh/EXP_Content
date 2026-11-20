@@ -84,6 +84,6 @@ s|Location
 s|Roll 1d100
 s|Location
 
-2+<|Mixed is two rolls on the table combined.
+2+<|Mixed is 2 rolls on the table combined.
 
 |===

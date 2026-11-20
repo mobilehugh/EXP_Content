@@ -41,7 +41,7 @@ s|Damage
 s|Cost (eps)
 s|Alternate
 
-5+<|Zip gun is a home made one shot, low range projectile weapon.
+5+<|Zip gun is a home made 1 shot, low range projectile weapon.
 
 
 |===

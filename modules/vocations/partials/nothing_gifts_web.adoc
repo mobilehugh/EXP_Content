@@ -9,27 +9,27 @@ s|Difficulty
 s|Recommendation
 
 |1
-|One
+|1
 |Trivial (<25DD)
 |Recall Name
 
 |3
-|Two
+|2
 |Normal (<43DD)
 |Righteous Indignation
 
 |6
-|Three
+|3
 |Hard (<85DD)
 |Queue Trashing
 
 |9
-|Four
+|4
 |Tough (<127DD)
 |Loan, Commercial
 
 |12
-|Five
+|5
 |Impossible (<200DD)
 |Venture Capital
 

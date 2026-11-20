@@ -46,7 +46,7 @@ Alien size is randomly determined for persona aliens.
 
 include::aliens:partial$size_category_list.adoc[]
 
-Two alien sizes do not appear on the Alien Size Table.
+2 alien sizes do not appear on the Alien Size Table.
 These are minute and humongous.
 Minute aliens have wates less than 1kg, and Humongous aliens have wates in the hundreds of tonnes.
 These extreme alien sizes are only for referee personas.
@@ -69,7 +69,7 @@ They are included on the table for information purposes.
 
 include::aliens:partial$alien_size_cat_to_wate.adoc[]
 
-A player with a large sized alien would five 1d100’s and adds 100 to determine her alien's wate.
+A player with a large sized alien would 5 1d100’s and adds 100 to determine her alien's wate.
 Rolling 39, 41, 11, 89 and 67 gives her alien a wate of 347 kg.
 Her alien has no description, no name, or abilities, but its wate is 347 kg.
 
@@ -83,32 +83,26 @@ The most common way to determine hite is by using the Size Category Hite Table
 include::aliens:partial$alien_size_cat_to_hite.adoc[]
 
 == Reach
-The reach of an alien is how far away from it’s torso can it impact the world.
-The reach of an anthro is easily understood by referees and players alike.
-However the reach of an alien with a cow shaped body and octopus arms may not be as clear.
-Once extremes of size are added into the size “reach” can become complicated indeed.
+An alien’s natural Strike Attacks use Reach measured in hexes.
+Reach 0 means the same hex, Reach 1 means adjacent, Reach 2 means 2 hexes away, and Reach 3 means 3 hexes away.
+Reach is the maximum striking distance, not a minimum distance.
+For counting hexes and restrictions, see xref:combat:attack_types.adoc#_reach[Reach].
+Fling and Shoot Attacks use Range instead.
+Psionic evolutations use the distances specified in their descriptions.
 
-Typically the alien’s arms will be it’s reaching limbs.
-If an alien has no arms reaching may not be part of their existence or they can use their legs.
-Reach only applies to grabbing objects or strike attacks.
-Reach does not apply to fling attacks, shoot attacks or psionic evolutations.
+The size category gives the alien’s usual natural Reach.
+The referee can adjust a particular attack’s Reach to suit the alien’s limbs or anatomy.
+An alien using a weapon does not add her natural Reach to its listed Reach.
+Weapon Reach assumes a Medium anthro; the referee determines weapon Reach for other sizes and anatomy.
 
 include::aliens:partial$reach_size_category.adoc[]
 
-Minute aliens have to land on their target before reaching them.
-This means that a minute alien must win an attack roll against 300 defence and land on their target.
+Contact indicates that a Minute alien must land on her target before attacking it, winning an attack roll against Defence 300.
+Tiny aliens have Reach 0 and attack targets in their own hex, with no additional movement requirement.
 
-Tiny aliens must use a move to reach a target inside the hex that they are in.
-This does not seem like much but every player in tactical combat enjoys a move and attack.
-This really limits Tiny aliens.
-
-Small aliens must be in the same hex as their target but do not have to sacrifice their movement.
-
-Medium sized aliens can attack any adjacent hexagon on the combat mat.
-
-Large aliens can reach across their adjacent hexagon and into any hexagon connected to their adjacent hexagons.
-
-Gigantic aliens can reach across 2 hexagons. This is very dangerous in close combat.
+Humongous aliens have a no-attack space of 1 hex: they can strike only targets 2 or 3 hexes away.
+An adjacent target requires the attacker to back away before striking.
+Humongous aliens may have special rules for particular attacks or anatomy, as determined by the referee.
 
 == Space
 How much space does an alien occupy on the hex table?

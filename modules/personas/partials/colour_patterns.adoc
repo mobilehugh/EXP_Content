@@ -2,7 +2,7 @@
 
 [width="75%",cols="^1,<2",frame="all", stripes="even"]
 |===
-2+<s|When one colour is not enough.
+2+<s|When 1 colour is not enough.
 
 s|Roll 1d100
 s|Pattern

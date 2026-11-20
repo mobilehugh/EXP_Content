@@ -70,7 +70,7 @@ The referee makes a secret first impression roll of 42.
 All signs indicate that the cashier is will treat the customer in a perfectly functional manner.
 The feline’s Charisma is added to the roll, making it 53.
 This interaction is still functional.
-The two personas have conflicting personalities and dress types.
+The 2 personas have conflicting personalities and dress types.
 These conflicts reduce the roll to 38.
 The new value moves the cashier’s service level downwards to below functional.
 Below functional is the krenojier’s first impression of the player persona.

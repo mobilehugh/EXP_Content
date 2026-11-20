@@ -4,7 +4,7 @@ Adaptability indicates how susceptible the robot is to modification.
 The higher the adaptability the easier it is to alter the robot.
 A hobbot has a very high adaptability and this improves the chance of a persona altering the robot.
 A defensive combot has a negative adaptability and the chance of altering the robot is greatly reduced. 
-The vast majority of robots have an adaptability of zero.
+The vast majority of robots have an adaptability of 0.
 This means that a mechanic suffers no penalties and enjoys not benefits with doing robotic tasks. 
 
 Let’s consider a mechanic that wants to add an articulation to a hobbot.

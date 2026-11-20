@@ -13,7 +13,7 @@ s|TOY Type
 |knite specified; vehicle.
 
 |Mechanic
-|minimum three rolls; no limits.
+|minimum 3 rolls; no limits.
 
 |Mercenary
 |weapons or armour; vehicle.
@@ -22,7 +22,7 @@ s|TOY Type
 |vehicle.
 
 |Nothing
-|one roll only on Miscellaneous Equip.
+|1 roll only on Miscellaneous Equip.
 
 |Spie
 |weapon; spie specified; vehicle.

@@ -4,24 +4,24 @@
 5+<|Outgunning, outclawing, outpunching.
 
 s|
-s|One Attack
-s|Two Attacks
-s|Three Attacks
+s|1 Attack
+s|2 Attacks
+s|3 Attacks
 s|Flotto
 
-s|One Attack
+s|1 Attack
 s|Same
 |+1
 |+2
 |+3
 
-s|Two Attacks
+s|2 Attacks
 |+1
 s|Same
 |+1
 |+2
 
-s|Three Attacks
+s|3 Attacks
 |+2
 |+1
 s|Same
@@ -34,8 +34,8 @@ s|Flotto
 s|Same
 
 s|
-s|One Attack
-s|Two Attacks
-s|Three Attacks
+s|1 Attack
+s|2 Attacks
+s|3 Attacks
 s|Flotto
 |===

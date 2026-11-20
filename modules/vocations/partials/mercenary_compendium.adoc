@@ -21,7 +21,7 @@ s|Description
 
 |Ambidextrous, Pistols
 |24
-|Use two pistols at once, no penalty.
+|Use 2 pistols at once, no penalty.
 
 |Snap Reload
 |24
@@ -55,11 +55,11 @@ s|Description
 
 |Safe Shot, Grenade
 |42
-|Fling a grenade to avoid one target.
+|Fling a grenade to avoid 1 target.
 
 |Ambidextrous, Striking
 |42
-|Use two striking weapons no penalty.
+|Use 2 striking weapons no penalty.
 
 |Flanking
 |42
@@ -77,15 +77,15 @@ s|Description
 
 |Ambidextrous, Rifles
 |84
-|Use two rifles at once no penalty.
+|Use 2 rifles at once no penalty.
 
 |Safe Shot, Aerosol
 |84
-|Maneuver an aerosol to avoid one target.
+|Maneuver an aerosol to avoid 1 target.
 
 |Ambidextrous, Grenades
 |84
-|Use two grenades at once no penalty.
+|Use 2 grenades at once no penalty.
 
 |Dodge Grenade
 |100
@@ -95,7 +95,7 @@ s|Description
 
 |Ambidextrous, Fling
 |126
-|Use two fling weapons no penalty.
+|Use 2 fling weapons no penalty.
 
 |Dodge Artillery
 |100

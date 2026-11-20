@@ -59,7 +59,7 @@ A table that lists the attack information of a persona.
 Attack types::
 Attack types are used to define how a an attack works.
 Attacks are not just weapons, but include natural attacks like bites or punches.
-There are three main attack types.
+There are 3 main attack types.
 Strike: non-powered thrusting and striking attacks
 Fling: non-powered projectile attacks
 Shoot: powered projectile attacks
@@ -125,15 +125,15 @@ See Percentile Dice.
 A way to generate 1 to 100 by rolling 2d10s.
 
 Dice::
-* 1d1 - A one sided die. Looks like a mobius strip.
-* 1d2 - A two sided die. Looks like a coin
-* 1d3 - A three sided die. Looks like a risk piece.
-* 1d4 - A four sided die. Looks like a pyramid.
-* 1d6 - A six sided die. The famous cube.
-* 1d8 - An eight sided die. It does not look like an octopus.
-* 1d10 - A ten sided die. This die is used to create 1d100 and 1d1000
-* 1d12 - A twelve sided die. What a 3d calendar might look like.
-* 1d20 - A twenty sided die. The largest of platonic solids.
+* 1d1 - A 1 sided die. Looks like a mobius strip.
+* 1d2 - A 2 sided die. Looks like a coin
+* 1d3 - A 3 sided die. Looks like a risk piece.
+* 1d4 - A 4 sided die. Looks like a pyramid.
+* 1d6 - A 6 sided die. The famous cube.
+* 1d8 - An 8 sided die. It does not look like an octopus.
+* 1d10 - A 10 sided die. This die is used to create 1d100 and 1d1000
+* 1d12 - A 12 sided die. What a 3d calendar might look like.
+* 1d20 - A 20 sided die. The largest of platonic solids.
 * 1d100 - Two (tens and digits) 1d10 are rolled to create a 1d100.
 * 1d1000 - Three (hundreds, tens and digits) 1d10 are rolled to create a 1d1000.
 * Kilodie - Another name for a 1d1000
@@ -144,8 +144,8 @@ include::appendices:partial$gravity_powered_randomizers.adoc[]
 
 Die::
 Usually refers to the singular of dice.
-One dice is a die.
-I have been told to “get lost and one dice.”
+1 dice is a die.
+I have been told to “get lost and 1 dice.”
 
 Die roll::
 A die roll indicates that a random number must be generated.
@@ -182,7 +182,7 @@ The creation of a robot persona using dice and EXP rules.
 Not a lie.
 
 Family::
-The three families in EXP are anthro, alien and robot.
+The 3 families in EXP are anthro, alien and robot.
 The anthro type purestrain human has different anthro types, not families.
 
 Fling::
@@ -210,7 +210,7 @@ It is equivalent to m/s.
 
 Hex (h)::
 A hex, short for hexagon.
-The hexagon is six sided figure.
+The hexagon is 6 sided figure.
 Hexagons can interconnect to create a hex field.
 The hex field is used to portray tactical combat on the tabletop.
 A hex equals 2 metres.
@@ -268,7 +268,7 @@ Kilodie::
 A Kilodie generates a random number between 1 and 1000.
 A kilodie is also called a 1d1000
 A roll of 0, 0, 0, would indicate 1000.
-The kilodie is composed of three ten sided dice:
+The kilodie is composed of 3 10 sided dice:
 * 1d10 is the 100s
 * 1d10 is the 10s
 * 1d10 is the 1s
@@ -328,7 +328,7 @@ Percentile Dice::
 A percentile generates a random number between 1 and 100.
 A percentile die is also called a 1d100, or deci-die.
 A roll of 0, 0, would indicate 100.
-The percentile is composed of two ten sided dice:
+The percentile is composed of 2 10 sided dice:
 * 1d10 is the 10s
 * 1d10 is the 1s
 
@@ -356,7 +356,7 @@ This value is less than the attack roll bonus used for familiar weapons.
 Ref::
 Short for referee.
 This is a player that is burdened with creating the milieu and puzzles of the campaign.
-The role of referee is typically one player.
+The role of referee is typically 1 player.
 The role of referee can be rotated or shared amongst multiple players.
 
 Referee Persona (RP)::
@@ -377,7 +377,7 @@ Robots develop free will through malfunction.
 
 Roll::
 Usually refers to rolling dice to generate a random number and infuse chaos into story telling.
-Roll 1d10 means pick up a ten sided die and roll it onto the table.
+Roll 1d10 means pick up a 10 sided die and roll it onto the table.
 Roll also refers to pushing a button to generate a random number on a computer.
 
 Roll-Playing System::
@@ -428,7 +428,7 @@ A session is also called a run or scenario.
 
 Shoot::
 Shoot is a classification of attack, also called an attack type.
-Shoot attacks are powered weapons that make one attack roll per combat unit.
+Shoot attacks are powered weapons that make 1 attack roll per combat unit.
 A powered weapon requires no physical effort by the persona to cause damage.
 Examples are bolt-action rifles, crossbows, aerosols, or lazer eyes.
 
@@ -444,7 +444,7 @@ Strike::
 Strike is a classification of attack, also called an attack type.
 Strike attacks are non-powered thrusting and striking weapons.
 Non-powered means that the persona must generate the force to inflict damage.
-Strike attacks are limited to one attack roll per combat unit.
+Strike attacks are limited to 1 attack roll per combat unit.
 Examples are swords, clubs, daggers, claws, teeth and punches.
 
 Sotto::
@@ -456,7 +456,7 @@ Strike::
 A Strike Attack is a classification of attack, also called an attack type.
 Strike Attacks are non-powered thrusting and striking weapons.
 Non-powered means that the persona must generate the force to inflict damage.
-Strike attacks are limited to one attack roll per combat unit.
+Strike attacks are limited to 1 attack roll per combat unit.
 Examples are swords, clubs, daggers, claws, teeth and punches.
 
 Terra::
@@ -490,7 +490,7 @@ A = Strike, B = Fling, C = Shoot, D and E = Sotto, F = Flotto, G and Z = Zone.
 Unit::
 The unit is the smallest component of combat time in EXP.
 All personas will move, attack of do part of something during each unit.
-A unit of combat may take ten minutes or an hour of real time to play.
+A unit of combat may take 10 minutes or an hour of real time to play.
 The combat unit is 2 seconds.
 
 Vehicle::

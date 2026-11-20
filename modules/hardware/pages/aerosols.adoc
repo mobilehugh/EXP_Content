@@ -124,7 +124,7 @@ Value:: 50
 
 The blinding aerosol renders organic optical sensors inoperative
 Any target with organic optical sensors must win a poison roll or be blinded.
-Every three units spent within the cloud will require another poison roll or be blinded.
+Every 3 units spent within the cloud will require another poison roll or be blinded.
 The blinding poison has an intensity of 2-20 (2d10).
 If blinded, the target will remain blind for 0-9 (1d10 - 1) minutes.
 If the duration is less than 1 minute, the duration is 1 to 20 (1d20) units.
@@ -154,7 +154,7 @@ Organic personas hit directly with a catabolic dismodulator have a 5% chance of 
 If an organic persona can be dismodulated, they must win a poison roll or die.
 
 The area of effect of the catabolic dismodulator is only the target hex.
-The three hex area of effect is from cold damage to targets caught in the shimmering cloud.
+The 3 hex area of effect is from cold damage to targets caught in the shimmering cloud.
 
 === Demagnetizer
 
@@ -219,7 +219,7 @@ EXPS:: 4200
 Value:: 42
 
 This sadistic device explodes like a fragmentation grenade when it is triggered.
-All targets in the one hex area of effect take the damage listed.
+All targets in the 1 hex area of effect take the damage listed.
 The referee should note that it is very impolite to laugh when a persona detonates an exploding aerosol.
 This artifact would be considered a trap and should not count as a toy roll at startup.
 
@@ -233,11 +233,11 @@ Wate:: 2kg
 EXPS:: 100
 Value:: 250
 
-The foam aerosol creates a pad of creamy foam 16 hexes in diameter and two hexes deep.
+The foam aerosol creates a pad of creamy foam 16 hexes in diameter and 2 hexes deep.
 For the first minute, personas can easily move through the foam.
 By the end of the second minute, the foam is starting to thicken, and personas move at half speed.
-Three minutes after being discharged, the foam will be so viscous that personas can only move at quarter speed.
-The pad solidifies after four minutes, and anything still in the foam is completely trapped.
+3 minutes after being discharged, the foam will be so viscous that personas can only move at quarter speed.
+The pad solidifies after 4 minutes, and anything still in the foam is completely trapped.
 
 At no time is breathing hampered by the foam.
 Anything entombed by the foam pad will starve to death before anything else.
@@ -277,7 +277,7 @@ Value:: 900
 The gas aerosol fills the area of effect with a pall of transparent but noticeable gas.
 The cloud of gas will affect all organic creatures within it.
 Personas must win a poison or be affected by the toxin.
-Personas must repeat the poison roll for every three units within the area of effect.
+Personas must repeat the poison roll for every 3 units within the area of effect.
 The intensity of the poison is 2-16 (2d8).
 The cloud will dissipate in 4 to 16 units.
 Roll on the below table to determine the effect of the gas.
@@ -328,7 +328,7 @@ If something is not solid, it does not take on the detecting glow.
 The matter detector aerosol is a good hologram detector too.
 
 Attack rolls on lit targets receive a bonus of +65.
-Ambushes are ten times easier to detect.
+Ambushes are 10 times easier to detect.
 Hiding while lit is 24DD more difficult.
 The duration of detection continues for 1 to 4 minutes.
 
@@ -346,7 +346,7 @@ Value:: 400
 
 The mistor aerosol disables all sensory modalities ineffective.
 Sensors include eyes, sonar, infravision, touch, smell, etc.
-Personas within the cloud are not blinded, but there is a barrier between all five senses.
+Personas within the cloud are not blinded, but there is a barrier between all 5 senses.
 Inside the cloud, vision grey, yelling is quiet, and touch is numb.
 Personas have no sense of direction, and combatants may bump into each other. 
 Attack rolls are random swings and shots.
@@ -473,7 +473,7 @@ Value:: 50
 The repellent aerosol employs irritating pheromones, smells, vibrations and emotions.
 These irritations drive the affected personas out of the area of effect.
 There is no roll vs poison. 
-The three hex area of effect or anything coated by the repellent is unapproachable.
+The 3 hex area of effect or anything coated by the repellent is unapproachable.
 Wildlife aliens will bolt far beyond the area of effect.
 Intelligent creatures may approach the epicentre if they win an intensity 13-28 (3d6+10) poison roll.
 The repellent effect lasts 1-6 (1d6) days.

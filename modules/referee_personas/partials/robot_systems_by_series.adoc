@@ -11,10 +11,10 @@ Systems
 
 s|ID
 s|Series/Model
-s|One
-s|Two
-s|Three
-s|Four
+s|1
+s|2
+s|3
+s|4
 // missing for 2 row defensive system
 s|Basic
 s|Fancy
@@ -271,10 +271,10 @@ s|Fancy
 
 s|ID
 s|Series/Model
-s|One
-s|Two
-s|Three
-s|Four
+s|1
+s|2
+s|3
+s|4
 |
 s|Basic
 s|Fancy

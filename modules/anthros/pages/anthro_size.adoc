@@ -1,6 +1,6 @@
 = Anthro Size
 
-Persona size has two components, hite and wate.
+Persona size has 2 components, hite and wate.
 Hite, aka height, is the persona’s length in centimetres (cm).
 Wate, aka weight, is the persona’s volume/mass in kilograms (kg).
 Anthros are human-sized.

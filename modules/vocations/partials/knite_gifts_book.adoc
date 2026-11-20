@@ -8,23 +8,23 @@ s|Amount
 s|Difficulty
 
 |1
-|One
+|1
 |Trivial (<25DD)
 
 |3
-|Two
+|2
 |Normal (<43DD)
 
 |6
-|Three
+|3
 |Hard (<85DD)
 
 |9
-|Four
+|4
 |Tough (<127DD)
 
 |12
-|Five
+|5
 |Impossible (<200DD)
 
 s|EXPS Level

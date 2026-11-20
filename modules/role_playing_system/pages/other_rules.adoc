@@ -2,7 +2,7 @@
 
 [quote]
 ____
-*One roll to rule them all, and in the story bind them.*
+*1 roll to rule them all, and in the story bind them.*
 ____
 
 . <<_introduction,Introduction>>
@@ -69,16 +69,16 @@ include::ROOT:partial$articulate.adoc[]
 The 4 indicates that the mechanic uses 4 dice.
 The 4 also indicates that there are 4 steps in the process.
 The D refers to dice, and it a play on “D” in the 4d6 convention.
-The 2 reflects that the mechanic has two directions.
+The 2 reflects that the mechanic has 2 directions.
 The joke is that 4D2 sounds like 42.
 Fourty-two is the answer to the wrong question.
 The 4D2 Mechanic gives the answers to questions you can’t understand.
 
-The 4D2 Mechanic uses four six-sided dice to guide the story in the Role-Playing System.
+The 4D2 Mechanic uses 4 6-sided dice to guide the story in the Role-Playing System.
 The 4D2 Mechanic is a bespoke decision tool for EXP’s Role-Playing System.
 If you are familiar with the Roll-Playing System of EXP, the 4D2 replaces Attack Rolls, Task Rolls, Attribute Rolls, Saving Rolls, Sphincter Rolls and more.
 
-.*Four steps of the 4D2 Mechanic*
+.*4 steps of the 4D2 Mechanic*
 . Player rolls dice to get a  *Number*
 . That  *Number* yields an *Outcome*
 . The   *Outcome* produces a *Descriptor*
@@ -127,7 +127,7 @@ If the persona has no Dexterity attribute but makes a dramatic description of th
 If the persona has Dexterity and makes a dramatic description of the diving catch, she would get a shift of +2.
 The number gives an outcome, and that directs what happens to the __vase__.
 
-If two personas are having an arm wrestle, the players may decide that both Dexterity and Strength make up the attribute roll.
+If 2 personas are having an arm wrestle, the players may decide that both Dexterity and Strength make up the attribute roll.
 The player persona has Dexterity and Strength attributes.
 The referee persona has only a Strength attribute. 
 The Strength attributes cancel each other out, and the player gets a +1 shift for her Dexterity attribute.
@@ -179,7 +179,7 @@ The player makes the usual 4D2 roll and can use the attribute Mind as a shift.
 Critical checks are uncommon extreme rolls that evoke statistical excitement.
 Such extreme rolls have synonyms like critical hit, critical save, and automatic success.
 
-The 4D2 Mechanic has two critical results. 
+The 4D2 Mechanic has 2 critical results.
 The positive critical result is called Immaculate Success.
 The negative critical result is called Cataclysmic Failure.
 These are extreme results and have critical impacts on the personas.
