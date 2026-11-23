@@ -41,11 +41,11 @@ s|Skilled for Shoot
 4+<s|Raw Bonus (Raw)
 
 |Strike Attack
-3+<|Ajusted STR
+3+<|Adjusted STR
 
 s|Raw for Strike
 2+<|(No Strike attack - demo only)
->s|24 
+>s|24
 
 
 |Fling Attack
@@ -73,7 +73,7 @@ s|Raw for Shoot
 
 s|Max for Strike
 2+<|240 + 700 (example only)
->s|940 
+>s|940
 
 
 |Fling Attack
@@ -88,7 +88,7 @@ s|Max for Fling
 
 |Max for Shoot
 2+<|50 + 800 (example only)
->s|850 
+>s|850
 |===
 
 
@@ -98,24 +98,15 @@ s|Max for Fling
 
 |Strike Attack
 2+<|EXPS Level
-
-s|Raw for Strike
-<|(demo only)
->s|2 
+>s|2
 
 
 |Fling Attack
 2+<|EXPS Level
-
-s|Raw for Fling
-|
 >s|2
 
 |Shoot Attack
 2+<|EXPS Level
-
-s|Raw for Shoot
-<|(demo only)
 >s|2
 
 |===

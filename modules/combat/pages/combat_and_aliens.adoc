@@ -1,7 +1,7 @@
 = Alien Combat
 
-Alien combat is a legacy section.
-Aliens are just another persona in the tactical combat rules.
+For the most part alien combat aligns with anthro combat and most of the tactical combat rules found here.
+The following are some considerations, and frequently offered answers, that arise in alien combat.
 There are more similarities than differences.
 
 :art: aliencombat.png
@@ -13,9 +13,6 @@ There are more similarities than differences.
 :description: Winged pincered sperm whale biting neck of dragon headed octopus.
 include::ROOT:partial$articulate.adoc[]
 
-For the most part alien combat aligns with anthro combat and most of the tactical combat rules found here.
-The following are some considerations, and frequently offered answers, that arise in alien combat.
-
 .*Alien Combat Considerations*
 * *Species:*
 ** the alien represents one member of a species
@@ -25,7 +22,7 @@ The following are some considerations, and frequently offered answers, that aris
 ** do not have tactics unless described
 ** do not notice weapons or technology (equals terrain)
 ** cannot and will not wear armour
-* *Hit Points*
+* *Hit Points:*
 ** 0 Hit Points (HPS) is __death__ for an alien
 ** System Shock, and hence Recovery, does not apply
 ** Essentially aliens can fight to the death

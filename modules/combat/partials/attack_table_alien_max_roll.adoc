@@ -1,7 +1,7 @@
-.*Anthro Max Roll Table*
+.*Alien Max Roll Table*
 [width="75%",cols="<,<",frame="all", stripes="even"]
 |===
-2+<|As good as it gets. 
+2+<|As good as it gets.
 
 s|Attack Type
 s|Max Roll
@@ -18,5 +18,5 @@ s|Max Roll
 s|Attack Type
 s|Max Roll
 
-2+<|Attack Roll = Max Roll if Attack > Max. 
+2+<|Attack Roll = Max Roll if Attack > Max.
 |===

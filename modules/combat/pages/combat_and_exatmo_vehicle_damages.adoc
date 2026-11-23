@@ -1,6 +1,6 @@
 = Spacecraft Combat Damage
 
-Here are the details for how space vessels break down in combat. 
+Here are the details for how space vessels break down in combat.
 Damage Report!
 
 == Spacecraft Damage
@@ -32,7 +32,7 @@ The damage location is random because of spacecraft diversity, the chaos of comb
 Space vehicle damage is similar to damage location for robots and vehicles.
 Every successful attack generates a random damage location.
 
-The damage location is not the same as a hit location. 
+The damage location is not the same as a hit location.
 Power surges, electric disruptions, shields, and ship structure send damage anywhere in the vehicle.
 Even a spacecraft that is immobilized cannot have damage locations chosen.
 Automatic hitting does not affect damage location.
@@ -45,29 +45,29 @@ The damage location may have never existed on the spacecraft.
 For example, a spacecraft may not have a special drive damage location.
 
 There are several approaches to missing damage locations.
-The player can simply roll again to find a different damage location. 
+The player can simply roll again to find a different damage location.
 The referee can move the damage location within the general damage location.
 For example, a hit on the special drives becomes a hit on the exatmo drives.
 
-In the case of a previously destroyed location, the attack falls on useless space junk. 
-A system is destroyed when its function is <1%. 
+In the case of a previously destroyed location, the attack falls on useless space junk.
+A system is destroyed when its function is <1%.
 
 == Damage Extent
 The Extent of Damage Table determines how badly the system is damaged.
 Space vehicle weapons inflict damage in HPS, but spacecraft do not have hit points.
 Damage inflicts a decrease in function to the location.
-The extent of damage roll reduces the performance of onboard equipment. 
-If an exatmo drive is reduced by 50% functionality, the spacecraft loses half its speed and range. 
-If the exatmo drive is damaged by 50% again, the new functionality would be 25% fully operational. 
+The extent of damage roll reduces the performance of onboard equipment.
+If an exatmo drive is reduced by 50% functionality, the spacecraft loses half its speed and range.
+If the exatmo drive is damaged by 50% again, the new functionality would be 25% fully operational.
 For example, an exatmo drive level of 8 would be reduced to 4 by 50% damage and then to 2 by another 50% damage.
 
 include::combat:partial$exatmo_vehicle_damage_amount.adoc[]
 
 === Force Bonus
-Force Bonus is an optional rule that increases the severity of damage by hit points of damage. 
+Force Bonus is an optional rule that increases the severity of damage by hit points of damage.
 Each hit point of damage increases the extent of damage by 1 percent.
 An attack inflicting 30 HPS of damage adds 30 to the extent of damage roll.
-If a player rolls 55 on the extent of damage table and inflicts 30 hit points of damage, the final roll is 85. 
+If a player rolls 55 on the extent of damage table and inflicts 30 hit points of damage, the final roll is 85.
 The 30 hit points increased the extent of damage from minor to major.
 When using this damage adjuster, space weapons become way more destructive.
 The players may prefer to adjust the Force Bonus to 1 percent per 5 hit points of damage.
@@ -85,15 +85,15 @@ This means all functions that involve the exatmo drive are severely impaired.
 In combat this can mean the difference between being boarded or not.
 
 Consider another hit to the exatmo drives dealing a Critical blow (70% performance drop)
-They are now functioning at 11% and the exatmo drive level is reduced to 1 
+They are now functioning at 11% and the exatmo drive level is reduced to 1
 
 A system is disabled when it is reduced to less than 10% function.
 
 === Damage Descriptors
-Each time a system is damaged, its performance decreases. 
+Each time a system is damaged, its performance decreases.
 The damage descriptors offer another way to describe net damage.
 A system with minor damage is functioning at 90% capacity.
-A system with less than 10% of capacity if disable. 
+A system with less than 10% of capacity if disable.
 
 include::combat:partial$exatmo_system_dysfunction.adoc[]
 
@@ -155,7 +155,7 @@ Drives are the whole point of the spacecraft.
 The higher the drive level, the better the spacecraft.
 The extent of damage inflicted reduces drive levels.
 If a level 10 exatmo takes major damage (40% reduction), it becomes a level 6 drive.
-Drive damage is cumulative. 
+Drive damage is cumulative.
 
 === Inatmo Drive Damage
 Reduce the drive level of the in atmosphere drive by the percentage indicated.
@@ -173,18 +173,18 @@ Disabling the exatmo drives is a victory condition.
 
 Exatmo drives power defence shields, active defences, and boarding evasion.
 Damage to the exatmo drives also impairs these ancillary functions.
-Exatmo drives are not affected by exposure exatmo. 
+Exatmo drives are not affected by exposure exatmo.
 However, personas running the drives can be.
 
 === Special Drive Damage
 Reduce the drive level of the special drive by the percentage indicated.
 A disabled special drive keeps the spacecraft from making any long voyages.
-Special drives are so delicate they resemble a life form. 
+Special drives are so delicate they resemble a life form.
 Exatmo is very unhealthy for a special drive.
 
 == Fuel Damage
 Damage to the fuel system represents the drive’s inability to access the necessary fuel to function.
-Disabling fuel systems can disable a particular drive or all drives. 
+Disabling fuel systems can disable a particular drive or all drives.
 Sometimes the fuel itself is destroyed or lost in space.
 Other times the fuel is still present but cannot be accessed.
 During combat, there is no difference.
@@ -221,7 +221,8 @@ The computer is the spacecraft, and the spacecraft is the computer.
 The ship’s computer is the most important and most delicate system on the spacecraft.
 Computer damage impairs nearly every function of the spacecraft.
 If a level 6 computer suffers 40% damage, it retains 60% function: 6 * 0.6 = 3.6 effective levels before rounding.
-ECM, boarding, defences, ramming, targeting are all impaired by this decrease in function. 
+Regular rounding rules should apply, and the new computer level would be 4.
+ECM, boarding, defences, ramming, targeting are all impaired by this decrease in function.
 
 A disabled ship’s computer puts everything into a non-functional hibernation state.
 Personas may try to operate a ship with a disabled computer manually.
@@ -244,7 +245,7 @@ Robot self-awareness could range from irritating behaviours to a well-deserved r
 
 === Software
 While the computer level remains intact, its software loses function.
-Ship software has both hardware and software components representing a tight integration with the ship. 
+Ship software has both hardware and software components representing a tight integration with the ship.
 
 The decrease in function is not only programming data but essential peripherals and sensors as well.
 Software damage does not affect the computer level or ECM.
@@ -261,8 +262,8 @@ Contents include any cargo or personas in the cargo bay.
 
 Major (decrease by 40%) damage from an attack delivering 42 HPS in damage hits the cargo bay.
 The cargo airlock can only open to 60% of the previous opening.
-All personas in the cargo area would take 42 HPS in damage. 
-The damage would reduce the value of the Profulcinating Hygromodulators (TM) to 60% of previous. 
+All personas in the cargo area would take 42 HPS in damage.
+The damage would reduce the value of the Profulcinating Hygromodulators (TM) to 60% of previous.
 
 == Crew Damage
 Crew quarters damage is the most dangerous of all the damage locations.
@@ -336,7 +337,7 @@ ECM is a bit more resilient than other spacecraft systems.
 Damaged defensive ECM can still function fully as attack ECM.
 If the space vessel has two ECM systems, the attack ECM can replace the damaged defensive ECM, and the defence ECM can replace the damaged attack ECM.
 
-=== Shields 
+=== Shields
 Shields are the technomagical standard that indicates the health of a spacecraft.
 The shields’ effectiveness drops by the percentage indicated on the extent of damage roll.
 Shields are immune to damage bonuses on the Extent of Damage Table.
@@ -376,7 +377,7 @@ The player must make a successful pilot roll for a successful ramming attack.
 Does one reduce the player’s die roll by the extent of damage?
 Does one increase the value that the player needs to beat?
 Since ramming is such a blunt instrument, this referee prefers to ignore the graduated drop.
-Ramming is either working or disabled. 
+Ramming is either working or disabled.
 
 If the Ramming system is disabled, this spacecraft may no longer ram.
 A spacecraft with disabled ramming capacity may still use the Boarding attack.
@@ -401,7 +402,7 @@ Calculating the reduction in boarding effectiveness is a pain in the butt.
 The player must make a successful pilot roll for a successful boarding attack.
 Does one reduce the player’s die roll by the extent of damage?
 Does one increase the target roll that the player needs to beat?
-Often it is easier just to accept boarding is either operational or disabled. 
+Often it is easier just to accept boarding is either operational or disabled.
 
 If the Boarding system is disabled, this spacecraft may no longer board.
 A spacecraft with a disabled boarding capacity may still use the Ramming attack.
@@ -411,7 +412,7 @@ The number of grenade attacks drops by the amount indicated by the extent of dam
 This reduction in function impacts both mini-missiles and mini-mines.
 The damage impairs the guidance systems and connectivity to the ship’s computer.
 
-The extent of damage decreases the number of mini-missiles and mini-mines deployable per turn. 
+The extent of damage decreases the number of mini-missiles and mini-mines deployable per turn.
 For example, a grenade system reduced to 60% could only drop six mini-mines instead of 10.
 
 Instantaneously destroyed (reduced to <1% in 1 attack), grenades may explode inside the spacecraft.
@@ -423,7 +424,7 @@ The number of bomb attacks drops by the amount indicated by the extent of damage
 This reduction in function impacts both naval missiles and naval mines.
 The damage impairs the guidance systems and connectivity to the ship’s computer.
 
-The extent of damage decreases the number of missiles and mines deployable per turn. 
+The extent of damage decreases the number of missiles and mines deployable per turn.
 For example, a bomb system reduced to 60% could only drop 6 mines instead of 10.
 
 Instantaneously destroyed (reduced to <1% in 1 attack), bomb systems may explode inside the spacecraft.
@@ -458,7 +459,7 @@ Nothing personas showering in the crew quarters are at risk of damage.
 Mechanics working on the drives are at risk of damage.
 
 Hull penetration is not the cause of persona damage.
-Destructive forces are communicated into the damage location by shock waves, debris, and energy leaks. 
+Destructive forces are communicated into the damage location by shock waves, debris, and energy leaks.
 Most persona damage is delivered when they throw themselves around as the camera shakes.
 
 Damage from a bomb or naval artillery will certainly annihilate any persona caught in the hit location.

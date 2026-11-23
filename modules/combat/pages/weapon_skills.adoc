@@ -77,14 +77,10 @@ Her weapon skills are now dagger-2, bow-1, throw dagger-1, pistol-1 and rifle-1.
 == Edge Cases
 
 === Aliens
-Aliens are automatically skilled with their natural attacks and use Skilled Bonus for the Attack Type.
+Aliens are automatically skilled with their natural attacks and use Skilled Bonus for the natural Attack Type.
 Aliens that are not tool users cannot comprehend weapons and do not use them.
 Aliens cannot advance the skill level of their natural attacks.
 There is a built in Force Bonus improvement as the alien increases in experience levels.
-
-Tool using aliens will require a vocation to use tech weapons.
-Tech weapons would include mundane terran weapons like swords and bows.
-Weapon using aliens must generate an attribute based Attack Table to use weapons.
 
 === Knites
 Knites are always skilled with their energy sword.

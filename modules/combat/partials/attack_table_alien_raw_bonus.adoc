@@ -1,7 +1,7 @@
-.*Anthro Raw Bonus Table*
+.*Alien Raw Bonus Table*
 [width="75%",cols="<,<",frame="all", stripes="even"]
 |===
-2+<|Alien is skilled with her natural evolved attacks. 
+2+<|For those attacks that are not her natural attacks.
 
 s|Attack Type
 s|Raw Bonus
@@ -19,5 +19,5 @@ s|Attack Type
 s|Raw Bonus
 
 2+<|Wildlife can only use their skilled natural attacks.
-2+<|Non-vocation aliens must use Raw Bonus for artifact weapon attacks. 
+2+<|Non-vocation aliens must use Raw Bonus for artifact weapon attacks.
 |===

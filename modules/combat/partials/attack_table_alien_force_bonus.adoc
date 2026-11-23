@@ -1,4 +1,4 @@
-.*Anthro Force Bonus Table*
+.*Alien Force Bonus Table*
 [width="75%",cols="<,<",frame="all", stripes="even"]
 |===
 2+<|The player adds this number to her damage rolls.

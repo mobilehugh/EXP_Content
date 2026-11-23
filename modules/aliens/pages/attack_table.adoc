@@ -14,12 +14,11 @@ The attack table is composed of 4 roll bonuses spread across 3 attack types.
 ** may apply to skilled weapons if the alien is a tool user
 * xref:combat:attack_table_details.adoc#_raw_bonus[Raw Bonus,window=_blank, rel="noopener noreferrer"]
 ** can never apply to natural attacks
-** may apply to unskilled weapons it the alien is an educated tool user
 * xref:combat:attack_table_details.adoc#_max_roll[Max Roll,window=_blank, rel="noopener noreferrer"]
 ** the highest roll possible
 * xref:combat:attack_table_details.adoc#_force_bonus[Force Bonus,window=_blank, rel="noopener noreferrer"]
-** always 0 for natural attacks, as STR is rolled into the damage roll
-** may apply to weapons if the alien is a tool user
+** is 1 point per Level and does not involve STR like other families
+** this is different if the alien has a vocation attack table
 
 .*Attack Types*
 * xref:combat:attack_types.adoc#_strike_attacks[Striking attacks,window=_blank, rel="noopener noreferrer"]
@@ -35,5 +34,5 @@ These bonuses are based on the persona's attributes, increase with experience le
 
 .*Aliens and Artifact Weapons*
 * Wildlife - No weapons use or interest in them at all, always natural attacks
-* Tool Using - May use a weapon with Raw Bonus of 0
+* Tool Using - May use a weapon with Raw Bonus.
 * Educated - May use Vocation Attack Table and it’s Skilled Bonus

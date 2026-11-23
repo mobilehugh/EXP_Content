@@ -53,7 +53,7 @@ s|Skilled for Shoot
 
 s|Raw for Strike
 2+<|196 * 25%
->s|49 
+>s|49
 
 
 |Fling Attack
@@ -61,14 +61,16 @@ s|Raw for Strike
 
 s|Raw for Fling
 2+<|156 * 25%
->s|39 
+>s|39
 
 |Shoot Attack
 3+<|Shoot Skilled * Spie Fraction
 
 s|Raw for Shoot
 2+<|190 * 25%
->s|47.5
+>s|48
+
+4+<s|Round up to player's benefit
 |===
 
 [width="85%",cols="4*<",frame="all", stripes="even"]
@@ -81,7 +83,7 @@ s|Raw for Shoot
 
 s|Max for Strike
 2+<|196 + 625
->s|821 
+>s|821
 
 
 |Fling Attack
@@ -96,7 +98,7 @@ s|Max for Fling
 
 |Max for Shoot
 2+<|190 + 675
->s|865 
+>s|865
 |===
 
 
@@ -109,7 +111,7 @@ s|Max for Fling
 
 s|Force for Strike
 2+<|16 * .5
->s|8 
+>s|8
 
 
 |Fling Attack
@@ -124,7 +126,7 @@ s|Force for Fling
 
 s|Force for Shoot
 2+<|16 * 0
->s|0 
+>s|0
 |===
 
 .*Putting It All Together*
