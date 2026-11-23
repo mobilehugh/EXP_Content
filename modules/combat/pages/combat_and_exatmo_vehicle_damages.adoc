@@ -220,7 +220,7 @@ Unless destroyed in combat, the consumption system is repairable.
 The computer is the spacecraft, and the spacecraft is the computer.
 The ship’s computer is the most important and most delicate system on the spacecraft.
 Computer damage impairs nearly every function of the spacecraft.
-If a level 6 computer suffers 40% damage, it becomes a level 2 computer.
+If a level 6 computer suffers 40% damage, it retains 60% function: 6 * 0.6 = 3.6 effective levels before rounding.
 ECM, boarding, defences, ramming, targeting are all impaired by this decrease in function. 
 
 A disabled ship’s computer puts everything into a non-functional hibernation state.
@@ -340,13 +340,13 @@ If the space vessel has two ECM systems, the attack ECM can replace the damaged 
 Shields are the technomagical standard that indicates the health of a spacecraft.
 The shields’ effectiveness drops by the percentage indicated on the extent of damage roll.
 Shields are immune to damage bonuses on the Extent of Damage Table.
-If a shield could absorb 400 HPS damage and has sustained major damage (60%), it would only be able to absorb 240 HPS per attack until repaired.
+If a shield could absorb 400 HPS damage and has sustained major damage (40% lost, 60% remaining), it would only be able to absorb 240 HPS per attack until repaired.
 The shield is disabled at <10% of capacity, and attacks on the shield move to the Hull DEF.
 
 === Guns
 Gun damage represents damage to the airlock defence guns.
 The gun’s range and damage drop by the extent of damage indicated.
-So an airlock gun that sustained major damage (40% damage) would have its range reduced by 60%, and each damage roll reduced by 60%.
+So an airlock gun that sustained major damage (40% damage) would have its range reduced by 40%, and each damage roll reduced by 40%.
 A gun with a range of 100 hexes would now have a range of 60 hexes.
 Every damage roll would be multiplied by 0.6.
 A disabled gun stops working.

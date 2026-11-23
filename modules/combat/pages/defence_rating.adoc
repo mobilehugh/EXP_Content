@@ -12,7 +12,6 @@ Defence represents a single number that determines how difficult a target is to 
 The higher the Defence, the more difficult it is to damage the persona.
 
 An attack roll must be greater than, or equal to, the target’s Defence to do damage.
-Referees must roll an attack roll higher than the persona’s Defence to do damage.
 
 :art: armour_rating_burning_tail.png
 :width: 250px

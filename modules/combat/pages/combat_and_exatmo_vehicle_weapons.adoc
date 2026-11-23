@@ -122,7 +122,7 @@ Maximum number of attempts is
 === Calculate Attempt Number
 .Attempts = (attacker drive + computer + pilot levels) - (defender drive + pilot levels)
 ****
-attempts = 5 (drive 5) + 2 (computer 3) + 1 (pilot 1) - 4 (drive 4) - 2 (pilot 2) = 2 
+attempts = 5 (drive 5) + 3 (computer 3) + 1 (pilot 1) - 4 (drive 4) - 2 (pilot 2) = 3
 ****
 
 ==== Positive Ramming Attempts
@@ -227,7 +227,7 @@ If the number of boarding attempts is less than 1 the vessel *CANNOT* board.
 === Calculate Attempt Number
 .Attempts = (attacker drive + computer + pilot levels) - (defender drive + pilot levels)
 ****
-attempts = 5 (drive 5) + 2 (computer 3) + 1 (pilot 1) - 4 (drive 4) - 2 (pilot 2) = 2 
+attempts = 5 (drive 5) + 3 (computer 3) + 1 (pilot 1) - 4 (drive 4) - 2 (pilot 2) = 3
 ****
 
 === Boarding Success Target

@@ -9,7 +9,7 @@ For exotic terrains like zero gravity or exatmo, jump to  xref:uncombat:terrains
 :art: alien_spaceship_swamp.png
 :width: 250px
 :snark: Alien slogging through terrain.
-:artist: Andrew Bre:chin
+:artist: Andrew Brechin
 :date: 1990
 :license: CC BY-SA 4.0
 :description: Chicken legged alien walking through a swamp.
@@ -35,7 +35,6 @@ If the foliage penalty reduces a persona’s movement rate below 1 h/u, she must
 The foliage has become too thick for regular combat movement.
 Minute or Nano personas can usually navigate through foliage with no effect until Mess or Wall depth.
 Colossal or Humongous creatures can pass over foliage with impunity.
-
 
 == Liquid
 Water, or any liquid substance, slows down personas is covered here.

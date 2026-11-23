@@ -19,7 +19,7 @@ This method keeps a Max Roll unchanged in the face of penalties, and allows the 
 A payer with a Max Roll (Max) of 763 is making an attack roll against a Defence (DEF) of 793.
 Under normal circumstances, the persona could not hit the target because her Max Roll (Max) is too low.
 However, the rear attack bonus of +90 adjusts the final attack roll upwards by 90.
-The final attack roll could be as high as 883 (Max of 793 plus 90), making a successful attack roll possible.
+The final attack roll could be as high as 853 (Max of 763 plus 90), making a successful attack roll possible.
 
 This method of administering attack roll bonuses is blatantly biased towards the players.
 There is no justifiable reason for players to be excluded from combat because their persona has an inadequate Max Roll (Max).

@@ -68,7 +68,7 @@ s|Raw for Fling
 
 s|Raw for Shoot
 2+<|190 * 25%
->s|49 
+>s|47.5
 |===
 
 [width="85%",cols="4*<",frame="all", stripes="even"]
@@ -155,7 +155,7 @@ s|Fling
 
 s|Shoot
 |190
-|49
+|47.5
 |865
 |0
 

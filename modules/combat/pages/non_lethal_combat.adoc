@@ -74,7 +74,7 @@ Her HPS total does not change at this point.
 === Damage System Shock Roll (DSS)
 .1d20 + HPS + CON + LVL > 42
 ****
-If Socmob DSS Check = 12 (1d20) + 20 (HPS - Non-Lethal Damage) + 8 (CON) + 2 (Level) = 12 + 20 + 8 + 2 = 42. > 42 so no stun +
+If Socmob DSS Check = 13 (1d20) + 20 (HPS - Non-Lethal Damage) + 8 (CON) + 2 (Level) = 13 + 20 + 8 + 2 = 43. > 42 so no stun +
 If Socmob DSS Check = 8 (1d20) + 20 (HPS - Non-Lethal Damage) + 8 (CON) + 2 (Level) = 8 + 20 + 8 + 2 = 38. < 42 so Socmob goes down
 ****
 
@@ -108,7 +108,7 @@ For example, 15 HPS of non-lethal damage has a 15% chance of becoming 15 HPS of 
 Angry pugilist’s 20 HPS of Non-Lethal Damage has a 20% of converting to 20 HPS full damage.
 ****
 
-If the player running the angry pugilist rolls under 20 on deci-die Socmob would take 20 HPS of damage. 
+If the player running the angry pugilist rolls 20 or less on deci-die Socmob would take 20 HPS of damage.
 This would drop her HPS to 20. 
 Socmob would be very softened by this blow.
 Later in the brawl such a blow could be lethal.

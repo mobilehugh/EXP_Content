@@ -13,11 +13,11 @@
 3+<|(Prime * STR) = 3 * 16 = 48
 
 |Level Component
-3+<|(STR * Lvl) = 22 * 3 = 66
+3+<|(STR * Lvl) = 16 * 3 = 48
 
 s|Skilled for Strike
-2+|110 + 48 + 66
->s|224
+2+|110 + 48 + 48
+>s|206
 
 |Fling Attack
 3+<|5 * AWE + 5 * STR + Prime * DEX + Level * Bonus
@@ -149,7 +149,7 @@ s|Force
 
 
 s|Strike
-|224
+|206
 |0
 |--
 |16

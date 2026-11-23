@@ -189,7 +189,7 @@ This kind of cover would not protect a persona from a gas grenade attack.
 
 Taking cover from an explosive grenade attack can mitigate the damage inflicted.
 If a target has 90% cover, then reduce the damage by 90%. 
-If the target has 33% cover, then reduce the damage to 33%.
+If the target has 33% cover, then reduce the damage by 33%, leaving 67% of the original damage.
 Concealment offers no protection against explosive grenades.
 
 include::combat:partial$defence_cover_concealment.adoc[]

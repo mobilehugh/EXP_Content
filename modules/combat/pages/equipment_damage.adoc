@@ -33,8 +33,8 @@ include::combat:partial$artifact_hit_points.adoc[]
 A tech level 10 age determiner is worth 200 EXPS and has 10 HPS.
 The artifact will be damaged if exposed to 10 or more HPS in damage
 
-A tech level 20 napalm grenade is worth 540 EXPS and has 108 HPS.
-The artifact will be damages if exposed to 108 or more HPS in damage.
+A tech level 20 napalm grenade is worth 540 EXPS and has 54 HPS.
+The artifact will be damages if exposed to 54 or more HPS in damage.
 Whether is detonates or not is a different story. 
 
 A Junque, whiz and click device is worth nothing and mostly irritates the expedition.

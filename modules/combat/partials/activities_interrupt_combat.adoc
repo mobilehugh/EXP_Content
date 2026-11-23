@@ -7,7 +7,7 @@ s|Activity
 s|Duration
 
 |Apply a derm
-|0-2 (1d2 - 1)
+|0-1 (1d2 - 1)
 
 |Apply a lotion
 |2-20 (2d10)

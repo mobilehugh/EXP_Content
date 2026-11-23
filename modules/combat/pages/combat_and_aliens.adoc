@@ -1,7 +1,7 @@
 = Alien Combat
 
 Alien combat is a legacy section.
-Aliens are just another persona in the tactical combat rules. 
+Aliens are just another persona in the tactical combat rules.
 There are more similarities than differences.
 
 :art: aliencombat.png
@@ -13,18 +13,32 @@ There are more similarities than differences.
 :description: Winged pincered sperm whale biting neck of dragon headed octopus.
 include::ROOT:partial$articulate.adoc[]
 
-== Considerations
+For the most part alien combat aligns with anthro combat and most of the tactical combat rules found here.
+The following are some considerations, and frequently offered answers, that arise in alien combat.
 
-. Aliens represent entire species.
-. Wildlife rarely has tactics.
-. Wildlife sees technology as terrain, like sticks and rocks.
-. Only tool using aliens use weapons.
-.. Weapon using aliens use a vocation attack table.
-. Naturally evolved attacks use Skilled Bonus on the attack table
-. Aliens do not have Force Bonus for their natural attacks.
-.. Aliens do have Force Bonus when they use weapons.
-. Only tool using aliens use armour.
-.. Alien naked Defence is randomly determined.
-.. Descriptive body part types do not affect Defence.
-. Alien die at 0 hit points.
-.. Aliens do not suffer damage system shock and can fight until dead.
+.*Alien Combat Considerations*
+* *Species:*
+** the alien represents one member of a species
+** different aliens can have different attack tables and mutations
+* *Wildlife:*
+** are dangerous and unpredictable, but do not attack without reason
+** do not have tactics unless described
+** do not notice weapons or technology (equals terrain)
+** cannot and will not wear armour
+* *Hit Points*
+** 0 Hit Points (HPS) is __death__ for an alien
+** System Shock, and hence Recovery, does not apply
+** Essentially aliens can fight to the death
+* *Defence:*
+** is naturally determined by skin, hide and dexterity
+** descriptive body part types do not affect Defence
+** only tool using aliens can wear armour
+* *Natural Attacks:*
+** these are the evolved attacks of the alien
+** the alien is Skilled with natural attacks
+** Force Bonus is *not* STR related, and equals Level
+* *Weapon Attacks:*
+** wildlife cannot see, comprehend or use weapons
+** must have at least simple tool usage
+** if *no vocation* use Raw Bonus and Level based Force Bonus
+** if vocation use Skilled or Raw and STR based Force Bonus
