@@ -11,10 +11,10 @@ The attack table is composed of 4 roll bonuses spread across 3 attack types.
 
 .*Attack Roll Bonuses*
 * xref:combat:attack_table_details.adoc#_skilled_bonus[Skilled Bonus,window=_blank, rel="noopener noreferrer"]
-** when using baked-in weapons, or weaponized malfunctioning peripherals acquired from offensive peripherals
+** when using baked-in weapons designed for combat
 * xref:combat:attack_table_details.adoc#_raw_bonus[Raw Bonus,window=_blank, rel="noopener noreferrer"]
 ** robot Raw Bonus is 0
-** creative attacks use the Raw Bonus of 0
+** misused non-weapon peripherals and creative attacks use the Raw Bonus of 0
 * xref:combat:attack_table_details.adoc#_max_roll[Max Roll,window=_blank, rel="noopener noreferrer"]
 ** robots have a Max Roll of none
 ** the player uses the final value of the kilodie roll
@@ -31,7 +31,10 @@ The attack table is composed of 4 roll bonuses spread across 3 attack types.
 ** attacks not dependant on the robot's strength, a misused cutting lazer or a nail gun.
 
 These items create a matrix of arithmetic fun called an attack table.
-If the alien were attacking with her natural claw attack the player would add her Skilled Strike Bonus to her attack roll.
+If the robot attacks with a built-in gun designed as a weapon, the player adds her Skilled Shoot Bonus to her attack roll.
+If the robot shoots staples from a stapler designed for non-combat work, the player uses her Raw Bonus of 0.
+Both devices may be built into the robot and generated during fabrication; their intended purpose determines which bonus applies.
+Ramming follows its own xref:robots:peripherals_offensive.adoc#_ramming[Ramming progression,window=_blank, rel="noopener noreferrer"].
 These bonuses are based on the persona's attributes, increase with experience levels.
 
 == Artifact Weapon Use
@@ -43,7 +46,7 @@ If an evolutation has an attack type they player would use this baked-in attack 
 The robot attack table is not for external artifact weapons that the robot has found laying around.
 If a robot has no appropriate articulation they cannot pick up and use a gun, a club, or a grenade.
 Full stop.
-To even ram a target the player will need to win a Control Factor roll if their persona does not have ramming skill
+At Ramming 0, the player must win a Free Will check before her robot persona can attempt to ram a target.
 
 NOTE: Playing a robot is more “alien” than playing an alien.
 
@@ -57,6 +60,7 @@ If there is no articulation for using external tools the persona cannot wield we
 It is possible for a robot to acquire a weapon skill.
 A weapon skill can be acquired through a peripheral or a program.
 With a weapon skill a robot can use their Skilled Bonus on the attack table with that specific weapon type.
+This applies to actual weapons, not to misusing non-weapon peripherals.
 
 == Vocation Attack Table
 It is extremely rare for a robot to have a full vocation integrated into their consciousness.

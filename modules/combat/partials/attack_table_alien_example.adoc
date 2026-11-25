@@ -97,16 +97,16 @@ s|Max for Fling
 3+<s|Force Bonus
 
 |Strike Attack
-2+<|EXPS Level
+<|EXPS Level
 >s|2
 
 
 |Fling Attack
-2+<|EXPS Level
+<|EXPS Level
 >s|2
 
 |Shoot Attack
-2+<|EXPS Level
+<|EXPS Level
 >s|2
 
 |===

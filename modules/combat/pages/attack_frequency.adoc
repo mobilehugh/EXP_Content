@@ -32,7 +32,7 @@ For an optional way to make multiple attacks more biological, jump to xref:refer
 === Robots
 A robot may have multiple pointy things with which to stab, multiple levers that pitch batteries, or multiple built-in Shoot Attacks.
 Use the attack frequency specified for the robot’s attack.
-A robot uses her Skilled Bonus for built-in attacks and her Raw Bonus for malfunctioning peripherals.
+A robot uses her Skilled Bonus for built-in weapons designed for combat and her Raw Bonus of 0 for misused non-weapon peripherals.
 
 == Skills and Abilities
 Some skills and abilities allow multiple attacks per unit.

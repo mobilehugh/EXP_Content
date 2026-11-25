@@ -13,23 +13,32 @@ There are more similarities than differences.
 :description: Martial arts skilled humanoid robot throwing two humans at once.
 include::ROOT:partial$articulate.adoc[]
 
-== Points to Ponder on Robot Combat
+.*Robot Combat Considerations*
+* *Free Will*
+** Combat can be an internal computational struggle.
+** xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] rolls may be required.
+* *Fabricator*
+** Often robots cannot harm their fabricator genus (e.g., canine. or feline)
+** While this is not absolute it may task Free Will.
+* *Ramming*
+** All robots can ram into targets.
+** Ramming 0 makes ramming difficult for the robot. 
+** Ramming 4 makes the robot a ramming machine
+* *Defence*
+** Robot Defence is 700 unless hardened by peripherals.
+* *Attack Bonuses*
+** Skilled Bonus is used for baked-in weapons designed for combat.
+** Raw Bonus is used for misused peripherals. 
+** A built-in gun is a weapon; a built-in stapler used to shoot at targets is a misused peripheral.
+* *Damage*
+** Robots lose hit points the same way other personas do.
+** Electrical and disintegration attacks inflict double damage.
+* *Hit Points*
+** A robot is neither destroyed nor unconscious a 0 HPS.
+** But they do deteriorate, losing attributes and peripherals.
 
-. Combat is an internal computational struggle.
-.. xref:uncombat:robot_free_will.adoc[Control Factor,window=_blank, rel="noopener noreferrer"] rolls may be required.
-. Robots may have a fabricator type that they protect.
-. Skilled Bonus is only for baked-in bespoke weapons.
-.. Raw Bonus is used for misused peripherals. 
-. Ramming is different from ramming skill.
-.. Ramming attack is required to use the Skilled Bonus.
-. Robot Defence is 700 unless hardened by defences.
-. Electrical and disintegration attacks inflict double damage.
-. A robot is neither destroyed nor unconscious a 0 HPS.
-.. Demolition tables are complex and fun.
-.. Robot free will increases with malfunction and damage.
-. Robots can be defeated by means other than violence.
 
-== Fabricator Type
+== Fabricator
 The relationship between a robot and her fabricator type is fluid at the best of times.
 There are no https://en.wikipedia.org/wiki/Isaac_Asimov[Asimovian] 3 rules in EXP.
 Robots cannot easily engage in combat with their fabricator type.
@@ -89,8 +98,10 @@ A robot may smash itself into a target with the full intent of inflicting damage
 If the robot can cross paths with a target on the hex mat, the player can make a ramming attack roll.
 Ramming is a Strike attack on the robot’s attack table.
 
-While all robots can ram, not all robots have ramming freedom.
-Ramming freedom is an offensive system that allows the player to attack without making a control factor roll.
+All robots have a Ramming rating from 0 to 4.
+At Ramming 0, the player must win a Free Will check before attempting to ram.
+At Ramming 1 to 4, this check is not required.
+For the full progression, jump to xref:robots:peripherals_offensive.adoc#_ramming_rating[Ramming,window=_blank, rel="noopener noreferrer"].
 
 .*Ramming Checklist*
 . Attack Roll
@@ -101,8 +112,8 @@ Ramming freedom is an offensive system that allows the player to attack without 
 === Attack Roll
 The player makes an attack roll for her persona.
 If the player’s attack roll is higher than the target’s Defence, the target gets rammed.
-The player can add her persona’s Strike bonus to her attack roll.
-The player can only add her Strike  Raw Bonus to her ramming attack roll.
+At Ramming 0 or 1, the player uses her Strike Raw Bonus of 0.
+At Ramming 2 to 4, the player adds her Strike Skilled Bonus.
 
 === Damage
 The damage the player rolls if she wins her attack roll depends on the shape of the part with which the robot rams.
@@ -153,7 +164,7 @@ If the robot and the target have the same wate description, the crush multiplier
 So a medium-sized robot does not get a crush multiplier against a medium-sized target.
 
 === Calculate Crush Multiplier
-.Crush Multiplier = Robot wate (kgs) / target wate (kgs)
+.Crush Multiplier = Robot wate (kg) / target wate (kg)
 ****
 The maximum bonus is 4 times.  +
 The maximum penalty is 1/4 times.

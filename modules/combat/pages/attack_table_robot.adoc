@@ -14,7 +14,7 @@ If an evolutation has an attack type they player would use this baked-in attack 
 The robot attack table is not for external artifact weapons that the robot has found laying around.
 If a robot has no appropriate articulation they cannot pick up and use a gun, a club, or a grenade.
 Full stop.
-To even ram a target the player will need to win a Control Factor roll if their persona does not have ramming skill
+At Ramming 0, the player must win a Free Will check before her robot persona can attempt to ram a target.
 
 NOTE: Playing a robot is more “alien” than playing an alien.
 
@@ -28,6 +28,7 @@ If there is no articulation for using external tools the persona cannot wield we
 It is possible for a robot to acquire a weapon skill.
 A weapon skill can be acquired through a peripheral or a program.
 With a weapon skill a robot can use their Skilled Bonus on the attack table with that specific weapon type.
+This applies to actual weapons, not to misusing non-weapon peripherals.
 
 === Vocation Attack Table
 It is extremely rare for a robot to have a full vocation integrated into their consciousness.
@@ -59,8 +60,10 @@ include::combat:partial$attack_table_blank.adoc[]
 . <<_force_bonus,Force Bonus>>
 
 == Skilled Bonus
-The Skilled Bonus (Skilled) is for the robot’s baked-in attacks and malfunctioning peripherals acquired during fabrication.
-If the attack is appropriate, the player adds the Skilled Bonus to her attack roll.
+The Skilled Bonus (Skilled) is for the robot’s baked-in weapons designed for combat, such as a gun or a combat lazer.
+A tool built into the robot is not a baked-in weapon merely because it can inflict damage.
+For example, a stapler used to shoot at targets is a misused peripheral and uses the Raw Bonus of 0, even if generated during fabrication as an offensive peripheral.
+Ramming follows its own xref:robots:peripherals_offensive.adoc#_ramming[Ramming progression,window=_blank, rel="noopener noreferrer"].
 The Skilled Bonus has 2 main components: Attributes Component and Level Componenent.
 The persona’s Skilled Bonus increases as the they gains EXPS levels.
 
@@ -91,8 +94,8 @@ Initially, the level bonus plays a small role in the Skilled, but the contributi
 include::combat:partial$attack_table_robot_skilled_level_component.adoc[]
 
 == Raw Bonus
-Robots do not have a Raw Bonus.
-A robot’s programming does not allow Raw attacks, and the robot’s Raw is 0.
+The robot’s Raw Bonus is 0 for Strike, Fling, and Shoot attacks.
+The player uses this bonus when attacking with a misused non-weapon peripheral.
 Robot Raw is the easiest of all the attack table elements to calculate.
 
 include::combat:partial$attack_table_robot_raw_fraction.adoc[]
@@ -115,7 +118,8 @@ include::combat:partial$attack_table_robot_force_bonus.adoc[]
 == Robot Attack Table Example
 A 3rd level robot. DEX_P: 2, INT_P: 2, STR_P: 3, AWE: 12, DEX: 12, INT: 10, and STR: 16.
 
-* Skilled Bonus for her baked-in pistol (Shoot Attack) and her battery battery dispenser (Fling)
-* Raw Bonus for Ramming.
+* Skilled Bonus for her baked-in pistol designed as a weapon (Shoot Attack).
+* Raw Bonus of 0 for misusing her battery dispenser (Fling Attack).
+* Raw Bonus of 0 for ramming at Ramming 0 or 1.
 
 include::combat:partial$attack_table_robot_example.adoc[]

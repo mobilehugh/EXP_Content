@@ -11,7 +11,7 @@ s|Attack Type
 |Defensive System
 
 |11-60
-|Ramming Freedom
+|Ramming
 
 |61-75
 |Strike Attack

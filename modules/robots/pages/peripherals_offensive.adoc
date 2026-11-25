@@ -6,6 +6,16 @@ They are more often malfunctioning devices that can be weaponized.
 Most of the time robots have no offensive peripherals at all.
 Robots without offensive peripherals require role playing to inflict damage beyond ramming.
 
+A baked-in weapon is a device built into the robot and designed as a weapon, such as a gun or a combat lazer.
+The player uses her Skilled Bonus when attacking with a baked-in weapon.
+A misused peripheral is a device designed for a non-combat task that the robot uses as a weapon.
+For example, a stapler used to shoot staples at a target is a misused peripheral, even if its attack uses gun damage.
+The player uses her Raw Bonus of 0 when attacking with a misused peripheral.
+Being built into the robot or generated on an offensive peripheral table does not make a tool a baked-in weapon.
+When generating an offensive peripheral, establish whether it is an actual weapon or a misused tool.
+Permission to attack without a Free Will check does not itself grant the Skilled Bonus.
+Ramming uses the separate progression described below.
+
 All robots can weaponize themselves and ram targets with their chassis.
 The robot type determines if there are any additional offensive peripherals.
 The robot type fabrication info has some gibberish on the offensive peripherals line.
@@ -38,8 +48,8 @@ Ramming can also damage the robot.
 
 The robot will assign a particular surface of it's chassis for ramming.
 What the surface is shaped like determines the damage type.
-Ramming can become increasingly more dangerous as the robot gains ramming levels.
-This is determined by Ramming Freedom.
+All robots have a Ramming rating from 0 to 4.
+Higher Ramming ratings make the robot more effective at ramming.
 
 ==== Ramming Surface
 A robot will only be able to ram opponents with a pre-determined part of its chassis.
@@ -47,14 +57,16 @@ This part will be considered the least vital and can withstand the repeated puni
 
 include::robots:partial$peripherals_offensive_ramming_web.adoc[]
 
-==== Ramming Freedom
-The player must win a control factor roll before allowing her robot persona to ram.
-If the control factor roll allows for a ramming attempt, the player must win an attack roll to inflict damage.
+[[_ramming_rating]]
+==== Ramming
+At Ramming 0, the player must win a Free Will check before allowing her robot persona to ram.
+At Ramming 1 to 4, this check is not required.
+The player must then win an attack roll to inflict damage.
 The player determines the damage her ramming robot inflicts on the below table.
 The robot will always ram to inflict this amount of damage.
 Ramming is a Strike attack.
 
-include::robots:partial$ramming_freedom.adoc[]
+include::robots:partial$ramming.adoc[]
 
 [[_attack_level_one]]
 == Attack Level 1
@@ -66,20 +78,21 @@ These attacks do not require a player to win a control factor roll to misuse the
 
 include::robots:partial$peripherals_offensive_1.adoc[]
 
-Each time the robot lands at ramming freedom level 4 they move to a more dangerous ramming surface.
-So a robot with a flat (1d4) ramming surface would get the benefits of level 4 and increase damage to a blunt point (1d6).
+Each time the robot gains another Ramming result at Ramming 4, she moves to a more dangerous ramming surface.
+So a robot with a flat (1d4) ramming surface would keep the benefits of Ramming 4 and increase damage to a blunt point (1d6).
 
 === Defensive System
 Sometimes the best offence is a good defence.
 Jump to xref:robots:peripherals_defensive.adoc[Defensive Peripherals,window=_blank, rel="noopener noreferrer"].
 
-=== Ramming Freedom
-Ramming freedom increases the amount of control that the robot has over ramming.
-Each visit to ramming freedom increases it by 1 level.
-So if this is the first time here the ramming freedom increases from level 0 to level 1.
-If the robot already has ramming freedom 1 they advance to ramming freedom 2, and so on.
+[[_attack_level_one_ramming]]
+=== Ramming
+Increasing Ramming improves the robot’s ability to ram targets.
+Each Ramming result increases the rating by 1, up to Ramming 4.
+The first result increases the rating from Ramming 0 to Ramming 1.
+A robot with Ramming 1 advances to Ramming 2, and so on.
 
-Moving from level 0 to level 1 allows the robot to ram targets without making a xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] check.
+Moving from Ramming 0 to Ramming 1 allows the robot to ram targets without making a xref:uncombat:robot_free_will.adoc[Free Will,window=_blank, rel="noopener noreferrer"] check.
 This is a huge leap forward in the realm of smashing things.
 This robot still uses her Raw Strike Bonus and still takes damage for the intentional collision.
 
@@ -127,10 +140,11 @@ include::robots:partial$peripherals_offensive_fling_web.adoc[]
 The player makes 2 rolls on Attack Table 1 above.
 Multiple peripherals are additive, allowing the robot to have multiple strike attacks for instance.
 
-=== Ramming Freedom
-Ramming freedom increases the amount of control that the robot has over ramming.
-At this attack level the ramming freedom is increased by 2 levels.
-So if the robot has ramming freedom 1 it would be increased to ramming freedom 3.
+[[_attack_level_two_ramming]]
+=== Ramming
+Increasing Ramming improves the robot’s ability to ram targets.
+At this Attack Level, increase the Ramming rating by 2, up to Ramming 4.
+For example, a robot with Ramming 1 advances to Ramming 3.
 
 === Stun Strike Attack
 This strike attack includes a debilitating stun effect.
@@ -216,10 +230,11 @@ The paralysis attack is cumulative and repeatedly generating this attack makes i
 The first appearance of paralysis attack is level 1.
 Each level increases the range by 1 hex and the intensity by 1-4 (1d4).
 
-=== Ramming Freedom
-Ramming freedom increases the amount of control that the robot has over ramming.
-At this attack level the ramming freedom is increased by 2 levels.
-So if the robot has ramming freedom 1 it would be increased to ramming freedom 3.
+[[_attack_level_three_ramming]]
+=== Ramming
+Increasing Ramming improves the robot’s ability to ram targets.
+At this Attack Level, increase the Ramming rating by 2, up to Ramming 4.
+For example, a robot with Ramming 1 advances to Ramming 3.
 
 === Stun Fling Attack
 This fling attack includes a debilitating stun attack.

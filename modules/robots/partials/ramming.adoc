@@ -1,18 +1,18 @@
-.*Ramming Freedom Levels*
+.*Ramming*
 [width="85%",cols="<",frame="all", options="noheader"]
 |===
-s|Level 0
+s|Ramming 0
 |Free Will check, Raw attack, Take Damage
 
-s|Level 1
+s|Ramming 1
 |Raw attack, Take Damage
 
-s|Level 2
+s|Ramming 2
 |Skilled attack, Take Damage
 
-s|Level 3
+s|Ramming 3
 |Skilled attack, no damage
 
-s|Level 4
+s|Ramming 4
 |Skilled attack, no damage, increase surface damage
 |===

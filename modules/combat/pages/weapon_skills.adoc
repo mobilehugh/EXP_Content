@@ -100,8 +100,11 @@ Nothings are only skilled with 1 weapon and 1 weapon only.
 Choose wisely.
 
 === Robots
-A robot is only Skilled with attacks baked-in during fabrication.
-Robots use their Raw Bonus for attacks that are malfunctioning peripherals.
+A robot uses her Skilled Bonus with baked-in weapons designed for combat.
+Robots use their Raw Bonus when misusing peripherals designed for non-combat tasks, even if generated during fabrication as offensive peripherals.
+For example, a built-in gun uses Skilled, while a stapler used to shoot at targets uses Raw.
 Most robot attacks are malfunctioning peripherals.
 On a robot Attack Table the Raw Bonus is 0.
+A robot can also use Skilled with an actual weapon for which she has acquired a weapon skill through a peripheral or program.
+Ramming follows its own xref:robots:peripherals_offensive.adoc#_ramming[Ramming progression,window=_blank, rel="noopener noreferrer"].
 There is a to be decided edge case of whether a robot that has a vocation can use a Vocation Attack Table.

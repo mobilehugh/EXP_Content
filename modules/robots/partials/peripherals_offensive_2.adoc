@@ -16,7 +16,7 @@ s|Robotic Attack
 |Multiple attacks
 
 |51-75
-|Ramming Freedom
+|Ramming
 
 |76-85
 |Stun Strike Attack

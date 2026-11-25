@@ -22,7 +22,7 @@ s|Attack
 |Paralysis Attack
 
 |56-65
-|Ramming Freedom
+|Ramming
 
 |66-75
 |Stun Fling Attack
