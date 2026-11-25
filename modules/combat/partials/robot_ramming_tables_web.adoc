@@ -1,0 +1,5 @@
+Robot ramming tables are included here for convenience.
+
+include::robots:partial$peripherals_offensive_ramming_web.adoc[]
+
+include::robots:partial$ramming.adoc[]

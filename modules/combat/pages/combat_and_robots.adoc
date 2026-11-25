@@ -1,7 +1,7 @@
 = Robot Combat
 
 Robot combat is a legacy section.
-Robots are just another persona in the tactical combat rules. 
+Robots are just another persona in the tactical combat rules.
 There are more similarities than differences.
 
 :art: aikidobot.png
@@ -22,13 +22,13 @@ include::ROOT:partial$articulate.adoc[]
 ** While this is not absolute it may task Free Will.
 * *Ramming*
 ** All robots can ram into targets.
-** Ramming 0 makes ramming difficult for the robot. 
+** Ramming 0 makes ramming difficult for the robot.
 ** Ramming 4 makes the robot a ramming machine
 * *Defence*
 ** Robot Defence is 700 unless hardened by peripherals.
 * *Attack Bonuses*
 ** Skilled Bonus is used for baked-in weapons designed for combat.
-** Raw Bonus is used for misused peripherals. 
+** Raw Bonus is used for misused peripherals.
 ** A built-in gun is a weapon; a built-in stapler used to shoot at targets is a misused peripheral.
 * *Damage*
 ** Robots lose hit points the same way other personas do.
@@ -70,7 +70,7 @@ Priority commands are the robot’s version of a mental attack on the robot’s 
 The robot will suffer debilitating effects for the length of time 1 to 100 units in duration.
 While this duration appears short, this is a tactical combat maneuver, and 1d100 units a lot of combat time.
 Priority commands may slow the robot to move at half speed, ignore a particular weapon, or forget how to turn left.
-The referee and the players negotiate the effect of the priority command. 
+The referee and the players negotiate the effect of the priority command.
 
 include::robots:partial$malfunction_location.adoc[]
 
@@ -82,83 +82,97 @@ Scenario-related priority commands can come along with clues found in the milieu
 == Robot Override
 Robotic overrides are specialized attacks made by mechanics with robot skills.
 Robotic overrides can involve strangely worded commands, and mechanical interventions may allow the mechanic to *control the robot*.
-There are even specialized artifacts that assist robot override. 
+There are even specialized artifacts that assist robot override.
 
 Robotic overrides are like a mental attack on the robot’s malfunctioning free will.
 Successful robot override turns temporarily turns control of the robot over to the attacking mechanic.
 A robotic override would be devastating to a player persona robot.
 Control lasts 1-100 minutes (1d100).
-The override can end abruptly, freeing the robot to exact revenge. 
+The override can end abruptly, freeing the robot to exact revenge.
 The robotic override difficulty  is 168 plus the robot’s Control Factor.
 
 Robotic overrides on powerful plot-related robots may require missions to acquire the needed tech and knowledge.
 
 == Ramming
 A robot may smash itself into a target with the full intent of inflicting damage.
-If the robot can cross paths with a target on the hex mat, the player can make a ramming attack roll.
-Ramming is a Strike attack on the robot’s attack table.
+Ramming requires the robot and target to cross paths, and a successful attack roll.
+If the robot successfully rams a target she may damage herself as well as her target.
 
-All robots have a Ramming rating from 0 to 4.
-At Ramming 0, the player must win a Free Will check before attempting to ram.
-At Ramming 1 to 4, this check is not required.
-For the full progression, jump to xref:robots:peripherals_offensive.adoc#_ramming_rating[Ramming,window=_blank, rel="noopener noreferrer"].
+=== Ramming Level
+All robots come with Ramming 0.
+This is the lowest level of Ramming and requires a Free Will check, uses the Strike Raw Bonus and inflicts reciprocal damage on the robot.
+
+include::combat:partial$robot_ramming_tables_web.adoc[]
 
 .*Ramming Checklist*
 . Attack Roll
-. Damage (from fabrication)
 . Ramming Speed
-. Crush Multiplier 
+. Damage Roll
+. Reciprocation
 
 === Attack Roll
-The player makes an attack roll for her persona.
-If the player’s attack roll is higher than the target’s Defence, the target gets rammed.
-At Ramming 0 or 1, the player uses her Strike Raw Bonus of 0.
-At Ramming 2 to 4, the player adds her Strike Skilled Bonus.
+If the robot and the target cross each others pathes on the hex mat the player may attempt to ram.
+If a ram attempt is allowed the player must meet, or beat, the target's Defence to score a hit.
+This means that if the target is faster than, and can avoid, the robot the persona cannot ram the target.
+If this cannot be resolved on the playing mat a xref:uncombat:sphincter_rolls.adoc[Sphincter Roll,window=_blank, rel="noopener noreferrer"] may be required.
 
-=== Damage
-The damage the player rolls if she wins her attack roll depends on the shape of the part with which the robot rams.
-The player determines this during her robot’s fabrication.
-The table from that section is below for convenience. 
-Robots cannot use the Strike Force Bonus for ramming. 
-
-include::robots:partial$peripherals_offensive_ramming_web.adoc[]
-
-NOTE: In previous versions, robots took reciprocal damage for ramming. 
+The Ramming Level of the robot determines whether the player used the Skilled or Raw Strike attack bonus.
 
 === Ramming Speed
 The faster the robot is going, the more ramming damage it delivers.
-How much damage a robot inflicts is dependant on the relative speed of the robot and the target.
-Relative speed sounds boring, and we call it Ramming Speed instead.
+The relative speed of the target and the robot directly determines how much damage is delivered.
+Relative speed sounds boring, so we call it Ramming Speed instead.
 
-=== Calculate Ramming Speed
-.Ramming Speed = Robot move - Target move 
-****
-Ramming speed assumes the target is running away from the robot. 
-****
+If the target is moving away from the robot the target's speed is subtracted from the robot's speed.
+If the target and robot are traveling head on the two speeds are added.
+If the target is moving faster than the robot she cannot ram the target.
 
-A robot is moving at 12 h/u, and her target is moving at 3 h/u.
-In most cases, the target will be running away from the robot.
-If the target were charging the robot, the ramming speed would be 15 h/u.
+.*Ramming Speed*
+* *Robot Move - Target Move*
+** Most common situation
+** Target is trying to avoid getting rammed
 
-The robot has a flat ramming surface (1d4 + 1d4 per 3 h/u).
-The robot’s ramming speed is 9 h/u, and the player rolls 1d4 plus 3d4 hit points in damage (4d4).
-If the target were running head-on at the robot, the ramming speed would be 15 h/u, and the damage would be 6d4 hit points.
-A successful attack roll will always generate the base damage of 1d4 HPS of damage. 
+Consider a robot is moving at 12 h/u, and a target moving at 3 h/u.
+Typically the target is trying to avoid the ram and the Ramming Speed is 9 h/u.
+If the target were charging the robot, the Ramming Speed would be 15 h/u.
 
-A robot with a sharp point ramming surface inflicts 1d10 + 1d8 per 3 h/u of ramming speed.
-The above ramming speed would inflict 1d10 + 3d8 hit points of damage for a typical ram and 1d10 + 5d8 for a head-on ram.
-Ramming can be very destructive.
-
+There are no rules for angled attacks.
+That kind of arithmetic hurts the brains of even hardened tactical combat players.
 A stationary target has a move of 0 h/u, and the robot has a ramming speed equal to its move.
 
-There are no rules for angled attacks. 
-That kind of arithmetic hurts the brains of even hardened tactical combat players.
+=== Damage Roll
+The damage roll is how much damage the robot.
+It may be different than the actual damage delivered if size matters are being applied.
 
-=== Crush Multiplier
-Ramming speed determines the total damage delivered by the robot.
-The crush multiplier considers the relative wate of the target.
+Consider a robot with a flat ramming surface (1d4 + 1d4 per 3 h/u).
+With a Ramming Speed of 9 h/u the player rolls 1d4 plus 3d4 (4d4) Hit Points for the damage roll.
+With a Ramming Speed of 15 h/u the player would roll 6d4 Hit Points for the damage roll.
+
+Consider a robot with a sharp point ramming surface (1d10 + 1d8 per 3 h/u).
+At 9 u/u the damage roll would be 1d10 + 3d8, and at 15 h/u it would be 1d10 + 5d8 (ouch!).
+
+=== Reciprocation
+In most cases the robot will deliver, and take, the damage roll from above.
+Robot ramming damages the robot.
+How much that damage is depends on the relative sizes of the targets.
+Robots with a high Ramming Level know how to ram without damaging themselves.
+
+In a simple world the ramming robot and the target take the same damage.
+However we are not simple people using the Tactical Combat System. s
 Consider being hit by a bicycle vs a dump truck.
 The bigger you are, the harder they fall.
+
+include::combat:partial$ramming_size_differential.adoc[]
+
+
+
+
+This was formerly called the Crush Multiplier, and involved maths.
+It is shown here for no particular reason.
+
+.*Ramming Crush Multiplier*
+
+
 
 If the robot and the target have the same wate description, the crush multiplier does not apply.
 So a medium-sized robot does not get a crush multiplier against a medium-sized target.
