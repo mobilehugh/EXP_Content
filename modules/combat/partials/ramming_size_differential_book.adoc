@@ -1,0 +1,23 @@
+.*Ramming Size Differential Table*
+[width="100%",cols="<3,^1",frame="all",stripes="even"]
+|===
+2+<|Compare the robot and target size categories.
+
+s|Categories Apart
+s|Factor
+
+|0 or 1
+|--
+
+|2 or 3
+|2
+
+|4
+|3
+
+|5 or more
+|4
+
+|===
+
+Size order: Nano, Tiny, Small, Medium, Large, Gigantic, Colossal.

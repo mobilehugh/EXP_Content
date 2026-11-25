@@ -1,7 +1,7 @@
 .*Ramming Size Differential Table*
 [width="100%",cols="<2,7*^",frame="all",stripes="even"]
 |===
-8+<|Rows: ramming robot size. Columns: target size. Cells show the size differential factor.
+8+<|Rows: ramming robot size. Columns: target size. Intersection = Damage Roll Multiplier
 
 s|Robot / Target
 s|Nano
@@ -16,8 +16,8 @@ s|Nano
 |--
 |--
 |2
-|4
-|4
+|2
+|3
 |4
 |4
 
@@ -26,8 +26,8 @@ s|Tiny
 |--
 |--
 |2
-|4
-|4
+|2
+|3
 |4
 
 s|Small
@@ -36,21 +36,21 @@ s|Small
 |--
 |--
 |2
-|4
-|4
+|2
+|3
 
 s|Medium
-|4
+|2
 |2
 |--
 |--
 |--
 |2
-|4
+|2
 
 s|Large
-|4
-|4
+|3
+|2
 |2
 |--
 |--
@@ -59,8 +59,8 @@ s|Large
 
 s|Gigantic
 |4
-|4
-|4
+|3
+|2
 |2
 |--
 |--
@@ -69,8 +69,8 @@ s|Gigantic
 s|Colossal
 |4
 |4
-|4
-|4
+|3
+|2
 |2
 |--
 |--

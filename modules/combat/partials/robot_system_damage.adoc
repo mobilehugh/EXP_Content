@@ -1,17 +1,15 @@
-// Table 5.27 Robotic System Malfunction
-.*Robotic System Malfunction Location*
+.*Robot System Damage*
 [width="75%",cols="^1,<2,<2",frame="all", stripes="even"]
 |===
-3+<|What breaks when the robot breaks. 
+3+<|What breaks when the robot breaks.
 
 s|Roll 1d100
-s|System 
+s|System
 s|Attribute(s)
 
 |01-15
 |Articulations
-|AWE +
-DEX
+|AWE, DEX
 
 |16-25
 |Brain
@@ -23,8 +21,7 @@ DEX
 
 |41-55
 |Locomotion
-|DEX +
-STR
+|DEX, STR
 
 |56-69
 |Peripherals
@@ -32,22 +29,20 @@ STR
 
 |70-75
 |Power Plant
-|CON +
-STR 
+|CON, STR
 
 |76-99
 |Sensors
-|AWE +
-INT
+|AWE, INT
 
 |00
 |Ref’s Own Table
 |
 
 s|Roll 1d100
-s|System 
+s|System
 s|Attribute(s)
 
-3+<|Severity (1d6). 1 = Lucky (0), 2-5 = Severe (1), 6 = Critical (2).
+3+<|Severity: Lucky 0; Nominal -1; Critical -2.
 
 |===

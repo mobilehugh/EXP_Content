@@ -62,8 +62,9 @@ include::robots:partial$peripherals_offensive_ramming_web.adoc[]
 At Ramming 0, the player must win a Free Will check before allowing her robot persona to ram.
 At Ramming 1 to 4, this check is not required.
 The player must then win an attack roll to inflict damage.
-The player determines the damage her ramming robot inflicts on the below table.
-The robot will always ram to inflict this amount of damage.
+Fabrication determines the robot’s ramming surface and Ramming rating.
+The surface table above supplies the damage dice; the rating table below determines the attack bonus and whether the robot takes reciprocal damage.
+Resolve speed, the damage roll and size adjustments using xref:combat:combat_and_robots.adoc#_ramming[Robot Combat: Ramming,window=_blank, rel="noopener noreferrer"].
 Ramming is a Strike attack.
 
 include::robots:partial$ramming.adoc[]

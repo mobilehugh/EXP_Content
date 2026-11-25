@@ -72,7 +72,7 @@ While this duration appears short, this is a tactical combat maneuver, and 1d100
 Priority commands may slow the robot to move at half speed, ignore a particular weapon, or forget how to turn left.
 The referee and the players negotiate the effect of the priority command.
 
-include::robots:partial$malfunction_location.adoc[]
+include::combat:partial$robot_system_damage.adoc[]
 
 The higher the robot’s control factor, the more difficult it is for a priority command to be successful.
 The Difficulty (DD) of a priority command is 128 plus the robot’s CF.
@@ -108,10 +108,10 @@ include::combat:partial$robot_ramming_tables_web.adoc[]
 . Attack Roll
 . Ramming Speed
 . Damage Roll
-. Reciprocation
+. Size Matters
 
 === Attack Roll
-If the robot and the target cross each others pathes on the hex mat the player may attempt to ram.
+If the robot and the target cross each other’s paths on the hex mat, the player may attempt to ram.
 If a ram attempt is allowed the player must meet, or beat, the target's Defence to score a hit.
 This means that if the target is faster than, and can avoid, the robot the persona cannot ram the target.
 If this cannot be resolved on the playing mat a xref:uncombat:sphincter_rolls.adoc[Sphincter Roll,window=_blank, rel="noopener noreferrer"] may be required.
@@ -125,12 +125,12 @@ Relative speed sounds boring, so we call it Ramming Speed instead.
 
 If the target is moving away from the robot the target's speed is subtracted from the robot's speed.
 If the target and robot are traveling head on the two speeds are added.
-If the target is moving faster than the robot she cannot ram the target.
+If the target is moving away faster than the robot, the robot cannot catch her to ram.
 
 .*Ramming Speed*
-* *Robot Move - Target Move*
-** Most common situation
-** Target is trying to avoid getting rammed
+. *Robot Move - Target Move*
+.. Most common situation
+.. Target is trying to avoid getting rammed
 
 Consider a robot is moving at 12 h/u, and a target moving at 3 h/u.
 Typically the target is trying to avoid the ram and the Ramming Speed is 9 h/u.
@@ -141,48 +141,62 @@ That kind of arithmetic hurts the brains of even hardened tactical combat player
 A stationary target has a move of 0 h/u, and the robot has a ramming speed equal to its move.
 
 === Damage Roll
-The damage roll is how much damage the robot.
-It may be different than the actual damage delivered if size matters are being applied.
+The damage roll determines the base damage of the collision before size adjustments.
+Do not add the Strike Force Bonus to ramming damage.
+Add the surface’s speed-related damage dice for each complete 3 h/u of Ramming Speed.
+For example, 8 h/u provides 2 additional dice.
+The base damage die is always included after a successful ram.
 
 Consider a robot with a flat ramming surface (1d4 + 1d4 per 3 h/u).
 With a Ramming Speed of 9 h/u the player rolls 1d4 plus 3d4 (4d4) Hit Points for the damage roll.
 With a Ramming Speed of 15 h/u the player would roll 6d4 Hit Points for the damage roll.
 
 Consider a robot with a sharp point ramming surface (1d10 + 1d8 per 3 h/u).
-At 9 u/u the damage roll would be 1d10 + 3d8, and at 15 h/u it would be 1d10 + 5d8 (ouch!).
+At 9 h/u the damage roll would be 1d10 + 3d8, and at 15 h/u it would be 1d10 + 5d8 (ouch!).
 
-=== Reciprocation
+=== Size Matters
 In most cases the robot will deliver, and take, the damage roll from above.
 Robot ramming damages the robot.
 How much that damage is depends on the relative sizes of the targets.
 Robots with a high Ramming Level know how to ram without damaging themselves.
 
 In a simple world the ramming robot and the target take the same damage.
-However we are not simple people using the Tactical Combat System. s
+However we are not simple people using the Tactical Combat System.
 Consider being hit by a bicycle vs a dump truck.
 The bigger you are, the harder they fall.
 
-include::combat:partial$ramming_size_differential.adoc[]
+include::combat:partial$ramming_size_differential_web.adoc[]
 
+A dash means no size adjustment: both participants take the original damage roll.
+Otherwise, multiply the damage received by the smaller participant by the listed factor and divide the damage received by the larger participant by that factor.
+Calculate both amounts from the original damage roll, not from each other’s adjusted damage.
+At Ramming 3 or 4, the attacking robot takes no reciprocal damage, regardless of the size comparison.
 
+For a smaller robot ramming a larger target the damage multiplier reduces the damage roll delivered, and increases the reciprocal damage taken.
+So a Tiny robot ramming a Tiny robot with a 12 damage roll would deliver 12 HPS of damage to the target and take 12 HPS of damage themselves.
+The same Tiny robot with a damage roll of 12 HPS ramming a Large target would deliver 6 HPS of damage and take 24 HPS of damage.
+The reciprocal damage can be avoided if the robot has a high enough Ramming level.
 
+For a larger robot ramming a smaller target the damage multiplier increases the damage delivered and decreases the reciprocal damage taken.
+So a Large robot ramming a Small target with a damage roll of 12 would inflict 24 HPS of damage and take 6 HPS of damage.
+The reciprocal damage can be avoided if the robot has a high enough Ramming level.
 
-This was formerly called the Crush Multiplier, and involved maths.
+Damage is a way for robots to earn EXPS and gain experience Levels.
+See xref:robots:experience_and_levels.adoc[Robot Vocation,window=_blank, rel="noopener noreferrer"].
+
+[discrete]
+=== Crush Multiplier
+NOTE: This obsolete calculation is retained for historical reference only. Use the Size Matters table above instead; do not combine the two methods.
+
+Reciprocation was formerly called the Crush Multiplier, and involved maths.
 It is shown here for no particular reason.
-
-.*Ramming Crush Multiplier*
-
-
-
 If the robot and the target have the same wate description, the crush multiplier does not apply.
 So a medium-sized robot does not get a crush multiplier against a medium-sized target.
 
-=== Calculate Crush Multiplier
-.Crush Multiplier = Robot wate (kg) / target wate (kg)
-****
-The maximum bonus is 4 times.  +
-The maximum penalty is 1/4 times.
-****
+.*Ramming Crush Multiplier*
+* *Robot wate (kg) / target wate (kg)*
+** Maximum is 4 times
+** Minimum is 1/4 times
 
 If a 120 kg robot rams a 40 kg target, the player triples the damage.
 In this case, 24 HPS of damage would become 72 HPS of damage.

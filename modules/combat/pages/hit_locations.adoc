@@ -43,9 +43,10 @@ Aliens are called diversidae for a reason.
 include::combat:partial$hit_location_alien.adoc[]
 
 == Robot Hit Locations
-Robot hit location is different from robot damage location.
-This chart simply describes where a hit landed. 
-The system damaged can be entirely different.
+Robot Hit Location describes where an attack lands; Robot System Damage determines what malfunctions.
+The tables share system names and roll ranges, but their rolls are separate.
+When system damage is required, roll separately on the xref:combat:damage_and_demolition.adoc#_attribute_decrease[Robot System Damage table,window=_blank, rel="noopener noreferrer"].
+A hit to the robot’s treads may damage her Control Unit rather than her Locomotion.
 Players cannot expect that shooting cameras on a robot will damage the robot’s sensors.
 Robots are easy to hit and hard to destroy.
 

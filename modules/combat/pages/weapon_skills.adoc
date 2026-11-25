@@ -56,7 +56,7 @@ This allows a master archer the ability to hit above their Max Roll.
 
 include::combat:partial$vocation_weapon_skills_web.adoc[]
 
-At 1st level a player with a Nomad persona can choose 1 Strike, 1 Fling, and 1 Shoot weapon skill.
+At 1st level a player with a Mechanic persona can choose 1 Strike, 1 Fling, and 1 Shoot weapon skill.
 The player chooses dagger-1, bow-1 and pistol-1 skills.
 
 At 3rd level the player can add 1 Shoot Attack skill.

@@ -675,9 +675,9 @@ Any exposure to dysbaria or ebullia indicates a visit to the robot damage table.
 The robot takes an additional damage roll if the decompression is explosive.
 The player makes an additional roll on the robot damage table when she returns to normal atmosphere.
 
-include::robots:partial$malfunction_location.adoc[]
+include::combat:partial$robot_system_damage.adoc[]
 
-include::robots:partial$malfunction_severity.adoc[]
+include::combat:partial$robot_damage_severity.adoc[]
 
 A robot is in an airlock malfunction that results in explosive decompression. 
 The pressure around the robot instantly drops to 0.
