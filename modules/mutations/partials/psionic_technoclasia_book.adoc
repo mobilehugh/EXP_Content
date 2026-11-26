@@ -3,4 +3,4 @@
 
 include::mutations:partial$psionic_weapon_discharge.adoc[]
 
-Use the xref:combat:zone_combat.adoc#_miss_result[grenade miss result] table to determine direction of misfire.
+Use the xref:combat:zone_combat.adoc#_direction[grenade miss result] table to determine direction of misfire.

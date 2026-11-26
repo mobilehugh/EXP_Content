@@ -7,7 +7,7 @@ s|Weapon
 s|Damage
 s|Wate (kg)
 s|Radius (hexes)
-s|Miss Roll (hexes)
+s|Miss (1d6)
 
 |Corrosive Flask
 |2d10

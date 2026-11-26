@@ -149,10 +149,10 @@ In general, player persona robots will avoid repair and revel in the improved co
 A robot can have peripherals that allow for self-repair.
 Mechanics highly skilled in robots may be able to repair robots without wrecking their free will.
 
-== Demolition Tables
+== Demolition Table
 Robot demolition tables are essential for referee personas.
 The demolition table has all the damage effects for the robot persona prepared.
 Player personas usually will visit the system damage tables each time they 0 their HPS Total.
 Someday, computers will automatically calculate the demolition table.
 
-include::robots:partial$malfunction_monitoring_decay_table.adoc[]
+include::combat:partial$malfunction_monitoring_decay_table_web.adoc[]

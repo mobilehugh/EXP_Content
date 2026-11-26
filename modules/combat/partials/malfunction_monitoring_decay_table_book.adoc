@@ -1,0 +1,56 @@
+.*Example Robotic Demolition*
+[start=0]
+. *Total Damage:* 16 HPS __unharmed__
+* *HPM*: 16; *System*: Nil
+* AWE 9; CHA 11; CON 8; DEX 21
+* INT 18; MND 0; STR 12
+. *Total Damage:* 30 HPS
+* *HPM*: 14; *System*: Locomotion
+* AWE 9; CHA 11; CON 8; *DEX 19*
+* INT 18; MND 0; *STR 11*
+. *Total Damage:* 42 HPS
+* *HPM*: 12; *System*: Brain
+* AWE 9; CHA 11; CON 8; DEX 19
+* *INT 17*; MND 0; STR 11
+. *Total Damage:* 52 HPS
+* *HPM*: 10; *System*: Sensors
+* *AWE 7*; CHA 11; CON 8; DEX 19
+* *INT 16*; MND 0; STR 11
+. *Total Damage:* 61 HPS
+* *HPM*: 9; *System*: Control Unit
+* *AWE 6*; *CHA 10*; *CON 7*; *DEX 18*
+* *INT 15*; MND 0; *STR 9*
+. *Total Damage:* 69 HPS
+* *HPM*: 8; *System*: Locomotion
+* AWE 6; CHA 10; CON 7; *DEX 17*
+* INT 15; MND 0; *STR 8*
+. *Total Damage:* 76 HPS
+* *HPM*: 7; *System*: Articulation
+* *AWE 5*; CHA 10; CON 7; *DEX 15*
+* INT 15; MND 0; STR 8
+. *Total Damage:* 82 HPS
+* *HPM*: 6; *System*: Sensors
+* *AWE 4*; CHA 10; CON 7; DEX 15
+* *INT 13*; MND 0; STR 8
+. *Total Damage:* 87 HPS
+* *HPM*: 5; *System*: Sensors
+* *AWE 3*; CHA 10; CON 7; DEX 15
+* *INT 12*; MND 0; STR 8
+. *Total Damage:* 91 HPS
+* *HPM*: 4; *System*: Locomotion
+* AWE 3; CHA 10; CON 7; *DEX 14*
+* INT 12; MND 0; *STR 7*
+. *Total Damage:* 94 HPS
+* *HPM*: 3; *System*: Sensors
+* *AWE 1*; CHA 10; CON 7; DEX 14
+* *INT 11*; MND 0; STR 7
+. *Total Damage:* 96 HPS
+* *HPM*: 2; *System*: Peripheral
+* AWE 1; CHA 10; CON 7; DEX 14
+* INT 11; MND 0; STR 7
+. *Total Damage:* 98 HPS
+* *HPM*: 1; *System*: Sensors __Deceased__
+* *AWE 0*; CHA 10; CON 7; *DEX 13*
+* INT 11; MND 0; STR 7
+
+This robot is destroyed when her AWE = 0 at 98 HPS total damage.

@@ -1,27 +1,28 @@
-// Table 30.1 Distance of Grenade Miss
 .*Distance of Grenade Miss*
 [width="75%",cols="^,<",frame="all", stripes="even"]
 |===
-2+<|How far off the target hex the grenade lands. 
+2+<|How far off the target hex the grenade lands.
 
 s|Attack Roll
-s|Distance in Hexes
+s|Distance
 
-|500-599
-|1d3 - 1 from target hex
+|500-541
+|1d3-1 h from target
 
 |350-499
-|1d3 from target hex
+|1d3 h from target
 
 |100-349
-|1d4 from target hex
+|1d4 h from target
 
-|10-99
-|1d6 from grenade thrower
+|010-099
+|1d4 h from thrower
 
-|01-09
-|1d4 from grenade thrower
+|<010
+|1d4-1 h from thrower
 
 s|attack roll Result
-s|Miss (hexes)
+s|Distance
+
+2+<|Use the natural attack roll to determine miss distance.
 |===
