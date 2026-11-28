@@ -6,7 +6,7 @@
 s|Attack Roll
 s|Distance
 
-|500-541
+|500 or more
 |1d3-1 h from target
 
 |350-499

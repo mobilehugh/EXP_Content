@@ -16,13 +16,23 @@ include::robots:partial$peripherals_defensive.adoc[]
 This defensive system protects the robot from flying attacks.
 The defence could be a baked-in defence or creative use of a peripheral.
 Aunty missile is a combination of evasive actions, hardened casing and flechette.
-This defence can thwart most ranged attacks: Fling attacks, guided bombs, missiles, grenades, rockets or directed aerosols.
-The defence does not work against powered small arms attacks like guns or crossbows (Shoot).
-The robot’s Defence is increased by 50 to 300 (50d6 or 1d6 * 50) against missile attacks.
+Anything that uses the Fling attack table can be intercepted by this defence peripheral.
+
+The robot’s Defence is increased by 50 to 300 (50d6 or 1d6 * 50) against Fling attacks.
+This is obvious for rocks, arrows, axes or other stuff thrown at the robot.
+There is also a chance that the robot can intercept Zone effect weapons that are thrown towards the robot.
+For instance, if a grenade’s intended area of effect includes the robot, her Aunty Missile may blast it out of the sky.
+In this specific case, use the robot’s Defence, including the Aunty Missile bonus, instead of the target hex’s Defence of 542.
 
 If the attack roll fails, the robot has destroyed the incoming attack.
-Destroying the attack also negates any area of effect damage that the missile could have delivered.
-If the attack roll succeeds, the area of effect damage is halved.
+The intercepted weapon is neutralized and does not scatter or produce its area of effect.
+If the attack roll succeeds, the damage, or effect, is halved for the robot.
+Other targets in the area of effect receive the normal damage or effect.
+
+This defence can thwart Fling attacks, including thrown grenades and projectiles launched by catapults.
+Guided bombs, missiles, rockets and launched grenades are also covered, even when their delivery uses Shoot; apply the same Defence bonus and interception rules to these exceptions.
+The defence does not work against powered small arms attacks like guns or crossbows (Shoot) or aerosols.
+
 
 == Aunty Personnel
 This defensive system repels clamouring parasites or grappling hordes of attackers.

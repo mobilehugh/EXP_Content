@@ -56,7 +56,7 @@ include::ROOT:partial$articulate.adoc[]
 Grenades are effective and dangerous.
 They do not come with warning labels.
 Personas cannot safely throw some artifact grenades.
-Armour does not absorb grenade damage.
+Armour does not absorb grenade damage, however there is artifact armour that designed to thwart grenade attacks.
 The grenade area of effect is three-dimensional.
 
 === Activation
@@ -217,9 +217,11 @@ include::ROOT:partial$articulate.adoc[]
 
 There is no saving roll to avoid being enveloped by an aerosol.
 Every persona in the area of effect is exposed to its effect.
-If the aerosol inflicts damage or a destructive effect, such as immolation, there is no saving roll to avoid that damage or destruction.
-If the aerosol delivers poison, sleep, or another effect that allows a saving roll, each exposed target makes the saving roll specified by that effect.
-That saving roll determines the effect on the target; it does not prevent exposure to the aerosol.
+In most cases kinetic damaging attacks immediately effect every persona in the zone of effect.
+There are cases where special attacks force every persona to make a saving throw if they are in the zone of effect.
+For example, a poison gas or xref:hardware:aerosols.adoc#_catabolic_dismodulator[Catabolic Dismodulator,window=_blank, rel="noopener noreferrer"] could force every persona to make a save vs poison or dismodulation.
+In the end the description of the aerosol determines if a saving throw is part of the zone effect or not.
+
 
 *Targets cannot dodge an aerosol.*
 

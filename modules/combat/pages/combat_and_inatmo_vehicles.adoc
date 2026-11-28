@@ -274,9 +274,13 @@ For example, a lazer or energy weapon is much less affected by air turbulence th
 
 === Zone Attack Weapons
 Zone Attack weapons are grenades and aerosols.
-Zone Attacks must score a hit on the vehicle to inflict damage.
-Typically Zone Attack weapons need only target a specific hex.
-In vehicle combat the Zone Attack Roll must beat the vehicle’s Defence.
+For a Zone Attack to affect a vehicle, the vehicle must be within its zone of effect.
+So if a vehicle cannot avoid a zone attack on the hex mat then it is considered in the Zone Attack.
+The vehicle sustains any applicable damage or effect.
+Whether the passengers are affected depends on the cover the vehicle offers and the nature of the attack.
+If discussion becomes too complicated a xref:uncombat:sphincter_rolls.adoc[Sphincter Die Roll,window=_blank, rel="noopener noreferrer"] can aid in the decision.
+Some military vehicles may offer specific protections to Zone Effect attacks for the vehicle and the occupants.
+
 
 === Vehicle Weapons
 These are bespoke combat accessories baked into the inatmo vehicle.
